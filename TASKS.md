@@ -27,16 +27,16 @@ Updated 2026-11-09. Owner in brackets: [me] is the main session, [agent] is a de
 - [x] Independent design finish review, and its eight fixes applied (phone navigation and running total, grouped next picks, clearer wording, one control style, warm dark theme)
 - [x] README updated for the portal, transcript reader, privacy, and new data counts
 
-## In progress
-
-- [ ] Design reviewer's verdict on the fixes [agent]
-- [ ] Design system recorded in `DESIGN.md` [agent]
-- [ ] First commit, GitHub repository `yetval/dragon-credit-map` (public), GitHub Pages deploy [me]
+- [x] Design reviewer's verdict: ship (all eight fixes resolved)
+- [x] Design system recorded in `DESIGN.md`
+- [x] Public repository `yetval/dragon-credit-map`, GitHub Pages deploy, live site checked with a real transcript and no browser errors
 
 ## To do
 
-- [ ] Check the live site once Pages finishes its first deploy
 - [ ] Choose a license (none is included yet, so by default others may not reuse the code)
+- [ ] Redraw the dragon mark (the design review says it reads as a leaf or bird at header size)
+- [ ] Animate the meter fills (the design brief names them; they currently appear in one step)
+- [ ] Have an adult at NCSSM look over the privacy policy if the tool is shared widely
 
 ## Known limits after the data fixes
 
