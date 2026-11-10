@@ -1,0 +1,138 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration",
+ "university": "unc",
+ "name": "Germanic and Slavic Languages and Literatures",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 24,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "A minimum of eight courses (24 credit hours). Three of these courses are taught in German (204, 301, 302). The courses for the German Studies Major include:",
+     "options": [],
+     "hours": null,
+     "raw": "A minimum of eight courses (24 credit hours). Three of these courses are taught in German (204, 301, 302). The courses for the German Studies Major include:",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GERM 204 Essential German for Advanced Proficiency: Vielfalt in Practice 3",
+     "options": [
+      [
+       "GERM 204"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GERM 204 Essential German for Advanced Proficiency: Vielfalt in Practice 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GERM 301 Advanced Spoken German: Vielfalt in Media 3",
+     "options": [
+      [
+       "GERM 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GERM 301 Advanced Spoken German: Vielfalt in Media 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GERM 302 Advanced Written German: Vielfalt in Analytic and Creative Writing 3",
+     "options": [
+      [
+       "GERM 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GERM 302 Advanced Written German: Vielfalt in Analytic and Creative Writing 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One “Themes” course: GERM 210-290 and GSLL 212-259, 269, 270, 274, 278, 280, 282, 284, 288, 295 (taught in English)",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One “Themes” course: GERM 210-290 and GSLL 212-259, 269, 270, 274, 278, 280, 282, 284, 288, 295 (taught in English) 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One “Histories” course: GERM 401-492 (taught in English)",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One “Histories” course: GERM 401-492 (taught in English) 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One “Theories” course: GERM 550-589 (taught in English)",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One “Theories” course: GERM 550-589 (taught in English) 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two Electives: Students can choose two German-language classes, or two English-language classes, or one German-language and one English-language class from the following options: A) Applied German (these courses are taught in German): GERM 303, 304, 305, 306, 493 and B) Histories, Themes or Theories (see above)",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two Electives: Students can choose two German-language classes, or two English-language classes, or one German-language and one English-language class from the following options: A) Applied German (these courses are taught in German): GERM 303, 304, 305, 306, 493 and B) Histories, Themes or Theories (see above) 6",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration-s8"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/germanic-slavic-languages-literatures-major-ba-german-literature-culture-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "German Studies Concentration"
+}

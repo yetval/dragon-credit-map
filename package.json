@@ -1,0 +1,25 @@
+{
+  "name": "dragon-credit-map",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "refresh": "node scripts/refresh.ts",
+    "test": "node --test \"tests/*.test.ts\""
+  },
+  "devDependencies": {
+    "@fontsource-variable/overpass": "^5.3.0",
+    "@types/node": "^26.6.6",
+    "cheerio": "^1.2.0",
+    "pdfjs-dist": "^6.5.438",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.7"
+  },
+  "description": "Unofficial map of how NCSSM courses and AP scores become credit at UNC-Chapel Hill and NC State. Runs entirely in the browser.",
+  "engines": {
+    "node": ">=26"
+  }
+}

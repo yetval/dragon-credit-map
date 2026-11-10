@@ -1,0 +1,106 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-media-journalism-major-ba",
+ "university": "unc",
+ "name": "Media and Journalism",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/media-journalism-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 6,
+  "max": 6
+ },
+ "sections": [
+  {
+   "title": "Government/Politics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one from the following list:",
+     "options": [
+      [
+       "POLI 100"
+      ],
+      [
+       "POLI 130"
+      ],
+      [
+       "POLI 150"
+      ],
+      [
+       "POLI 202"
+      ],
+      [
+       "POLI 203"
+      ],
+      [
+       "POLI 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one from the following list: 3",
+     "id": "unc-media-journalism-major-ba-s1"
+    }
+   ]
+  },
+  {
+   "title": "Ethical and Civic Values",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one from the following list:",
+     "options": [
+      [
+       "MEJO 141"
+      ],
+      [
+       "PHIL 160"
+      ],
+      [
+       "PHIL 163"
+      ],
+      [
+       "PHIL 170"
+      ],
+      [
+       "PHIL 272"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one from the following list: 3",
+     "id": "unc-media-journalism-major-ba-s2"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Media and Journalism Major, B.A.–Journalism\") that is not included",
+  "The page has another requirement table with its own total (\"Media and Journalism Major, B.A.–Advertising/Public Relations Curriculum\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/media-journalism-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

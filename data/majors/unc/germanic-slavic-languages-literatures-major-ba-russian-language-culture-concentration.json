@@ -1,0 +1,149 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration",
+ "university": "unc",
+ "name": "Germanic and Slavic Languages and Literatures",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "RUSS 409 Intermediate-to-Advanced Russian Communication, Conversation, and Composition in Context I 3",
+     "options": [
+      [
+       "RUSS 409"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "RUSS 409 Intermediate-to-Advanced Russian Communication, Conversation, and Composition in Context I 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "RUSS 410 Intermediate-to-Advanced Russian Communication, Conversation, and Composition in Context II 3",
+     "options": [
+      [
+       "RUSS 410"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "RUSS 410 Intermediate-to-Advanced Russian Communication, Conversation, and Composition in Context II 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "RUSS 415 Introduction to Russian Literature 3",
+     "options": [
+      [
+       "RUSS 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "RUSS 415 Introduction to Russian Literature 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "RUSS 445 19th Century Russian Literature and Culture 3",
+     "options": [
+      [
+       "RUSS 445"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "RUSS 445 19th Century Russian Literature and Culture 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "RUSS 455 20th-Century Russian Literature and Culture 3",
+     "options": [
+      [
+       "RUSS 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "RUSS 455 20th-Century Russian Literature and Culture 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four additional courses (12 credit hours) selected from Russian language and literature/culture courses (RUSS)",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four additional courses (12 credit hours) selected from Russian language and literature/culture courses (RUSS) 12",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s6"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students who desire to pursue a major concentration in Russian language and culture should have a grade of B or better in RUSS 203 and RUSS 204",
+     "options": [],
+     "hours": null,
+     "raw": "Students who desire to pursue a major concentration in Russian language and culture should have a grade of B or better in RUSS 203 and RUSS 204",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Other than the introductory and intermediate language courses mentioned above, at least four courses (12 credit hours) must be taken at UNC–Chapel Hill to fulfill the requirements of the major. Majors who study abroad or wish to transfer credit from another institution may apply to transfer a maximum of four courses counting toward the major. Before their departure for a study abroad program, students should consult with the relevant director of undergraduate studies about appropriate courses taken abroad for the major.",
+     "options": [],
+     "hours": null,
+     "raw": "Other than the introductory and intermediate language courses mentioned above, at least four courses (12 credit hours) must be taken at UNC–Chapel Hill to fulfill the requirements of the major. Majors who study abroad or wish to transfer credit from another institution may apply to transfer a maximum of four courses counting toward the major. Before their departure for a study abroad program, students should consult with the relevant director of undergraduate studies about appropriate courses taken abroad for the major.",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration-s8"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/germanic-slavic-languages-literatures-major-ba-russian-language-culture-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Russian Language and Culture Concentration"
+}

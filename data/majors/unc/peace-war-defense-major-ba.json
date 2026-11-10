@@ -1,0 +1,152 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-peace-war-defense-major-ba",
+ "university": "unc",
+ "name": "Peace, War, and Defense",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/peace-war-defense-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PWAD 250 Introduction to Peace and Security Studies 3",
+     "options": [
+      [
+       "PWAD 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PWAD 250 Introduction to Peace and Security Studies 3",
+     "id": "unc-peace-war-defense-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PWAD/HIST 266 Global History of Warfare 3",
+     "options": [
+      [
+       "PWAD 266"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PWAD/HIST 266 Global History of Warfare 3",
+     "id": "unc-peace-war-defense-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PWAD/PHIL/POLI 272 The Ethics of Peace, War, and Defense 3",
+     "options": [
+      [
+       "PWAD 272"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PWAD/PHIL/POLI 272 The Ethics of Peace, War, and Defense 3",
+     "id": "unc-peace-war-defense-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four courses from one concentration (see course lists below)",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four courses from one concentration (see course lists below) 12",
+     "id": "unc-peace-war-defense-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two additional courses from any concentration or the list of PWAD major electives (see course lists below)",
+     "options": [
+      [
+       "PWAD 89"
+      ],
+      [
+       "PWAD 290"
+      ],
+      [
+       "PWAD 400"
+      ],
+      [
+       "PWAD 490"
+      ],
+      [
+       "PWAD 680"
+      ],
+      [
+       "PWAD 690"
+      ],
+      [
+       "PWAD 691H"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two additional courses from any concentration or the list of PWAD major electives (see course lists below) 6",
+     "id": "unc-peace-war-defense-major-ba-s5"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select one of the following options:",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following options: 3",
+     "id": "unc-peace-war-defense-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Row points to a list that could not be linked: \"Four courses from one concentration (see course lists below)\""
+ ],
+ "parseNotes": [
+  "Group \"Select one of the following options:\" carries a note or open-ended option: \"Through level 5 of a single modern foreign language.\"",
+  "Group \"Select one of the following options:\" carries a note or open-ended option: \"One course in statistics and data analysis: POLI 281, STOR 120, or STOR 155\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/peace-war-defense-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

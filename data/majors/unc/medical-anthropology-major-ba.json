@@ -1,0 +1,155 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-medical-anthropology-major-ba",
+ "university": "unc",
+ "name": "Medical Anthropology",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/medical-anthropology-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two foundational courses:",
+     "options": [
+      [
+       "ANTH 53"
+      ],
+      [
+       "ANTH 56"
+      ],
+      [
+       "ANTH 104"
+      ],
+      [
+       "ANTH 147"
+      ],
+      [
+       "ANTH 270"
+      ],
+      [
+       "ANTH 319"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two foundational courses: 6",
+     "id": "unc-medical-anthropology-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select one research methods and experience courses (see list below)",
+     "options": [
+      [
+       "ANTH 204"
+      ],
+      [
+       "ANTH 248"
+      ],
+      [
+       "ANTH 318"
+      ],
+      [
+       "ANTH 326"
+      ],
+      [
+       "ANTH 341"
+      ],
+      [
+       "ANTH 389"
+      ],
+      [
+       "ANTH 393"
+      ],
+      [
+       "ANTH 395"
+      ],
+      [
+       "ANTH 396"
+      ],
+      [
+       "ANTH 414"
+      ],
+      [
+       "ANTH 419"
+      ],
+      [
+       "ANTH 430"
+      ],
+      [
+       "ANTH 450"
+      ],
+      [
+       "ANTH 582"
+      ],
+      [
+       "ANTH 625"
+      ],
+      [
+       "ANTH 675"
+      ],
+      [
+       "ANTH 676"
+      ],
+      [
+       "ANTH 691H"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one research methods and experience courses (see list below) 3",
+     "id": "unc-medical-anthropology-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select six elective courses, apportioned in the following ways:",
+     "options": [],
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Select six elective courses, apportioned in the following ways: 18",
+     "id": "unc-medical-anthropology-major-ba-s3"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Select six elective courses, apportioned in the following ways:\" has a nested heading or list reference: \"At least one from the biological/ecological elective list (see below)\"",
+  "Group \"Select six elective courses, apportioned in the following ways:\" has a nested heading or list reference: \"At least one from the sociocultural elective list (see below)\"",
+  "Group \"Select six elective courses, apportioned in the following ways:\" has a nested heading or list reference: \"ANY Anthropology (ANTH) course can count for the remaining four electives. No more than two of the six courses can be at the 100-level or below\""
+ ],
+ "parseNotes": [
+  "List \"Research Methods and Experiences\" has codes with no catalog link: ANTH 326",
+  "Codes in choice lists not found in the course catalog: ANTH 326"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/medical-anthropology-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-romance-languages-major-ba-portuguese",
+ "university": "unc",
+ "name": "Romance Languages",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-portuguese/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 24,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Eight courses chosen from among the following:",
+     "options": [
+      [
+       "PORT 270I"
+      ],
+      [
+       "PORT 296"
+      ],
+      [
+       "PORT 310"
+      ],
+      [
+       "PORT 316"
+      ],
+      [
+       "PORT 323"
+      ],
+      [
+       "PORT 370"
+      ],
+      [
+       "PORT 375"
+      ],
+      [
+       "PORT 382"
+      ],
+      [
+       "PORT 385"
+      ],
+      [
+       "PORT 387"
+      ],
+      [
+       "PORT 388"
+      ],
+      [
+       "PORT 396"
+      ],
+      [
+       "PORT 398"
+      ],
+      [
+       "PORT 408"
+      ],
+      [
+       "PORT 420"
+      ],
+      [
+       "PORT 501"
+      ],
+      [
+       "PORT 520"
+      ],
+      [
+       "PORT 521"
+      ],
+      [
+       "PORT 526"
+      ],
+      [
+       "PORT 535"
+      ],
+      [
+       "PORT 540"
+      ],
+      [
+       "PORT 691H"
+      ]
+     ],
+     "pick": {
+      "count": 8
+     },
+     "hours": {
+      "min": 24,
+      "max": 24
+     },
+     "raw": "Eight courses chosen from among the following: 24",
+     "id": "unc-romance-languages-major-ba-portuguese-s1"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-portuguese/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Portuguese"
+}

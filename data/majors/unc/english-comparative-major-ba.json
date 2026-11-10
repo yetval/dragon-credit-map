@@ -1,0 +1,216 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-english-comparative-major-ba",
+ "university": "unc",
+ "name": "English and Comparative Literature",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/english-comparative-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Survey I (select one):",
+     "options": [
+      [
+       "ENGL 120"
+      ],
+      [
+       "ENGL 116"
+      ],
+      [
+       "CMPL 120"
+      ],
+      [
+       "CMPL 121"
+      ],
+      [
+       "CMPL 122"
+      ],
+      [
+       "CMPL 123"
+      ],
+      [
+       "CMPL 124"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Survey I (select one): 3",
+     "id": "unc-english-comparative-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Survey II (select one):",
+     "options": [
+      [
+       "ENGL 151"
+      ],
+      [
+       "ENGL 152"
+      ],
+      [
+       "ENGL 117"
+      ],
+      [
+       "ENGL 121"
+      ],
+      [
+       "ENGL 122"
+      ],
+      [
+       "ENGL 124"
+      ],
+      [
+       "ENGL 129"
+      ],
+      [
+       "CMPL 130"
+      ],
+      [
+       "CMPL 131"
+      ],
+      [
+       "CMPL 132"
+      ],
+      [
+       "CMPL 133"
+      ],
+      [
+       "CMPL 134"
+      ],
+      [
+       "CMPL 142"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Survey II (select one): 3",
+     "id": "unc-english-comparative-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Depth Course (select one):",
+     "options": [
+      [
+       "ENGL 223"
+      ],
+      [
+       "ENGL 225"
+      ],
+      [
+       "ENGL 230"
+      ],
+      [
+       "ENGL 235"
+      ],
+      [
+       "ENGL 241"
+      ],
+      [
+       "ENGL 243"
+      ],
+      [
+       "ENGL 250"
+      ],
+      [
+       "ENGL 272"
+      ],
+      [
+       "CMPL 220"
+      ],
+      [
+       "CMPL 223"
+      ],
+      [
+       "CMPL 225"
+      ],
+      [
+       "CMPL 477"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Depth Course (select one): 3",
+     "id": "unc-english-comparative-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Concentration (seven courses), see requirements below",
+     "options": [],
+     "hours": {
+      "min": 21,
+      "max": 21
+     },
+     "raw": "Concentration (seven courses), see requirements below 21",
+     "id": "unc-english-comparative-major-ba-s4"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "At least six (6) courses (out of 10) must be at or above the 200 level.",
+     "options": [],
+     "hours": null,
+     "raw": "At least six (6) courses (out of 10) must be at or above the 200 level.",
+     "id": "unc-english-comparative-major-ba-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Concentration in British and American Literature\") that is not included",
+  "The page has another requirement table with its own total (\"Concentration in Science, Medicine, and Literature\") that is not included",
+  "The page has another requirement table with its own total (\"Concentration in Social Justice and Literature\") that is not included",
+  "The page has another requirement table with its own total (\"Concentration in Writing, Editing, and Digital Publishing\") that is not included",
+  "The page has another requirement table with its own total (\"Concentration in Creative Writing\") that is not included",
+  "The page has another requirement table with its own total (\"Concentration in Comparative and World Literatures\") that is not included",
+  "The page has another requirement table with its own total (\"Concentration in Film Studies\") that is not included",
+  "Row points to a list that could not be linked: \"Concentration (seven courses), see requirements below\""
+ ],
+ "parseNotes": [
+  "Group \"At least six (6) courses (out of 10) must be at or above the 200 level.\" carries a note or open-ended option: \"Of these six (6), at least two (2) courses (out of 10) must be at the 300-level (Writing Intensive) in ENGL or CMPL.\"",
+  "Group \"At least six (6) courses (out of 10) must be at or above the 200 level.\" carries a note or open-ended option: \"Of these six (6), at least one (1) course (out of 10) must be at the 400-level (Research Intensive) in ENGL or CMPL.\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"At least six (6) courses (out of 10) must be at or above the 200 level.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/english-comparative-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

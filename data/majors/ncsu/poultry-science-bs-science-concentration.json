@@ -1,0 +1,712 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-poultry-science-bs-science-concentration",
+ "university": "ncsu",
+ "name": "Poultry Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/poultry-science/poultry-science-bs-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 290 Exploring Opportunities in Poultry Science 2",
+     "options": [
+      [
+       "PO 290"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PO 290 Exploring Opportunities in Poultry Science 2",
+     "id": "ncsu-poultry-science-bs-science-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communications",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication",
+     "id": "ncsu-poultry-science-bs-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Advanced Communication courses:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Advanced Communication courses: 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s4"
+    }
+   ]
+  },
+  {
+   "title": "Social Sciences & Business",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARE 201 Introduction to Agricultural & Resource Economics 3",
+     "options": [
+      [
+       "ARE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 201 Introduction to Agricultural & Resource Economics 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Business/Finance Elective",
+     "options": [
+      [
+       "ACC 210"
+      ],
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 280"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "BUS 225"
+      ],
+      [
+       "EC 202"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 305"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "MIE 201"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Business/Finance Elective 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s6"
+    }
+   ]
+  },
+  {
+   "title": "Physical and Biological Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 107 Precalculus I 3",
+     "options": [
+      [
+       "MA 107"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 107 Precalculus I 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Calculus I courses:",
+     "options": [
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Calculus I courses: 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 131 Conceptual Physics 4 or PY 211 College Physics I",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 131 Conceptual Physics 4 or PY 211 College Physics I",
+     "id": "ncsu-poultry-science-bs-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "options": [
+      [
+       "CH 223",
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 311 Principles of Genetics 4",
+     "options": [
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GN 311 Principles of Genetics 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MB 351 & MB 352 General Microbiology and General Microbiology Laboratory 4",
+     "options": [
+      [
+       "MB 351",
+       "MB 352"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MB 351 & MB 352 General Microbiology and General Microbiology Laboratory 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s18"
+    }
+   ]
+  },
+  {
+   "title": "Departmental Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 201 & PO 202 Poultry Science and Production and Poultry Science and Production Laboratory 4",
+     "options": [
+      [
+       "PO 201",
+       "PO 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PO 201 & PO 202 Poultry Science and Production and Poultry Science and Production Laboratory 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 404 Avian Anatomy and Physiology 4",
+     "options": [
+      [
+       "PO 404"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PO 404 Avian Anatomy and Physiology 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 415 Comparative Nutrition 3",
+     "options": [
+      [
+       "PO 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PO 415 Comparative Nutrition 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 433 Poultry Processing and Products 3",
+     "options": [
+      [
+       "PO 433"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PO 433 Poultry Processing and Products 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 435 Poultry Incubation & Breeding 4",
+     "options": [
+      [
+       "PO 435"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PO 435 Poultry Incubation & Breeding 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PO 401 Poultry Diseases 4",
+     "options": [
+      [
+       "PO 401"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PO 401 Poultry Diseases 4",
+     "id": "ncsu-poultry-science-bs-science-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "PO/FM Restricted Electives",
+     "options": [
+      [
+       "PO 340"
+      ],
+      [
+       "PO 410"
+      ],
+      [
+       "PO 421"
+      ],
+      [
+       "PO 424"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PO/FM Restricted Electives 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s25"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-poultry-science-bs-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-poultry-science-bs-science-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-poultry-science-bs-science-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-poultry-science-bs-science-concentration-s30"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-poultry-science-bs-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-poultry-science-bs-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-poultry-science-bs-science-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 13,
+      "max": 13
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 13",
+     "id": "ncsu-poultry-science-bs-science-concentration-s34"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: MB 351, MB 352"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/poultry-science/poultry-science-bs-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Science Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

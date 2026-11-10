@@ -1,0 +1,225 @@
+{
+ "schemaVersion": 1,
+ "records": [
+  {
+   "id": "african-american-studies",
+   "name": "African American Studies",
+   "group": "exam"
+  },
+  {
+   "id": "art-2d",
+   "name": "Art and Design: 2-D",
+   "group": "exam"
+  },
+  {
+   "id": "art-3d",
+   "name": "Art and Design: 3-D",
+   "group": "exam"
+  },
+  {
+   "id": "art-drawing",
+   "name": "Art and Design: Drawing",
+   "group": "exam"
+  },
+  {
+   "id": "art-history",
+   "name": "Art History",
+   "group": "exam"
+  },
+  {
+   "id": "biology",
+   "name": "Biology",
+   "group": "exam"
+  },
+  {
+   "id": "calculus-ab",
+   "name": "Calculus AB",
+   "group": "exam"
+  },
+  {
+   "id": "calculus-bc",
+   "name": "Calculus BC",
+   "group": "exam"
+  },
+  {
+   "id": "calculus-ab-subscore",
+   "name": "Calculus BC: AB subscore",
+   "group": "subscore"
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "group": "exam"
+  },
+  {
+   "id": "chinese",
+   "name": "Chinese Language and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "comparative-government",
+   "name": "Comparative Government and Politics",
+   "group": "exam"
+  },
+  {
+   "id": "computer-science-a",
+   "name": "Computer Science A",
+   "group": "exam"
+  },
+  {
+   "id": "computer-science-ab",
+   "name": "Computer Science AB",
+   "group": "retired"
+  },
+  {
+   "id": "computer-science-principles",
+   "name": "Computer Science Principles",
+   "group": "exam"
+  },
+  {
+   "id": "macroeconomics",
+   "name": "Macroeconomics",
+   "group": "exam"
+  },
+  {
+   "id": "microeconomics",
+   "name": "Microeconomics",
+   "group": "exam"
+  },
+  {
+   "id": "english-language",
+   "name": "English Language and Composition",
+   "group": "exam"
+  },
+  {
+   "id": "english-literature",
+   "name": "English Literature and Composition",
+   "group": "exam"
+  },
+  {
+   "id": "environmental-science",
+   "name": "Environmental Science",
+   "group": "exam"
+  },
+  {
+   "id": "european-history",
+   "name": "European History",
+   "group": "exam"
+  },
+  {
+   "id": "french-language",
+   "name": "French Language and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "french-literature",
+   "name": "French Literature",
+   "group": "retired"
+  },
+  {
+   "id": "german",
+   "name": "German Language and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "human-geography",
+   "name": "Human Geography",
+   "group": "exam"
+  },
+  {
+   "id": "italian",
+   "name": "Italian Language and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "japanese",
+   "name": "Japanese Language and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "latin",
+   "name": "Latin",
+   "group": "exam"
+  },
+  {
+   "id": "music-theory",
+   "name": "Music Theory",
+   "group": "exam"
+  },
+  {
+   "id": "music-theory-aural",
+   "name": "Music Theory: aural subscore",
+   "group": "subscore"
+  },
+  {
+   "id": "music-theory-nonaural",
+   "name": "Music Theory: non-aural subscore",
+   "group": "subscore"
+  },
+  {
+   "id": "physics-1",
+   "name": "Physics 1",
+   "group": "exam"
+  },
+  {
+   "id": "physics-2",
+   "name": "Physics 2",
+   "group": "exam"
+  },
+  {
+   "id": "physics-b",
+   "name": "Physics B",
+   "group": "retired"
+  },
+  {
+   "id": "physics-c-em",
+   "name": "Physics C: Electricity and Magnetism",
+   "group": "exam"
+  },
+  {
+   "id": "physics-c-mechanics",
+   "name": "Physics C: Mechanics",
+   "group": "exam"
+  },
+  {
+   "id": "precalculus",
+   "name": "Precalculus",
+   "group": "exam"
+  },
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "group": "exam"
+  },
+  {
+   "id": "spanish-language",
+   "name": "Spanish Language and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "spanish-literature",
+   "name": "Spanish Literature and Culture",
+   "group": "exam"
+  },
+  {
+   "id": "statistics",
+   "name": "Statistics",
+   "group": "exam"
+  },
+  {
+   "id": "us-government",
+   "name": "United States Government and Politics",
+   "group": "exam"
+  },
+  {
+   "id": "us-history",
+   "name": "United States History",
+   "group": "exam"
+  },
+  {
+   "id": "world-history",
+   "name": "World History: Modern",
+   "group": "exam"
+  }
+ ]
+}

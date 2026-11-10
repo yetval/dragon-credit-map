@@ -1,0 +1,303 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-earth-marine-sciences-major-bs",
+ "university": "unc",
+ "name": "Earth and Marine Sciences",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/earth-marine-sciences-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 63,
+  "max": 68
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMES 200 The Solid Earth 3",
+     "options": [
+      [
+       "EMES 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMES 200 The Solid Earth 3",
+     "id": "unc-earth-marine-sciences-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMES 201 Earth's Surface: Processes, Landforms, and History 3",
+     "options": [
+      [
+       "EMES 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMES 201 Earth's Surface: Processes, Landforms, and History 3",
+     "id": "unc-earth-marine-sciences-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMES 203 Data Analysis for Earth, Marine, and Environmental Sciences 3",
+     "options": [
+      [
+       "EMES 203"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMES 203 Data Analysis for Earth, Marine, and Environmental Sciences 3",
+     "id": "unc-earth-marine-sciences-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select four fundamentals courses (at least one with a lab)",
+     "options": [
+      [
+       "EMES 301"
+      ],
+      [
+       "EMES 302"
+      ],
+      [
+       "EMES 303"
+      ],
+      [
+       "EMES 304"
+      ],
+      [
+       "EMES 306"
+      ],
+      [
+       "EMES 405"
+      ],
+      [
+       "EMES 406"
+      ],
+      [
+       "EMES 417"
+      ],
+      [
+       "EMES 435"
+      ]
+     ],
+     "pick": {
+      "count": 4
+     },
+     "hours": {
+      "min": 13,
+      "max": 13
+     },
+     "raw": "Select four fundamentals courses (at least one with a lab) 13",
+     "id": "unc-earth-marine-sciences-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select three EMES specialization courses numbered 300 and higher",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 12
+     },
+     "raw": "Select three EMES specialization courses numbered 300 and higher 9-12",
+     "id": "unc-earth-marine-sciences-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Six credits of a capstone experience:",
+     "options": [
+      [
+       "EMES 395"
+      ],
+      [
+       "EMES 485",
+       "EMES 486"
+      ],
+      [
+       "EMES 691H",
+       "EMES 692H"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Six credits of a capstone experience: 6",
+     "id": "unc-earth-marine-sciences-major-bs-s6"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-earth-marine-sciences-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-earth-marine-sciences-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-earth-marine-sciences-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-earth-marine-sciences-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHYS 114 General Physics I: For Students of the Life Sciences 4 or PHYS 118 Introductory Calculus-based Mechanics and Relativity",
+     "options": [
+      [
+       "PHYS 114"
+      ],
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 114 General Physics I: For Students of the Life Sciences 4 or PHYS 118 Introductory Calculus-based Mechanics and Relativity",
+     "id": "unc-earth-marine-sciences-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two of the following options:",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ],
+      [
+       "BIOL 101",
+       "BIOL 102L"
+      ],
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ],
+      [
+       "PHYS 115"
+      ],
+      [
+       "PHYS 119"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 8
+     },
+     "raw": "Select two of the following options: 6-8",
+     "id": "unc-earth-marine-sciences-major-bs-s12",
+     "altGroups": [
+      0,
+      0,
+      1,
+      1,
+      2,
+      2
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Marine Biology and Ecology Concentration\") that is not included"
+ ],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Select three EMES specialization courses numbered 300 and higher\"",
+  "Group \"Select two of the following options:\" carries a note or open-ended option: \"Any MATH above MATH 232 or MATH 210\"",
+  "Group \"Select two of the following options:\" carries a note or open-ended option: \"STOR 120, 151, or 155\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/earth-marine-sciences-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

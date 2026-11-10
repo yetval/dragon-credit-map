@@ -1,0 +1,736 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-food-science-bs-science-concentration",
+ "university": "ncsu",
+ "name": "Food Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/food-bioprocessing-nutrition-science/food-science-bs-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-food-science-bs-science-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication",
+     "id": "ncsu-food-science-bs-science-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3",
+     "options": [
+      [
+       "MA 131"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3",
+     "id": "ncsu-food-science-bs-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3",
+     "options": [
+      [
+       "MA 231"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3",
+     "id": "ncsu-food-science-bs-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-food-science-bs-science-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4 or BIO 183 Introductory Biology: Cellular and Molecular Biology",
+     "options": [
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4 or BIO 183 Introductory Biology: Cellular and Molecular Biology",
+     "id": "ncsu-food-science-bs-science-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-food-science-bs-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "id": "ncsu-food-science-bs-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "id": "ncsu-food-science-bs-science-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "options": [
+      [
+       "CH 223",
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "id": "ncsu-food-science-bs-science-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BCH 351 General Biochemistry 3",
+     "options": [
+      [
+       "BCH 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BCH 351 General Biochemistry 3",
+     "id": "ncsu-food-science-bs-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 211 College Physics I 4",
+     "options": [
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 211 College Physics I 4",
+     "id": "ncsu-food-science-bs-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MB 251 & MB 252 General Microbiology and General Microbiology Laboratory 4",
+     "options": [
+      [
+       "MB 251",
+       "MB 252"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MB 251 & MB 252 General Microbiology and General Microbiology Laboratory 4",
+     "id": "ncsu-food-science-bs-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 212 College Physics II 4",
+     "options": [
+      [
+       "PY 212"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 212 College Physics II 4",
+     "id": "ncsu-food-science-bs-science-concentration-s14"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 201 Introduction to Food Science 3",
+     "options": [
+      [
+       "FS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FS 201 Introduction to Food Science 3",
+     "id": "ncsu-food-science-bs-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 301 Introduction to Human Nutrition 3",
+     "options": [
+      [
+       "FS 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FS 301 Introduction to Human Nutrition 3",
+     "id": "ncsu-food-science-bs-science-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 331 Principles of Food and Bioprocess Engineering 4",
+     "options": [
+      [
+       "FS 331"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FS 331 Principles of Food and Bioprocess Engineering 4",
+     "id": "ncsu-food-science-bs-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 402 Chemistry of Food and Bioprocessed Materials 4",
+     "options": [
+      [
+       "FS 402"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FS 402 Chemistry of Food and Bioprocessed Materials 4",
+     "id": "ncsu-food-science-bs-science-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 403 Analytical Techniques in Food & Bioprocessing Science 4",
+     "options": [
+      [
+       "FS 403"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FS 403 Analytical Techniques in Food & Bioprocessing Science 4",
+     "id": "ncsu-food-science-bs-science-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 405 Food Microbiology 3",
+     "options": [
+      [
+       "FS 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FS 405 Food Microbiology 3",
+     "id": "ncsu-food-science-bs-science-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 406 Food Microbiology Lab 2",
+     "options": [
+      [
+       "FS 406"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "FS 406 Food Microbiology Lab 2",
+     "id": "ncsu-food-science-bs-science-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 421 Food Preservation 3",
+     "options": [
+      [
+       "FS 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FS 421 Food Preservation 3",
+     "id": "ncsu-food-science-bs-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 471 Professionalism & Project Preparation in Food & Bioprocessing Science 1",
+     "options": [
+      [
+       "FS 471"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "FS 471 Professionalism & Project Preparation in Food & Bioprocessing Science 1",
+     "id": "ncsu-food-science-bs-science-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 475 Problems and Design in Food and Bioprocessing Science 4",
+     "options": [
+      [
+       "FS 475"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FS 475 Problems and Design in Food and Bioprocessing Science 4",
+     "id": "ncsu-food-science-bs-science-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Food Science Electives",
+     "options": [
+      [
+       "FS 221"
+      ],
+      [
+       "FS 222"
+      ],
+      [
+       "FS 250"
+      ],
+      [
+       "FS 322"
+      ],
+      [
+       "FS 324"
+      ],
+      [
+       "FS 325"
+      ],
+      [
+       "FS 330"
+      ],
+      [
+       "FS 352"
+      ],
+      [
+       "FS 354"
+      ],
+      [
+       "FS 401"
+      ],
+      [
+       "FS 416"
+      ],
+      [
+       "FS 435"
+      ],
+      [
+       "FS 453"
+      ],
+      [
+       "FS 462"
+      ],
+      [
+       "FS 481"
+      ],
+      [
+       "FS 501"
+      ],
+      [
+       "FS 516"
+      ],
+      [
+       "FS 520"
+      ],
+      [
+       "FS 522"
+      ],
+      [
+       "FS 530"
+      ],
+      [
+       "FS 535"
+      ],
+      [
+       "FS 540"
+      ],
+      [
+       "FS 550"
+      ],
+      [
+       "FS 553"
+      ],
+      [
+       "FS 554"
+      ],
+      [
+       "FS 555"
+      ],
+      [
+       "FS 557"
+      ],
+      [
+       "FS 562"
+      ],
+      [
+       "FS 567"
+      ],
+      [
+       "FS 580"
+      ],
+      [
+       "FSA 520"
+      ],
+      [
+       "FSA 530"
+      ],
+      [
+       "FSA 540"
+      ],
+      [
+       "FSA 580"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Food Science Electives 6",
+     "id": "ncsu-food-science-bs-science-concentration-s25"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-food-science-bs-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-food-science-bs-science-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-food-science-bs-science-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-food-science-bs-science-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-food-science-bs-science-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-food-science-bs-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-food-science-bs-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-food-science-bs-science-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-food-science-bs-science-concentration-s34"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 9",
+     "id": "ncsu-food-science-bs-science-concentration-s35"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Food Science Electives\" has a row that is not a course and was not read: \"Select a course with a FS prefix (except those required in major) not used to satisfy another requirement. A total of 35 credits in Food Science are required.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/food-bioprocessing-nutrition-science/food-science-bs-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Science Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

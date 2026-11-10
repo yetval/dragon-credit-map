@@ -1,0 +1,196 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-dental-hygiene-major-bs",
+ "university": "unc",
+ "name": "Dental Hygiene",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/dental-hygiene-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": null,
+ "sections": [
+  {
+   "title": "Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENGL 105 English Composition and Rhetoric 3 or ENGL 105I English Composition and Rhetoric (Interdisciplinary)",
+     "options": [
+      [
+       "ENGL 105"
+      ],
+      [
+       "ENGL 105I"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENGL 105 English Composition and Rhetoric 3 or ENGL 105I English Composition and Rhetoric (Interdisciplinary)",
+     "id": "unc-dental-hygiene-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOC 107 Introduction to Biochemistry 4 or CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I",
+     "options": [
+      [
+       "BIOC 107"
+      ],
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOC 107 Introduction to Biochemistry 4 or CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I",
+     "id": "unc-dental-hygiene-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOC 108 Introduction to Biochemistry 4 or CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II",
+     "options": [
+      [
+       "BIOC 108"
+      ],
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOC 108 Introduction to Biochemistry 4 or CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II",
+     "id": "unc-dental-hygiene-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following options:",
+     "options": [
+      [
+       "BIOL 252",
+       "BIOL 252L"
+      ],
+      [
+       "EXSS 256"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 5
+     },
+     "raw": "Select one of the following options: 3-5",
+     "id": "unc-dental-hygiene-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following COMM courses:",
+     "options": [
+      [
+       "COMM 100"
+      ],
+      [
+       "COMM 113"
+      ],
+      [
+       "COMM 120"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following COMM courses: 3",
+     "id": "unc-dental-hygiene-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MCRO 251 Introductory Medical Microbiology 4",
+     "options": [
+      [
+       "MCRO 251"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MCRO 251 Introductory Medical Microbiology 4",
+     "id": "unc-dental-hygiene-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 101 General Psychology 3",
+     "options": [
+      [
+       "PSYC 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 101 General Psychology 3",
+     "id": "unc-dental-hygiene-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following SOCI courses:",
+     "options": [
+      [
+       "SOCI 100"
+      ],
+      [
+       "SOCI 101"
+      ],
+      [
+       "SOCI 111"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following SOCI courses: 3",
+     "id": "unc-dental-hygiene-major-bs-s8"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The requirements table states no total hours",
+  "Required course codes not found in the course catalog: SOCI 100"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/dental-hygiene-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-exercise-sport-science-major-ba-general",
+ "university": "unc",
+ "name": "Exercise and Sport Science",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-ba-general/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 32,
+  "max": 32
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 155 & EXSS 256 Human Anatomy and Physiology I and Human Anatomy and Physiology II 6",
+     "options": [
+      [
+       "EXSS 155",
+       "EXSS 256"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "EXSS 155 & EXSS 256 Human Anatomy and Physiology I and Human Anatomy and Physiology II 6",
+     "id": "unc-exercise-sport-science-major-ba-general-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 180 Physical Activity in Contemporary Society 3",
+     "options": [
+      [
+       "EXSS 180"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 180 Physical Activity in Contemporary Society 3",
+     "id": "unc-exercise-sport-science-major-ba-general-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 181 Sport and Exercise Psychology 3",
+     "options": [
+      [
+       "EXSS 181"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 181 Sport and Exercise Psychology 3",
+     "id": "unc-exercise-sport-science-major-ba-general-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 273 Research in Exercise and Sport Science 3",
+     "options": [
+      [
+       "EXSS 273"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 273 Research in Exercise and Sport Science 3",
+     "id": "unc-exercise-sport-science-major-ba-general-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 288 Emergency Care of Athletic Injuries and Illnesses 3",
+     "options": [
+      [
+       "EXSS 288"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 288 Emergency Care of Athletic Injuries and Illnesses 3",
+     "id": "unc-exercise-sport-science-major-ba-general-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 376 Physiological Basis of Human Performance 4",
+     "options": [
+      [
+       "EXSS 376"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "EXSS 376 Physiological Basis of Human Performance 4",
+     "id": "unc-exercise-sport-science-major-ba-general-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 380 Neuromuscular Control and Learning 3",
+     "options": [
+      [
+       "EXSS 380"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 380 Neuromuscular Control and Learning 3",
+     "id": "unc-exercise-sport-science-major-ba-general-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 385 Biomechanics of Sport 3",
+     "options": [
+      [
+       "EXSS 385"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 385 Biomechanics of Sport 3",
+     "id": "unc-exercise-sport-science-major-ba-general-s8"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-exercise-sport-science-major-ba-general-s9"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-ba-general/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "General"
+}

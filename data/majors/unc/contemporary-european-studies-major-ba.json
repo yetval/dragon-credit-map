@@ -1,0 +1,352 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-contemporary-european-studies-major-ba",
+ "university": "unc",
+ "name": "Contemporary European Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/contemporary-european-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EURO/HIST 159 Europe and the World Since 1900 3",
+     "options": [
+      [
+       "EURO 159"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EURO/HIST 159 Europe and the World Since 1900 3",
+     "id": "unc-contemporary-european-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EURO/POLI 239 Introduction to European Government 3",
+     "options": [
+      [
+       "EURO 239"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EURO/POLI 239 Introduction to European Government 3",
+     "id": "unc-contemporary-european-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four courses from one of the two themes listed below",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four courses from one of the two themes listed below 12",
+     "id": "unc-contemporary-european-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One course chosen from the other theme",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course chosen from the other theme 3",
+     "id": "unc-contemporary-european-studies-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One additional course from Theme 1, Theme 2, or the list of approved elective courses on contemporary Europe",
+     "options": [
+      [
+       "ANTH 449"
+      ],
+      [
+       "ARTH 283"
+      ],
+      [
+       "CMPL 374"
+      ],
+      [
+       "WGST 373"
+      ],
+      [
+       "CMPL 375"
+      ],
+      [
+       "CMPL 385"
+      ],
+      [
+       "CMPL 466"
+      ],
+      [
+       "CMPL 468"
+      ],
+      [
+       "ECON 434"
+      ],
+      [
+       "ENGL 659"
+      ],
+      [
+       "PWAD 659"
+      ],
+      [
+       "FREN 372"
+      ],
+      [
+       "FREN 386"
+      ],
+      [
+       "FREN 388"
+      ],
+      [
+       "FREN 389"
+      ],
+      [
+       "FREN 515"
+      ],
+      [
+       "GERM 271"
+      ],
+      [
+       "CMPL 271"
+      ],
+      [
+       "WGST 271"
+      ],
+      [
+       "GERM 272"
+      ],
+      [
+       "CMPL 272"
+      ],
+      [
+       "GERM 281"
+      ],
+      [
+       "GERM 283"
+      ],
+      [
+       "PWAD 283"
+      ],
+      [
+       "GERM 381"
+      ],
+      [
+       "GERM 382"
+      ],
+      [
+       "GERM 390"
+      ],
+      [
+       "GERM 560"
+      ],
+      [
+       "GSLL 88H"
+      ],
+      [
+       "GSLL 255"
+      ],
+      [
+       "GSLL 259"
+      ],
+      [
+       "GSLL 283"
+      ],
+      [
+       "HIST 466"
+      ],
+      [
+       "HIST 258"
+      ],
+      [
+       "ITAL 258"
+      ],
+      [
+       "ITAL 242"
+      ],
+      [
+       "ITAL 331"
+      ],
+      [
+       "ITAL 333"
+      ],
+      [
+       "ITAL 335"
+      ],
+      [
+       "ITAL 365"
+      ],
+      [
+       "ITAL 374"
+      ],
+      [
+       "ITAL 382"
+      ],
+      [
+       "ITAL 388"
+      ],
+      [
+       "ITAL 398"
+      ],
+      [
+       "ITAL 571"
+      ],
+      [
+       "JWST 412"
+      ],
+      [
+       "PLSH 412"
+      ],
+      [
+       "MUSC 284"
+      ],
+      [
+       "MUSC 285"
+      ],
+      [
+       "PHIL 224"
+      ],
+      [
+       "PHIL 229"
+      ],
+      [
+       "PHIL 494"
+      ],
+      [
+       "POLI 432"
+      ],
+      [
+       "POLI 472"
+      ],
+      [
+       "PORT 375"
+      ],
+      [
+       "ROML 500"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One additional course from Theme 1, Theme 2, or the list of approved elective courses on contemporary Europe 3",
+     "id": "unc-contemporary-european-studies-major-ba-s5",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      14,
+      14,
+      15,
+      15,
+      16,
+      17,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "A modern European foreign language through level 5, chosen from the following languages: Arabic, Bosnian-Croatian-Serbian, Czech, French, German, Italian, Polish, Portuguese, Russian, Spanish, Turkish.",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "A modern European foreign language through level 5, chosen from the following languages: Arabic, Bosnian-Croatian-Serbian, Czech, French, German, Italian, Polish, Portuguese, Russian, Spanish, Turkish. 6",
+     "id": "unc-contemporary-european-studies-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"Four courses from one of the two themes listed below\""
+ ],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: GSLL 88H"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/contemporary-european-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,658 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-applied-education-studies-bs",
+ "university": "ncsu",
+ "name": "Applied Education Studies",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/teacher-education-learning-sciences/applied-education-studies-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "English, Literature, & Speech",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-applied-education-studies-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advanced Writing Elective",
+     "options": [
+      [
+       "ENG 287"
+      ],
+      [
+       "ENG 288"
+      ],
+      [
+       "ENG 289"
+      ],
+      [
+       "ENG 292"
+      ],
+      [
+       "ENG 316"
+      ],
+      [
+       "ENG 323"
+      ],
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Writing Elective 3",
+     "id": "ncsu-applied-education-studies-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication or COM 211 Argumentation and Advocacy",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication or COM 211 Argumentation and Advocacy",
+     "id": "ncsu-applied-education-studies-bs-s3"
+    }
+   ]
+  },
+  {
+   "title": "Humanities & Social Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSY 200 Introduction to Psychology 3",
+     "options": [
+      [
+       "PSY 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSY 200 Introduction to Psychology 3",
+     "id": "ncsu-applied-education-studies-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "SOC 202 Principles of Sociology 3 or SOC 203 Current Social Problems or SOC 204 Sociology of Family",
+     "options": [
+      [
+       "SOC 202"
+      ],
+      [
+       "SOC 203"
+      ],
+      [
+       "SOC 204"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOC 202 Principles of Sociology 3 or SOC 203 Current Social Problems or SOC 204 Sociology of Family",
+     "id": "ncsu-applied-education-studies-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "History Elective",
+     "options": [
+      [
+       "AFS 275"
+      ],
+      [
+       "AFS 276"
+      ],
+      [
+       "HI 205"
+      ],
+      [
+       "HI 207"
+      ],
+      [
+       "HI 208"
+      ],
+      [
+       "HI 209"
+      ],
+      [
+       "HI 210"
+      ],
+      [
+       "HI 215"
+      ],
+      [
+       "HI 216"
+      ],
+      [
+       "HI 221"
+      ],
+      [
+       "HI 222"
+      ],
+      [
+       "HI 233"
+      ],
+      [
+       "HI 251"
+      ],
+      [
+       "HI 252"
+      ],
+      [
+       "HI 263"
+      ],
+      [
+       "HI 264"
+      ],
+      [
+       "HI 270"
+      ],
+      [
+       "HI 275"
+      ],
+      [
+       "HI 276"
+      ],
+      [
+       "HON 290"
+      ],
+      [
+       "HON 293"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "History Elective 3",
+     "id": "ncsu-applied-education-studies-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Humanities 3",
+     "id": "ncsu-applied-education-studies-bs-s7"
+    }
+   ]
+  },
+  {
+   "title": "Education Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 100 Intro to Education 2",
+     "options": [
+      [
+       "ED 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2",
+     "id": "ncsu-applied-education-studies-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-applied-education-studies-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-applied-education-studies-bs-s10"
+    }
+   ]
+  },
+  {
+   "title": "Field of Study Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-applied-education-studies-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 201 Intro to Instructional Technology for Educators 3",
+     "options": [
+      [
+       "ECI 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 201 Intro to Instructional Technology for Educators 3",
+     "id": "ncsu-applied-education-studies-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "IS 250 Globalizing North Carolina 3",
+     "options": [
+      [
+       "IS 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "IS 250 Globalizing North Carolina 3",
+     "id": "ncsu-applied-education-studies-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EI 201 Exploring Interdisciplinary Entrepreneurial Thinking 3",
+     "options": [
+      [
+       "EI 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EI 201 Exploring Interdisciplinary Entrepreneurial Thinking 3",
+     "id": "ncsu-applied-education-studies-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARE 201 Introduction to Agricultural & Resource Economics 3",
+     "options": [
+      [
+       "ARE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 201 Introduction to Agricultural & Resource Economics 3",
+     "id": "ncsu-applied-education-studies-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 370 Applied Child Development 3",
+     "options": [
+      [
+       "EDP 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 370 Applied Child Development 3",
+     "id": "ncsu-applied-education-studies-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SLC 250 Critical and Creative Decision Making Models 3",
+     "options": [
+      [
+       "SLC 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SLC 250 Critical and Creative Decision Making Models 3",
+     "id": "ncsu-applied-education-studies-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-applied-education-studies-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ECD 225 Foundations of Cultural Competence 3 or USC 240 Leadership and Coalition Building in Diverse Communities",
+     "options": [
+      [
+       "ECD 225"
+      ],
+      [
+       "USC 240"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECD 225 Foundations of Cultural Competence 3 or USC 240 Leadership and Coalition Building in Diverse Communities",
+     "id": "ncsu-applied-education-studies-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 226 Introduction to Public Relations 3",
+     "options": [
+      [
+       "COM 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 226 Introduction to Public Relations 3",
+     "id": "ncsu-applied-education-studies-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-applied-education-studies-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 305 Equity and Education 3",
+     "options": [
+      [
+       "ECI 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 305 Equity and Education 3",
+     "id": "ncsu-applied-education-studies-bs-s22"
+    }
+   ]
+  },
+  {
+   "title": "Supporting Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Supporting Electives",
+     "options": [],
+     "hours": {
+      "min": 30,
+      "max": 30
+     },
+     "raw": "Supporting Electives 30",
+     "id": "ncsu-applied-education-studies-bs-s23"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Mathematical Sciences 3",
+     "id": "ncsu-applied-education-studies-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-applied-education-studies-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-applied-education-studies-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-applied-education-studies-bs-s27"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-applied-education-studies-bs-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-applied-education-studies-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-applied-education-studies-bs-s30"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 11,
+      "max": 11
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 11",
+     "id": "ncsu-applied-education-studies-bs-s31"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: EI 201"
+ ],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: HI 251, HI 252, HON 290"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/teacher-education-learning-sciences/applied-education-studies-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Education"
+}

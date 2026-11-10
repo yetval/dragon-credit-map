@@ -1,0 +1,184 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-korean-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-korean-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 28,
+  "max": 28
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least two Korean language courses beyond KOR 204.",
+     "options": [
+      [
+       "KOR 305"
+      ],
+      [
+       "KOR 306"
+      ],
+      [
+       "KOR 407"
+      ],
+      [
+       "KOR 408"
+      ],
+      [
+       "KOR 409"
+      ],
+      [
+       "KOR 490"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 12
+     },
+     "raw": "At least two Korean language courses beyond KOR 204. 6-12",
+     "id": "unc-asian-studies-major-ba-korean-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "At least one introductory-level course chosen from the following list:",
+     "options": [
+      [
+       "ASIA 72"
+      ],
+      [
+       "KOR 150"
+      ],
+      [
+       "KOR 151"
+      ],
+      [
+       "KOR 152"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 6
+     },
+     "raw": "At least one introductory-level course chosen from the following list: 3-6",
+     "id": "unc-asian-studies-major-ba-korean-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least two Korean literature and culture courses chosen from the following list:",
+     "options": [
+      [
+       "KOR 232"
+      ],
+      [
+       "KOR 237"
+      ],
+      [
+       "KOR 327"
+      ],
+      [
+       "KOR 346"
+      ],
+      [
+       "ASIA 350"
+      ],
+      [
+       "ASIA 427"
+      ],
+      [
+       "KOR 447"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 15
+     },
+     "raw": "At least two Korean literature and culture courses chosen from the following list: 6-15",
+     "id": "unc-asian-studies-major-ba-korean-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Other major courses",
+     "options": [
+      [
+       "IDST 123I"
+      ],
+      [
+       "ASIA 229"
+      ],
+      [
+       "ASIA 342"
+      ],
+      [
+       "ASIA 418"
+      ],
+      [
+       "ASIA 469"
+      ],
+      [
+       "ASIA 692H"
+      ]
+     ],
+     "pick": {
+      "hours": 0
+     },
+     "hours": {
+      "min": 0,
+      "max": 9
+     },
+     "raw": "Other major courses 0-9",
+     "id": "unc-asian-studies-major-ba-korean-concentration-s4"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Korean through level 4",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Korean through level 4 4",
+     "id": "unc-asian-studies-major-ba-korean-concentration-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-korean-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Korean Studies Concentration"
+}

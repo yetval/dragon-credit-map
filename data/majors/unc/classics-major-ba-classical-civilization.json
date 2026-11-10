@@ -1,0 +1,184 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-classics-major-ba-classical-civilization",
+ "university": "unc",
+ "name": "Classics",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/classics-major-ba-classical-civilization/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CLAS 121 The Greeks 3",
+     "options": [
+      [
+       "CLAS 121"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CLAS 121 The Greeks 3",
+     "id": "unc-classics-major-ba-classical-civilization-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CLAS 122 The Romans 3",
+     "options": [
+      [
+       "CLAS 122"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CLAS 122 The Romans 3",
+     "id": "unc-classics-major-ba-classical-civilization-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CLAS 391 Junior Seminar 3",
+     "options": [
+      [
+       "CLAS 391"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CLAS 391 Junior Seminar 3",
+     "id": "unc-classics-major-ba-classical-civilization-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following courses:",
+     "options": [
+      [
+       "CLAR 244"
+      ],
+      [
+       "CLAR 247"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following courses: 3",
+     "id": "unc-classics-major-ba-classical-civilization-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Five additional courses chosen from the following list:",
+     "options": [
+      [
+       "HIST 225"
+      ],
+      [
+       "HIST 226"
+      ],
+      [
+       "HIST 227"
+      ],
+      [
+       "HIST 421"
+      ],
+      [
+       "HIST 422"
+      ],
+      [
+       "HIST 423"
+      ],
+      [
+       "HIST 424"
+      ],
+      [
+       "HIST 425"
+      ],
+      [
+       "HIST 427"
+      ],
+      [
+       "HIST 428"
+      ],
+      [
+       "PHIL 210"
+      ],
+      [
+       "PHIL 211"
+      ],
+      [
+       "PHIL 411"
+      ],
+      [
+       "PHIL 412"
+      ],
+      [
+       "ASIA 522"
+      ]
+     ],
+     "pick": {
+      "count": 5
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five additional courses chosen from the following list: 15",
+     "id": "unc-classics-major-ba-classical-civilization-s5",
+     "altGroups": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      2
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Five additional courses chosen from the following list:\" carries a note or open-ended option: \"Any CLAR or CLAS course at the 200 level or above\"",
+  "Group \"Five additional courses chosen from the following list:\" carries a note or open-ended option: \"Any GREK or LATN course numbered 204 or higher\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/classics-major-ba-classical-civilization/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Classical Civilization"
+}

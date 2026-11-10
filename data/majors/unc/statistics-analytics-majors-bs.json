@@ -1,0 +1,376 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-statistics-analytics-majors-bs",
+ "university": "unc",
+ "name": "Statistics and Analytics",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/statistics-analytics-majors-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 52,
+  "max": 52
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH/STOR 235 Mathematics for Data Science 4 or MATH 233 Calculus of Functions of Several Variables",
+     "options": [
+      [
+       "MATH 235"
+      ],
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH/STOR 235 Mathematics for Data Science 4 or MATH 233 Calculus of Functions of Several Variables",
+     "id": "unc-statistics-analytics-majors-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 315 Discrete Mathematics for Data Science 3 or MATH 381 Discrete Mathematics or COMP 283 Discrete Structures",
+     "options": [
+      [
+       "STOR 315"
+      ],
+      [
+       "MATH 381"
+      ],
+      [
+       "COMP 283"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 315 Discrete Mathematics for Data Science 3 or MATH 381 Discrete Mathematics or COMP 283 Discrete Structures",
+     "id": "unc-statistics-analytics-majors-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 320 Methods and Models of Data Science 4 or STOR 520 Statistical Computing for Data Science",
+     "options": [
+      [
+       "STOR 320"
+      ],
+      [
+       "STOR 520"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "STOR 320 Methods and Models of Data Science 4 or STOR 520 Statistical Computing for Data Science",
+     "id": "unc-statistics-analytics-majors-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "STOR 415 Introduction to Optimization 3",
+     "options": [
+      [
+       "STOR 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 415 Introduction to Optimization 3",
+     "id": "unc-statistics-analytics-majors-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 435 Introduction to Probability 3 or STOR 535 Probability for Data Science",
+     "options": [
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 535"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 435 Introduction to Probability 3 or STOR 535 Probability for Data Science",
+     "id": "unc-statistics-analytics-majors-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "STOR 445 Stochastic Modeling 3",
+     "options": [
+      [
+       "STOR 445"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 445 Stochastic Modeling 3",
+     "id": "unc-statistics-analytics-majors-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "STOR 455 Methods of Data Analysis 3",
+     "options": [
+      [
+       "STOR 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 455 Methods of Data Analysis 3",
+     "id": "unc-statistics-analytics-majors-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "One STOR course at the 500 level",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "STOR"
+      ],
+      "minLevel": 500,
+      "maxLevel": 599
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One STOR course at the 500 level 3",
+     "id": "unc-statistics-analytics-majors-bs-s8"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 116 Introduction to Scientific Programming 3 or COMP 110 Introduction to Programming",
+     "options": [
+      [
+       "COMP 116"
+      ],
+      [
+       "COMP 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 116 Introduction to Scientific Programming 3 or COMP 110 Introduction to Programming",
+     "id": "unc-statistics-analytics-majors-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-statistics-analytics-majors-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-statistics-analytics-majors-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 347 Linear Algebra for Applications 3",
+     "options": [
+      [
+       "MATH 347"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 347 Linear Algebra for Applications 3",
+     "id": "unc-statistics-analytics-majors-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 155 Introduction to Data Models and Inference 3-4 or STOR 120 Foundations of Statistics and Data Science",
+     "options": [
+      [
+       "STOR 155"
+      ],
+      [
+       "STOR 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "STOR 155 Introduction to Data Models and Inference 3-4 or STOR 120 Foundations of Statistics and Data Science",
+     "id": "unc-statistics-analytics-majors-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Three additional courses from either Group A or Group B (see lists below)",
+     "options": [
+      [
+       "BIOS 664"
+      ],
+      [
+       "BUSI 403"
+      ],
+      [
+       "BUSI 408"
+      ],
+      [
+       "BUSI 410"
+      ],
+      [
+       "BUSI 532"
+      ],
+      [
+       "BUSI 533"
+      ],
+      [
+       "COMP 401"
+      ],
+      [
+       "COMP 301"
+      ],
+      [
+       "COMP 410"
+      ],
+      [
+       "COMP 210"
+      ],
+      [
+       "COMP 421"
+      ],
+      [
+       "ECON 410"
+      ],
+      [
+       "ECON 420"
+      ],
+      [
+       "ECON 511"
+      ],
+      [
+       "INLS 523"
+      ],
+      [
+       "MATH 383"
+      ],
+      [
+       "MATH 521"
+      ],
+      [
+       "MATH 522"
+      ],
+      [
+       "MATH 523"
+      ],
+      [
+       "MATH 524"
+      ],
+      [
+       "MATH 548"
+      ],
+      [
+       "MATH 566"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three additional courses from either Group A or Group B (see lists below) 9",
+     "id": "unc-statistics-analytics-majors-bs-s14",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/statistics-analytics-majors-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

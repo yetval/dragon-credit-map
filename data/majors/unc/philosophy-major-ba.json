@@ -1,0 +1,50 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-philosophy-major-ba",
+ "university": "unc",
+ "name": "Philosophy",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/philosophy-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "A major in philosophy requires nine philosophy courses. No more than three of the nine may be numbered 199 and below. The nine courses must include at least one course in three of the following four distribution areas:",
+     "options": [],
+     "hours": {
+      "min": 27,
+      "max": 27
+     },
+     "raw": "A major in philosophy requires nine philosophy courses. No more than three of the nine may be numbered 199 and below. The nine courses must include at least one course in three of the following four distribution areas: 27",
+     "id": "unc-philosophy-major-ba-s1"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"A major in philosophy requires nine philosophy courses. No more than three of the nine may be numbered 199 and below. The nine courses must include at least one course in three of the following four distribution areas:\"",
+  "Indented note: \"Courses above 100 with a second digit of one or two (e.g., PHIL 110, PHIL 210, PHIL 220)\"",
+  "Indented note: \"Courses above 100 with a second digit of three or four (e.g., PHIL 134, PHIL 230, PHIL 340)\"",
+  "Indented note: \"Courses above 100 with a second digit of five (e.g., PHIL 150, PHIL 155, PHIL 355)\"",
+  "Indented note: \"Courses above 100 with a second digit of six, seven, or eight (e.g., PHIL 160, PHIL 275, PHIL 381)\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/philosophy-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

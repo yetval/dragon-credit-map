@@ -1,0 +1,767 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration",
+ "university": "ncsu",
+ "name": "Middle Grades Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/teacher-education-learning-sciences/middle-grades-education-bs-language-arts-social-studies-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 123,
+  "max": 123
+ },
+ "sections": [
+  {
+   "title": "Math & Natural Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 103 Topics in Contemporary Mathematics 3",
+     "options": [
+      [
+       "MA 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 103 Topics in Contemporary Mathematics 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "English Language Arts",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "English Electives",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "English Electives 9",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENG 265 American Literature I 3 or ENG 266 American Literature II",
+     "options": [
+      [
+       "ENG 265"
+      ],
+      [
+       "ENG 266"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 265 American Literature I 3 or ENG 266 American Literature II",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 262 English Literature II 3",
+     "options": [
+      [
+       "ENG 262"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 262 English Literature II 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENG 328 Linguistics for Education Professionals 3 or ENG 422 Writing Theory and the Writing Process",
+     "options": [
+      [
+       "ENG 328"
+      ],
+      [
+       "ENG 422"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 328 Linguistics for Education Professionals 3 or ENG 422 Writing Theory and the Writing Process",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s6"
+    }
+   ]
+  },
+  {
+   "title": "Social Studies",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "History Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "History Elective 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EC 201 Principles of Microeconomics 3 or ARE 201 Introduction to Agricultural & Resource Economics",
+     "options": [
+      [
+       "EC 201"
+      ],
+      [
+       "ARE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 201 Principles of Microeconomics 3 or ARE 201 Introduction to Agricultural & Resource Economics",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "HI 205 Western Civilization Since 1400 3 or HI 233 The World Since 1750",
+     "options": [
+      [
+       "HI 205"
+      ],
+      [
+       "HI 233"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HI 205 Western Civilization Since 1400 3 or HI 233 The World Since 1750",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HI 364 History of North Carolina 3",
+     "options": [
+      [
+       "HI 364"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HI 364 History of North Carolina 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "HI 372"
+      ],
+      [
+       "HI 373"
+      ],
+      [
+       "HI 455"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Anthropology Elective",
+     "options": [
+      [
+       "ANT 251"
+      ],
+      [
+       "ANT 252"
+      ],
+      [
+       "ANT 253"
+      ],
+      [
+       "ANT 254"
+      ],
+      [
+       "ANT 261"
+      ],
+      [
+       "ANT 310"
+      ],
+      [
+       "ANT 315"
+      ],
+      [
+       "ANT 325"
+      ],
+      [
+       "ANT 330"
+      ],
+      [
+       "ANT 346"
+      ],
+      [
+       "ANT 370"
+      ],
+      [
+       "ANT 371"
+      ],
+      [
+       "ANT 389"
+      ],
+      [
+       "SOC 261"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Anthropology Elective 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PS 231"
+      ],
+      [
+       "PS 236"
+      ],
+      [
+       "PS 241"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 112 Interpersonal Communication 3",
+     "options": [
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 112 Interpersonal Communication 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s14"
+    }
+   ]
+  },
+  {
+   "title": "Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 100 Intro to Education 2",
+     "options": [
+      [
+       "ED 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 204 Intro to Teaching 2",
+     "options": [
+      [
+       "ECI 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ECI 204 Intro to Teaching 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 306 Middle Years Reading 3",
+     "options": [
+      [
+       "ECI 306"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 306 Middle Years Reading 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 307 Teaching Writing Across the Curriculum 3",
+     "options": [
+      [
+       "ECI 307"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 307 Teaching Writing Across the Curriculum 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 309 Teaching in the Middle Years 3",
+     "options": [
+      [
+       "ECI 309"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 309 Teaching in the Middle Years 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 445 New Literacies, Emerging Technologies, and Electronic Portfolios 2",
+     "options": [
+      [
+       "ECI 445"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ECI 445 New Literacies, Emerging Technologies, and Electronic Portfolios 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 405 Teaching Literature for Adolescents 3",
+     "options": [
+      [
+       "ECI 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 405 Teaching Literature for Adolescents 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HESM 280",
+     "options": [
+      [
+       "HESM 280"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "HESM 280 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 430 Methods and Materials for Teaching Language Arts in the Middle Grades 4",
+     "options": [
+      [
+       "ECI 430"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECI 430 Methods and Materials for Teaching Language Arts in the Middle Grades 4",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 435 Methods and Materials for Teaching Social Studies in the Middle Grades 4",
+     "options": [
+      [
+       "ECI 435"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECI 435 Methods and Materials for Teaching Social Studies in the Middle Grades 4",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 454 Student Teaching in English/Language Arts 5",
+     "options": [
+      [
+       "ECI 454"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "ECI 454 Student Teaching in English/Language Arts 5",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 464 Student Teaching in Social Studies 5",
+     "options": [
+      [
+       "ECI 464"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "ECI 464 Student Teaching in Social Studies 5",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 449 MSL Senior Student Teaching Seminar 2",
+     "options": [
+      [
+       "ECI 449"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ECI 449 MSL Senior Student Teaching Seminar 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Mathematical Sciences 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-middle-grades-education-bs-language-arts-social-studies-concentration-s41"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: HESM 280"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/teacher-education-learning-sciences/middle-grades-education-bs-language-arts-social-studies-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "English Language Arts and Social Studies Concentration",
+ "college": "College of Education"
+}

@@ -1,0 +1,1226 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-environmental-technology-management-bs",
+ "university": "ncsu",
+ "name": "Environmental Technology and Management",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/environmental-technology-management-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 100 Student Success in Environmental First Year 1",
+     "options": [
+      [
+       "ENV 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ENV 100 Student Success in Environmental First Year 1",
+     "id": "ncsu-environmental-technology-management-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 101 Exploring the Environment 2",
+     "options": [
+      [
+       "ENV 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ENV 101 Exploring the Environment 2",
+     "id": "ncsu-environmental-technology-management-bs-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "id": "ncsu-environmental-technology-management-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-environmental-technology-management-bs-s4"
+    }
+   ]
+  },
+  {
+   "title": "Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-environmental-technology-management-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-environmental-technology-management-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "CH 220"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-environmental-technology-management-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "CH 223",
+       "CH 224"
+      ],
+      [
+       "TOX 415"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-environmental-technology-management-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "options": [
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "id": "ncsu-environmental-technology-management-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 131 Conceptual Physics 4 or PY 211 College Physics I",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 131 Conceptual Physics 4 or PY 211 College Physics I",
+     "id": "ncsu-environmental-technology-management-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Ecology Elective",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "PB 360"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Ecology Elective 4",
+     "id": "ncsu-environmental-technology-management-bs-s11"
+    }
+   ]
+  },
+  {
+   "title": "Required Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ET 105 Introduction to Environmental Regulations 3",
+     "options": [
+      [
+       "ET 105"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ET 105 Introduction to Environmental Regulations 3",
+     "id": "ncsu-environmental-technology-management-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Environmental Technology Lab Electives",
+     "options": [
+      [
+       "ET 201"
+      ],
+      [
+       "ET 202"
+      ],
+      [
+       "ET 203"
+      ],
+      [
+       "ET 301"
+      ],
+      [
+       "ET 302"
+      ],
+      [
+       "ET 303"
+      ],
+      [
+       "ET 401"
+      ]
+     ],
+     "pick": {
+      "count": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Environmental Technology Lab Electives 6",
+     "id": "ncsu-environmental-technology-management-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "FOR 353 GIS and Remote Sensing for Environmental Analysis and Assessment 3 or GIS 280 Introduction to GIS",
+     "options": [
+      [
+       "FOR 353"
+      ],
+      [
+       "GIS 280"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FOR 353 GIS and Remote Sensing for Environmental Analysis and Assessment 3 or GIS 280 Introduction to GIS",
+     "id": "ncsu-environmental-technology-management-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ET 310 Environmental Monitoring and Analysis 3",
+     "options": [
+      [
+       "ET 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ET 310 Environmental Monitoring and Analysis 3",
+     "id": "ncsu-environmental-technology-management-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ET 320 Fundamentals of Air Pollution 3",
+     "options": [
+      [
+       "ET 320"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ET 320 Fundamentals of Air Pollution 3",
+     "id": "ncsu-environmental-technology-management-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ET 330 Environmental Technology Practicum 3",
+     "options": [
+      [
+       "ET 330"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ET 330 Environmental Technology Practicum 3",
+     "id": "ncsu-environmental-technology-management-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ET 455 Adaptive Management and Governance 3",
+     "options": [
+      [
+       "ET 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ET 455 Adaptive Management and Governance 3",
+     "id": "ncsu-environmental-technology-management-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "FOR 420 Watershed and Wetlands Hydrology 4 or NR 484 Environmental Impact Assessment",
+     "options": [
+      [
+       "FOR 420"
+      ],
+      [
+       "NR 484"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FOR 420 Watershed and Wetlands Hydrology 4 or NR 484 Environmental Impact Assessment",
+     "id": "ncsu-environmental-technology-management-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Capstone Elective",
+     "options": [
+      [
+       "ES 400"
+      ],
+      [
+       "ET 460"
+      ],
+      [
+       "NR 406"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Capstone Elective 3",
+     "id": "ncsu-environmental-technology-management-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 301 Practicum for Professional Development I 1",
+     "options": [
+      [
+       "NR 301"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NR 301 Practicum for Professional Development I 1",
+     "id": "ncsu-environmental-technology-management-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3 or ST 312 Introduction to Statistics II",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "ST 312"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3 or ST 312 Introduction to Statistics II",
+     "id": "ncsu-environmental-technology-management-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4 or NR 300 Natural Resource Measurements",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "NR 300"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4 or NR 300 Natural Resource Measurements",
+     "id": "ncsu-environmental-technology-management-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Policy Elective",
+     "options": [
+      [
+       "ARE 309"
+      ],
+      [
+       "FOR 472"
+      ],
+      [
+       "NR 460"
+      ],
+      [
+       "NR 560"
+      ],
+      [
+       "PS 320"
+      ],
+      [
+       "PS 336"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Policy Elective 3",
+     "id": "ncsu-environmental-technology-management-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics Elective",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Economics Elective 3",
+     "id": "ncsu-environmental-technology-management-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "IP Elective",
+     "options": [
+      [
+       "ES 100"
+      ],
+      [
+       "FW 221"
+      ],
+      [
+       "MEA 100"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "IP Elective 3",
+     "id": "ncsu-environmental-technology-management-bs-s26"
+    }
+   ]
+  },
+  {
+   "title": "Advised Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advised Electives",
+     "options": [
+      [
+       "AEC 419"
+      ],
+      [
+       "AEC 441"
+      ],
+      [
+       "AEC 442"
+      ],
+      [
+       "AEC 519"
+      ],
+      [
+       "BUS 350"
+      ],
+      [
+       "COM 436"
+      ],
+      [
+       "ES 113"
+      ],
+      [
+       "ES 150"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "ES 300"
+      ],
+      [
+       "ES 400"
+      ],
+      [
+       "ET 120"
+      ],
+      [
+       "ET 220"
+      ],
+      [
+       "ET 255"
+      ],
+      [
+       "ET 262"
+      ],
+      [
+       "FOR 150"
+      ],
+      [
+       "FOR 248"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "FOR 304"
+      ],
+      [
+       "FOR 330"
+      ],
+      [
+       "FOR 339"
+      ],
+      [
+       "FOR 353"
+      ],
+      [
+       "FOR 414"
+      ],
+      [
+       "FOR 420"
+      ],
+      [
+       "FOR 520"
+      ],
+      [
+       "GIS 280"
+      ],
+      [
+       "MB 411"
+      ],
+      [
+       "MB 412"
+      ],
+      [
+       "MB 451"
+      ],
+      [
+       "MB 452"
+      ],
+      [
+       "MEA 101"
+      ],
+      [
+       "MEA 110"
+      ],
+      [
+       "MEA 130"
+      ],
+      [
+       "MEA 135"
+      ],
+      [
+       "MEA 200"
+      ],
+      [
+       "MEA 202"
+      ],
+      [
+       "MEA 210"
+      ],
+      [
+       "MEA 211"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "MEA 250"
+      ],
+      [
+       "MEA 251"
+      ],
+      [
+       "MEA 300"
+      ],
+      [
+       "MEA 323"
+      ],
+      [
+       "NR 219"
+      ],
+      [
+       "NR 350"
+      ],
+      [
+       "NR 400"
+      ],
+      [
+       "NR 420"
+      ],
+      [
+       "NR 421"
+      ],
+      [
+       "NR 500"
+      ],
+      [
+       "NR 520"
+      ],
+      [
+       "NR 521"
+      ],
+      [
+       "PB 200"
+      ],
+      [
+       "PB 213"
+      ],
+      [
+       "PB 220"
+      ],
+      [
+       "PB 400"
+      ],
+      [
+       "PB 403"
+      ],
+      [
+       "PB 413"
+      ],
+      [
+       "PB 421"
+      ],
+      [
+       "PB 480"
+      ],
+      [
+       "PB 503"
+      ],
+      [
+       "PB 513"
+      ],
+      [
+       "PB 580"
+      ],
+      [
+       "PP 315"
+      ],
+      [
+       "SMT 200"
+      ],
+      [
+       "SMT 201"
+      ],
+      [
+       "SMT 310"
+      ],
+      [
+       "SSC 341"
+      ],
+      [
+       "SSC 461"
+      ],
+      [
+       "SSC 470"
+      ],
+      [
+       "SSC 570"
+      ],
+      [
+       "ST 350"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "TOX 201"
+      ],
+      [
+       "TOX 401"
+      ],
+      [
+       "TOX 415"
+      ],
+      [
+       "TOX 501"
+      ]
+     ],
+     "pick": {
+      "hours": 15
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Advised Electives 15",
+     "id": "ncsu-environmental-technology-management-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students are encouraged to select courses that will fulfill an academic minor. Courses should enhance students’ career objectives and must be approved by faculty advisor.",
+     "options": [],
+     "hours": null,
+     "raw": "Students are encouraged to select courses that will fulfill an academic minor. Courses should enhance students’ career objectives and must be approved by faculty advisor.",
+     "id": "ncsu-environmental-technology-management-bs-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Note: Courses cannot be counted toward both core course requirements and advised electives.",
+     "options": [
+      [
+       "AEC 419"
+      ],
+      [
+       "AEC 441"
+      ],
+      [
+       "AEC 442"
+      ],
+      [
+       "AEC 519"
+      ],
+      [
+       "BUS 350"
+      ],
+      [
+       "COM 436"
+      ],
+      [
+       "ES 113"
+      ],
+      [
+       "ES 150"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "ES 300"
+      ],
+      [
+       "ES 400"
+      ],
+      [
+       "ET 120"
+      ],
+      [
+       "ET 220"
+      ],
+      [
+       "ET 255"
+      ],
+      [
+       "ET 262"
+      ],
+      [
+       "FOR 150"
+      ],
+      [
+       "FOR 248"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "FOR 304"
+      ],
+      [
+       "FOR 330"
+      ],
+      [
+       "FOR 339"
+      ],
+      [
+       "FOR 353"
+      ],
+      [
+       "FOR 414"
+      ],
+      [
+       "FOR 420"
+      ],
+      [
+       "FOR 520"
+      ],
+      [
+       "GIS 280"
+      ],
+      [
+       "MB 411"
+      ],
+      [
+       "MB 412"
+      ],
+      [
+       "MB 451"
+      ],
+      [
+       "MB 452"
+      ],
+      [
+       "MEA 101"
+      ],
+      [
+       "MEA 110"
+      ],
+      [
+       "MEA 130"
+      ],
+      [
+       "MEA 135"
+      ],
+      [
+       "MEA 200"
+      ],
+      [
+       "MEA 202"
+      ],
+      [
+       "MEA 210"
+      ],
+      [
+       "MEA 211"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "MEA 250"
+      ],
+      [
+       "MEA 251"
+      ],
+      [
+       "MEA 300"
+      ],
+      [
+       "MEA 323"
+      ],
+      [
+       "NR 219"
+      ],
+      [
+       "NR 350"
+      ],
+      [
+       "NR 400"
+      ],
+      [
+       "NR 420"
+      ],
+      [
+       "NR 421"
+      ],
+      [
+       "NR 500"
+      ],
+      [
+       "NR 520"
+      ],
+      [
+       "NR 521"
+      ],
+      [
+       "PB 200"
+      ],
+      [
+       "PB 213"
+      ],
+      [
+       "PB 220"
+      ],
+      [
+       "PB 400"
+      ],
+      [
+       "PB 403"
+      ],
+      [
+       "PB 413"
+      ],
+      [
+       "PB 421"
+      ],
+      [
+       "PB 480"
+      ],
+      [
+       "PB 503"
+      ],
+      [
+       "PB 513"
+      ],
+      [
+       "PB 580"
+      ],
+      [
+       "PP 315"
+      ],
+      [
+       "SMT 200"
+      ],
+      [
+       "SMT 201"
+      ],
+      [
+       "SMT 310"
+      ],
+      [
+       "SSC 341"
+      ],
+      [
+       "SSC 461"
+      ],
+      [
+       "SSC 470"
+      ],
+      [
+       "SSC 570"
+      ],
+      [
+       "ST 350"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "TOX 201"
+      ],
+      [
+       "TOX 401"
+      ],
+      [
+       "TOX 415"
+      ],
+      [
+       "TOX 501"
+      ]
+     ],
+     "hours": null,
+     "raw": "Note: Courses cannot be counted toward both core course requirements and advised electives.",
+     "id": "ncsu-environmental-technology-management-bs-s29"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-environmental-technology-management-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-environmental-technology-management-bs-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-environmental-technology-management-bs-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-environmental-technology-management-bs-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-environmental-technology-management-bs-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (Verify Requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (Verify Requirement)",
+     "id": "ncsu-environmental-technology-management-bs-s35"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-environmental-technology-management-bs-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (Verify Requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (Verify Requirement)",
+     "id": "ncsu-environmental-technology-management-bs-s37"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 3",
+     "id": "ncsu-environmental-technology-management-bs-s38"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "List \"Note: Courses cannot be counted toward both core course requirements and advised electives.\" has no stated amount to take"
+ ],
+ "parseNotes": [
+  "List \"Advised Electives\" has codes with no catalog link: FOR 339",
+  "Codes in choice lists not found in the course catalog: FOR 304, FOR 339, MB 411, MB 412"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/environmental-technology-management-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Natural Resources"
+}

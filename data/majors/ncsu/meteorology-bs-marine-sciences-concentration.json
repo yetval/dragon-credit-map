@@ -1,0 +1,761 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-meteorology-bs-marine-sciences-concentration",
+ "university": "ncsu",
+ "name": "Meteorology",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/meteorology-bs-marine-sciences-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COS 100 Science of Change 2",
+     "options": [
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "COS 100 Science of Change 2",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "English / Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s3"
+    }
+   ]
+  },
+  {
+   "title": "Math / Statistics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MEA 217 Introduction to Computing in the Geosciences 3 or MA 116 Introduction to Scientific Programming (Math) or PY 251 Introduction to Scientific Computing or CSC 113 Introduction to Computing - MATLAB",
+     "options": [
+      [
+       "MEA 217"
+      ],
+      [
+       "MA 116"
+      ],
+      [
+       "PY 251"
+      ],
+      [
+       "CSC 113"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 217 Introduction to Computing in the Geosciences 3 or MA 116 Introduction to Scientific Programming (Math) or PY 251 Introduction to Scientific Computing or CSC 113 Introduction to Computing - MATLAB",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Statistics Option",
+     "options": [
+      [
+       "ST 311"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "ST 371"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Statistics Option 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Chemistry / Physics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Chemistry Option",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "CH 220",
+       "CH 222"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Chemistry Option 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s13"
+    }
+   ]
+  },
+  {
+   "title": "Meteorology Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "options": [
+      [
+       "MEA 100"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 215 Introduction to Atmospheric Sciences 4",
+     "options": [
+      [
+       "MEA 215"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 215 Introduction to Atmospheric Sciences 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 218 Introduction to Weather Analysis and Prediction 2",
+     "options": [
+      [
+       "MEA 218"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MEA 218 Introduction to Weather Analysis and Prediction 2",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 312 Atmospheric Thermodynamics 4",
+     "options": [
+      [
+       "MEA 312"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 312 Atmospheric Thermodynamics 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 315 Mathematics Methods in Atmospheric Sciences 2",
+     "options": [
+      [
+       "MEA 315"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MEA 315 Mathematics Methods in Atmospheric Sciences 2",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 321 Fundamentals of Air Quality and Climate Change 3",
+     "options": [
+      [
+       "MEA 321"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 321 Fundamentals of Air Quality and Climate Change 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 412 Atmospheric Physics 3",
+     "options": [
+      [
+       "MEA 412"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 412 Atmospheric Physics 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 421 Atmospheric Dynamics I 3",
+     "options": [
+      [
+       "MEA 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 421 Atmospheric Dynamics I 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 422 Atmospheric Dynamics II 3",
+     "options": [
+      [
+       "MEA 422"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 422 Atmospheric Dynamics II 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 443 Synoptic Meteorology 4",
+     "options": [
+      [
+       "MEA 443"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 443 Synoptic Meteorology 4",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 495 Junior Seminar in the Marine, Earth, and Atmospheric Sciences 1",
+     "options": [
+      [
+       "MEA 495"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 495 Junior Seminar in the Marine, Earth, and Atmospheric Sciences 1",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "Marine Science Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 200 Introduction to Oceanography 3",
+     "options": [
+      [
+       "MEA 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 200 Introduction to Oceanography 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 210 Oceanography Lab 1",
+     "options": [
+      [
+       "MEA 210"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 210 Oceanography Lab 1",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 455 Micrometeorology 3",
+     "options": [
+      [
+       "MEA 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 455 Micrometeorology 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 460 Principles of Physical Oceanography 3",
+     "options": [
+      [
+       "MEA 460"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 460 Principles of Physical Oceanography 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 462 Observational Methods and Data Analysis in Marine Physics 3",
+     "options": [
+      [
+       "MEA 462"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 462 Observational Methods and Data Analysis in Marine Physics 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 467 Marine Meteorology 3",
+     "options": [
+      [
+       "MEA 467"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 467 Marine Meteorology 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "Major Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Geophysical Science Option",
+     "options": [
+      [
+       "MEA 101"
+      ],
+      [
+       "PY 123"
+      ],
+      [
+       "PY 124"
+      ],
+      [
+       "SSC 200"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Geophysical Science Option 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Approved Electives",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Approved Electives 6",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Professional or Research Experience Elective",
+     "options": [
+      [
+       "MEA 498"
+      ],
+      [
+       "MEA 499"
+      ],
+      [
+       "MEA 511"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Professional or Research Experience Elective 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-meteorology-bs-marine-sciences-concentration-s40"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Professional or Research Experience Elective\" has a row that is not a course and was not read: \"Student-initiated honors credit in a 400-level course.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/meteorology-bs-marine-sciences-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Marine Sciences Concentration",
+ "college": "College of Sciences"
+}

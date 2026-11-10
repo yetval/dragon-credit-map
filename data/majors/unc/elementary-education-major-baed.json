@@ -1,0 +1,392 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-elementary-education-major-baed",
+ "university": "unc",
+ "name": "Elementary Education",
+ "degree": "B.A.Ed.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/elementary-education-major-baed/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 72,
+  "max": 72
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 412 Teaching the Science of Literacy I 3",
+     "options": [
+      [
+       "EDUC 412"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 412 Teaching the Science of Literacy I 3",
+     "id": "unc-elementary-education-major-baed-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 416 Technology Integration Across the Curriculum in Elementary Classrooms 3",
+     "options": [
+      [
+       "EDUC 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 416 Technology Integration Across the Curriculum in Elementary Classrooms 3",
+     "id": "unc-elementary-education-major-baed-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 419 Teaching Science in the Elementary Grades 3",
+     "options": [
+      [
+       "EDUC 419"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 419 Teaching Science in the Elementary Grades 3",
+     "id": "unc-elementary-education-major-baed-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 420 Teaching Social Studies in the Elementary Grades 3",
+     "options": [
+      [
+       "EDUC 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 420 Teaching Social Studies in the Elementary Grades 3",
+     "id": "unc-elementary-education-major-baed-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 427 Mathematics in the Elementary School: Geometry and Measurement 3",
+     "options": [
+      [
+       "EDUC 427"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 427 Mathematics in the Elementary School: Geometry and Measurement 3",
+     "id": "unc-elementary-education-major-baed-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 428 Science of Learning for Elementary Teachers 3",
+     "options": [
+      [
+       "EDUC 428"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 428 Science of Learning for Elementary Teachers 3",
+     "id": "unc-elementary-education-major-baed-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 482 Elementary Practicum: Junior Year Semester 1 2",
+     "options": [
+      [
+       "EDUC 482"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EDUC 482 Elementary Practicum: Junior Year Semester 1 2",
+     "id": "unc-elementary-education-major-baed-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 483 Elementary Practicum: Junior Year Semester 2 2",
+     "options": [
+      [
+       "EDUC 483"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EDUC 483 Elementary Practicum: Junior Year Semester 2 2",
+     "id": "unc-elementary-education-major-baed-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 502 Teaching the Science of Literacy II 3",
+     "options": [
+      [
+       "EDUC 502"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 502 Teaching the Science of Literacy II 3",
+     "id": "unc-elementary-education-major-baed-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 615 Schools and Community Collaboration 3",
+     "options": [
+      [
+       "EDUC 615"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 615 Schools and Community Collaboration 3",
+     "id": "unc-elementary-education-major-baed-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 685 Teaching Mathematics in the Elementary Grades 3",
+     "options": [
+      [
+       "EDUC 685"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 685 Teaching Mathematics in the Elementary Grades 3",
+     "id": "unc-elementary-education-major-baed-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "EDUC --- Data and AI Literacy Course (pending approval)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "EDUC"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC --- Data and AI Literacy Course (pending approval) 3",
+     "id": "unc-elementary-education-major-baed-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "EDUC --- Arts Integration and Multiliteracies (pending approval)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "EDUC"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC --- Arts Integration and Multiliteracies (pending approval) 3",
+     "id": "unc-elementary-education-major-baed-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 747 Methods and Materials for Teaching Secondary/K-12 Subjects II 3",
+     "options": [
+      [
+       "EDUC 747"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 747 Methods and Materials for Teaching Secondary/K-12 Subjects II 3",
+     "id": "unc-elementary-education-major-baed-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "EDUC --- Senior Practicum, Fall Semester (pending approval)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "EDUC"
+      ]
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EDUC --- Senior Practicum, Fall Semester (pending approval) 2",
+     "id": "unc-elementary-education-major-baed-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "EDUC --- Senior Student Teaching Internship, Spring Semester (pending approval)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "EDUC"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "EDUC --- Senior Student Teaching Internship, Spring Semester (pending approval) 9",
+     "id": "unc-elementary-education-major-baed-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select three courses from one of the dual licensure pathways (see below)",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Select three courses from one of the dual licensure pathways (see below) 9",
+     "id": "unc-elementary-education-major-baed-s17"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 307 Mathematics in Elementary Schools 3",
+     "options": [
+      [
+       "EDUC 307"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 307 Mathematics in Elementary Schools 3",
+     "id": "unc-elementary-education-major-baed-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 628 Teaching English Language Learners 3",
+     "options": [
+      [
+       "EDUC 628"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 628 Teaching English Language Learners 3",
+     "id": "unc-elementary-education-major-baed-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following courses:",
+     "options": [
+      [
+       "EDUC 401"
+      ],
+      [
+       "EDUC 532"
+      ],
+      [
+       "PSYC 250"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following courses: 3",
+     "id": "unc-elementary-education-major-baed-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following courses:",
+     "options": [
+      [
+       "EDUC 516"
+      ],
+      [
+       "EDUC 689"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following courses: 3",
+     "id": "unc-elementary-education-major-baed-s21"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Special Education - General Curriculum (K-12) Pathway\") that is not included",
+  "Row points to a list that could not be linked: \"Select three courses from one of the dual licensure pathways (see below)\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/elementary-education-major-baed/",
+  "fetchedAt": "2026-11-09"
+ }
+}

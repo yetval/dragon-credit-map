@@ -1,0 +1,8104 @@
+{
+ "schemaVersion": 1,
+ "records": [
+  {
+   "code": "AB3051",
+   "aliases": [],
+   "title": "Journeys into Arabic I",
+   "rawTitle": "AB3051 Journeys into Arabic I",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "AB3052",
+   "aliases": [],
+   "title": "Journeys into Arabic II",
+   "rawTitle": "AB3052 Journeys into Arabic II",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "AB4151",
+   "aliases": [],
+   "title": "Navigating in Arabic I",
+   "rawTitle": "AB4151 Navigating in Arabic I",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "AB4152",
+   "aliases": [],
+   "title": "Navigating in Arabic II",
+   "rawTitle": "AB4152 Navigating in Arabic II",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "AR4100",
+   "aliases": [],
+   "title": "Drawing",
+   "rawTitle": "AR4100 Drawing",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art",
+   "credits": "1"
+  },
+  {
+   "code": "AR4110",
+   "aliases": [],
+   "title": "Painting",
+   "rawTitle": "AR4110 Painting",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art",
+   "credits": "1"
+  },
+  {
+   "code": "AR4120",
+   "aliases": [],
+   "title": "Ceramics",
+   "rawTitle": "AR4120 Ceramics",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art"
+  },
+  {
+   "code": "AR4130",
+   "aliases": [],
+   "title": "Sculpture and 3D Design",
+   "rawTitle": "AR4130 Sculpture and 3D Design",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art"
+  },
+  {
+   "code": "AR4210",
+   "aliases": [],
+   "title": "Open Studio",
+   "rawTitle": "AR4210 Open Studio",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art"
+  },
+  {
+   "code": "AR4300",
+   "aliases": [],
+   "title": "Darkroom Photography",
+   "rawTitle": "AR4300 Darkroom Photography",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "AR4310",
+   "aliases": [],
+   "title": "Digital Photography",
+   "rawTitle": "AR4310 Digital Photography",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art",
+   "credits": "1"
+  },
+  {
+   "code": "AR4520",
+   "aliases": [],
+   "title": "Advanced Studio Art",
+   "rawTitle": "AR4520 Advanced Studio Art",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Art",
+   "credits": "1"
+  },
+  {
+   "code": "AS4051",
+   "aliases": [
+    "AS4050a"
+   ],
+   "title": "American Studies I",
+   "rawTitle": "AS4051 American Studies I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "2"
+  },
+  {
+   "code": "AS4051W",
+   "aliases": [
+    "AS4030a"
+   ],
+   "title": "Writing and American Studies I",
+   "rawTitle": "AS4051W (formerly AS4030a) Writing and American Studies I",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "AS4052",
+   "aliases": [
+    "AS4050b"
+   ],
+   "title": "American Studies II",
+   "rawTitle": "AS4052 American Studies II",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "2"
+  },
+  {
+   "code": "AS4052W",
+   "aliases": [
+    "AS4030b"
+   ],
+   "title": "Writing and American Studies II",
+   "rawTitle": "AS4052W (formerly AS4030b) Writing and American Studies II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "BI3025",
+   "aliases": [],
+   "title": "Honors Epidemiology",
+   "rawTitle": "BI3025 Honors Epidemiology",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3065",
+   "aliases": [],
+   "title": "Honors Forensic Science",
+   "rawTitle": "BI3065 Honors Forensic Science",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3115",
+   "aliases": [],
+   "title": "Honors Introduction to Neuroscience",
+   "rawTitle": "BI3115 Honors Introduction to Neuroscience",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3560",
+   "aliases": [],
+   "title": "Sports Kinesiology",
+   "rawTitle": "BI3560 Sports Kinesiology",
+   "department": "Science",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3580",
+   "aliases": [],
+   "title": "Classical Genetics",
+   "rawTitle": "BI3580 Classical Genetics (*M*)",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [
+    "math-intensive"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3640",
+   "aliases": [],
+   "title": "Developmental Biology",
+   "rawTitle": "BI3640 Developmental Biology (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3700",
+   "aliases": [],
+   "title": "Evolution",
+   "rawTitle": "BI3700 Evolution",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI3900",
+   "aliases": [],
+   "title": "Res Exp-Biology",
+   "rawTitle": "BI3900 Res Exp-Biology (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4010",
+   "aliases": [],
+   "title": "Anatomy & Physiology",
+   "rawTitle": "BI4010 Anatomy & Physiology",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4020",
+   "aliases": [],
+   "title": "Ecology",
+   "rawTitle": "BI4020 Ecology (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4030",
+   "aliases": [],
+   "title": "Environmental Science",
+   "rawTitle": "BI4030 Environmental Science (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4040",
+   "aliases": [],
+   "title": "Climate Change Biology",
+   "rawTitle": "BI4040 Climate Change Biology (*M*)",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [
+    "math-intensive"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4105",
+   "aliases": [],
+   "title": "Honors Molecular Genetics",
+   "rawTitle": "BI4105 Honors Molecular Genetics",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4110",
+   "aliases": [],
+   "title": "Molecular Genetics",
+   "rawTitle": "BI4110 Molecular Genetics (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4120",
+   "aliases": [],
+   "title": "Population Genetics",
+   "rawTitle": "BI4110 Molecular Genetics (*R*)/BI4120 Population Genetics (*M*)",
+   "department": "Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "BI4130",
+   "aliases": [],
+   "title": "Aquatic Ecology",
+   "rawTitle": "BI4130 Aquatic Ecology (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4135",
+   "aliases": [],
+   "title": "Honors Public Health",
+   "rawTitle": "BI4135 Honors Public Health",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4140",
+   "aliases": [],
+   "title": "Molecular & Cellular Biol",
+   "rawTitle": "BI4140 Molecular & Cellular Biol",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4145",
+   "aliases": [],
+   "title": "Climate Change Biology",
+   "rawTitle": "BI4145 Climate Change Biology",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology",
+   "credits": "1"
+  },
+  {
+   "code": "BI4155",
+   "aliases": [],
+   "title": "Agricultural Biotechnology",
+   "rawTitle": "BI4155 Agricultural Biotechnology",
+   "department": "Science",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4160",
+   "aliases": [],
+   "title": "Neuroscience",
+   "rawTitle": "BI4160 Neuroscience (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4200",
+   "aliases": [],
+   "title": "Immunology",
+   "rawTitle": "BI4200 Immunology (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4210",
+   "aliases": [],
+   "title": "AP Biology (I)",
+   "rawTitle": "BI4210 AP Biology (I) (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4211",
+   "aliases": [],
+   "title": "AP Biology (II)",
+   "rawTitle": "BI4211 AP Biology (II) (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4215",
+   "aliases": [],
+   "title": "Hallmarks of Cancer",
+   "rawTitle": "BI4215 Hallmarks of Cancer",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology",
+   "credits": "1"
+  },
+  {
+   "code": "BI4310",
+   "aliases": [],
+   "title": "Cancer Biology",
+   "rawTitle": "BI4310 Cancer Biology",
+   "department": "Science",
+   "campuses": [
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4920",
+   "aliases": [],
+   "title": "Research in Biology I",
+   "rawTitle": "BI4920 Research in Biology I (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4921",
+   "aliases": [],
+   "title": "Research in Biology II",
+   "rawTitle": "BI4921 Research in Biology II (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "BI4922",
+   "aliases": [],
+   "title": "Research in Biology III",
+   "rawTitle": "BI4922 Research in Biology III (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "CH3085",
+   "aliases": [],
+   "title": "Nanotechnology & Research",
+   "rawTitle": "CH3085 Nanotechnology & Research",
+   "department": "Science",
+   "campuses": [
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH3125",
+   "aliases": [],
+   "title": "Honors Intro to Computational Chemistry",
+   "rawTitle": "CH3125 Honors Intro to Computational Chemistry (*R*)",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH3145",
+   "aliases": [],
+   "title": "Computational Medicinal Chemistry",
+   "rawTitle": "CH3145 Computational Medicinal Chemistry (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH3500",
+   "aliases": [],
+   "title": "Chemistry Core I - Atoms & Molecules",
+   "rawTitle": "CH3500 Chemistry Core I - Atoms & Molecules",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH3510",
+   "aliases": [
+    "BI3510"
+   ],
+   "title": "Honors Introduction to Biochemistry",
+   "rawTitle": "CH3510/BI3510 Honors Introduction to Biochemistry",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "CH3550",
+   "aliases": [
+    "BI3550"
+   ],
+   "title": "Honors Human Nutrition and Chemistry",
+   "rawTitle": "CH3550/BI3550 Honors Human Nutrition and Chemistry",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Biology"
+  },
+  {
+   "code": "CH3900",
+   "aliases": [],
+   "title": "Research Experience in Chemistry",
+   "rawTitle": "CH3900 Research Experience in Chemistry (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4000",
+   "aliases": [],
+   "title": "Chemistry Core II - Reactions & Energy",
+   "rawTitle": "CH4000 Chemistry Core II - Reactions & Energy",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4020",
+   "aliases": [],
+   "title": "AP Chemistry (I): Atoms & Molecules",
+   "rawTitle": "CH4020 AP Chemistry (I): Atoms & Molecules (*M*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "math-intensive"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4105",
+   "aliases": [],
+   "title": "Honors Organic Chemistry",
+   "rawTitle": "CH4105 Honors Organic Chemistry",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4120",
+   "aliases": [],
+   "title": "AP Chemistry (II): Kinetics & Energy",
+   "rawTitle": "CH4120 AP Chemistry (II): Kinetics & Energy",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4130",
+   "aliases": [],
+   "title": "Organic Chemistry",
+   "rawTitle": "CH4130 Organic Chemistry",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4140",
+   "aliases": [],
+   "title": "Environmental Chem",
+   "rawTitle": "CH4140 Environmental Chem (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4160",
+   "aliases": [],
+   "title": "Inorganic Chemistry",
+   "rawTitle": "CH4160 Inorganic Chemistry",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry",
+   "credits": "1"
+  },
+  {
+   "code": "CH4170",
+   "aliases": [
+    "PH4170"
+   ],
+   "title": "Electrochemistry: Batteries, Fuel Cells and Solar Cells",
+   "rawTitle": "CH4170/PH4170 Electrochemistry: Batteries, Fuel Cells and Solar Cells",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "CH4270",
+   "aliases": [],
+   "title": "Analytical Chemistry",
+   "rawTitle": "CH4270 Analytical Chemistry",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4280",
+   "aliases": [],
+   "title": "Materials Chemistry",
+   "rawTitle": "CH4280 Materials Chemistry",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4290",
+   "aliases": [],
+   "title": "Biochemistry",
+   "rawTitle": "CH4290 Biochemistry (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4910",
+   "aliases": [],
+   "title": "Research Computational Sci I",
+   "rawTitle": "CH4910 Research Computational Sci I (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4911",
+   "aliases": [],
+   "title": "Research Computational Sci II",
+   "rawTitle": "CH4911 Research Computational Sci II",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4920",
+   "aliases": [],
+   "title": "Research Chem I",
+   "rawTitle": "CH4920 Research Chem I (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4921",
+   "aliases": [],
+   "title": "Research Chem II",
+   "rawTitle": "CH4921 Research Chem II (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CH4922",
+   "aliases": [],
+   "title": "Research Chem III",
+   "rawTitle": "CH4922 Research Chem III (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "CN3051",
+   "aliases": [],
+   "title": "Journeys into Chinese I",
+   "rawTitle": "CN3051 Journeys into Chinese I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN3052",
+   "aliases": [],
+   "title": "Journeys into Chinese II",
+   "rawTitle": "CN3052 Journeys into Chinese II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN3061",
+   "aliases": [],
+   "title": "Journeys into Chinese + Global Understanding I",
+   "rawTitle": "CN3061 Journeys into Chinese + Global Understanding I",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN3062",
+   "aliases": [],
+   "title": "Journeys into Chinese + Global Understanding II",
+   "rawTitle": "CN3062 Journeys into Chinese + Global Understanding II",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4051",
+   "aliases": [],
+   "title": "Advanced Chinese I",
+   "rawTitle": "CN4051 Advanced Chinese I",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CN4052",
+   "aliases": [],
+   "title": "Advanced Chinese II",
+   "rawTitle": "CN4052 Advanced Chinese II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CN4060",
+   "aliases": [],
+   "title": "Explorations in Chinese for Heritage Speakers",
+   "rawTitle": "CN4060 Explorations in Chinese for Heritage Speakers",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CN4151",
+   "aliases": [],
+   "title": "Navigating in Chinese",
+   "rawTitle": "CN4151 Navigating in Chinese",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4152",
+   "aliases": [],
+   "title": "Navigating in Chinese II",
+   "rawTitle": "CN4152 Navigating in Chinese II",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4161",
+   "aliases": [],
+   "title": "Navigating in Chinese + Global Understanding I",
+   "rawTitle": "CN4161 Navigating in Chinese + Global Understanding I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4162",
+   "aliases": [],
+   "title": "Navigating in Chinese + Global Understanding II",
+   "rawTitle": "CN4162 Navigating in Chinese + Global Understanding II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4351",
+   "aliases": [],
+   "title": "Explorations in Chinese I",
+   "rawTitle": "CN4351 Explorations in Chinese I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4352",
+   "aliases": [],
+   "title": "Explorations in Chinese II",
+   "rawTitle": "CN4352 Explorations in Chinese II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4500",
+   "aliases": [],
+   "title": "Chinese for Heritage Speakers",
+   "rawTitle": "CN4500 Chinese for Heritage Speakers",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "CN4651",
+   "aliases": [],
+   "title": "Readings in Chinese with Topics I",
+   "rawTitle": "CN4651 Readings in Chinese with Topics I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN4652",
+   "aliases": [],
+   "title": "Readings in Chinese with Topics",
+   "rawTitle": "CN4652 Readings in Chinese with Topics",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN4851",
+   "aliases": [],
+   "title": "AP Chinese Language and Culture I",
+   "rawTitle": "CN4851 AP Chinese Language and Culture I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN4852",
+   "aliases": [],
+   "title": "AP Chinese Language and Culture II",
+   "rawTitle": "CN4852 AP Chinese Language and Culture II",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN4951",
+   "aliases": [],
+   "title": "Advanced Readings in Chinese with Topics I",
+   "rawTitle": "CN4951 Advanced Readings in Chinese with Topics I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CN4952",
+   "aliases": [],
+   "title": "Advanced Readings in Chinese with Topics II",
+   "rawTitle": "CN4952 Advanced Readings in Chinese with Topics II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "CS4020",
+   "aliases": [],
+   "title": "Web Development",
+   "rawTitle": "CS4020 Web Development",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4040",
+   "aliases": [],
+   "title": "Game Design and Simulation",
+   "rawTitle": "CS4040 Game Design and Simulation",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4060",
+   "aliases": [],
+   "title": "Honors Scientific Programming",
+   "rawTitle": "CS4060 Honors Scientific Programming",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4070",
+   "aliases": [
+    "AR4070"
+   ],
+   "title": "Art, Technology, and Computing",
+   "rawTitle": "CS4070/AR4070 Art, Technology, and Computing",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4100",
+   "aliases": [],
+   "title": "Human-Computer Interaction",
+   "rawTitle": "CS4100 Human-Computer Interaction",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science",
+   "credits": "1"
+  },
+  {
+   "code": "CS4110",
+   "aliases": [
+    "EE4110"
+   ],
+   "title": "Introductory Robotics",
+   "rawTitle": "CS4110/EE4110 Introductory Robotics",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering"
+  },
+  {
+   "code": "CS4120",
+   "aliases": [],
+   "title": "Computing for Everyone",
+   "rawTitle": "CS4120 Computing for Everyone",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4140",
+   "aliases": [],
+   "title": "Game Design with Modern Engines",
+   "rawTitle": "CS4140 Game Design with Modern Engines",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4200",
+   "aliases": [
+    "MA4200"
+   ],
+   "title": "Cryptography",
+   "rawTitle": "CS4200/MA4200 Cryptography",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4220",
+   "aliases": [],
+   "title": "Databases",
+   "rawTitle": "CS4220 Databases",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4230",
+   "aliases": [],
+   "title": "Networks and the Web",
+   "rawTitle": "CS4230 Networks and the Web",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4240",
+   "aliases": [],
+   "title": "Procedural and Object-Oriented Programming",
+   "rawTitle": "CS4240 Procedural and Object-Oriented Programming",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4250",
+   "aliases": [],
+   "title": "Data Visualization",
+   "rawTitle": "CS4250 Data Visualization",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4270",
+   "aliases": [],
+   "title": "Fundamentals of Object-Oriented Design",
+   "rawTitle": "CS4270 Fundamentals of Object-Oriented Design",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4280",
+   "aliases": [],
+   "title": "Advanced Java",
+   "rawTitle": "CS4280 Advanced Java",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4300",
+   "aliases": [],
+   "title": "Topics in CS - Human and Computer Interaction",
+   "rawTitle": "CS4300 Topics in CS - Human and Computer Interaction",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4310",
+   "aliases": [
+    "EE4310"
+   ],
+   "title": "Robotics Design for Competition",
+   "rawTitle": "CS4310/EE4310 Robotics Design for Competition",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science",
+   "credits": "1"
+  },
+  {
+   "code": "CS4320",
+   "aliases": [],
+   "title": "Machine Learning",
+   "rawTitle": "CS4320 Machine Learning",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4330",
+   "aliases": [],
+   "title": "Server-Side Development",
+   "rawTitle": "CS4330 Server-Side Development",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "CS4340",
+   "aliases": [],
+   "title": "Data Structures with C",
+   "rawTitle": "CS4340 Data Structures with C",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4350",
+   "aliases": [],
+   "title": "Data Structures and Algorithms",
+   "rawTitle": "CS4350 Data Structures and Algorithms",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science",
+   "credits": "1"
+  },
+  {
+   "code": "CS4380",
+   "aliases": [],
+   "title": "Algorithms",
+   "rawTitle": "CS4380 Algorithms",
+   "department": "Computer Science",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "CS4900",
+   "aliases": [],
+   "title": "Advanced Computer Science Topics",
+   "rawTitle": "CS4900 Advanced Computer Science Topics",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Computer Science"
+  },
+  {
+   "code": "DR4101",
+   "aliases": [],
+   "title": "Theater Performance Workshop: Scene Study and Choice",
+   "rawTitle": "DR4101 Theater Performance Workshop: Scene Study and Choice",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Drama",
+   "credits": "1"
+  },
+  {
+   "code": "DR4102",
+   "aliases": [],
+   "title": "Theater Performance Workshop: Unacting and Movement",
+   "rawTitle": "DR4102 Theater Performance Workshop: Unacting and Movement",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Drama",
+   "credits": "1"
+  },
+  {
+   "code": "EE3100",
+   "aliases": [],
+   "title": "CAD/CAM",
+   "rawTitle": "EE3100 CAD/CAM",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4000",
+   "aliases": [],
+   "title": "Mechanical Engineering",
+   "rawTitle": "EE4000 Mechanical Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4020",
+   "aliases": [],
+   "title": "Electrical Engineering",
+   "rawTitle": "EE4020 Electrical Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4040",
+   "aliases": [],
+   "title": "Architecture",
+   "rawTitle": "EE4040 Architecture",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4080",
+   "aliases": [],
+   "title": "Biomedical Engineering",
+   "rawTitle": "EE4080 Biomedical Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4090",
+   "aliases": [],
+   "title": "Materials for Engineering Applications",
+   "rawTitle": "EE4090 Materials for Engineering Applications",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering"
+  },
+  {
+   "code": "EE4100",
+   "aliases": [],
+   "title": "Introductory Robotics",
+   "rawTitle": "EE4100 Introductory Robotics",
+   "department": "Engineering",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EE4140",
+   "aliases": [],
+   "title": "Aerospace Engineering",
+   "rawTitle": "EE4140 Aerospace Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4145",
+   "aliases": [],
+   "title": "Rocketry Design for Competition",
+   "rawTitle": "EE4145 Rocketry Design for Competition",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering"
+  },
+  {
+   "code": "EE4155",
+   "aliases": [],
+   "title": "Agricultural Biotechnology",
+   "rawTitle": "EE4155 Agricultural Biotechnology",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering"
+  },
+  {
+   "code": "EE4160",
+   "aliases": [],
+   "title": "Civil Engineering",
+   "rawTitle": "EE4160 Civil Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4180",
+   "aliases": [],
+   "title": "Environmental Engineering",
+   "rawTitle": "EE4180 Environmental Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4200",
+   "aliases": [],
+   "title": "Digital Agriculture and Engineering",
+   "rawTitle": "EE4200 Digital Agriculture and Engineering",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering"
+  },
+  {
+   "code": "EE4520",
+   "aliases": [],
+   "title": "Biomedical Instrumentation",
+   "rawTitle": "EE4520 Biomedical Instrumentation",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4540",
+   "aliases": [],
+   "title": "Statics",
+   "rawTitle": "EE4540 Statics",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EE4560",
+   "aliases": [],
+   "title": "Circuits",
+   "rawTitle": "EE4560 Circuits",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering",
+   "credits": "1"
+  },
+  {
+   "code": "EN4000",
+   "aliases": [],
+   "title": "Creative Writing",
+   "rawTitle": "EN4000 Creative Writing (online)",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4200",
+   "aliases": [],
+   "title": "African Studies: Pre-colonial Africa",
+   "rawTitle": "EN4200 African Studies: Pre-colonial Africa",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4201",
+   "aliases": [],
+   "title": "African Studies: Pre-Colonial Africa",
+   "rawTitle": "EN4201 African Studies: Pre-Colonial Africa",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4202",
+   "aliases": [],
+   "title": "African Studies: Modern Africa",
+   "rawTitle": "EN4202 African Studies: Modern Africa",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4203",
+   "aliases": [],
+   "title": "African Studies: North Africa and the Middle East",
+   "rawTitle": "EN4203 African Studies: North Africa and the Middle East (EN4202)",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4210",
+   "aliases": [],
+   "title": "African Studies: Modern Africa",
+   "rawTitle": "EN4210 African Studies: Modern Africa",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4211",
+   "aliases": [],
+   "title": "East Asian Studies I",
+   "rawTitle": "EN4211 East Asian Studies I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4212",
+   "aliases": [],
+   "title": "East Asian Studies II",
+   "rawTitle": "EN4212 East Asian Studies II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4215",
+   "aliases": [],
+   "title": "Asian American Studies",
+   "rawTitle": "EN4215 Asian American Studies",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English"
+  },
+  {
+   "code": "EN4220",
+   "aliases": [],
+   "title": "African Studies: North Africa and the Middle East",
+   "rawTitle": "EN4220 African Studies: North Africa and the Middle East",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4221",
+   "aliases": [],
+   "title": "East-West Studies I",
+   "rawTitle": "EN4221 East-West Studies I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4234",
+   "aliases": [],
+   "title": "Latin American Literature and Culture",
+   "rawTitle": "EN4234 Latin American Literature and Culture",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4241",
+   "aliases": [],
+   "title": "Western European Cultural Studies I",
+   "rawTitle": "EN4241 Western European Cultural Studies I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4242",
+   "aliases": [],
+   "title": "Western European Cultural Studies II",
+   "rawTitle": "EN4242 Western European Cultural Studies II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4251",
+   "aliases": [],
+   "title": "Western Civilizations I: Wisdom, Revelation, Reason, and Doubt",
+   "rawTitle": "EN4251 Western Civilizations I: Wisdom, Revelation, Reason, and Doubt",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4252",
+   "aliases": [],
+   "title": "Western Civilizations II: Wisdom, Revelation, Reason, and Doubt",
+   "rawTitle": "EN4252 Western Civilizations II: Wisdom, Revelation, Reason, and Doubt",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4300",
+   "aliases": [],
+   "title": "Creative Writing",
+   "rawTitle": "EN4300 Creative Writing",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4310",
+   "aliases": [],
+   "title": "Contemporary African-American Literature",
+   "rawTitle": "EN4310 Contemporary African-American Literature",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English"
+  },
+  {
+   "code": "EN4320",
+   "aliases": [],
+   "title": "Women's Literature across the Globe",
+   "rawTitle": "EN4320 Women's Literature across the Globe",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English"
+  },
+  {
+   "code": "EN4330",
+   "aliases": [],
+   "title": "Ecocriticism",
+   "rawTitle": "EN4330: Ecocriticism",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English"
+  },
+  {
+   "code": "EN4340",
+   "aliases": [],
+   "title": "The History of Mental Health Through Literature",
+   "rawTitle": "EN4340 The History of Mental Health Through Literature",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4350",
+   "aliases": [],
+   "title": "Poetry of Protest",
+   "rawTitle": "EN4350 Poetry of Protest",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4360",
+   "aliases": [],
+   "title": "Utopian-Dystopian Narratives and Adaptations",
+   "rawTitle": "EN4360 Utopian-Dystopian Narratives and Adaptations",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4400",
+   "aliases": [],
+   "title": "AI in Science Fiction",
+   "rawTitle": "EN4400 AI in Science Fiction",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4410",
+   "aliases": [],
+   "title": "British Literature and Culture",
+   "rawTitle": "EN4410 British Literature and Culture",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4420",
+   "aliases": [],
+   "title": "Classical Myth: Epic and Tragedy",
+   "rawTitle": "EN4420 Classical Myth: Epic and Tragedy",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4425",
+   "aliases": [],
+   "title": "Greek Drama and Performance",
+   "rawTitle": "EN4425 Greek Drama and Performance",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4430",
+   "aliases": [],
+   "title": "Modern World Fiction",
+   "rawTitle": "EN4430 Modern World Fiction",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4440",
+   "aliases": [],
+   "title": "Philosophy and Literature in the Twentieth Century",
+   "rawTitle": "EN4440 Philosophy and Literature in the Twentieth Century",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4450",
+   "aliases": [],
+   "title": "Shakespeare Now",
+   "rawTitle": "EN4450 Shakespeare Now",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4460",
+   "aliases": [],
+   "title": "Southern Studies",
+   "rawTitle": "EN4460 Southern Studies",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English"
+  },
+  {
+   "code": "EN4470",
+   "aliases": [],
+   "title": "STEM and the Stage",
+   "rawTitle": "EN4470 STEM and the Stage",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4481",
+   "aliases": [],
+   "title": "Topics in Literature I",
+   "rawTitle": "EN4481 Topics in Literature I",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4482",
+   "aliases": [],
+   "title": "Topics in Literature II",
+   "rawTitle": "EN4482 Topics in Literature II (see sample syllabus, above, for Topics I)",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4483",
+   "aliases": [],
+   "title": "Topics in Literature III",
+   "rawTitle": "EN4483 Topics in Literature III (see sample syllabus, above, for Topics I)",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4484",
+   "aliases": [],
+   "title": "Topics in Literature IV",
+   "rawTitle": "EN4484 Topics in Literature IV (see sample syllabus, above, for Topics I)",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "EN4490",
+   "aliases": [],
+   "title": "Ecocriticism",
+   "rawTitle": "EN4490 Ecocriticism",
+   "department": "Humanities",
+   "campuses": [
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English"
+  },
+  {
+   "code": "EN4600",
+   "aliases": [],
+   "title": "Research Experience in the Humanities",
+   "rawTitle": "EN4600 Research Experience in the Humanities",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "EN4610",
+   "aliases": [],
+   "title": "Research in the Humanities",
+   "rawTitle": "EN4610 Research in the Humanities",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "English",
+   "credits": "1"
+  },
+  {
+   "code": "FR3051",
+   "aliases": [],
+   "title": "Journeys into French I",
+   "rawTitle": "FR3051 Journeys into French I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "FR3052",
+   "aliases": [],
+   "title": "Journeys into French II",
+   "rawTitle": "FR3052 Journeys into French II",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "FR4051",
+   "aliases": [],
+   "title": "Advanced French for Global Applications I",
+   "rawTitle": "FR4051 Advanced French for Global Applications I",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "FR4052",
+   "aliases": [],
+   "title": "Advanced French for Global Applications II",
+   "rawTitle": "FR4052 Advanced French for Global Applications II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "FR4151",
+   "aliases": [],
+   "title": "Navigating in French I",
+   "rawTitle": "FR4151 Navigating in French I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "FR4152",
+   "aliases": [],
+   "title": "Navigating in French II",
+   "rawTitle": "FR4152 Navigating in French II",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "FR4300",
+   "aliases": [],
+   "title": "Advanced French for Global Applications",
+   "rawTitle": "FR4300 Advanced French for Global Applications",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "FR4510",
+   "aliases": [],
+   "title": "Modern French Readings and Media",
+   "rawTitle": "FR4510 Modern French Readings and Media",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "FR4651",
+   "aliases": [],
+   "title": "Navigating in French I",
+   "rawTitle": "FR4651 Navigating in French I/FR4652 Navigating in French II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "FR4652",
+   "aliases": [],
+   "title": "Navigating in French II",
+   "rawTitle": "FR4651 Navigating in French I/FR4652 Navigating in French II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4000",
+   "aliases": [],
+   "title": "Entrepreneurship",
+   "rawTitle": "HU4000 Entrepreneurship",
+   "department": "Humanities",
+   "campuses": [
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4010",
+   "aliases": [],
+   "title": "Applications in Entrepreneurship",
+   "rawTitle": "HU4010 Applications in Entrepreneurship",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4200",
+   "aliases": [],
+   "title": "Honors 21st Century Media Studies",
+   "rawTitle": "HU4200 Honors 21st Century Media Studies",
+   "department": "Humanities",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences"
+  },
+  {
+   "code": "HU4300",
+   "aliases": [],
+   "title": "Whose America? Immigrant Experiences, 1910- present",
+   "rawTitle": "HU4300 Whose America? Immigrant Experiences, 1910- present",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4305",
+   "aliases": [],
+   "title": "Health, Illness and Society",
+   "rawTitle": "HU4305 Health, Illness and Society",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4320",
+   "aliases": [],
+   "title": "Classical Traditions in East Asia",
+   "rawTitle": "HU4320 Classical Traditions in East Asia",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4400",
+   "aliases": [],
+   "title": "Black Studies",
+   "rawTitle": "HU4400 Black Studies",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4405",
+   "aliases": [],
+   "title": "American Indian and Indigenous Studies",
+   "rawTitle": "HU4405 American Indian and Indigenous Studies",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4410",
+   "aliases": [],
+   "title": "Critical Race Theory",
+   "rawTitle": "HU4410 Critical Race Theory",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4411",
+   "aliases": [],
+   "title": "Critical Legal Studies",
+   "rawTitle": "HU4411 Critical Legal Studies",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4420",
+   "aliases": [],
+   "title": "Digital Humanities",
+   "rawTitle": "HU4420 Digital Humanities",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4425",
+   "aliases": [],
+   "title": "Data Ethics and Data Justice in the Age of AI",
+   "rawTitle": "HU4425 Data Ethics and Data Justice in the Age of AI",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4430",
+   "aliases": [],
+   "title": "Ethics of AI",
+   "rawTitle": "HU4430 Ethics of AI",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4435",
+   "aliases": [],
+   "title": "Bioethics",
+   "rawTitle": "HU4435 Bioethics",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4440",
+   "aliases": [],
+   "title": "Film Studies",
+   "rawTitle": "HU4440 Film Studies",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4445",
+   "aliases": [],
+   "title": "Introduction to Western Thought",
+   "rawTitle": "HU4445 Introduction to Western Thought",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4450",
+   "aliases": [],
+   "title": "Race, Leadership, and Ethics",
+   "rawTitle": "HU4450 Race, Leadership, and Ethics ",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4455",
+   "aliases": [],
+   "title": "World War I: The Great War A Century Later",
+   "rawTitle": "HU4455 World War I: The Great War A Century Later",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4460",
+   "aliases": [],
+   "title": "Topics in Humanities I",
+   "rawTitle": "HU4460 Topics in Humanities I",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4461",
+   "aliases": [],
+   "title": "Topics in Humanities II",
+   "rawTitle": "HU4461 Topics in Humanities II",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4462",
+   "aliases": [],
+   "title": "Topics in Humanities III",
+   "rawTitle": "HU4462 Topics in Humanities III",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4465",
+   "aliases": [],
+   "title": "Topics in Popular Fiction",
+   "rawTitle": "HU4465 Topics in Popular Fiction",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives",
+   "credits": "1"
+  },
+  {
+   "code": "HU4470",
+   "aliases": [],
+   "title": "Topics in the Study of Religion",
+   "rawTitle": "HU4470 Topics in the Study of Religion",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "HU4475",
+   "aliases": [],
+   "title": "Psychology of Experience and Dreaming",
+   "rawTitle": "HU4475 Psychology of Experience and Dreaming",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4490",
+   "aliases": [],
+   "title": "Women's, Gender, and Sexuality Studies",
+   "rawTitle": "HU4490 Women's, Gender, and Sexuality Studies",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "HU4495",
+   "aliases": [],
+   "title": "Global Studies",
+   "rawTitle": "HU4495 Global Studies",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "IE3400",
+   "aliases": [],
+   "title": "Honors Computational Science",
+   "rawTitle": "IE3400 Honors Computational Science (*R*)",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "IE3620",
+   "aliases": [],
+   "title": "Honors Data Science for Scientists",
+   "rawTitle": "IE3620 Honors Data Science for Scientists",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "IE3800",
+   "aliases": [],
+   "title": "Bioinformatics: Computational Biology",
+   "rawTitle": "IE3800 Bioinformatics: Computational Biology",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "IE3900",
+   "aliases": [],
+   "title": "Research Experience in Computational Science",
+   "rawTitle": "IE3900 Research Experience in Computational Science",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "IE4200",
+   "aliases": [],
+   "title": "Topics in Artificial Intelligence for Health & Life Science",
+   "rawTitle": "IE4200 Topics in Artificial Intelligence for Health & Life Science",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "IE4300",
+   "aliases": [],
+   "title": "Topics in Entrepreneurship",
+   "rawTitle": "IE4300 Topics in Entrepreneurship",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "JA3051",
+   "aliases": [],
+   "title": "Journeys into Japanese I",
+   "rawTitle": "JA3051 Journeys into Japanese I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "JA3052",
+   "aliases": [],
+   "title": "Journeys into Japanese II",
+   "rawTitle": "JA3052 Journeys into Japanese II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "JA4151",
+   "aliases": [],
+   "title": "Navigating in Japanese I",
+   "rawTitle": "JA4151 Navigating in Japanese I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "JA4152",
+   "aliases": [],
+   "title": "Navigating in Japanese II",
+   "rawTitle": "JA4152 Navigating in Japanese II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "JT0009",
+   "aliases": [],
+   "title": "Bridge to AP Chemistry",
+   "rawTitle": "JT0009 Bridge to AP Chemistry",
+   "department": "Science",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Chemistry"
+  },
+  {
+   "code": "LA3051",
+   "aliases": [],
+   "title": "Latin Elements I",
+   "rawTitle": "LA3051 Latin Elements I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "LA3052",
+   "aliases": [],
+   "title": "Latin Elements II",
+   "rawTitle": "LA3052 Latin Elements II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "LA3650",
+   "aliases": [],
+   "title": "Latin Boot Camp",
+   "rawTitle": "LA3650 Latin Boot Camp",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "LA4050",
+   "aliases": [],
+   "title": "Caesar in Gaul and Britannia",
+   "rawTitle": "LA4050 Caesar in Gaul and Britannia",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "LA4651",
+   "aliases": [],
+   "title": "Sallust and Cicero I",
+   "rawTitle": "LA4651 Sallust and Cicero I/LA4652 Sallust and Cicero II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "LA4652",
+   "aliases": [],
+   "title": "Sallust and Cicero II",
+   "rawTitle": "LA4651 Sallust and Cicero I/LA4652 Sallust and Cicero II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "LA4661",
+   "aliases": [],
+   "title": "Ovid's Metamorphoses I",
+   "rawTitle": "LA4661 Ovid's Metamorphoses I",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "LA4662",
+   "aliases": [],
+   "title": "Ovid's Metamorphoses II",
+   "rawTitle": "LA4662 Ovid's Metamorphoses II",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "MA1000",
+   "aliases": [],
+   "title": "Precalculus Co-Requisite",
+   "rawTitle": "MA1000 Precalculus Co-Requisite",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA1012",
+   "aliases": [],
+   "title": "Calculus Ib Exam Prep",
+   "rawTitle": "MA1012 Calculus Ib Exam Prep",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA1030",
+   "aliases": [],
+   "title": "Calculus Co-Requisite",
+   "rawTitle": "MA1030 Calculus Co-Requisite",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA3990",
+   "aliases": [],
+   "title": "Precalculus I",
+   "rawTitle": "MA3990 Precalculus I",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA3992",
+   "aliases": [],
+   "title": "Precalculus II",
+   "rawTitle": "MA3992 Precalculus II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4000",
+   "aliases": [],
+   "title": "Precalculus & Modeling w/ Advanced Topics I",
+   "rawTitle": "MA4000 Precalculus & Modeling w/ Advanced Topics I",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4002",
+   "aliases": [],
+   "title": "Precalculus & Modeling w/ Advanced Topics II",
+   "rawTitle": "MA4002 Precalculus & Modeling w/ Advanced Topics II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4010",
+   "aliases": [],
+   "title": "Biocalculus",
+   "rawTitle": "MA4010 Biocalculus",
+   "department": "Mathematics",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4012",
+   "aliases": [],
+   "title": "Calculus Ia",
+   "rawTitle": "MA4012 Calculus Ia",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4014",
+   "aliases": [],
+   "title": "Calculus Ib with AP Exam Prep",
+   "rawTitle": "MA4014 Calculus Ib with AP Exam Prep",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4016",
+   "aliases": [],
+   "title": "Calculus Ib",
+   "rawTitle": "MA4016 Calculus Ib",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4020",
+   "aliases": [],
+   "title": "AP Calculus AB w/ Advanced Topics I",
+   "rawTitle": "MA4020 AP Calculus AB w/ Advanced Topics I / MA4022 AP Calculus AB w/ Advanced Topics II",
+   "department": "Mathematics",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4022",
+   "aliases": [],
+   "title": "AP Calculus AB w/ Advanced Topics II",
+   "rawTitle": "MA4020 AP Calculus AB w/ Advanced Topics I / MA4022 AP Calculus AB w/ Advanced Topics II",
+   "department": "Mathematics",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4030",
+   "aliases": [],
+   "title": "AP Calculus BC with Advanced Topics I",
+   "rawTitle": "MA4030: AP Calculus BC with Advanced Topics I/ MA4032: AP Calculus BC with Advanced Topics II",
+   "department": "Mathematics",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4032",
+   "aliases": [],
+   "title": "AP Calculus BC w/ Advanced Topics II",
+   "rawTitle": "MA4032 AP Calculus BC w/ Advanced Topics II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4042",
+   "aliases": [],
+   "title": "Calculus I",
+   "rawTitle": "MA4042 Calculus I",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4044",
+   "aliases": [],
+   "title": "Calculus II with AP Exam Prep",
+   "rawTitle": "MA4044 Calculus II with AP Exam Prep",
+   "department": "Mathematics",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4046",
+   "aliases": [],
+   "title": "Calculus II",
+   "rawTitle": "MA4046 Calculus II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4050",
+   "aliases": [],
+   "title": "Modeling with Differential Equations",
+   "rawTitle": "MA4050 Modeling with Differential Equations",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4060",
+   "aliases": [],
+   "title": "Multivariable Calculus",
+   "rawTitle": "MA4060 Multivariable Calculus",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4064",
+   "aliases": [],
+   "title": "Honors Multivariable Calculus with Applications I",
+   "rawTitle": "MA4064 Honors Multivariable Calculus with Applications I",
+   "department": "Mathematics",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4066",
+   "aliases": [],
+   "title": "Honors Multivariable Calculus with Applications II",
+   "rawTitle": "MA4066 Honors Multivariable Calculus with Applications II",
+   "department": "Mathematics",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4100",
+   "aliases": [],
+   "title": "AP Statistics w/ Advanced Topics I",
+   "rawTitle": "MA4100 AP Statistics w/ Advanced Topics I",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4102",
+   "aliases": [],
+   "title": "AP Statistics w/ Advanced Topics II",
+   "rawTitle": "MA4102 AP Statistics w/ Advanced Topics II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4110",
+   "aliases": [],
+   "title": "Foundations of Data Science",
+   "rawTitle": "MA4110 Foundations of Data Science",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4112",
+   "aliases": [],
+   "title": "Advanced Data Science",
+   "rawTitle": "MA4112 Advanced Data Science",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4115",
+   "aliases": [],
+   "title": "Calculus of Statistics",
+   "rawTitle": "MA4115 Calculus of Statistics",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4210",
+   "aliases": [],
+   "title": "Topics in Civic Mathematics",
+   "rawTitle": "MA4210 Topics in Civic Mathematics",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4220",
+   "aliases": [],
+   "title": "Mathematical Modeling",
+   "rawTitle": "MA4220 Mathematical Modeling",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4230",
+   "aliases": [],
+   "title": "Complex Systems and Modern Networks",
+   "rawTitle": "MA4230 Complex Systems and Modern Networks",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4240",
+   "aliases": [],
+   "title": "Numerical Analysis",
+   "rawTitle": "MA4240 Numerical Analysis",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4250",
+   "aliases": [],
+   "title": "History of Mathematics",
+   "rawTitle": "MA4250 History of Mathematics",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4260",
+   "aliases": [],
+   "title": "Introduction to Operations Research",
+   "rawTitle": "MA4260 Introduction to Operations Research",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4300",
+   "aliases": [],
+   "title": "Combinatorics and Game Theory",
+   "rawTitle": "MA4300 Combinatorics and Game Theory",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4302",
+   "aliases": [],
+   "title": "Advanced Combinatorics",
+   "rawTitle": "MA4302 Advanced Combinatorics",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4310",
+   "aliases": [],
+   "title": "Topics in Theoretical Mathematics",
+   "rawTitle": "MA4310 Topics in Theoretical Mathematics",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4320",
+   "aliases": [],
+   "title": "Linear Algebra with Applications",
+   "rawTitle": "MA4320 Linear Algebra with Applications",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4325",
+   "aliases": [],
+   "title": "Honors Linear Algebra with Applications I",
+   "rawTitle": "MA4325 Honors Linear Algebra with Applications I",
+   "department": "Mathematics",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4326",
+   "aliases": [],
+   "title": "Honors Linear Algebra with Applications II",
+   "rawTitle": "MA4326 Honors Linear Algebra with Applications II",
+   "department": "Mathematics",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4335",
+   "aliases": [],
+   "title": "Knot Theory",
+   "rawTitle": "MA4335 Knot Theory",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4340",
+   "aliases": [],
+   "title": "Topics in Mathematics",
+   "rawTitle": "MA4340 Topics in Mathematics",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4345",
+   "aliases": [],
+   "title": "Low-Dimensional Topology",
+   "rawTitle": "MA4345 Low-Dimensional Topology",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4350",
+   "aliases": [],
+   "title": "Real Analysis",
+   "rawTitle": "MA4350 Real Analysis",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4355",
+   "aliases": [],
+   "title": "Knot Theory with REX Math",
+   "rawTitle": "MA4355 Knot Theory with REX Math",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4500",
+   "aliases": [],
+   "title": "Graph Theory with REX Math",
+   "rawTitle": "MA4500 Graph Theory with REX Math",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4510",
+   "aliases": [],
+   "title": "Research in Mathematics",
+   "rawTitle": "MA4510 Research in Mathematics",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4512",
+   "aliases": [],
+   "title": "Research in Mathematics II",
+   "rawTitle": "MA4512 Research in Mathematics II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4520",
+   "aliases": [],
+   "title": "Advanced Mathematical Topics I",
+   "rawTitle": "MA4520 Advanced Mathematical Topics I",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MA4522",
+   "aliases": [],
+   "title": "Advanced Mathematical Topics II",
+   "rawTitle": "MA4522 Advanced Mathematical Topics II",
+   "department": "Mathematics",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MA4760",
+   "aliases": [],
+   "title": "Abstract Algebra",
+   "rawTitle": "MA4760 Abstract Algebra",
+   "department": "Mathematics",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "credits": "1"
+  },
+  {
+   "code": "MR3080",
+   "aliases": [],
+   "title": "Mentorship: Foundations in Research",
+   "rawTitle": "MR3080 Mentorship: Foundations in Research",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham",
+    "morganton",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MR4050a",
+   "aliases": [],
+   "title": "Mentorship: Senior Research I",
+   "rawTitle": "MR4050a Mentorship: Senior Research I",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MR4050B",
+   "aliases": [],
+   "title": "Mentorship: Senior Research I",
+   "rawTitle": "MR4050B Mentorship: Senior Research I",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MR4051",
+   "aliases": [],
+   "title": "Mentorship: Senior Research II",
+   "rawTitle": "MR4051 Mentorship: Senior Research II",
+   "department": "Interdisciplinary Electives",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "MU3501",
+   "aliases": [],
+   "title": "Piano and Guitar",
+   "rawTitle": "MU3501 Piano and Guitar",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music"
+  },
+  {
+   "code": "MU4000",
+   "aliases": [],
+   "title": "Digital Music Production and Recording Technology",
+   "rawTitle": "MU4000 Digital Music Production and Recording Technology",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4010",
+   "aliases": [],
+   "title": "Advanced Sound Design for Video Games and Film",
+   "rawTitle": "MU4010 Advanced Sound Design for Video Games and Film",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4100",
+   "aliases": [],
+   "title": "Chorale",
+   "rawTitle": "MU4100 Chorale",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4110",
+   "aliases": [],
+   "title": "Wind Ensemble",
+   "rawTitle": "MU4110 Wind Ensemble",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4120",
+   "aliases": [],
+   "title": "Jazz Performance Workshop",
+   "rawTitle": "MU4120 Jazz Performance Workshop",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4125",
+   "aliases": [],
+   "title": "Modern Band",
+   "rawTitle": "MU4125 Modern Band",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4130",
+   "aliases": [],
+   "title": "Orchestra",
+   "rawTitle": "MU4130 Orchestra",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4140",
+   "aliases": [],
+   "title": "Topics in Music Performance I: Steel Drums and Percussion Ensemble",
+   "rawTitle": "MU4140 Topics in Music Performance I: Steel Drums and Percussion Ensemble",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music"
+  },
+  {
+   "code": "MU4150",
+   "aliases": [],
+   "title": "Topics in Music Performance II: Solo Repertoire and Performance (Woodwind, Brass, Strings, Pe",
+   "rawTitle": "MU4150 Topics in Music Performance II: Solo Repertoire and Performance (Woodwind, Brass, Strings, Pe",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4160",
+   "aliases": [],
+   "title": "Music Performance Ensemble",
+   "rawTitle": "MU4160 Music Performance Ensemble",
+   "department": "Humanities",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music"
+  },
+  {
+   "code": "MU4170",
+   "aliases": [],
+   "title": "Topics in Music Performance III: Solo Repertoire and Performance (Vocal)",
+   "rawTitle": "MU4170 Topics in Music Performance III: Solo Repertoire and Performance (Vocal)",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4305",
+   "aliases": [],
+   "title": "Fundamentals of Music Theory",
+   "rawTitle": "MU4305 Fundamentals of Music Theory",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music"
+  },
+  {
+   "code": "MU4310",
+   "aliases": [],
+   "title": "AP Music Theory",
+   "rawTitle": "MU4310 AP Music Theory",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "MU4400",
+   "aliases": [],
+   "title": "History of Western Music",
+   "rawTitle": "MU4400 History of Western Music",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Music",
+   "credits": "1"
+  },
+  {
+   "code": "PA1005",
+   "aliases": [],
+   "title": "Weight Trng/Sprts & Fitness",
+   "rawTitle": "PA1005 Weight Trng/Sprts & Fitness",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "PA1007",
+   "aliases": [],
+   "title": "Pilates & Yoga",
+   "rawTitle": "PA1007 Pilates & Yoga",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "PA1009",
+   "aliases": [],
+   "title": "Hiking",
+   "rawTitle": "PA1009 Hiking",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "PA1020",
+   "aliases": [],
+   "title": "Fit for Life",
+   "rawTitle": "PA1020 Fit for Life",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "PA1340",
+   "aliases": [],
+   "title": "Advanced Dance Techniques I",
+   "rawTitle": "PA1340 Advanced Dance Techniques I",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "PA1380",
+   "aliases": [],
+   "title": "Dance Appreciation",
+   "rawTitle": "PA1380 Dance Appreciation",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "PH1000",
+   "aliases": [],
+   "title": "Physics Core: Mechanics Co-Requisite",
+   "rawTitle": "PH1000  Physics Core: Mechanics Co-Requisite",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH3040",
+   "aliases": [],
+   "title": "Astronomy",
+   "rawTitle": "PH3040 Astronomy",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH3125",
+   "aliases": [],
+   "title": "Honors Computational Physics",
+   "rawTitle": "PH3125 Honors Computational Physics",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH3225",
+   "aliases": [],
+   "title": "Honors Computational Atmospheric Physics",
+   "rawTitle": "PH3225 Honors Computational Atmospheric Physics",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH3500",
+   "aliases": [],
+   "title": "Physics Core: Mechanics",
+   "rawTitle": "PH3500 Physics Core: Mechanics",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH3510",
+   "aliases": [],
+   "title": "Honors Introduction to Astronomy",
+   "rawTitle": "PH3510 Honors Introduction to Astronomy",
+   "department": "Science",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics",
+   "credits": "1"
+  },
+  {
+   "code": "PH3900",
+   "aliases": [],
+   "title": "Research Experience in Physics",
+   "rawTitle": "PH3900 Research Experience in Physics (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH3920",
+   "aliases": [],
+   "title": "Waves, Sound, and Optics",
+   "rawTitle": "PH3920 Waves, Sound, and Optics",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4000",
+   "aliases": [],
+   "title": "Physics Core: E&M",
+   "rawTitle": "PH4000 Physics Core: E&M",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4020",
+   "aliases": [],
+   "title": "Physics Core: Mechanics (Math Intensive)",
+   "rawTitle": "PH4020 Physics Core: Mechanics (Math Intensive) (*M*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "math-intensive"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4120",
+   "aliases": [],
+   "title": "Physics Core: E&M (Math Intensive)",
+   "rawTitle": "PH4120 Physics Core: E&M (Math Intensive) (*M*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "math-intensive"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4130",
+   "aliases": [],
+   "title": "Computational Physics *R*",
+   "rawTitle": "PH4130 Computational Physics *R*",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4150",
+   "aliases": [
+    "EE4150"
+   ],
+   "title": "Elements of Satellite Design",
+   "rawTitle": "PH4150/EE4150 Elements of Satellite Design",
+   "department": "Engineering & Computer Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Engineering"
+  },
+  {
+   "code": "PH4180",
+   "aliases": [],
+   "title": "Astrophysics",
+   "rawTitle": "PH4180 Astrophysics",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4190",
+   "aliases": [],
+   "title": "Biophysics",
+   "rawTitle": "PH4190 Biophysics",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4240",
+   "aliases": [],
+   "title": "AP Physics C: Mechanics",
+   "rawTitle": "PH4240 AP Physics C: Mechanics",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4241",
+   "aliases": [],
+   "title": "AP Physics C: E&M",
+   "rawTitle": "PH4241 AP Physics C: E&M",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4250",
+   "aliases": [],
+   "title": "Modern Physics",
+   "rawTitle": "PH4250 Modern Physics",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4260",
+   "aliases": [],
+   "title": "Quantum Mechanics",
+   "rawTitle": "PH4260 Quantum Mechanics",
+   "department": "Science",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4270",
+   "aliases": [],
+   "title": "Spacetime Physics",
+   "rawTitle": "PH4270 Spacetime Physics",
+   "department": "Science",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4920",
+   "aliases": [],
+   "title": "Research in Physics I",
+   "rawTitle": "PH4920 Research in Physics I (*R*)",
+   "department": "Science",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4921",
+   "aliases": [],
+   "title": "Research in Physics II",
+   "rawTitle": "PH4921 Research in Physics II (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "PH4922",
+   "aliases": [],
+   "title": "Research in Physics III",
+   "rawTitle": "PH4922 Research in Physics III (*R*)",
+   "department": "Science",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [
+    "research"
+   ],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Physics"
+  },
+  {
+   "code": "RE1002",
+   "aliases": [],
+   "title": "Cornerstone",
+   "rawTitle": "RE1002 Cornerstone",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "RE1010",
+   "aliases": [],
+   "title": "Exploring MultiCultural Amer",
+   "rawTitle": "RE1010 Exploring MultiCultural Amer",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "RE1012",
+   "aliases": [],
+   "title": "Public Speaking",
+   "rawTitle": "RE1012 Public Speaking",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "RE1016",
+   "aliases": [],
+   "title": "Marketing You",
+   "rawTitle": "RE1016 Marketing You",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "RE1018",
+   "aliases": [],
+   "title": "Excellence in Leadership",
+   "rawTitle": "RE1018 Excellence in Leadership",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "RE1020",
+   "aliases": [],
+   "title": "Financial Planning",
+   "rawTitle": "RE1020 Financial Planning",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "RE1022",
+   "aliases": [],
+   "title": "College and Career Planning",
+   "rawTitle": "RE1022 College and Career Planning",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SE4001",
+   "aliases": [],
+   "title": "Emergency Care",
+   "rawTitle": "SE4001 Emergency Care",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SE4002",
+   "aliases": [],
+   "title": "Introduction to Sports Injury Care and Management",
+   "rawTitle": "SE4002 Introduction to Sports Injury Care and Management",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SL1000",
+   "aliases": [],
+   "title": "Service Learning- Junior Year Report",
+   "rawTitle": "SL1000 Service Learning- Junior Year Report",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SL1001",
+   "aliases": [],
+   "title": "Campus Service",
+   "rawTitle": "SL1001 Campus Service",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SL1002",
+   "aliases": [],
+   "title": "Service Learning",
+   "rawTitle": "SL1002 Service Learning",
+   "department": "Student Life",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP3051",
+   "aliases": [],
+   "title": "Journeys into Spanish I",
+   "rawTitle": "SP3051 Journeys into Spanish I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP3052",
+   "aliases": [],
+   "title": "Journeys in Spanish II",
+   "rawTitle": "SP3052 Journeys in Spanish II",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP3250",
+   "aliases": [],
+   "title": "Breakthroughs in Spanish",
+   "rawTitle": "SP3250 Breakthroughs in Spanish",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP3651",
+   "aliases": [],
+   "title": "Navigating in Spanish I",
+   "rawTitle": "SP3651 Navigating in Spanish I/SP3652 Navigating in Spanish II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP3652",
+   "aliases": [],
+   "title": "Navigating in Spanish II",
+   "rawTitle": "SP3651 Navigating in Spanish I/SP3652 Navigating in Spanish II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP4051",
+   "aliases": [],
+   "title": "Advanced Spanish for Global Applications I",
+   "rawTitle": "SP4051 Advanced Spanish for Global Applications I",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP4052",
+   "aliases": [],
+   "title": "Advanced Spanish for Global Applications II",
+   "rawTitle": "SP4051 Advanced Spanish for Global Applications I/SP4052 Advanced Spanish for Global Applications II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP4151",
+   "aliases": [],
+   "title": "Navigating in Spanish I",
+   "rawTitle": "SP4151 Navigating in Spanish I",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4152",
+   "aliases": [],
+   "title": "Navigating in Spanish II",
+   "rawTitle": "SP4152 Navigating in Spanish II",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4300",
+   "aliases": [],
+   "title": "Explorations in Spanish: Environmental Studies",
+   "rawTitle": "SP4300 Explorations in Spanish: Environmental Studies",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4310",
+   "aliases": [],
+   "title": "Explorations in Spanish: Medical Spanish",
+   "rawTitle": "SP4310 Explorations in Spanish: Medical Spanish",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4315",
+   "aliases": [],
+   "title": "Explorations in Spanish: Spanish for the Healthcare Professions",
+   "rawTitle": "SP4315 Explorations in Spanish: Spanish for the Healthcare Professions",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP4320",
+   "aliases": [],
+   "title": "Explorations in Spanish: History and Culture of the Spanish-Speaking World",
+   "rawTitle": "SP4320 Explorations in Spanish: History and Culture of the Spanish-Speaking World",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4500",
+   "aliases": [],
+   "title": "Spanish for Heritage Speakers",
+   "rawTitle": "SP4500 Spanish for Heritage Speakers",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4510",
+   "aliases": [],
+   "title": "Advanced Spanish: Gender and Sexuality in the Hispanosphere",
+   "rawTitle": "SP4510 Advanced Spanish: Gender and Sexuality in the Hispanosphere",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4520",
+   "aliases": [],
+   "title": "Advanced Spanish: Sports and Culture in the Hispanosphere",
+   "rawTitle": "SP4520 Advanced Spanish: Sports and Culture in the Hispanosphere",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4530",
+   "aliases": [],
+   "title": "Advanced Spanish: The Gothic and Supernatural in the Spanish Speaking World",
+   "rawTitle": "SP4530 Advanced Spanish: The Gothic and Supernatural in the Spanish Speaking World",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4540",
+   "aliases": [],
+   "title": "Advanced Spanish: Afro-Latino and Caribbean Studies",
+   "rawTitle": "SP4540 Advanced Spanish: Afro-Latino and Caribbean Studies",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "SP4550",
+   "aliases": [],
+   "title": "Advanced Spanish: Hispanic Linguistics",
+   "rawTitle": "SP4550 Advanced Spanish: Hispanic Linguistics",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP4560",
+   "aliases": [],
+   "title": "Advanced Spanish: Cinema of the Spanish-Speaking World",
+   "rawTitle": "SP4560 Advanced Spanish: Cinema of the Spanish-Speaking World",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP4570",
+   "aliases": [],
+   "title": "Advanced Spanish: Film & Literature from the Spanish Civil War to the Present",
+   "rawTitle": "SP4570 Advanced Spanish: Film & Literature from the Spanish Civil War to the Present",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages",
+   "credits": "1"
+  },
+  {
+   "code": "SP4651",
+   "aliases": [],
+   "title": "Readings in Spanish with Topics I",
+   "rawTitle": "SP4651 Readings in Spanish with Topics I",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP4652",
+   "aliases": [],
+   "title": "Readings in Spanish with Topics II",
+   "rawTitle": "SP4651 Readings in Spanish with Topics I/SP4652 Readings in Spanish with Topics II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP4851",
+   "aliases": [],
+   "title": "Advanced Readings iin Spanish with Topics I",
+   "rawTitle": "SP4851 Advanced Readings iin Spanish with Topics I/SP4852 Advanced Readings in Spanish with Topics II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SP4852",
+   "aliases": [],
+   "title": "Advanced Readings in Spanish with Topics II",
+   "rawTitle": "SP4851 Advanced Readings iin Spanish with Topics I/SP4852 Advanced Readings in Spanish with Topics II",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SS4000",
+   "aliases": [],
+   "title": "International Relations",
+   "rawTitle": "SS4000 International Relations",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences",
+   "credits": "1"
+  },
+  {
+   "code": "SS4010",
+   "aliases": [],
+   "title": "Western Political Thought",
+   "rawTitle": "SS4010 Western Political Thought",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "Humanities Electives"
+  },
+  {
+   "code": "SS4020",
+   "aliases": [],
+   "title": "Sociology",
+   "rawTitle": "SS4020 Sociology",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SS4030",
+   "aliases": [],
+   "title": "Medical Sociology",
+   "rawTitle": "SS4030 Medical Sociology",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://docs.google.com/spreadsheets/d/1ItTyQvD15A5SOQp4ZUBNFQq0ZdIqSFS242mYFzljEO0/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SS4040",
+   "aliases": [],
+   "title": "Topics in Psychology",
+   "rawTitle": "SS4040 Topics in Psychology",
+   "department": "Humanities",
+   "campuses": [],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://docs.google.com/spreadsheets/d/10g_g1nww1EUNV2AAlHBe7_uotrgXwtXMCiSxIOEhIlM/export?format=csv&gid=0",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "SS4050",
+   "aliases": [],
+   "title": "AP Psychology",
+   "rawTitle": "SS4050 AP Psychology",
+   "department": "Humanities",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences",
+   "credits": "1"
+  },
+  {
+   "code": "SS4060",
+   "aliases": [],
+   "title": "AP Microeconomics",
+   "rawTitle": "SS4060 AP Microeconomics",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences",
+   "credits": "1"
+  },
+  {
+   "code": "SS4061",
+   "aliases": [],
+   "title": "AP Microeconomics II",
+   "rawTitle": "SS4061 AP Microeconomics II",
+   "department": "Humanities",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences"
+  },
+  {
+   "code": "SS4070",
+   "aliases": [],
+   "title": "AP Macroeconomics",
+   "rawTitle": "SS4070 AP Macroeconomics",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences",
+   "credits": "1"
+  },
+  {
+   "code": "SS4071",
+   "aliases": [],
+   "title": "AP Macroeconomics II",
+   "rawTitle": "SS4071 AP Macroeconomics II",
+   "department": "Humanities",
+   "campuses": [
+    "online"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=2",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "History & Social Sciences"
+  },
+  {
+   "code": "VS1002",
+   "aliases": [],
+   "title": "Men's Soccer",
+   "rawTitle": "VS1002 Men's Soccer",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1004",
+   "aliases": [],
+   "title": "Women's Volleyball",
+   "rawTitle": "VS1004 Women's Volleyball",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1006",
+   "aliases": [],
+   "title": "Women's Tennis",
+   "rawTitle": "VS1006 Women's Tennis",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1008",
+   "aliases": [],
+   "title": "Cross Country",
+   "rawTitle": "VS1008 Cross Country",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1010",
+   "aliases": [],
+   "title": "Competitive Cheer",
+   "rawTitle": "VS1010 Competitive Cheer",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1012",
+   "aliases": [],
+   "title": "Women's Golf",
+   "rawTitle": "VS1012 Women's Golf",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1013",
+   "aliases": [],
+   "title": "Golf",
+   "rawTitle": "VS1013 Golf",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1014",
+   "aliases": [],
+   "title": "Men's Basketball",
+   "rawTitle": "VS1014 Men's Basketball",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1016",
+   "aliases": [],
+   "title": "Women's Basketball",
+   "rawTitle": "VS1016 Women's Basketball",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1018",
+   "aliases": [],
+   "title": "Men's Swimming",
+   "rawTitle": "VS1018 Men's Swimming",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1019",
+   "aliases": [],
+   "title": "Swimming",
+   "rawTitle": "VS1019 Swimming",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1020",
+   "aliases": [],
+   "title": "Women's Swimming",
+   "rawTitle": "VS1020 Women's Swimming",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1022",
+   "aliases": [],
+   "title": "Diving",
+   "rawTitle": "VS1022 Diving",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1024",
+   "aliases": [],
+   "title": "Wrestling",
+   "rawTitle": "VS1024 Wrestling",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1026",
+   "aliases": [],
+   "title": "Men's Indoor Track",
+   "rawTitle": "VS1026 Men's Indoor Track",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1028",
+   "aliases": [],
+   "title": "Women's Indoor Track",
+   "rawTitle": "VS1028 Women's Indoor Track",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1030",
+   "aliases": [],
+   "title": "Basketball Cheerleading",
+   "rawTitle": "VS1030 Basketball Cheerleading",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1032",
+   "aliases": [],
+   "title": "Baseball",
+   "rawTitle": "VS1032 Baseball",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1034",
+   "aliases": [],
+   "title": "Men's Tennis",
+   "rawTitle": "VS1034 Men's Tennis",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1036",
+   "aliases": [],
+   "title": "Men's Golf",
+   "rawTitle": "VS1036 Men's Golf",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1038",
+   "aliases": [],
+   "title": "Softball",
+   "rawTitle": "VS1038 Softball",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1040",
+   "aliases": [],
+   "title": "Women's Soccer",
+   "rawTitle": "VS1040 Women's Soccer",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1042",
+   "aliases": [],
+   "title": "Men's Track and Field",
+   "rawTitle": "VS1042 Men's Track and Field",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "VS1044",
+   "aliases": [],
+   "title": "Women's Track and Field",
+   "rawTitle": "VS1044 Women's Track and Field",
+   "department": "Physical Activity & Wellness",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "code": "WL4100",
+   "aliases": [],
+   "title": "World Language Mastery - Other",
+   "rawTitle": "WL4100 World Language Mastery - Other",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  },
+  {
+   "code": "WL4200",
+   "aliases": [],
+   "title": "World Language Mastery - Other",
+   "rawTitle": "WL4200 World Language Mastery - Other",
+   "department": "Humanities",
+   "campuses": [
+    "durham",
+    "morganton"
+   ],
+   "tags": [],
+   "sources": [
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=1",
+     "fetchedAt": "2026-11-09"
+    },
+    {
+     "url": "https://courses.ncssm.edu/course_catalog.php?id=3",
+     "fetchedAt": "2026-11-09"
+    }
+   ],
+   "subject": "World Languages"
+  }
+ ]
+}

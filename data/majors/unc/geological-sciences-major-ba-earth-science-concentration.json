@@ -1,0 +1,348 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-geological-sciences-major-ba-earth-science-concentration",
+ "university": "unc",
+ "name": "Geological Sciences",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/geological-sciences-major-ba-earth-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 39,
+  "max": 42
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Choose two of the following:",
+     "options": [
+      [
+       "EMES 200"
+      ],
+      [
+       "EMES 201"
+      ],
+      [
+       "EMES 202"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Choose two of the following: 6",
+     "id": "unc-geological-sciences-major-ba-earth-science-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "A minimum of 14 credits from the following EMES courses:",
+     "options": [
+      [
+       "EMES 203"
+      ],
+      [
+       "EMES 204"
+      ],
+      [
+       "EMES 301"
+      ],
+      [
+       "EMES 302"
+      ],
+      [
+       "EMES 303"
+      ],
+      [
+       "EMES 304"
+      ],
+      [
+       "EMES 306"
+      ],
+      [
+       "EMES 320"
+      ],
+      [
+       "EMES 324",
+       "EMES 324L"
+      ],
+      [
+       "EMES 440"
+      ],
+      [
+       "EMES 442"
+      ],
+      [
+       "EMES 484"
+      ]
+     ],
+     "pick": {
+      "hours": 14
+     },
+     "hours": {
+      "min": 14,
+      "max": 14
+     },
+     "raw": "A minimum of 14 credits from the following EMES courses: 14",
+     "id": "unc-geological-sciences-major-ba-earth-science-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Applied Learning Experience (3-6 hr)",
+     "options": [
+      [
+       "EMES 485",
+       "EMES 486"
+      ],
+      [
+       "EMES 691H",
+       "EMES 692H"
+      ],
+      [
+       "EMES 395"
+      ],
+      [
+       "EMES 396"
+      ],
+      [
+       "EMES 412"
+      ],
+      [
+       "ENEC 698"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 6
+     },
+     "raw": "Applied Learning Experience (3-6 hr) 3-6",
+     "id": "unc-geological-sciences-major-ba-earth-science-concentration-s3"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-geological-sciences-major-ba-earth-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 130 Precalculus Mathematics 3",
+     "options": [
+      [
+       "MATH 130"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 130 Precalculus Mathematics 3",
+     "id": "unc-geological-sciences-major-ba-earth-science-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least three EMES and/or allied science electives not otherwise required for the major (see below chart)",
+     "options": [
+      [
+       "ANTH 143"
+      ],
+      [
+       "ANTH 220"
+      ],
+      [
+       "ANTH 315"
+      ],
+      [
+       "ANTH 412"
+      ],
+      [
+       "ANTH 414"
+      ],
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ],
+      [
+       "ECON 101"
+      ],
+      [
+       "ENEC 489"
+      ],
+      [
+       "ENEC 490"
+      ],
+      [
+       "GEOG 370"
+      ],
+      [
+       "GEOG 410"
+      ],
+      [
+       "GEOG 412"
+      ],
+      [
+       "GEOG 414"
+      ],
+      [
+       "GEOG 416"
+      ],
+      [
+       "GEOG 440"
+      ],
+      [
+       "GEOG 441"
+      ],
+      [
+       "GEOG 444"
+      ]
+     ],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "At least three EMES and/or allied science electives not otherwise required for the major (see below chart) 9",
+     "id": "unc-geological-sciences-major-ba-earth-science-concentration-s6",
+     "pick": {
+      "hours": 9
+     },
+     "wildcards": [
+      {
+       "subjects": [
+        "ASTR"
+       ]
+      },
+      {
+       "subjects": [
+        "BIOC"
+       ],
+       "except": [
+        "BIOC 107",
+        "BIOC 108"
+       ]
+      },
+      {
+       "subjects": [
+        "BIOL"
+       ],
+       "minLevel": 114
+      },
+      {
+       "subjects": [
+        "CHEM"
+       ],
+       "minLevel": 102
+      },
+      {
+       "subjects": [
+        "COMP"
+       ],
+       "except": [
+        "COMP 50",
+        "COMP 70",
+        "COMP 380"
+       ]
+      },
+      {
+       "subjects": [
+        "EMES"
+       ],
+       "minLevel": 106
+      },
+      {
+       "subjects": [
+        "ENVR"
+       ],
+       "except": [
+        "ENVR 600"
+       ]
+      },
+      {
+       "subjects": [
+        "GEOG"
+       ],
+       "minLevel": 478
+      },
+      {
+       "subjects": [
+        "GEOL"
+       ]
+      },
+      {
+       "subjects": [
+        "MASC"
+       ],
+       "minLevel": 102
+      },
+      {
+       "subjects": [
+        "MATH"
+       ],
+       "minLevel": 131
+      },
+      {
+       "subjects": [
+        "PHYS"
+       ],
+       "except": [
+        "PHYS 101",
+        "PHYS 132",
+        "PHYS 313"
+       ]
+      },
+      {
+       "subjects": [
+        "STOR"
+       ],
+       "minLevel": 155
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Applied Learning Experience (3-6 hr)\" carries a note or open-ended option: \"Science-oriented Experiential Education (EE) courses (3 credits total).\"",
+  "Linked \"At least three EMES and/or allied science electives not otherwise required for the major (see below chart)\" to the list \"Geology and/or Allied Science Electives Not Otherwise Required for the Major\" by its position on the page"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/geological-sciences-major-ba-earth-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Earth Science Concentration"
+}

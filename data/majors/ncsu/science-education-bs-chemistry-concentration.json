@@ -1,0 +1,771 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-science-education-bs-chemistry-concentration",
+ "university": "ncsu",
+ "name": "Science Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/stem/science-education-bs-chemistry-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ED 100 Intro to Education 2 or ED 150/151 Students Advocating for Youth I",
+     "options": [
+      [
+       "ED 100"
+      ],
+      [
+       "ED 150"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2 or ED 150/151 Students Advocating for Youth I",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication/Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Communication/Advanced Writing",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Communication/Advanced Writing 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s2"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Choose from:",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "ENG 232"
+      ],
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 425"
+      ]
+     ],
+     "hours": null,
+     "raw": "Choose from:",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "(Chemistry BA double major choose ENG 331 or ENG 333)",
+     "options": [],
+     "hours": null,
+     "raw": "(Chemistry BA double major choose ENG 331 or ENG 333)",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s4"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Choose from:",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Choose from: 3-4",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Choose from:",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ],
+      [
+       "ST 311"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Choose from: 3-4",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s6"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 131 Conceptual Physics 4 or PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory or PY 211 College Physics I",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 205",
+       "PY 206"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 131 Conceptual Physics 4 or PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory or PY 211 College Physics I",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Earth and Environmental Science Electives",
+     "options": [],
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "Earth and Environmental Science Electives 7",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4 or CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "CH 103",
+       "CH 104"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4 or CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4 or CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "CH 203",
+       "CH 204"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4 or CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4 or CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ],
+      [
+       "CH 225",
+       "CH 226"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4 or CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4 or CH 227 & CH 228 Organic Chemistry II for Students in Chemical Sciences and Organic Chemistry Laboratory II for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 223",
+       "CH 224"
+      ],
+      [
+       "CH 227",
+       "CH 228"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4 or CH 227 & CH 228 Organic Chemistry II for Students in Chemical Sciences and Organic Chemistry Laboratory II for Students in Chemical Sciences",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Chemistry Electives 300/400 Level",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Chemistry Electives 300/400 Level 9",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Science Electives",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Advised Science Electives 6",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s16"
+    }
+   ]
+  },
+  {
+   "title": "Science Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 205 Introduction to Teaching Science 2",
+     "options": [
+      [
+       "EMS 205"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 205 Introduction to Teaching Science 2",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 404 Design of Tools and Learning Environments in Science Education 3",
+     "options": [
+      [
+       "EMS 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 404 Design of Tools and Learning Environments in Science Education 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 405 Methods of Teaching Science I 3",
+     "options": [
+      [
+       "EMS 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 405 Methods of Teaching Science I 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 406 Methods of Teaching Science II 3",
+     "options": [
+      [
+       "EMS 406"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 406 Methods of Teaching Science II 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 476 Student Teaching in Science 10",
+     "options": [
+      [
+       "EMS 476"
+      ]
+     ],
+     "hours": {
+      "min": 10,
+      "max": 10
+     },
+     "raw": "EMS 476 Student Teaching in Science 10",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "options": [
+      [
+       "EMS 495"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s22"
+    }
+   ]
+  },
+  {
+   "title": "General Education and Psychology",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 & ED 312 Classroom Assessment Principles and Practices and Classroom Assessment Principles and Practices Professional Learning Lab 3",
+     "options": [
+      [
+       "ED 311",
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ED 311 & ED 312 Classroom Assessment Principles and Practices and Classroom Assessment Principles and Practices Professional Learning Lab 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "History and Philosophy of Science Education Elective",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "History and Philosophy of Science Education Elective",
+     "options": [
+      [
+       "ECI 305"
+      ],
+      [
+       "HI 321"
+      ],
+      [
+       "HI 322"
+      ],
+      [
+       "HI 323"
+      ],
+      [
+       "HI 341"
+      ],
+      [
+       "HI 481"
+      ],
+      [
+       "HI 482"
+      ],
+      [
+       "HI 483"
+      ],
+      [
+       "HI 484"
+      ],
+      [
+       "HI 485"
+      ],
+      [
+       "PHI 340"
+      ],
+      [
+       "PHI 440"
+      ],
+      [
+       "STS 210"
+      ],
+      [
+       "STS 214"
+      ],
+      [
+       "STS 301"
+      ],
+      [
+       "STS 302"
+      ],
+      [
+       "STS 471"
+      ],
+      [
+       "STS 490"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "History and Philosophy of Science Education Elective 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 0,
+      "max": 7
+     },
+     "raw": "Free Electives 0-7",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s29"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 0,
+      "max": 6
+     },
+     "raw": "GEP Humanities (verify requirement) 0-6",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 0,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences (verify requirement) 0-3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s35"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-science-education-bs-chemistry-concentration-s37"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group meaning unclear (take all, one, or some?): \"Choose from:\"",
+  "Row points to a list that could not be linked: \"Earth and Environmental Science Electives\""
+ ],
+ "parseNotes": [
+  "Group \"Choose from:\" carries a note or open-ended option: \"(Chemistry BA double major must take both (MA 231 or MA 241) and ST 311)\"",
+  "Indented note: \"(Chemistry BA double major choose PY 211 or PY 205 and PY 206)\"",
+  "Indented note: \"(Chemistry BA double major choose CH 103 & CH 104)\"",
+  "Indented note: \"(Chemistry BA double major choose CH 203 & CH 204)\"",
+  "Indented note: \"(Chemistry BA double major choose CH 225 & CH 226)\"",
+  "Indented note: \"(Chemistry BA double major choose CH 227 & CH 228)\"",
+  "Group \"Chemistry Electives 300/400 Level\" carries a note or open-ended option: \"(Chemistry BA double major choose CH 315/CH 316, CH 331, and CH 401)\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Chemistry Electives 300/400 Level\"",
+  "Group \"Advised Science Electives\" carries a note or open-ended option: \"(Chemistry BA double major choose (PY 212 or PY 208/209) and (BCH 351 or BCH 451))\"",
+  "List \"History & Philosophy of Science Education Elective\" has a row that is not a course and was not read: \"Choose from:\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/stem/science-education-bs-chemistry-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Chemistry Concentration",
+ "college": "College of Education"
+}

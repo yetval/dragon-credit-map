@@ -1,0 +1,895 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-textile-engineering-bs-product-engineering-concentration",
+ "university": "ncsu",
+ "name": "Textile Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-engineering-chemistry-science/textile-engineering-bs-product-engineering-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 125,
+  "max": 125
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "options": [
+      [
+       "T 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s3"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical & Physical Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s11"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 102 Engineering in the 21st Century 2",
+     "options": [
+      [
+       "E 102"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "E 102 Engineering in the 21st Century 2",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 105 Textile Engineering: Materials and Systems 2",
+     "options": [
+      [
+       "TE 105"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "TE 105 Textile Engineering: Materials and Systems 2",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 110 Computer-Based Modeling for Engineers 3",
+     "options": [
+      [
+       "TE 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 110 Computer-Based Modeling for Engineers 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 200 Introduction to Polymer Science and Engineering 3",
+     "options": [
+      [
+       "TE 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 200 Introduction to Polymer Science and Engineering 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 201 Fiber Science 4",
+     "options": [
+      [
+       "TE 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 201 Fiber Science 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 205 Analog and Digital Circuits 4",
+     "options": [
+      [
+       "TE 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 205 Analog and Digital Circuits 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 301 Engineering Textile Structures I: Linear Assemblies 3",
+     "options": [
+      [
+       "TE 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 301 Engineering Textile Structures I: Linear Assemblies 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 302 Textile Manufacturing Processes and Systems II 4",
+     "options": [
+      [
+       "TE 302"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 302 Textile Manufacturing Processes and Systems II 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 303 Thermodynamics for Textile Engineers 3",
+     "options": [
+      [
+       "TE 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 303 Thermodynamics for Textile Engineers 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 401 Textile Engineering Design I 4",
+     "options": [
+      [
+       "TE 401"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 401 Textile Engineering Design I 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 402 Textile Engineering Design II 4",
+     "options": [
+      [
+       "TE 402"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 402 Textile Engineering Design II 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 404 Lean Six Sigma Quality 3",
+     "options": [
+      [
+       "TE 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 404 Lean Six Sigma Quality 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 424 Textile Engineering Quality Improvement Laboratory 1",
+     "options": [
+      [
+       "TE 424"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "TE 424 Textile Engineering Quality Improvement Laboratory 1",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 370 Probability and Statistics for Engineers 3",
+     "options": [
+      [
+       "ST 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 370 Probability and Statistics for Engineers 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 301 & PCC 304 Technology of Dyeing and Finishing and Technology of Dyeing & Finishing Laboratory 4",
+     "options": [
+      [
+       "PCC 301",
+       "PCC 304"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PCC 301 & PCC 304 Technology of Dyeing and Finishing and Technology of Dyeing & Finishing Laboratory 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GC 120 Foundations of Graphics 3",
+     "options": [
+      [
+       "GC 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GC 120 Foundations of Graphics 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MAE 206 Engineering Statics 3 or CE 214 Engineering Mechanics-Statics",
+     "options": [
+      [
+       "MAE 206"
+      ],
+      [
+       "CE 214"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 206 Engineering Statics 3 or CE 214 Engineering Mechanics-Statics",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s29"
+    }
+   ]
+  },
+  {
+   "title": "Concentration Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MSE 201 Structure and Properties of Engineering Materials 3",
+     "options": [
+      [
+       "MSE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MSE 201 Structure and Properties of Engineering Materials 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MAE 214 Solid Mechanics 3 or CE 225 Mechanics of Solids",
+     "options": [
+      [
+       "MAE 214"
+      ],
+      [
+       "CE 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 214 Solid Mechanics 3 or CE 225 Mechanics of Solids",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 463 Polymer Engineering 3",
+     "options": [
+      [
+       "TE 463"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 463 Polymer Engineering 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Concentration Elective",
+     "options": [
+      [
+       "CE 282"
+      ],
+      [
+       "CHE 435"
+      ],
+      [
+       "ECE 482"
+      ],
+      [
+       "ECE 483"
+      ],
+      [
+       "MAE 200"
+      ],
+      [
+       "MAE 208"
+      ],
+      [
+       "MAE 250"
+      ],
+      [
+       "MAE 361"
+      ],
+      [
+       "MAE 420"
+      ],
+      [
+       "MAE 421"
+      ],
+      [
+       "MAE 426"
+      ],
+      [
+       "MAE 430"
+      ],
+      [
+       "OR 562"
+      ],
+      [
+       "TC 589"
+      ],
+      [
+       "TE 435"
+      ],
+      [
+       "TE 440"
+      ],
+      [
+       "TE 466"
+      ],
+      [
+       "TE 467"
+      ],
+      [
+       "TE 492"
+      ],
+      [
+       "TE 505"
+      ],
+      [
+       "TE 540"
+      ],
+      [
+       "TE 550"
+      ],
+      [
+       "TE 561"
+      ],
+      [
+       "TE 562"
+      ],
+      [
+       "TE 565"
+      ],
+      [
+       "TE 566"
+      ],
+      [
+       "TE 570"
+      ],
+      [
+       "BME 418"
+      ],
+      [
+       "BME 425"
+      ],
+      [
+       "BME 444"
+      ],
+      [
+       "BME 484"
+      ],
+      [
+       "BME 540"
+      ],
+      [
+       "MSE 485"
+      ],
+      [
+       "MSE 255"
+      ],
+      [
+       "MSE 260"
+      ],
+      [
+       "MSE 300"
+      ],
+      [
+       "MSE 301"
+      ],
+      [
+       "MSE 335"
+      ],
+      [
+       "MSE 355"
+      ],
+      [
+       "MSE 360"
+      ],
+      [
+       "MSE 380"
+      ],
+      [
+       "MSE 420"
+      ],
+      [
+       "MSE 455"
+      ],
+      [
+       "MSE 456"
+      ],
+      [
+       "MSE 460"
+      ],
+      [
+       "MSE 465"
+      ],
+      [
+       "MSE 480"
+      ],
+      [
+       "MSE 489"
+      ],
+      [
+       "TE 589"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Concentration Elective 9",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "WLEN 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s40"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-textile-engineering-bs-product-engineering-concentration-s42"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Concentration Electives\" has a row that is not a course and was not read: \"MAE 208, TE/CHE 435, and one other elective with an MAE or TE prefix (selected with the approval of advisor). In addition, students wishing to pursue the machine design focus area should take MAE 206 for their Statics requirement and MAE 214 for their Solids requirement.\"",
+  "List \"Concentration Electives\" has a row that is not a course and was not read: \"Choose three from the following list. Students pursuing this track should also complete BIO 183.\"",
+  "List \"Concentration Electives\" has a row that is not a course and was not read: \"MSE 300 & 455, and one other elective with an MSE or TE prefix (selected with the approval of advisor). In addition, students wishing to pursue the materials science and engineering focus area may take MSE 301 instead of TE 303.\"",
+  "List \"Concentration Electives\" has a row that is not a course and was not read: \"Choose three courses from the following list\"",
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-engineering-chemistry-science/textile-engineering-bs-product-engineering-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Product Engineering Concentration",
+ "college": "Wilson College of Textiles"
+}

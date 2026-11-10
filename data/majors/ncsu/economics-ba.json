@@ -1,0 +1,783 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-economics-ba",
+ "university": "ncsu",
+ "name": "Economics",
+ "degree": "BA",
+ "url": "https://catalog.ncsu.edu/undergraduate/management/economics/economics-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "M 100 Personal and Professional Identity Development 1 or M 120 Professional Development and Career Planning",
+     "options": [
+      [
+       "M 100"
+      ],
+      [
+       "M 120"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "M 100 Personal and Professional Identity Development 1 or M 120 Professional Development and Career Planning",
+     "id": "ncsu-economics-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 201 Introduction to Business 3",
+     "options": [
+      [
+       "MIE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 201 Introduction to Business 3",
+     "id": "ncsu-economics-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ACC 210 Concepts of Financial Reporting 3",
+     "options": [
+      [
+       "ACC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ACC 210 Concepts of Financial Reporting 3",
+     "id": "ncsu-economics-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EC 201 Principles of Microeconomics 3 or EC 205 Fundamentals of Economics or ARE 201 Introduction to Agricultural & Resource Economics",
+     "options": [
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ],
+      [
+       "ARE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 201 Principles of Microeconomics 3 or EC 205 Fundamentals of Economics or ARE 201 Introduction to Agricultural & Resource Economics",
+     "id": "ncsu-economics-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 301 Intermediate Microeconomics 3",
+     "options": [
+      [
+       "EC 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 301 Intermediate Microeconomics 3",
+     "id": "ncsu-economics-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 302 Intermediate Macroeconomics 3",
+     "options": [
+      [
+       "EC 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 302 Intermediate Macroeconomics 3",
+     "id": "ncsu-economics-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 351 Econometrics I 3",
+     "options": [
+      [
+       "EC 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 351 Econometrics I 3",
+     "id": "ncsu-economics-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 490 Research Seminar in Economics 3",
+     "options": [
+      [
+       "EC 490"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 490 Research Seminar in Economics 3",
+     "id": "ncsu-economics-ba-s8"
+    }
+   ]
+  },
+  {
+   "title": "Business Analytics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 340 Information Systems Management 3",
+     "options": [
+      [
+       "BUS 340"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 340 Information Systems Management 3",
+     "id": "ncsu-economics-ba-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 351 Introduction to Business Analytics 3",
+     "options": [
+      [
+       "BUS 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 351 Introduction to Business Analytics 3",
+     "id": "ncsu-economics-ba-s10"
+    }
+   ]
+  },
+  {
+   "title": "Economics Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "400/500 Level Econ Electives",
+     "options": [
+      [
+       "ECG 505"
+      ],
+      [
+       "ECG 515"
+      ],
+      [
+       "ECG 528"
+      ],
+      [
+       "ECG 530"
+      ],
+      [
+       "ECG 537"
+      ],
+      [
+       "ECG 540"
+      ],
+      [
+       "ECG 548"
+      ],
+      [
+       "ECG 561"
+      ],
+      [
+       "ECG 562"
+      ],
+      [
+       "ECG 563"
+      ],
+      [
+       "ECG 590"
+      ],
+      [
+       "FIM 528"
+      ],
+      [
+       "MA 528"
+      ],
+      [
+       "MBA 528"
+      ],
+      [
+       "ST 561"
+      ],
+      [
+       "EC 404"
+      ],
+      [
+       "EC 410"
+      ],
+      [
+       "EC 413"
+      ],
+      [
+       "EC 431"
+      ],
+      [
+       "EC 437"
+      ],
+      [
+       "EC 448"
+      ],
+      [
+       "EC 449"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "EC 468"
+      ],
+      [
+       "EC 474"
+      ],
+      [
+       "EC 495"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "400/500 Level Econ Electives 6",
+     "id": "ncsu-economics-ba-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "300/400/500 Level EC Electives",
+     "options": [
+      [
+       "ARE 336"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "EC 305"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "ECG 505"
+      ],
+      [
+       "ECG 515"
+      ],
+      [
+       "ECG 528"
+      ],
+      [
+       "ECG 530"
+      ],
+      [
+       "ECG 537"
+      ],
+      [
+       "ECG 540"
+      ],
+      [
+       "ECG 548"
+      ],
+      [
+       "ECG 561"
+      ],
+      [
+       "ECG 562"
+      ],
+      [
+       "ECG 563"
+      ],
+      [
+       "ECG 590"
+      ],
+      [
+       "FIM 528"
+      ],
+      [
+       "MA 528"
+      ],
+      [
+       "MBA 528"
+      ],
+      [
+       "ST 561"
+      ],
+      [
+       "EC 404"
+      ],
+      [
+       "EC 410"
+      ],
+      [
+       "EC 413"
+      ],
+      [
+       "EC 431"
+      ],
+      [
+       "EC 437"
+      ],
+      [
+       "EC 448"
+      ],
+      [
+       "EC 449"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "EC 468"
+      ],
+      [
+       "EC 474"
+      ],
+      [
+       "EC 495"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "300/400/500 Level EC Electives 6",
+     "id": "ncsu-economics-ba-s12"
+    }
+   ]
+  },
+  {
+   "title": "Humanities and Social Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing and Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "WLEN 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing and Research 4",
+     "id": "ncsu-economics-ba-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-economics-ba-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-economics-ba-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-economics-ba-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-economics-ba-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-economics-ba-s18"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical and Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-economics-ba-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-economics-ba-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 114 Introduction to Finite Mathematics with Applications 3 or MA 242 Calculus III",
+     "options": [
+      [
+       "MA 114"
+      ],
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 114 Introduction to Finite Mathematics with Applications 3 or MA 242 Calculus III",
+     "id": "ncsu-economics-ba-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BUS/ST 350 Economics and Business Statistics 3 or ST 312 Introduction to Statistics II or ST 370 Probability and Statistics for Engineers or ST 372 Introduction to Statistical Inference and Regression",
+     "options": [
+      [
+       "BUS 350"
+      ],
+      [
+       "ST 312"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "ST 372"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS/ST 350 Economics and Business Statistics 3 or ST 312 Introduction to Statistics II or ST 370 Probability and Statistics for Engineers or ST 372 Introduction to Statistical Inference and Regression",
+     "id": "ncsu-economics-ba-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 307 Introduction to Statistical Programming- SAS 1 or ST 308 Introduction to Statistical Programming - R",
+     "options": [
+      [
+       "ST 307"
+      ],
+      [
+       "ST 308"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ST 307 Introduction to Statistical Programming- SAS 1 or ST 308 Introduction to Statistical Programming - R",
+     "id": "ncsu-economics-ba-s23"
+    }
+   ]
+  },
+  {
+   "title": "Interdisciplinary Perspectives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-economics-ba-s24"
+    }
+   ]
+  },
+  {
+   "title": "Physical Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-economics-ba-s25"
+    }
+   ]
+  },
+  {
+   "title": "Corequisites",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-economics-ba-s26"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-economics-ba-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-economics-ba-s28"
+    }
+   ]
+  },
+  {
+   "title": "Advised Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Electives",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Advised Electives 15",
+     "id": "ncsu-economics-ba-s29"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 22,
+      "max": 22
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 22",
+     "id": "ncsu-economics-ba-s30"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Acad Writing and Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "Group \"Select one of the following:\" carries a note or open-ended option: \"MA 131 or MA 141 are encouraged for students who qualify and aspire to take additional calculus. For students completing the MA 141/241/242 sequence, one credit hour of MA 141 will count as free elective credit, MA 241 will count as free elective credit and MA 242 will substitute for MA 114.\"",
+  "Codes in choice lists not found in the course catalog: MBA 528"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/management/economics/economics-ba/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "Poole College of Management"
+}

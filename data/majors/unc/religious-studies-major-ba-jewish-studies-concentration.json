@@ -1,0 +1,89 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-religious-studies-major-ba-jewish-studies-concentration",
+ "university": "unc",
+ "name": "Religious Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/religious-studies-major-ba-jewish-studies-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JWST 100I/RELI 123I Introduction to Jewish Studies 3",
+     "options": [
+      [
+       "JWST 100I"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JWST 100I/RELI 123I Introduction to Jewish Studies 3",
+     "id": "unc-religious-studies-major-ba-jewish-studies-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Seven (7) additional Jewish Studies (JWST) elective courses, with at least two courses numbered 400 or higher.",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "JWST"
+      ]
+     },
+     "hours": {
+      "min": 21,
+      "max": 21
+     },
+     "raw": "Seven (7) additional Jewish Studies (JWST) elective courses, with at least two courses numbered 400 or higher. 21",
+     "id": "unc-religious-studies-major-ba-jewish-studies-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two language courses relevant to Jewish Studies, chosen from the following options:",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two language courses relevant to Jewish Studies, chosen from the following options: 6",
+     "id": "unc-religious-studies-major-ba-jewish-studies-concentration-s3"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Row has a further condition that is not checked: \"Seven (7) additional Jewish Studies (JWST) elective courses, with at least two courses numbered 400 or higher.\"",
+  "Group \"Two language courses relevant to Jewish Studies, chosen from the following options:\" carries a note or open-ended option: \"HEBR 101, HEBR 102, HEBR 203, and HEBR 204\"",
+  "Group \"Two language courses relevant to Jewish Studies, chosen from the following options:\" carries a note or open-ended option: \"RELI 211 and RELI 212\"",
+  "Group \"Two language courses relevant to Jewish Studies, chosen from the following options:\" carries a note or open-ended option: \"RELI 401, RELI 402, RELI 403, and RELI 404\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/religious-studies-major-ba-jewish-studies-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Jewish Studies Concentration"
+}

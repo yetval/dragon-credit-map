@@ -1,0 +1,404 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-computer-science-major-bs",
+ "university": "unc",
+ "name": "Computer Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 65,
+  "max": 65
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 110 Introduction to Programming 3",
+     "options": [
+      [
+       "COMP 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3",
+     "id": "unc-computer-science-major-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 210 Data Structures and Analysis 3",
+     "options": [
+      [
+       "COMP 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 210 Data Structures and Analysis 3",
+     "id": "unc-computer-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 211 Systems Fundamentals 3",
+     "options": [
+      [
+       "COMP 211"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 211 Systems Fundamentals 3",
+     "id": "unc-computer-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 301 Foundations of Programming 3",
+     "options": [
+      [
+       "COMP 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 301 Foundations of Programming 3",
+     "id": "unc-computer-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 311 Computer Organization 3",
+     "options": [
+      [
+       "COMP 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 311 Computer Organization 3",
+     "id": "unc-computer-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 283 Discrete Structures 3 or MATH 381 Discrete Mathematics or STOR 315 Discrete Mathematics for Data Science",
+     "options": [
+      [
+       "COMP 283"
+      ],
+      [
+       "MATH 381"
+      ],
+      [
+       "STOR 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 283 Discrete Structures 3 or MATH 381 Discrete Mathematics or STOR 315 Discrete Mathematics for Data Science",
+     "id": "unc-computer-science-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 455 Models of Languages and Computation 3",
+     "options": [
+      [
+       "COMP 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 455 Models of Languages and Computation 3",
+     "id": "unc-computer-science-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 550 Algorithms and Analysis 3",
+     "options": [
+      [
+       "COMP 550"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 550 Algorithms and Analysis 3",
+     "id": "unc-computer-science-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP 496 and COMP 692H).",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "COMP"
+      ],
+      "minLevel": 420,
+      "except": [
+       "COMP 496",
+       "COMP 692H"
+      ]
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five additional three-or-more credit hour COMP courses numbered 420 or higher (excluding COMP 496 and COMP 692H). 15",
+     "id": "unc-computer-science-major-bs-s9"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-computer-science-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-computer-science-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4 or STOR 235 Mathematics for Data Science",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "STOR 235"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4 or STOR 235 Mathematics for Data Science",
+     "id": "unc-computer-science-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 347 Linear Algebra for Applications 3 or MATH 577 Linear Algebra",
+     "options": [
+      [
+       "MATH 347"
+      ],
+      [
+       "MATH 577"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 347 Linear Algebra for Applications 3 or MATH 577 Linear Algebra",
+     "id": "unc-computer-science-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 435 Introduction to Probability 3 or STOR 535 Probability for Data Science or BIOS 650 Basic Elements of Probability and Statistical Inference I",
+     "options": [
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 535"
+      ],
+      [
+       "BIOS 650"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 435 Introduction to Probability 3 or STOR 535 Probability for Data Science or BIOS 650 Basic Elements of Probability and Statistical Inference I",
+     "id": "unc-computer-science-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two science courses chosen from:",
+     "options": [
+      [
+       "ASTR 100",
+       "ASTR 100L"
+      ],
+      [
+       "ASTR 101",
+       "ASTR 100L"
+      ],
+      [
+       "ASTR 102",
+       "ASTR 100L"
+      ],
+      [
+       "ASTR 103",
+       "ASTR 100L"
+      ],
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ],
+      [
+       "BIOL 202"
+      ],
+      [
+       "BIOL 205"
+      ],
+      [
+       "BIOL 220"
+      ],
+      [
+       "BIOL 240"
+      ],
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ],
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ],
+      [
+       "EMES 101",
+       "EMES 101L"
+      ],
+      [
+       "EMES 103",
+       "EMES 103L"
+      ],
+      [
+       "PHYS 114"
+      ],
+      [
+       "PHYS 115"
+      ],
+      [
+       "PHYS 118"
+      ],
+      [
+       "PHYS 119"
+      ],
+      [
+       "PHYS 451"
+      ],
+      [
+       "PHYS 452"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Two science courses chosen from: 8",
+     "id": "unc-computer-science-major-bs-s15",
+     "altGroups": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements.",
+     "options": [],
+     "hours": null,
+     "raw": "B.S. majors in computer science must fulfill all IDEAs in Action General Education requirements.",
+     "id": "unc-computer-science-major-bs-s16"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

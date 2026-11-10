@@ -1,0 +1,420 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-environmental-health-sciences-major-bsph",
+ "university": "unc",
+ "name": "Environmental Health Sciences",
+ "degree": "B.S.P.H.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/environmental-health-sciences-major-bsph/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 68,
+  "max": 68
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Public Health Core Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Public Health Core Courses:",
+     "id": "unc-environmental-health-sciences-major-bsph-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 600 Principles of Statistical Inference 3",
+     "options": [
+      [
+       "BIOS 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 600 Principles of Statistical Inference 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "options": [
+      [
+       "EPID 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 351 Foundations of Public Health 3",
+     "options": [
+      [
+       "SPHG 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPHG 351 Foundations of Public Health 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 352 Public Health Systems and Solutions 4",
+     "options": [
+      [
+       "SPHG 352"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SPHG 352 Public Health Systems and Solutions 4",
+     "id": "unc-environmental-health-sciences-major-bsph-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Other Core Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Other Core Courses:",
+     "id": "unc-environmental-health-sciences-major-bsph-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENVR 205 Engineering Tools for Environmental Problem Solving (fall) 3",
+     "options": [
+      [
+       "ENVR 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENVR 205 Engineering Tools for Environmental Problem Solving (fall) 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENVR 230 Environmental Health Issues (spring) 3",
+     "options": [
+      [
+       "ENVR 230"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENVR 230 Environmental Health Issues (spring) 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENVR 403 Environmental Chemistry Processes (spring) 3",
+     "options": [
+      [
+       "ENVR 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENVR 403 Environmental Chemistry Processes (spring) 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENVR 430 Health Effects of Environmental Agents (fall) 3",
+     "options": [
+      [
+       "ENVR 430"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENVR 430 Health Effects of Environmental Agents (fall) 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "ENVR 698"
+      ],
+      [
+       "ENVR 593"
+      ],
+      [
+       "ENVR 695"
+      ],
+      [
+       "ENVR 692H"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following: 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s11"
+    }
+   ]
+  },
+  {
+   "title": "Prerequisite and Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-environmental-health-sciences-major-bsph-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOL 103 How Cells Function 3 or BIOL 104 Biodiversity",
+     "options": [
+      [
+       "BIOL 103"
+      ],
+      [
+       "BIOL 104"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 103 How Cells Function 3 or BIOL 104 Biodiversity",
+     "id": "unc-environmental-health-sciences-major-bsph-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOL 220 Molecular Genetics 3 or BIOL 250 Evolutionary Biology",
+     "options": [
+      [
+       "BIOL 220"
+      ],
+      [
+       "BIOL 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 220 Molecular Genetics 3 or BIOL 250 Evolutionary Biology",
+     "id": "unc-environmental-health-sciences-major-bsph-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-environmental-health-sciences-major-bsph-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-environmental-health-sciences-major-bsph-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "options": [
+      [
+       "CHEM 261"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ],
+      [
+       "BIOL 553"
+      ],
+      [
+       "GEOG 597"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following: 3",
+     "id": "unc-environmental-health-sciences-major-bsph-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-environmental-health-sciences-major-bsph-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-environmental-health-sciences-major-bsph-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4 or PHYS 114 General Physics I: For Students of the Life Sciences",
+     "options": [
+      [
+       "PHYS 118"
+      ],
+      [
+       "PHYS 114"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4 or PHYS 114 General Physics I: For Students of the Life Sciences",
+     "id": "unc-environmental-health-sciences-major-bsph-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4 or PHYS 115 General Physics II: For Students of the Life Sciences",
+     "options": [
+      [
+       "PHYS 119"
+      ],
+      [
+       "PHYS 115"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4 or PHYS 115 General Physics II: For Students of the Life Sciences",
+     "id": "unc-environmental-health-sciences-major-bsph-s22"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"General Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Environmental Chemistry Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Environmental Health Biology Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Environmental Physics Concentration\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/environmental-health-sciences-major-bsph/",
+  "fetchedAt": "2026-11-09"
+ }
+}

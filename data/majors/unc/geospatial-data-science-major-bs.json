@@ -1,0 +1,359 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-geospatial-data-science-major-bs",
+ "university": "unc",
+ "name": "Geospatial Data Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/geospatial-data-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 55,
+  "max": 59
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "GEOG 110 The Blue Planet: An Introduction to Earth's Environmental Systems 3 or GEOG 111 Weather and Climate",
+     "options": [
+      [
+       "GEOG 110"
+      ],
+      [
+       "GEOG 111"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 110 The Blue Planet: An Introduction to Earth's Environmental Systems 3 or GEOG 111 Weather and Climate",
+     "id": "unc-geospatial-data-science-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following courses:",
+     "options": [
+      [
+       "GEOG 120"
+      ],
+      [
+       "GEOG 121"
+      ],
+      [
+       "GEOG 123"
+      ],
+      [
+       "GEOG 130"
+      ],
+      [
+       "GEOG 141"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following courses: 3",
+     "id": "unc-geospatial-data-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 215 Introduction to Spatial Data Science 3",
+     "options": [
+      [
+       "GEOG 215"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 215 Introduction to Spatial Data Science 3",
+     "id": "unc-geospatial-data-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 370 Geographic Information Science 3",
+     "options": [
+      [
+       "GEOG 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 370 Geographic Information Science 3",
+     "id": "unc-geospatial-data-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 391 Quantitative Methods in Geography 3",
+     "options": [
+      [
+       "GEOG 391"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 391 Quantitative Methods in Geography 3",
+     "id": "unc-geospatial-data-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 392 Research Methods in Geography 3",
+     "options": [
+      [
+       "GEOG 392"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 392 Research Methods in Geography 3",
+     "id": "unc-geospatial-data-science-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 455 Cartography and Geovisualization 3",
+     "options": [
+      [
+       "GEOG 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 455 Cartography and Geovisualization 3",
+     "id": "unc-geospatial-data-science-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 477 Introduction to Remote Sensing of the Environment 3",
+     "options": [
+      [
+       "GEOG 477"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 477 Introduction to Remote Sensing of the Environment 3",
+     "id": "unc-geospatial-data-science-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 491 Principles of Geographic Information Systems 3",
+     "options": [
+      [
+       "GEOG 491"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 491 Principles of Geographic Information Systems 3",
+     "id": "unc-geospatial-data-science-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 515 Applied Spatial Data Science 3",
+     "options": [
+      [
+       "GEOG 515"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 515 Applied Spatial Data Science 3",
+     "id": "unc-geospatial-data-science-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two courses from the following options:",
+     "options": [
+      [
+       "GEOG 419"
+      ],
+      [
+       "GEOG 456"
+      ],
+      [
+       "GEOG 541"
+      ],
+      [
+       "GEOG 544"
+      ],
+      [
+       "GEOG 555"
+      ],
+      [
+       "GEOG 567"
+      ],
+      [
+       "GEOG 570"
+      ],
+      [
+       "GEOG 577"
+      ],
+      [
+       "GEOG 586"
+      ],
+      [
+       "GEOG 591"
+      ],
+      [
+       "GEOG 592"
+      ],
+      [
+       "GEOG 594"
+      ],
+      [
+       "GEOG 597"
+      ],
+      [
+       "GEOG 598"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two courses from the following options: 6",
+     "id": "unc-geospatial-data-science-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select three elective courses from the list below",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Select three elective courses from the list below 9",
+     "id": "unc-geospatial-data-science-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following capstone or senior thesis options:",
+     "options": [
+      [
+       "GEOG 697"
+      ],
+      [
+       "GEOG 691H",
+       "GEOG 692H"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 6
+     },
+     "raw": "Select one of the following capstone or senior thesis options: 3-6",
+     "id": "unc-geospatial-data-science-major-bs-s13"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4 or MATH 210 Mathematical Tools for Data Science",
+     "options": [
+      [
+       "MATH 231"
+      ],
+      [
+       "MATH 210"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4 or MATH 210 Mathematical Tools for Data Science",
+     "id": "unc-geospatial-data-science-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following courses:",
+     "options": [
+      [
+       "DATA 110"
+      ],
+      [
+       "STOR 120"
+      ],
+      [
+       "STOR 151"
+      ],
+      [
+       "STOR 155"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Select one of the following courses: 3-4",
+     "id": "unc-geospatial-data-science-major-bs-s15"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Electives\") that is not included",
+  "Row points to a list that could not be linked: \"Select three elective courses from the list below\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/geospatial-data-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

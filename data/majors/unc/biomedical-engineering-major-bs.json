@@ -1,0 +1,509 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-biomedical-engineering-major-bs",
+ "university": "unc",
+ "name": "Biomedical Engineering",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/biomedical-engineering-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 124,
+  "max": 124
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students should take the following courses, preferably in their second year:",
+     "options": [],
+     "hours": null,
+     "raw": "Students should take the following courses, preferably in their second year:",
+     "id": "unc-biomedical-engineering-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 201 Computer Methods in Biomedical Engineering 3",
+     "options": [
+      [
+       "BMME 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BMME 201 Computer Methods in Biomedical Engineering 3",
+     "id": "unc-biomedical-engineering-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 205 Biomedical Mechanics 4",
+     "options": [
+      [
+       "BMME 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BMME 205 Biomedical Mechanics 4",
+     "id": "unc-biomedical-engineering-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 209 Materials Science of Biomaterials 4",
+     "options": [
+      [
+       "BMME 209"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BMME 209 Materials Science of Biomaterials 4",
+     "id": "unc-biomedical-engineering-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 298 Biomedical Engineering Design and Manufacturing I 2",
+     "options": [
+      [
+       "BMME 298"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BMME 298 Biomedical Engineering Design and Manufacturing I 2",
+     "id": "unc-biomedical-engineering-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students should take the following courses, preferably in their third year:",
+     "options": [],
+     "hours": null,
+     "raw": "Students should take the following courses, preferably in their third year:",
+     "id": "unc-biomedical-engineering-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 207 Biomedical Electronics 4",
+     "options": [
+      [
+       "BMME 207"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BMME 207 Biomedical Electronics 4",
+     "id": "unc-biomedical-engineering-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 301 Human Physiology: Electrical Analysis 4",
+     "options": [
+      [
+       "BMME 301"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BMME 301 Human Physiology: Electrical Analysis 4",
+     "id": "unc-biomedical-engineering-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 302 Human Physiology: Mechanical Analysis 4",
+     "options": [
+      [
+       "BMME 302"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BMME 302 Human Physiology: Mechanical Analysis 4",
+     "id": "unc-biomedical-engineering-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 398 Biomedical Engineering Design and Manufacturing II 2",
+     "options": [
+      [
+       "BMME 398"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BMME 398 Biomedical Engineering Design and Manufacturing II 2",
+     "id": "unc-biomedical-engineering-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Take three gateway electives to prepare for specialty electives in one or two areas",
+     "options": [
+      [
+       "BMME 315"
+      ],
+      [
+       "BMME 325"
+      ],
+      [
+       "CHEM 430"
+      ],
+      [
+       "BMME 335"
+      ],
+      [
+       "BMME 345"
+      ],
+      [
+       "BMME 355"
+      ],
+      [
+       "BMME 365"
+      ],
+      [
+       "BMME 375"
+      ],
+      [
+       "BMME 385"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Take three gateway electives to prepare for specialty electives in one or two areas 9",
+     "id": "unc-biomedical-engineering-major-bs-s11",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "STEM elective - see requirements below",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STEM elective - see requirements below 3",
+     "id": "unc-biomedical-engineering-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students should take the following courses, preferably in their final year:",
+     "options": [],
+     "hours": null,
+     "raw": "Students should take the following courses, preferably in their final year:",
+     "id": "unc-biomedical-engineering-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 697 BME Senior Design: Product Development (BME 451) 3",
+     "options": [
+      [
+       "BMME 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BMME 697 BME Senior Design: Product Development (BME 451) 3",
+     "id": "unc-biomedical-engineering-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BMME 698 Biomedical Engineering Senior Design: Product Implementation and Strategy (BME 452) 3",
+     "options": [
+      [
+       "BMME 698"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BMME 698 Biomedical Engineering Senior Design: Product Implementation and Strategy (BME 452) 3",
+     "id": "unc-biomedical-engineering-major-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four specialty electives - see requirements below",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four specialty electives - see requirements below 12",
+     "id": "unc-biomedical-engineering-major-bs-s16"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students should take the following courses, preferably in their first two years:",
+     "options": [],
+     "hours": null,
+     "raw": "Students should take the following courses, preferably in their first two years:",
+     "id": "unc-biomedical-engineering-major-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 Principles of Biology (BIO 183) 3",
+     "options": [
+      [
+       "BIOL 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 101 Principles of Biology (BIO 183) 3",
+     "id": "unc-biomedical-engineering-major-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOL 101L Introductory Biology Laboratory 1 or BIOL 102L Introductory Biology Laboratory with Research",
+     "options": [
+      [
+       "BIOL 101L"
+      ],
+      [
+       "BIOL 102L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "BIOL 101L Introductory Biology Laboratory 1 or BIOL 102L Introductory Biology Laboratory with Research",
+     "id": "unc-biomedical-engineering-major-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I (CH 101 + 102) 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I (CH 101 + 102) 4",
+     "id": "unc-biomedical-engineering-major-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II (CH 201 + 202) 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II (CH 201 + 202) 4",
+     "id": "unc-biomedical-engineering-major-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 261 Introduction to Organic Chemistry I (CH 221 + CH 222) 3",
+     "options": [
+      [
+       "CHEM 261"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 261 Introduction to Organic Chemistry I (CH 221 + CH 222) 3",
+     "id": "unc-biomedical-engineering-major-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I (MA 141) 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I (MA 141) 4",
+     "id": "unc-biomedical-engineering-major-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II (MA 241) 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II (MA 241) 4",
+     "id": "unc-biomedical-engineering-major-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 233 Calculus of Functions of Several Variables (MA 242) 4",
+     "options": [
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables (MA 242) 4",
+     "id": "unc-biomedical-engineering-major-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 & 383L First Course in Differential Equations and First Course in Differential Equations Laboratory (MA 331 or MA 341) 4",
+     "options": [
+      [
+       "MATH 383",
+       "MATH 383L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 383 & 383L First Course in Differential Equations and First Course in Differential Equations Laboratory (MA 331 or MA 341) 4",
+     "id": "unc-biomedical-engineering-major-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 118 Introductory Calculus-based Mechanics and Relativity (PY 205 + 206) 4",
+     "options": [
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 118 Introductory Calculus-based Mechanics and Relativity (PY 205 + 206) 4",
+     "id": "unc-biomedical-engineering-major-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta (PY 208 + 209) 4",
+     "options": [
+      [
+       "PHYS 119"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta (PY 208 + 209) 4",
+     "id": "unc-biomedical-engineering-major-bs-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Remaining General Education courses and electives to reach 124 hours",
+     "options": [],
+     "hours": {
+      "min": 28,
+      "max": 28
+     },
+     "raw": "Remaining General Education courses and electives to reach 124 hours 28",
+     "id": "unc-biomedical-engineering-major-bs-s29"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Row points to a list that could not be linked: \"STEM elective - see requirements below\"",
+  "Row points to a list that could not be linked: \"Four specialty electives - see requirements below\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/biomedical-engineering-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

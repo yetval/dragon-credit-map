@@ -1,0 +1,982 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration",
+ "university": "ncsu",
+ "name": "Horticultural Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/horticultural-science/horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 Public Speaking or COM 112 Interpersonal Communication or COM 202 Small Group Communication",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 202"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking or COM 112 Interpersonal Communication or COM 202 Small Group Communication",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics & Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 121 Elements of Calculus 3 or MA 131 Calculus for Life and Management Sciences A",
+     "options": [
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 121 Elements of Calculus 3 or MA 131 Calculus for Life and Management Sciences A",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 Organic Chemistry I 3",
+     "options": [
+      [
+       "CH 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 221 Organic Chemistry I 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 222 Organic Chemistry I Lab 1",
+     "options": [
+      [
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 222 Organic Chemistry I Lab 1",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 Organic Chemistry II 3",
+     "options": [
+      [
+       "CH 223"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 223 Organic Chemistry II 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 224 Organic Chemistry II Lab 1",
+     "options": [
+      [
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 224 Organic Chemistry II Lab 1",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ARE 201"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s13"
+    }
+   ]
+  },
+  {
+   "title": "Foundational Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BCH 351 General Biochemistry 3-4 or BCH 451 Principles of Biochemistry",
+     "options": [
+      [
+       "BCH 351"
+      ],
+      [
+       "BCH 451"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "BCH 351 General Biochemistry 3-4 or BCH 451 Principles of Biochemistry",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CS 413 Plant Breeding 3",
+     "options": [
+      [
+       "CS 413"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CS 413 Plant Breeding 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 311 Principles of Genetics 4",
+     "options": [
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GN 311 Principles of Genetics 4",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 312 Elementary Genetics Laboratory 1",
+     "options": [
+      [
+       "GN 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "GN 312 Elementary Genetics Laboratory 1",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 201 The World of Horticulture: Principles and Practices 3",
+     "options": [
+      [
+       "HS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 201 The World of Horticulture: Principles and Practices 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 290 Horticulture: Careers and Opportunities 1",
+     "options": [
+      [
+       "HS 290"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "HS 290 Horticulture: Careers and Opportunities 1",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 301 Plant Propagation 4",
+     "options": [
+      [
+       "HS 301"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HS 301 Plant Propagation 4",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 303 Ornamental Plant Identification I 3",
+     "options": [
+      [
+       "HS 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 303 Ornamental Plant Identification I 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "HS 304 Ornamental Plant Identification II 3 or PB 403 Systematic Botany",
+     "options": [
+      [
+       "HS 304"
+      ],
+      [
+       "PB 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 304 Ornamental Plant Identification II 3 or PB 403 Systematic Botany",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PB 421 Plant Physiology 3",
+     "options": [
+      [
+       "PB 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PB 421 Plant Physiology 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PB 480 Introduction to Plant Biotechnology 3",
+     "options": [
+      [
+       "PB 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PB 480 Introduction to Plant Biotechnology 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 Soil Science 3",
+     "options": [
+      [
+       "SSC 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SSC 200 Soil Science 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 201 Soil Science Laboratory 1",
+     "options": [
+      [
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "SSC 201 Soil Science Laboratory 1",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Internship/Research/Teaching courses:",
+     "options": [
+      [
+       "HS 492"
+      ],
+      [
+       "HS 493"
+      ],
+      [
+       "HS 494"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Internship/Research/Teaching courses: 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Environmental Elective",
+     "options": [
+      [
+       "BIT 100"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "CS 224"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Environmental Elective 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Plant Protective Electives",
+     "options": [
+      [
+       "CS 414"
+      ],
+      [
+       "CS 415"
+      ],
+      [
+       "ENT 425"
+      ],
+      [
+       "FOR 402"
+      ],
+      [
+       "FOR 318"
+      ],
+      [
+       "PP 315"
+      ],
+      [
+       "PP 318"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Plant Protective Electives 6",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s29",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Business Elective",
+     "options": [
+      [
+       "ACC 280"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "MIE 310"
+      ],
+      [
+       "MIE 413"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Business Elective 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Broad-Scope Elective",
+     "options": [
+      [
+       "BIO 414"
+      ],
+      [
+       "BIT 402"
+      ],
+      [
+       "CS 411"
+      ],
+      [
+       "HS 403"
+      ],
+      [
+       "HS 451"
+      ],
+      [
+       "HS 462"
+      ],
+      [
+       "HS 476"
+      ],
+      [
+       "HS 491"
+      ],
+      [
+       "PB 413"
+      ],
+      [
+       "BCH 453"
+      ],
+      [
+       "BIT 465"
+      ],
+      [
+       "BIT 467"
+      ],
+      [
+       "BIT 471"
+      ],
+      [
+       "BIT 474"
+      ],
+      [
+       "BIT 481"
+      ],
+      [
+       "BIT 476"
+      ],
+      [
+       "BIT 501"
+      ],
+      [
+       "GN 423"
+      ],
+      [
+       "GN 425"
+      ],
+      [
+       "GN 427"
+      ],
+      [
+       "GN 451"
+      ],
+      [
+       "GN 461"
+      ],
+      [
+       "BIT 410"
+      ],
+      [
+       "FS 402"
+      ],
+      [
+       "GN 421"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Broad-Scope Elective 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advised Electives",
+     "options": [
+      [
+       "BIO 414"
+      ],
+      [
+       "BIT 402"
+      ],
+      [
+       "CS 411"
+      ],
+      [
+       "HS 403"
+      ],
+      [
+       "HS 451"
+      ],
+      [
+       "HS 462"
+      ],
+      [
+       "HS 476"
+      ],
+      [
+       "HS 491"
+      ],
+      [
+       "PB 413"
+      ],
+      [
+       "BCH 453"
+      ],
+      [
+       "BIT 465"
+      ],
+      [
+       "BIT 467"
+      ],
+      [
+       "BIT 471"
+      ],
+      [
+       "BIT 474"
+      ],
+      [
+       "BIT 481"
+      ],
+      [
+       "BIT 476"
+      ],
+      [
+       "BIT 501"
+      ],
+      [
+       "GN 423"
+      ],
+      [
+       "GN 425"
+      ],
+      [
+       "GN 427"
+      ],
+      [
+       "GN 451"
+      ],
+      [
+       "GN 461"
+      ],
+      [
+       "BIT 410"
+      ],
+      [
+       "FS 402"
+      ],
+      [
+       "GN 421"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Advised Electives 9",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s32"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s41"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 5",
+     "id": "ncsu-horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration-s42"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Advised Electives Categories\" has codes with no catalog link: CS 411",
+  "Codes in choice lists not found in the course catalog: BIO 414, CS 411"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/horticultural-science/horticultural-science-bs-plant-breeding-biotechnology-horticulture-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Plant Breeding and Biotechnology in Horticulture Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

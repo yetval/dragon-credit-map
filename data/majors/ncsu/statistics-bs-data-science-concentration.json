@@ -1,0 +1,843 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-statistics-bs-data-science-concentration",
+ "university": "ncsu",
+ "name": "Statistics",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/statistics/statistics-bs-data-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Orientation",
+     "options": [],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "Orientation 0",
+     "id": "ncsu-statistics-bs-data-science-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COS 100 Science of Change (verify requirement) 0",
+     "options": [
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COS 100 Science of Change (verify requirement) 0",
+     "id": "ncsu-statistics-bs-data-science-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Communication & Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-statistics-bs-data-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Communications courses:",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Communications courses: 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Advanced Writing courses:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Advanced Writing courses: 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-statistics-bs-data-science-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-statistics-bs-data-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-statistics-bs-data-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 305 Introduction to Linear Algebra and Matrices 3 or MA 405 Advanced Linear Algebra",
+     "options": [
+      [
+       "MA 305"
+      ],
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 305 Introduction to Linear Algebra and Matrices 3 or MA 405 Advanced Linear Algebra",
+     "id": "ncsu-statistics-bs-data-science-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Data Science and Statistical Computing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 115 Introduction to a Data Science Toolkit with R and GitHub 3",
+     "options": [
+      [
+       "ST 115"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 115 Introduction to a Data Science Toolkit with R and GitHub 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 215 Data Management and Statistical Programming in SAS 3",
+     "options": [
+      [
+       "ST 215"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 215 Data Management and Statistical Programming in SAS 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 216 Modern Statistical Computing with Python 3",
+     "options": [
+      [
+       "ST 216"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 216 Modern Statistical Computing with Python 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHI 227 Data Ethics 3",
+     "options": [
+      [
+       "PHI 227"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHI 227 Data Ethics 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DSA 202 Introduction to Data Visualization 1",
+     "options": [
+      [
+       "DSA 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "DSA 202 Introduction to Data Visualization 1",
+     "id": "ncsu-statistics-bs-data-science-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DSA 405 Data Wrangling and Web Scraping 1",
+     "options": [
+      [
+       "DSA 405"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "DSA 405 Data Wrangling and Web Scraping 1",
+     "id": "ncsu-statistics-bs-data-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Introduction to Data Science: Select one of the following",
+     "options": [
+      [
+       "MA 326"
+      ],
+      [
+       "ST 442"
+      ],
+      [
+       "CSC 442"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Introduction to Data Science: Select one of the following 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Statistical Data Science Electives. Select two of the following courses:",
+     "options": [
+      [
+       "ST 446"
+      ],
+      [
+       "ST 452"
+      ],
+      [
+       "ST 453"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Statistical Data Science Electives. Select two of the following courses: 6",
+     "id": "ncsu-statistics-bs-data-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "General Data Science Electives. Select 2 credits of DSA courses at any level from the approved list.",
+     "options": [
+      [
+       "DSA 205"
+      ],
+      [
+       "DSA 220"
+      ],
+      [
+       "DSA 225"
+      ],
+      [
+       "DSA 235"
+      ],
+      [
+       "DSA 240"
+      ],
+      [
+       "DSA 295"
+      ],
+      [
+       "DSA 406"
+      ],
+      [
+       "DSA 410"
+      ],
+      [
+       "DSA 412"
+      ],
+      [
+       "DSA 495"
+      ],
+      [
+       "DSA 595"
+      ]
+     ],
+     "pick": {
+      "hours": 2
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "General Data Science Electives. Select 2 credits of DSA courses at any level from the approved list. 2",
+     "id": "ncsu-statistics-bs-data-science-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advanced Data Science Electives. Select 2 credits of DSA courses at the 400 level.",
+     "options": [
+      [
+       "DSA 406"
+      ],
+      [
+       "DSA 410"
+      ],
+      [
+       "DSA 412"
+      ],
+      [
+       "DSA 435"
+      ],
+      [
+       "DSA 440"
+      ],
+      [
+       "DSA 495"
+      ],
+      [
+       "DSA 595"
+      ]
+     ],
+     "pick": {
+      "hours": 2
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "Advanced Data Science Electives. Select 2 credits of DSA courses at the 400 level. 2",
+     "id": "ncsu-statistics-bs-data-science-concentration-s19"
+    }
+   ]
+  },
+  {
+   "title": "Statistics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 120 Fundamentals of Statistical Inference 4",
+     "options": [
+      [
+       "ST 120"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ST 120 Fundamentals of Statistical Inference 4",
+     "id": "ncsu-statistics-bs-data-science-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 121 Introduction to Probability and Mathematical Statistics 3",
+     "options": [
+      [
+       "ST 121"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 121 Introduction to Probability and Mathematical Statistics 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 220 Intermediate Statistical Methods 3",
+     "options": [
+      [
+       "ST 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 220 Intermediate Statistical Methods 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 240 Principles of Data Collection 3",
+     "options": [
+      [
+       "ST 240"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 240 Principles of Data Collection 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 323 Linear Models 4",
+     "options": [
+      [
+       "ST 323"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ST 323 Linear Models 4",
+     "id": "ncsu-statistics-bs-data-science-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 421 Introduction to Mathematical Statistics I 3",
+     "options": [
+      [
+       "ST 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 421 Introduction to Mathematical Statistics I 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 422 Introduction to Mathematical Statistics II 3",
+     "options": [
+      [
+       "ST 422"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 422 Introduction to Mathematical Statistics II 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following 3-credit courses in Survey Sampling or Experimental Design.",
+     "options": [
+      [
+       "ST 431"
+      ],
+      [
+       "ST 432"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following 3-credit courses in Survey Sampling or Experimental Design. 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advanced Statistics Electives",
+     "options": [
+      [
+       "ST 404"
+      ],
+      [
+       "ST 405"
+      ],
+      [
+       "ST 412"
+      ],
+      [
+       "ST 413"
+      ],
+      [
+       "ST 420"
+      ],
+      [
+       "ST 431"
+      ],
+      [
+       "ST 432"
+      ],
+      [
+       "ST 433"
+      ],
+      [
+       "ST 434"
+      ],
+      [
+       "ST 435"
+      ],
+      [
+       "ST 437"
+      ],
+      [
+       "ST 440"
+      ],
+      [
+       "ST 442"
+      ],
+      [
+       "ST 445"
+      ],
+      [
+       "ST 446"
+      ],
+      [
+       "ST 451"
+      ],
+      [
+       "ST 452"
+      ],
+      [
+       "ST 453"
+      ],
+      [
+       "ST 491"
+      ],
+      [
+       "ST 495"
+      ],
+      [
+       "ST 497"
+      ],
+      [
+       "ST 498"
+      ],
+      [
+       "ST 499"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Statistics Electives 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "GEP Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 11,
+      "max": 11
+     },
+     "raw": "GEP Natural Sciences 11",
+     "id": "ncsu-statistics-bs-data-science-concentration-s29"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Humanities 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-statistics-bs-data-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-statistics-bs-data-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-statistics-bs-data-science-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-statistics-bs-data-science-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-statistics-bs-data-science-concentration-s35"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-statistics-bs-data-science-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-statistics-bs-data-science-concentration-s37"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 9",
+     "id": "ncsu-statistics-bs-data-science-concentration-s38"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Indented note: \"Students considering graduate school are strongly encouraged to select MA 405. However, please note that MA 405 has additional prerequisites of MA 225 and either MA 305 or 306. These credits can count as Advised Electives (see section below).\"",
+  "Indented note: \"Students transferring into the Statistics major having already completed ST 312 or ST 372 with a grade of C- or better are not required to take ST 120. Your advisor will adjust credits on your degree audit appropriately.\"",
+  "Indented note: \"Students transferring into the Statistics major having already completed ST 371 and ST 372 with grades of C- or better are not required to take ST 121. Your advisor will adjust credits on your degree audit appropriately.\"",
+  "List \"Advanced Statistics Electives\" has codes with no catalog link: ST 420",
+  "Group \"GEP Natural Sciences\" carries a note or open-ended option: \"Selected courses must include (i) at least two laboratory classes and (ii) at least three 3- or 4-credit courses.\"",
+  "Codes in choice lists not found in the course catalog: ST 420"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/statistics/statistics-bs-data-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Data Science Concentration",
+ "college": "College of Sciences"
+}

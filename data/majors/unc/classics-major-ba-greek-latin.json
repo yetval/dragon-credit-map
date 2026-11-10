@@ -1,0 +1,153 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-classics-major-ba-greek-latin",
+ "university": "unc",
+ "name": "Classics",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/classics-major-ba-greek-latin/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CLAS 391 Junior Seminar 3",
+     "options": [
+      [
+       "CLAS 391"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CLAS 391 Junior Seminar 3",
+     "id": "unc-classics-major-ba-greek-latin-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "GREK 204 Intermediate Greek II 3 or GREK 205 Introductory Greek New Testament",
+     "options": [
+      [
+       "GREK 204"
+      ],
+      [
+       "GREK 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GREK 204 Intermediate Greek II 3 or GREK 205 Introductory Greek New Testament",
+     "id": "unc-classics-major-ba-greek-latin-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Five additional courses in Greek above GREK 203",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five additional courses in Greek above GREK 203 15",
+     "id": "unc-classics-major-ba-greek-latin-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two additional courses in CLAS or CLAR with full or partial emphasis on ancient Greek culture (see list below)",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two additional courses in CLAS or CLAR with full or partial emphasis on ancient Greek culture (see list below) 6",
+     "id": "unc-classics-major-ba-greek-latin-s4"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GREK 101 Elementary Classical Greek I",
+     "options": [
+      [
+       "GREK 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GREK 101 Elementary Classical Greek I",
+     "id": "unc-classics-major-ba-greek-latin-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GREK 102 Elementary Classical Greek II",
+     "options": [
+      [
+       "GREK 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GREK 102 Elementary Classical Greek II",
+     "id": "unc-classics-major-ba-greek-latin-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GREK 203 Intermediate Greek I",
+     "options": [
+      [
+       "GREK 203"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GREK 203 Intermediate Greek I",
+     "id": "unc-classics-major-ba-greek-latin-s7"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Indented row without a group heading: \"GREK 101 Elementary Classical Greek I\"",
+  "Indented row without a group heading: \"GREK 102 Elementary Classical Greek II\"",
+  "Indented row without a group heading: \"GREK 203 Intermediate Greek I\"",
+  "The page has another requirement table with its own total (\"Classics Major, B.A.–Latin\") that is not included",
+  "The page has another requirement table with its own total (\"Classics Major, B.A.–Combined Greek and Latin\") that is not included",
+  "Row points to a list that could not be linked: \"Two additional courses in CLAS or CLAR with full or partial emphasis on ancient Greek culture (see list below)\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/classics-major-ba-greek-latin/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Greek, Latin, and Combined Greek and Latin"
+}

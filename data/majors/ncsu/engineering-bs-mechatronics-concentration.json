@@ -1,0 +1,677 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-engineering-bs-mechatronics-concentration",
+ "university": "ncsu",
+ "name": "Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/engineering-bs-mechatronics-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 128,
+  "max": 128
+ },
+ "sections": [
+  {
+   "title": "Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 191",
+     "options": [
+      [
+       "MATH 191"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 191 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 132",
+     "options": [
+      [
+       "CHEM 132"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 132 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 111",
+     "options": [
+      [
+       "CHEM 111"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 111 1",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FYS 178",
+     "options": [
+      [
+       "FYS 178"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FYS 178 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LANG 120",
+     "options": [
+      [
+       "LANG 120"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "LANG 120 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 109 Introduction to Computer Systems 3",
+     "options": [
+      [
+       "ECE 109"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 109 Introduction to Computer Systems 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 123 Introduction to Computer Aided Design for Mechatronics Engineering 1",
+     "options": [
+      [
+       "JEM 123"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "JEM 123 Introduction to Computer Aided Design for Mechatronics Engineering 1",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 180 Mechatronics Laboratory I 2",
+     "options": [
+      [
+       "JEM 180"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "JEM 180 Mechatronics Laboratory I 2",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 192",
+     "options": [
+      [
+       "MATH 192"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 192 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 221",
+     "options": [
+      [
+       "PHYS 221"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 221 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 200 Introduction to Signals, Circuits and Systems 4",
+     "options": [
+      [
+       "ECE 200"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECE 200 Introduction to Signals, Circuits and Systems 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 209 Computer Systems Programming 3",
+     "options": [
+      [
+       "ECE 209"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 209 Computer Systems Programming 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 206 Engineering Statics 3",
+     "options": [
+      [
+       "MAE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 206 Engineering Statics 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 291",
+     "options": [
+      [
+       "MATH 291"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 291 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 222",
+     "options": [
+      [
+       "PHYS 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 222 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 211 Electric Circuits 4",
+     "options": [
+      [
+       "ECE 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECE 211 Electric Circuits 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 212 Fundamentals of Logic Design 3",
+     "options": [
+      [
+       "ECE 212"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 212 Fundamentals of Logic Design 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 220 Analytical Foundations of Electrical and Computer Engineering 3",
+     "options": [
+      [
+       "ECE 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 220 Analytical Foundations of Electrical and Computer Engineering 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 270 Mechatronics Laboratory II 2",
+     "options": [
+      [
+       "JEM 270"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "JEM 270 Mechatronics Laboratory II 2",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 214 Solid Mechanics 3",
+     "options": [
+      [
+       "MAE 214"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 214 Solid Mechanics 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 306 Introduction to Embedded Systems 3",
+     "options": [
+      [
+       "ECE 306"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 306 Introduction to Embedded Systems 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 320 Mechatronics Systems Modeling 3",
+     "options": [
+      [
+       "JEM 320"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JEM 320 Mechatronics Systems Modeling 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 201 Thermal-Fluid Sciences 3",
+     "options": [
+      [
+       "MAE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 201 Thermal-Fluid Sciences 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Approved Advised Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Approved Advised Elective 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Course designated ARTS, FAD, or HUMANITIES",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Course designated ARTS, FAD, or HUMANITIES 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 355 Robotics and Autonomous Systems 3",
+     "options": [
+      [
+       "JEM 355"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JEM 355 Robotics and Autonomous Systems 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 360 Mechatronics Laboratory III 2",
+     "options": [
+      [
+       "JEM 360"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "JEM 360 Mechatronics Laboratory III 2",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 208 Engineering Dynamics 3",
+     "options": [
+      [
+       "MAE 208"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 208 Engineering Dynamics 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 316 Strength of Mechanical Components 3",
+     "options": [
+      [
+       "MAE 316"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 316 Strength of Mechanical Components 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Course designated ARTS, FAD, or HUMANITIES",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Course designated ARTS, FAD, or HUMANITIES 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 484 Senior Design Project in Mechatronics Engineering I 3",
+     "options": [
+      [
+       "JEM 484"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JEM 484 Senior Design Project in Mechatronics Engineering I 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 308 Fluid Mechanics 3",
+     "options": [
+      [
+       "MAE 308"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 308 Fluid Mechanics 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 310 Heat Transfer Fundamentals 3",
+     "options": [
+      [
+       "MAE 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 310 Heat Transfer Fundamentals 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 315 Fundamentals of Vibrations 3",
+     "options": [
+      [
+       "MAE 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 315 Fundamentals of Vibrations 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Course designated ARTS, FAD, or HUMANITIES",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Course designated ARTS, FAD, or HUMANITIES 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JEM 485 Senior Design Project in Mechatronics Engineering II 3",
+     "options": [
+      [
+       "JEM 485"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JEM 485 Senior Design Project in Mechatronics Engineering II 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 435 Principles of Automatic Control 3",
+     "options": [
+      [
+       "MAE 435"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 435 Principles of Automatic Control 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 104",
+     "options": [
+      [
+       "ECON 104"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECON 104 3",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "STAT 225",
+     "options": [
+      [
+       "STAT 225"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "STAT 225 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SYS 478",
+     "options": [
+      [
+       "SYS 478"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SYS 478 4",
+     "id": "ncsu-engineering-bs-mechatronics-concentration-s41"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place",
+  "Required course codes not found in the course catalog: CHEM 111, CHEM 132, ECON 104, FYS 178, LANG 120, MATH 191, MATH 192, MATH 291, PHYS 221, PHYS 222, STAT 225, SYS 478"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/engineering-bs-mechatronics-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Mechatronics Concentration",
+ "college": "College of Engineering"
+}

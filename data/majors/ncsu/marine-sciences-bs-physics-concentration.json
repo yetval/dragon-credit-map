@@ -1,0 +1,743 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-marine-sciences-bs-physics-concentration",
+ "university": "ncsu",
+ "name": "Marine Sciences",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/marine-sciences-bs-physics-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Core Courses/Marine Science",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "options": [
+      [
+       "MEA 100"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 200 Introduction to Oceanography 3",
+     "options": [
+      [
+       "MEA 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 200 Introduction to Oceanography 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 210 Oceanography Lab 1",
+     "options": [
+      [
+       "MEA 210"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 210 Oceanography Lab 1",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 250 Introduction to Coastal Environments 3",
+     "options": [
+      [
+       "MEA 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 250 Introduction to Coastal Environments 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 251 Introduction to Coastal Environments Laboratory 1",
+     "options": [
+      [
+       "MEA 251"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 251 Introduction to Coastal Environments Laboratory 1",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 459 Field Investigation of Coastal Processes 5",
+     "options": [
+      [
+       "MEA 459"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "MEA 459 Field Investigation of Coastal Processes 5",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 460 Principles of Physical Oceanography 3",
+     "options": [
+      [
+       "MEA 460"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 460 Principles of Physical Oceanography 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 462 Observational Methods and Data Analysis in Marine Physics 3",
+     "options": [
+      [
+       "MEA 462"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 462 Observational Methods and Data Analysis in Marine Physics 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 495 Junior Seminar in the Marine, Earth, and Atmospheric Sciences 1",
+     "options": [
+      [
+       "MEA 495"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 495 Junior Seminar in the Marine, Earth, and Atmospheric Sciences 1",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Physics Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 463 Fluid Physics 3",
+     "options": [
+      [
+       "MEA 463"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 463 Fluid Physics 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 464 Ocean Circulation Systems 3",
+     "options": [
+      [
+       "MEA 464"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 464 Ocean Circulation Systems 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 467 Marine Meteorology 3",
+     "options": [
+      [
+       "MEA 467"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 467 Marine Meteorology 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 203 University Physics III 4",
+     "options": [
+      [
+       "PY 203"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 203 University Physics III 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 411 Mechanics I 3",
+     "options": [
+      [
+       "PY 411"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PY 411 Mechanics I 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 412 Mechanics II 3",
+     "options": [
+      [
+       "PY 412"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PY 412 Mechanics II 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 413 Thermal Physics 3",
+     "options": [
+      [
+       "PY 413"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PY 413 Thermal Physics 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 414 Electromagnetism I 3",
+     "options": [
+      [
+       "PY 414"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PY 414 Electromagnetism I 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 415 Electromagnetism II 3",
+     "options": [
+      [
+       "PY 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PY 415 Electromagnetism II 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Technical Elective",
+     "options": [],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "Technical Elective 2",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s19"
+    }
+   ]
+  },
+  {
+   "title": "Basic Math & Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 Chemistry - A Quantitative Science 3",
+     "options": [
+      [
+       "CH 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 201 Chemistry - A Quantitative Science 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 202 Quantitative Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 202 Quantitative Chemistry Laboratory 1",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 201 University Physics I 4",
+     "options": [
+      [
+       "PY 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 201 University Physics I 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 202 University Physics II 4",
+     "options": [
+      [
+       "PY 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 202 University Physics II 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 401 Applied Differential Equations II 3",
+     "options": [
+      [
+       "MA 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 401 Applied Differential Equations II 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 370 Probability and Statistics for Engineers 3 or ST 311 Introduction to Statistics",
+     "options": [
+      [
+       "ST 370"
+      ],
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 370 Probability and Statistics for Engineers 3 or ST 311 Introduction to Statistics",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Computer Science electives:",
+     "options": [
+      [
+       "MEA 217"
+      ],
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 112"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "CSC 116"
+      ],
+      [
+       "PY 251"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Computer Science electives: 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s32"
+    }
+   ]
+  },
+  {
+   "title": "College Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COS 100 Science of Change 2",
+     "options": [
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "COS 100 Science of Change 2",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s35"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s40"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-marine-sciences-bs-physics-concentration-s42"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/marine-sciences-bs-physics-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Physics Concentration",
+ "college": "College of Sciences"
+}

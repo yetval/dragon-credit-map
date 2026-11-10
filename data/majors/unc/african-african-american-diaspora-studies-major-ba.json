@@ -1,0 +1,108 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-african-african-american-diaspora-studies-major-ba",
+ "university": "unc",
+ "name": "African, African American, and Diaspora Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/african-african-american-diaspora-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AAAD 101 Introduction to Africa 3",
+     "options": [
+      [
+       "AAAD 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AAAD 101 Introduction to Africa 3",
+     "id": "unc-african-african-american-diaspora-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AAAD 130 Introduction to African American and Diaspora Studies 3",
+     "options": [
+      [
+       "AAAD 130"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AAAD 130 Introduction to African American and Diaspora Studies 3",
+     "id": "unc-african-african-american-diaspora-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AAAD 395 Undergraduate Research Seminar (offered fall semester only) 3",
+     "options": [
+      [
+       "AAAD 395"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AAAD 395 Undergraduate Research Seminar (offered fall semester only) 3",
+     "id": "unc-african-african-american-diaspora-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AAAD 487 Intellectual Currents in African and African Diaspora Studies (offered spring semester only) 3",
+     "options": [
+      [
+       "AAAD 487"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AAAD 487 Intellectual Currents in African and African Diaspora Studies (offered spring semester only) 3",
+     "id": "unc-african-african-american-diaspora-studies-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Five additional AAAD courses.",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five additional AAAD courses. 15",
+     "id": "unc-african-african-american-diaspora-studies-major-ba-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/african-african-american-diaspora-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

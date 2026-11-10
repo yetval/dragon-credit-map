@@ -1,0 +1,848 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration",
+ "university": "ncsu",
+ "name": "Biological Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/biological-agricultural-engineering/biological-engineering-bs-environmental-engineering-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 128,
+  "max": 128
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "CH 220",
+       "CH 222"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4",
+     "options": [
+      [
+       "PY 205",
+       "PY 206"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 200 Computer Methods in Biological Engineering 2",
+     "options": [
+      [
+       "BAE 200"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BAE 200 Computer Methods in Biological Engineering 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CE 214 or MAE 206 Engineering Mechanics-Statics or Engineering Statics 3",
+     "options": [
+      [
+       "CE 214"
+      ],
+      [
+       "MAE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CE 214 or MAE 206 Engineering Mechanics-Statics or Engineering Statics 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4",
+     "options": [
+      [
+       "PY 208",
+       "PY 209"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIO 181 or BIO 183 Introductory Biology: Ecology, Evolution, and Biodiversity or Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 or BIO 183 Introductory Biology: Ecology, Evolution, and Biodiversity or Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 203 Introduction to AutoCAD Civil 3D for Environmental & Ecological Engineers 2",
+     "options": [
+      [
+       "BAE 203"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BAE 203 Introduction to AutoCAD Civil 3D for Environmental & Ecological Engineers 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 204 Introduction to Environmental and Ecological Engineering 2",
+     "options": [
+      [
+       "BAE 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BAE 204 Introduction to Environmental and Ecological Engineering 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 208 Engineering Dynamics 3",
+     "options": [
+      [
+       "MAE 208"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 208 Engineering Dynamics 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 201 Thermal-Fluid Sciences 3",
+     "options": [
+      [
+       "MAE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 201 Thermal-Fluid Sciences 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 Soil Science 3",
+     "options": [
+      [
+       "SSC 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SSC 200 Soil Science 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 325 Introductory Geomatics 3",
+     "options": [
+      [
+       "BAE 325"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAE 325 Introductory Geomatics 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 302 Transport Phenomena 3",
+     "options": [
+      [
+       "BAE 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAE 302 Transport Phenomena 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 371 Fundamentals of Hydrology for Engineers 3",
+     "options": [
+      [
+       "BAE 371"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAE 371 Fundamentals of Hydrology for Engineers 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CE 282 Hydraulics 3",
+     "options": [
+      [
+       "CE 282"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CE 282 Hydraulics 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 305 Biological Engineering Circuits 4",
+     "options": [
+      [
+       "BAE 305"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BAE 305 Biological Engineering Circuits 4",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 401 Sensors and Controls 3",
+     "options": [
+      [
+       "BAE 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAE 401 Sensors and Controls 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 472 Irrigation and Drainage 3",
+     "options": [
+      [
+       "BAE 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAE 472 Irrigation and Drainage 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CE 225 or MAE 214 Mechanics of Solids or Solid Mechanics 3",
+     "options": [
+      [
+       "CE 225"
+      ],
+      [
+       "MAE 214"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CE 225 or MAE 214 Mechanics of Solids or Solid Mechanics 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 370 Probability and Statistics for Engineers 3",
+     "options": [
+      [
+       "ST 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 370 Probability and Statistics for Engineers 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "PB 321"
+      ],
+      [
+       "PB 360"
+      ],
+      [
+       "SSC 332"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 478 Circular Approach to Manure Management 3",
+     "options": [
+      [
+       "BAE 478"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAE 478 Circular Approach to Manure Management 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 451 Engineering Design I 2",
+     "options": [
+      [
+       "BAE 451"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BAE 451 Engineering Design I 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BAE 473"
+      ],
+      [
+       "BAE 481"
+      ],
+      [
+       "BAE 573"
+      ],
+      [
+       "SSC 473"
+      ],
+      [
+       "SSC 573"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "IDS 201"
+      ],
+      [
+       "STS 301"
+      ],
+      [
+       "STS 304"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENG 331 or ENG 333 Communication for Engineering and Technology or Communication for Science and Research 3",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 331 or ENG 333 Communication for Engineering and Technology or Communication for Science and Research 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BAE 452 Engineering Design II 2",
+     "options": [
+      [
+       "BAE 452"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "BAE 452 Engineering Design II 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BAE 322"
+      ],
+      [
+       "BAE 361"
+      ],
+      [
+       "BAE 481"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s38"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s42"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s43"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s44"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s45"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-biological-engineering-bs-environmental-engineering-concentration-s46"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/biological-agricultural-engineering/biological-engineering-bs-environmental-engineering-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Environmental Engineering Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

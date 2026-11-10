@@ -1,0 +1,1347 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-general-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-general-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 28,
+  "max": 28
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "The major consists of eight courses which must include the following:",
+     "options": [
+      [
+       "ASIA 150"
+      ],
+      [
+       "ASIA 50"
+      ],
+      [
+       "ASIA 52"
+      ],
+      [
+       "ASIA 55"
+      ],
+      [
+       "ASIA 56"
+      ],
+      [
+       "WGST 56"
+      ],
+      [
+       "ASIA 57"
+      ],
+      [
+       "ASIA 59"
+      ],
+      [
+       "ASIA 60"
+      ],
+      [
+       "JWST 60"
+      ],
+      [
+       "ASIA 61"
+      ],
+      [
+       "ASIA 65"
+      ],
+      [
+       "ASIA 69"
+      ],
+      [
+       "PWAD 69"
+      ],
+      [
+       "ASIA 72"
+      ],
+      [
+       "ASIA 73"
+      ],
+      [
+       "ASIA 74"
+      ],
+      [
+       "ASIA 75"
+      ],
+      [
+       "ASIA 76"
+      ],
+      [
+       "ASIA 77"
+      ],
+      [
+       "ASIA 89"
+      ],
+      [
+       "ASIA 124"
+      ],
+      [
+       "ASIA 125I"
+      ],
+      [
+       "ASIA 126"
+      ],
+      [
+       "ASIA 127"
+      ],
+      [
+       "WGST 127"
+      ],
+      [
+       "ARAB 150"
+      ],
+      [
+       "ASIA 150"
+      ],
+      [
+       "CHIN 150"
+      ],
+      [
+       "KOR 150"
+      ],
+      [
+       "ARAB 151"
+      ],
+      [
+       "KOR 151"
+      ],
+      [
+       "ASIA 152"
+      ],
+      [
+       "KOR 152"
+      ],
+      [
+       "JAPN 160"
+      ],
+      [
+       "JAPN 162"
+      ],
+      [
+       "ASIA 163"
+      ],
+      [
+       "ASIA 164"
+      ],
+      [
+       "MUSC 164"
+      ],
+      [
+       "ASIA 167"
+      ],
+      [
+       "WGST 167"
+      ],
+      [
+       "ARAB 211"
+      ],
+      [
+       "ASIA 211"
+      ],
+      [
+       "ARAB 214"
+      ],
+      [
+       "ANTH 214"
+      ],
+      [
+       "ASIA 228"
+      ],
+      [
+       "ASIA 229"
+      ],
+      [
+       "ASIA 231"
+      ],
+      [
+       "JAPN 231"
+      ],
+      [
+       "HIST 271"
+      ],
+      [
+       "KOR 232"
+      ],
+      [
+       "CMPL 232"
+      ],
+      [
+       "ASIA 233"
+      ],
+      [
+       "ASIA 235"
+      ],
+      [
+       "JWST 235"
+      ],
+      [
+       "PWAD 235"
+      ],
+      [
+       "KOR 237"
+      ],
+      [
+       "CMPL 237"
+      ],
+      [
+       "WGST 237"
+      ],
+      [
+       "CHIN 238"
+      ],
+      [
+       "CMPL 238"
+      ],
+      [
+       "CHIN 242"
+      ],
+      [
+       "CHIN 244"
+      ],
+      [
+       "JAPN 246"
+      ],
+      [
+       "HIST 247"
+      ],
+      [
+       "CHIN 247"
+      ],
+      [
+       "CMPL 247"
+      ],
+      [
+       "CHIN 252"
+      ],
+      [
+       "ARAB 255"
+      ],
+      [
+       "CHIN 255"
+      ],
+      [
+       "ASIA 256"
+      ],
+      [
+       "CMPL 256"
+      ],
+      [
+       "ASIA 258"
+      ],
+      [
+       "CMPL 258"
+      ],
+      [
+       "ASIA 261"
+      ],
+      [
+       "CMPL 261"
+      ],
+      [
+       "ASIA 262"
+      ],
+      [
+       "CHIN 265"
+      ],
+      [
+       "HIST 265"
+      ],
+      [
+       "JAPN 277"
+      ],
+      [
+       "JAPN 288"
+      ],
+      [
+       "COMM 288"
+      ],
+      [
+       "KOR 327"
+      ],
+      [
+       "ASIA 329"
+      ],
+      [
+       "WGST 329"
+      ],
+      [
+       "ASIA 331"
+      ],
+      [
+       "HIST 335"
+      ],
+      [
+       "PWAD 331"
+      ],
+      [
+       "ASIA 332"
+      ],
+      [
+       "CHIN 332"
+      ],
+      [
+       "ASIA 333"
+      ],
+      [
+       "CHIN 333"
+      ],
+      [
+       "ARAB 337"
+      ],
+      [
+       "ASIA 342"
+      ],
+      [
+       "CHIN 346"
+      ],
+      [
+       "KOR 346"
+      ],
+      [
+       "CMPL 246"
+      ],
+      [
+       "ASIA 350"
+      ],
+      [
+       "ARAB 354"
+      ],
+      [
+       "ANTH 354"
+      ],
+      [
+       "CHIN 356"
+      ],
+      [
+       "ASIA 358"
+      ],
+      [
+       "JWST 358"
+      ],
+      [
+       "ASIA 359"
+      ],
+      [
+       "CMPL 359"
+      ],
+      [
+       "CHIN 361"
+      ],
+      [
+       "CHIN 367"
+      ],
+      [
+       "JAPN 375"
+      ],
+      [
+       "ASIA 382"
+      ],
+      [
+       "RELI 382"
+      ],
+      [
+       "ASIA 383"
+      ],
+      [
+       "RELI 383"
+      ],
+      [
+       "ASIA 388"
+      ],
+      [
+       "ASIA 418"
+      ],
+      [
+       "HIST 418"
+      ],
+      [
+       "WGST 418"
+      ],
+      [
+       "ASIA 425"
+      ],
+      [
+       "JWST 425"
+      ],
+      [
+       "PWAD 425"
+      ],
+      [
+       "ASIA 426I"
+      ],
+      [
+       "ASIA 427"
+      ],
+      [
+       "CMPL 527"
+      ],
+      [
+       "PWAD 427"
+      ],
+      [
+       "ASIA 431"
+      ],
+      [
+       "ARAB 432"
+      ],
+      [
+       "ANTH 432"
+      ],
+      [
+       "ARAB 434"
+      ],
+      [
+       "ASIA 435"
+      ],
+      [
+       "CMPL 535"
+      ],
+      [
+       "PWAD 435"
+      ],
+      [
+       "ASIA 436"
+      ],
+      [
+       "JWST 436"
+      ],
+      [
+       "CHIN 439"
+      ],
+      [
+       "HIST 439"
+      ],
+      [
+       "ASIA 442"
+      ],
+      [
+       "CMPL 442"
+      ],
+      [
+       "JAPN 444"
+      ],
+      [
+       "KOR 447"
+      ],
+      [
+       "CMPL 547"
+      ],
+      [
+       "ARAB 453"
+      ],
+      [
+       "ASIA 453"
+      ],
+      [
+       "ASIA 462"
+      ],
+      [
+       "JWST 462"
+      ],
+      [
+       "PWAD 462"
+      ],
+      [
+       "CHIN 463"
+      ],
+      [
+       "CHIN 464"
+      ],
+      [
+       "ASIA 471"
+      ],
+      [
+       "WGST 471"
+      ],
+      [
+       "CHIN 475"
+      ],
+      [
+       "CHIN 476"
+      ],
+      [
+       "CHIN 480"
+      ],
+      [
+       "CMPL 480"
+      ],
+      [
+       "WGST 480"
+      ],
+      [
+       "JAPN 482"
+      ],
+      [
+       "JAPN 489"
+      ],
+      [
+       "WGST 489"
+      ],
+      [
+       "ASIA 522"
+      ],
+      [
+       "CHIN 545"
+      ],
+      [
+       "CMPL 545"
+      ],
+      [
+       "CHIN 551"
+      ],
+      [
+       "CHIN 552"
+      ],
+      [
+       "CHIN 562"
+      ],
+      [
+       "HNUR 592"
+      ],
+      [
+       "RELI 592"
+      ],
+      [
+       "ASIA 57"
+      ],
+      [
+       "ASIA 77"
+      ],
+      [
+       "ENGL 79"
+      ],
+      [
+       "ASIA 89"
+      ],
+      [
+       "RELI 103"
+      ],
+      [
+       "JWST 103"
+      ],
+      [
+       "RELI 106"
+      ],
+      [
+       "JWST 106"
+      ],
+      [
+       "RELI 107"
+      ],
+      [
+       "JWST 107"
+      ],
+      [
+       "IDST 123I"
+      ],
+      [
+       "ASIA 125I"
+      ],
+      [
+       "ASIA 134"
+      ],
+      [
+       "HIST 134"
+      ],
+      [
+       "PWAD 134"
+      ],
+      [
+       "ASIA 150"
+      ],
+      [
+       "HIST 163"
+      ],
+      [
+       "ASIA 183"
+      ],
+      [
+       "RELI 183"
+      ],
+      [
+       "RELI 184"
+      ],
+      [
+       "RELI 206"
+      ],
+      [
+       "JWST 206"
+      ],
+      [
+       "ASIA 211"
+      ],
+      [
+       "PHIL 213"
+      ],
+      [
+       "ASIA 229"
+      ],
+      [
+       "ASIA 255"
+      ],
+      [
+       "CMPL 255"
+      ],
+      [
+       "ASIA 265"
+      ],
+      [
+       "GEOG 265"
+      ],
+      [
+       "ENGL 270"
+      ],
+      [
+       "HIST 274"
+      ],
+      [
+       "GLBL 281"
+      ],
+      [
+       "ASIA 284"
+      ],
+      [
+       "RELI 284"
+      ],
+      [
+       "ASIA 342"
+      ],
+      [
+       "RELI 343"
+      ],
+      [
+       "JWST 343"
+      ],
+      [
+       "ASIA 350"
+      ],
+      [
+       "ASIA 360"
+      ],
+      [
+       "ENGL 360"
+      ],
+      [
+       "ENGL 371"
+      ],
+      [
+       "FREN 383"
+      ],
+      [
+       "ASIA 387"
+      ],
+      [
+       "COMM 387"
+      ],
+      [
+       "RELI 387"
+      ],
+      [
+       "ASIA 388"
+      ],
+      [
+       "ASIA 427"
+      ],
+      [
+       "CMPL 527"
+      ],
+      [
+       "PWAD 427"
+      ],
+      [
+       "ASIA 445"
+      ],
+      [
+       "RELI 445"
+      ],
+      [
+       "ASIA 469"
+      ],
+      [
+       "ECON 469"
+      ],
+      [
+       "RELI 480"
+      ],
+      [
+       "RELI 481"
+      ],
+      [
+       "PWAD 481"
+      ],
+      [
+       "GLBL 484"
+      ],
+      [
+       "RELI 512"
+      ],
+      [
+       "CLAR 512"
+      ],
+      [
+       "JWST 512"
+      ],
+      [
+       "ASIA 581"
+      ],
+      [
+       "RELI 581"
+      ],
+      [
+       "RELI 602"
+      ],
+      [
+       "JWST 602"
+      ],
+      [
+       "ASIA 692H"
+      ],
+      [
+       "GEOG 59"
+      ],
+      [
+       "ASIA 60"
+      ],
+      [
+       "JWST 60"
+      ],
+      [
+       "ASIA 73"
+      ],
+      [
+       "ASIA 74"
+      ],
+      [
+       "RELI 110"
+      ],
+      [
+       "CLAR 110"
+      ],
+      [
+       "JWST 110"
+      ],
+      [
+       "IDST 134I"
+      ],
+      [
+       "ASIA 138"
+      ],
+      [
+       "HIST 138"
+      ],
+      [
+       "ASIA 139"
+      ],
+      [
+       "HIST 139"
+      ],
+      [
+       "ARAB 150"
+      ],
+      [
+       "ARAB 151"
+      ],
+      [
+       "ASIA 180"
+      ],
+      [
+       "RELI 180"
+      ],
+      [
+       "ASIA 181"
+      ],
+      [
+       "RELI 181"
+      ],
+      [
+       "RELI 185"
+      ],
+      [
+       "ARAB 211"
+      ],
+      [
+       "ARAB 214"
+      ],
+      [
+       "ANTH 214"
+      ],
+      [
+       "ASIA 235"
+      ],
+      [
+       "JWST 235"
+      ],
+      [
+       "PWAD 235"
+      ],
+      [
+       "ARAB 255"
+      ],
+      [
+       "ASIA 276"
+      ],
+      [
+       "HIST 276"
+      ],
+      [
+       "ASIA 277"
+      ],
+      [
+       "HIST 277"
+      ],
+      [
+       "PWAD 277"
+      ],
+      [
+       "RELI 279"
+      ],
+      [
+       "ASIA 279"
+      ],
+      [
+       "ASIA 329"
+      ],
+      [
+       "WGST 329"
+      ],
+      [
+       "ARAB 337"
+      ],
+      [
+       "ARAB 354"
+      ],
+      [
+       "ANTH 354"
+      ],
+      [
+       "ASIA 358"
+      ],
+      [
+       "JWST 358"
+      ],
+      [
+       "ASIA 359"
+      ],
+      [
+       "CMPL 359"
+      ],
+      [
+       "SOCI 419"
+      ],
+      [
+       "ASIA 425"
+      ],
+      [
+       "JWST 425"
+      ],
+      [
+       "PWAD 425"
+      ],
+      [
+       "ARAB 432"
+      ],
+      [
+       "ANTH 432"
+      ],
+      [
+       "ARAB 434"
+      ],
+      [
+       "ASIA 435"
+      ],
+      [
+       "CMPL 535"
+      ],
+      [
+       "PWAD 435"
+      ],
+      [
+       "ASIA 436"
+      ],
+      [
+       "JWST 436"
+      ],
+      [
+       "ASIA 442"
+      ],
+      [
+       "CMPL 442"
+      ],
+      [
+       "ASIA 447I"
+      ],
+      [
+       "GEOG 447I"
+      ],
+      [
+       "WGST 447I"
+      ],
+      [
+       "GEOG 448"
+      ],
+      [
+       "ARAB 453"
+      ],
+      [
+       "ASIA 462"
+      ],
+      [
+       "JWST 462"
+      ],
+      [
+       "PWAD 462"
+      ],
+      [
+       "ASIA 471"
+      ],
+      [
+       "WGST 471"
+      ],
+      [
+       "RELI 485"
+      ],
+      [
+       "ASIA 485"
+      ],
+      [
+       "RELI 486"
+      ],
+      [
+       "ASIA 486"
+      ],
+      [
+       "RELI 503"
+      ],
+      [
+       "JWST 503"
+      ],
+      [
+       "ASIA 536"
+      ],
+      [
+       "HIST 536"
+      ],
+      [
+       "ASIA 537"
+      ],
+      [
+       "HIST 537"
+      ],
+      [
+       "WGST 537"
+      ],
+      [
+       "ASIA 538"
+      ],
+      [
+       "HIST 538"
+      ],
+      [
+       "ASIA 584"
+      ],
+      [
+       "RELI 584"
+      ],
+      [
+       "RELI 585"
+      ],
+      [
+       "RELI 587"
+      ],
+      [
+       "ASIA 587"
+      ],
+      [
+       "FREN 617"
+      ],
+      [
+       "ARAB 681"
+      ],
+      [
+       "ASIA 681"
+      ],
+      [
+       "RELI 681"
+      ]
+     ],
+     "pick": {
+      "count": 8
+     },
+     "hours": {
+      "min": 24,
+      "max": 24
+     },
+     "raw": "The major consists of eight courses which must include the following: 24",
+     "id": "unc-asian-studies-major-ba-general-concentration-s1",
+     "altGroups": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Any Asian or Middle Eastern language through level 4",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Any Asian or Middle Eastern language through level 4 4",
+     "id": "unc-asian-studies-major-ba-general-concentration-s2"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"At least one course each from any two other departments\"",
+  "Rule cannot be checked automatically: \"At least two courses each from any two of the six geographic regions: China, Japan, Korea, Middle East, South Asia, Southeast Asia (see lists below)\""
+ ],
+ "parseNotes": [
+  "List \"Other Courses\" has a row that is not a course and was not read: \"One language course beyond level 4 or a course at level 2 or above in a second Asian language may count as a major course.\"",
+  "Group \"The major consists of eight courses which must include the following:\" carries a note or open-ended option: \"At least one course numbered 400 or above\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-general-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Interdisciplinary Concentration"
+}

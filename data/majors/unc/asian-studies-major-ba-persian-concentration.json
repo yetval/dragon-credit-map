@@ -1,0 +1,615 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-persian-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-persian-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Language requirement (two courses):",
+     "options": [
+      [
+       "PRSN 305"
+      ],
+      [
+       "PRSN 306"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Language requirement (two courses): 6",
+     "id": "unc-asian-studies-major-ba-persian-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One introductory-level course in Persian Studies:",
+     "options": [
+      [
+       "ASIA 69"
+      ],
+      [
+       "ASIA 124"
+      ],
+      [
+       "ASIA 126"
+      ],
+      [
+       "ASIA 127"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One introductory-level course in Persian Studies: 3",
+     "id": "unc-asian-studies-major-ba-persian-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Three upper-level courses in Persian Stuidies:",
+     "options": [
+      [
+       "ASIA 256"
+      ],
+      [
+       "ASIA 258"
+      ],
+      [
+       "ASIA 431"
+      ],
+      [
+       "ASIA 583"
+      ],
+      [
+       "ASIA 692H"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three upper-level courses in Persian Stuidies: 9",
+     "id": "unc-asian-studies-major-ba-persian-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One Regional course (see list below)",
+     "options": [
+      [
+       "ASIA 59"
+      ],
+      [
+       "ASIA 61"
+      ],
+      [
+       "ASIA 125I"
+      ],
+      [
+       "ASIA 135"
+      ],
+      [
+       "HIST 135"
+      ],
+      [
+       "ASIA 136"
+      ],
+      [
+       "HIST 136"
+      ],
+      [
+       "ASIA 152"
+      ],
+      [
+       "ASIA 163"
+      ],
+      [
+       "ASIA 164"
+      ],
+      [
+       "MUSC 164"
+      ],
+      [
+       "ASIA 167"
+      ],
+      [
+       "WGST 167"
+      ],
+      [
+       "ASIA 228"
+      ],
+      [
+       "ASIA 231"
+      ],
+      [
+       "ASIA 261"
+      ],
+      [
+       "CMPL 261"
+      ],
+      [
+       "ASIA 262"
+      ],
+      [
+       "ASIA 267"
+      ],
+      [
+       "GEOG 267"
+      ],
+      [
+       "ASIA 272"
+      ],
+      [
+       "HIST 272"
+      ],
+      [
+       "ASIA 331"
+      ],
+      [
+       "HIST 335"
+      ],
+      [
+       "ASIA 332"
+      ],
+      [
+       "ASIA 333"
+      ],
+      [
+       "ASIA 381"
+      ],
+      [
+       "RELI 381"
+      ],
+      [
+       "ASIA 382"
+      ],
+      [
+       "RELI 382"
+      ],
+      [
+       "ASIA 383"
+      ],
+      [
+       "RELI 383"
+      ],
+      [
+       "ASIA 440"
+      ],
+      [
+       "HIST 440"
+      ],
+      [
+       "ASIA 441"
+      ],
+      [
+       "HIST 442"
+      ],
+      [
+       "ASIA 482"
+      ],
+      [
+       "RELI 482"
+      ],
+      [
+       "ASIA 522"
+      ],
+      [
+       "ASIA 557"
+      ],
+      [
+       "HIST 557"
+      ],
+      [
+       "ASIA 582"
+      ],
+      [
+       "RELI 582"
+      ],
+      [
+       "HNUR 592"
+      ],
+      [
+       "RELI 592"
+      ],
+      [
+       "ASIA 60"
+      ],
+      [
+       "JWST 60"
+      ],
+      [
+       "ASIA 73"
+      ],
+      [
+       "ASIA 74"
+      ],
+      [
+       "ASIA 138"
+      ],
+      [
+       "HIST 138"
+      ],
+      [
+       "ASIA 139"
+      ],
+      [
+       "HIST 139"
+      ],
+      [
+       "ARAB 150"
+      ],
+      [
+       "ARAB 151"
+      ],
+      [
+       "ASIA 180"
+      ],
+      [
+       "RELI 180"
+      ],
+      [
+       "ASIA 181"
+      ],
+      [
+       "RELI 181"
+      ],
+      [
+       "ASIA 235"
+      ],
+      [
+       "JWST 235"
+      ],
+      [
+       "ASIA 276"
+      ],
+      [
+       "HIST 276"
+      ],
+      [
+       "ASIA 277"
+      ],
+      [
+       "HIST 277"
+      ],
+      [
+       "PWAD 277"
+      ],
+      [
+       "ASIA 279"
+      ],
+      [
+       "RELI 279"
+      ],
+      [
+       "ASIA 329"
+      ],
+      [
+       "WGST 329"
+      ],
+      [
+       "ASIA 358"
+      ],
+      [
+       "JWST 358"
+      ],
+      [
+       "ASIA 359"
+      ],
+      [
+       "CMPL 359"
+      ],
+      [
+       "ASIA 425"
+      ],
+      [
+       "JWST 425"
+      ],
+      [
+       "ARAB 432"
+      ],
+      [
+       "ANTH 432"
+      ],
+      [
+       "ARAB 434"
+      ],
+      [
+       "ASIA 435"
+      ],
+      [
+       "PWAD 435"
+      ],
+      [
+       "ASIA 436"
+      ],
+      [
+       "JWST 436"
+      ],
+      [
+       "ASIA 442"
+      ],
+      [
+       "CMPL 442"
+      ],
+      [
+       "ASIA 447I"
+      ],
+      [
+       "GEOG 447I"
+      ],
+      [
+       "WGST 447I"
+      ],
+      [
+       "ARAB 453"
+      ],
+      [
+       "ASIA 462"
+      ],
+      [
+       "JWST 462"
+      ],
+      [
+       "ASIA 471"
+      ],
+      [
+       "WGST 471"
+      ],
+      [
+       "ASIA 485"
+      ],
+      [
+       "RELI 485"
+      ],
+      [
+       "ASIA 486"
+      ],
+      [
+       "RELI 486"
+      ],
+      [
+       "ASIA 536"
+      ],
+      [
+       "HIST 536"
+      ],
+      [
+       "ASIA 537"
+      ],
+      [
+       "WGST 537"
+      ],
+      [
+       "ASIA 538"
+      ],
+      [
+       "HIST 538"
+      ],
+      [
+       "ASIA 581"
+      ],
+      [
+       "RELI 581"
+      ],
+      [
+       "ASIA 584"
+      ],
+      [
+       "RELI 584"
+      ],
+      [
+       "ASIA 587"
+      ],
+      [
+       "RELI 587"
+      ],
+      [
+       "ASIA 681"
+      ],
+      [
+       "ARAB 681"
+      ],
+      [
+       "RELI 681"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One Regional course (see list below) 3",
+     "id": "unc-asian-studies-major-ba-persian-concentration-s4",
+     "pick": {
+      "hours": 3
+     },
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      3,
+      4,
+      4,
+      5,
+      6,
+      7,
+      7,
+      8,
+      8,
+      9,
+      10,
+      11,
+      11,
+      12,
+      13,
+      13,
+      14,
+      14,
+      15,
+      15,
+      16,
+      17,
+      18,
+      18,
+      19,
+      19,
+      20,
+      20,
+      21,
+      21,
+      22,
+      22,
+      23,
+      23,
+      24,
+      25,
+      25,
+      26,
+      26,
+      27,
+      27,
+      28,
+      28,
+      29,
+      30,
+      31,
+      31,
+      32,
+      32,
+      33,
+      34,
+      35,
+      35,
+      36,
+      36,
+      37,
+      37,
+      38,
+      38,
+      39,
+      39,
+      39,
+      40,
+      40,
+      41,
+      41,
+      42,
+      42,
+      43,
+      43,
+      44,
+      44,
+      45,
+      45,
+      46,
+      47,
+      47,
+      48,
+      48,
+      49,
+      49,
+      50,
+      50,
+      50,
+      51,
+      52,
+      52,
+      53,
+      53,
+      54,
+      54,
+      55,
+      55,
+      56,
+      56,
+      57,
+      57,
+      58,
+      58,
+      59,
+      59,
+      60,
+      60,
+      61,
+      61,
+      62,
+      62,
+      62
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One additional elective course, chosen from the following options:",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One additional elective course, chosen from the following options: 3",
+     "id": "unc-asian-studies-major-ba-persian-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Persian through level 4",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Persian through level 4 3",
+     "id": "unc-asian-studies-major-ba-persian-concentration-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"One additional elective course, chosen from the following options:\" carries a note or open-ended option: \"An additional course from the introductory-level list\"",
+  "Group \"One additional elective course, chosen from the following options:\" carries a note or open-ended option: \"An additional course from the upper-level list\"",
+  "Group \"One additional elective course, chosen from the following options:\" carries a note or open-ended option: \"An additional course from the Regional list\"",
+  "Linked \"One Regional course (see list below)\" to the list \"Regional Coursework\" by its position on the page"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-persian-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Persian Studies Concentration"
+}

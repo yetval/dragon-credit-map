@@ -1,0 +1,1183 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-electrical-engineering-bs-music-technology-concentration",
+ "university": "ncsu",
+ "name": "Electrical Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/electrical-computer/electrical-engineering-bs-music-technology-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 122,
+  "max": 122
+ },
+ "sections": [
+  {
+   "title": "Math",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 371 Introduction to Probability and Distribution Theory 3",
+     "options": [
+      [
+       "ST 371"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 371 Introduction to Probability and Distribution Theory 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s4"
+    }
+   ]
+  },
+  {
+   "title": "Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s7"
+    }
+   ]
+  },
+  {
+   "title": "Electrical Engineering Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 109 Introduction to Computer Systems 3",
+     "options": [
+      [
+       "ECE 109"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 109 Introduction to Computer Systems 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 200 Introduction to Signals, Circuits and Systems 4",
+     "options": [
+      [
+       "ECE 200"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECE 200 Introduction to Signals, Circuits and Systems 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 209 Computer Systems Programming 3",
+     "options": [
+      [
+       "ECE 209"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 209 Computer Systems Programming 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 211 Electric Circuits 4",
+     "options": [
+      [
+       "ECE 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECE 211 Electric Circuits 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 212 Fundamentals of Logic Design 3",
+     "options": [
+      [
+       "ECE 212"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 212 Fundamentals of Logic Design 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 220 Analytical Foundations of Electrical and Computer Engineering 3",
+     "options": [
+      [
+       "ECE 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 220 Analytical Foundations of Electrical and Computer Engineering 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 301 Linear Systems 3",
+     "options": [
+      [
+       "ECE 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 301 Linear Systems 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 302 Microelectronics 4",
+     "options": [
+      [
+       "ECE 302"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECE 302 Microelectronics 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 303 Electromagnetic Fields 3",
+     "options": [
+      [
+       "ECE 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 303 Electromagnetic Fields 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ECE 380 Engineering Profession for Electrical Engineers 1 or ECE 381 Engineering Profession for Computer Engineers or ECE 383 Introduction to Entrepreneurship and New Product Development",
+     "options": [
+      [
+       "ECE 380"
+      ],
+      [
+       "ECE 381"
+      ],
+      [
+       "ECE 383"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ECE 380 Engineering Profession for Electrical Engineers 1 or ECE 381 Engineering Profession for Computer Engineers or ECE 383 Introduction to Entrepreneurship and New Product Development",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ECE 484 Electrical and Computer Engineering Senior Design I 3 or ECE 482 Engineering Entrepreneurship Senior Design I",
+     "options": [
+      [
+       "ECE 484"
+      ],
+      [
+       "ECE 482"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 484 Electrical and Computer Engineering Senior Design I 3 or ECE 482 Engineering Entrepreneurship Senior Design I",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ECE 485 Electrical and Computer Engineering Senior Design II 3 or ECE 483 Engineering Entrepreneurship Senior Design II",
+     "options": [
+      [
+       "ECE 485"
+      ],
+      [
+       "ECE 483"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 485 Electrical and Computer Engineering Senior Design II 3 or ECE 483 Engineering Entrepreneurship Senior Design II",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s19"
+    }
+   ]
+  },
+  {
+   "title": "Music Technology Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ECE 410 Introduction to Signal Processing 3 or ECE 510 Introduction to Signal Processing",
+     "options": [
+      [
+       "ECE 410"
+      ],
+      [
+       "ECE 510"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 410 Introduction to Signal Processing 3 or ECE 510 Introduction to Signal Processing",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 431 Music Technology I 3",
+     "options": [
+      [
+       "MUT 431"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 431 Music Technology I 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 432 Music Technology II 3",
+     "options": [
+      [
+       "MUT 432"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 432 Music Technology II 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Music Technology Required Electives",
+     "options": [
+      [
+       "ECE 306"
+      ],
+      [
+       "ECE 411"
+      ],
+      [
+       "ECE 420"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Music Technology Required Electives 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Open Electives",
+     "options": [
+      [
+       "ECE 402"
+      ],
+      [
+       "ECE 403"
+      ],
+      [
+       "ECE 404"
+      ],
+      [
+       "ECE 406"
+      ],
+      [
+       "ECE 506"
+      ],
+      [
+       "ECE 407"
+      ],
+      [
+       "ECE 410"
+      ],
+      [
+       "ECE 510"
+      ],
+      [
+       "ECE 411"
+      ],
+      [
+       "ECE 418"
+      ],
+      [
+       "ECE 518"
+      ],
+      [
+       "ECE 420"
+      ],
+      [
+       "ECE 422"
+      ],
+      [
+       "ECE 423"
+      ],
+      [
+       "ECE 424"
+      ],
+      [
+       "ECE 524"
+      ],
+      [
+       "ECE 426"
+      ],
+      [
+       "ECE 434"
+      ],
+      [
+       "ECE 436"
+      ],
+      [
+       "ECE 442"
+      ],
+      [
+       "ECE 451"
+      ],
+      [
+       "ECE 452"
+      ],
+      [
+       "ECE 552"
+      ],
+      [
+       "ECE 453"
+      ],
+      [
+       "ECE 455"
+      ],
+      [
+       "ECE 456"
+      ],
+      [
+       "ECE 556"
+      ],
+      [
+       "ECE 460"
+      ],
+      [
+       "ECE 560"
+      ],
+      [
+       "ECE 461"
+      ],
+      [
+       "ECE 561"
+      ],
+      [
+       "ECE 463"
+      ],
+      [
+       "ECE 563"
+      ],
+      [
+       "ECE 464"
+      ],
+      [
+       "ECE 564"
+      ],
+      [
+       "ECE 465"
+      ],
+      [
+       "ECE 565"
+      ],
+      [
+       "ECE 466"
+      ],
+      [
+       "ECE 566"
+      ],
+      [
+       "ECE 468"
+      ],
+      [
+       "ECE 568"
+      ],
+      [
+       "ECE 470"
+      ],
+      [
+       "ECE 488"
+      ],
+      [
+       "ECE 588"
+      ],
+      [
+       "ECE 489"
+      ],
+      [
+       "ECE 589"
+      ],
+      [
+       "ECE 492"
+      ],
+      [
+       "ECE 505"
+      ],
+      [
+       "ECE 511"
+      ],
+      [
+       "ECE 512"
+      ],
+      [
+       "ECE 514"
+      ],
+      [
+       "ECE 515"
+      ],
+      [
+       "ECE 516"
+      ],
+      [
+       "ECE 517"
+      ],
+      [
+       "ECE 522"
+      ],
+      [
+       "ECE 523"
+      ],
+      [
+       "ECE 530"
+      ],
+      [
+       "ECE 531"
+      ],
+      [
+       "ECE 532"
+      ],
+      [
+       "ECE 533"
+      ],
+      [
+       "ECE 534"
+      ],
+      [
+       "ECE 535"
+      ],
+      [
+       "ECE 536"
+      ],
+      [
+       "ECE 538"
+      ],
+      [
+       "ECE 540"
+      ],
+      [
+       "ECE 541"
+      ],
+      [
+       "ECE 542"
+      ],
+      [
+       "ECE 544"
+      ],
+      [
+       "ECE 546"
+      ],
+      [
+       "ECE 547"
+      ],
+      [
+       "ECE 549"
+      ],
+      [
+       "ECE 550"
+      ],
+      [
+       "ECE 551"
+      ],
+      [
+       "ECE 553"
+      ],
+      [
+       "ECE 554"
+      ],
+      [
+       "ECE 555"
+      ],
+      [
+       "ECE 557"
+      ],
+      [
+       "ECE 558"
+      ],
+      [
+       "ECE 570"
+      ],
+      [
+       "ECE 573"
+      ],
+      [
+       "ECE 574"
+      ],
+      [
+       "ECE 575"
+      ],
+      [
+       "ECE 576"
+      ],
+      [
+       "ECE 577"
+      ],
+      [
+       "ECE 578"
+      ],
+      [
+       "ECE 579"
+      ],
+      [
+       "ECE 581"
+      ],
+      [
+       "ECE 582"
+      ],
+      [
+       "ECE 583"
+      ],
+      [
+       "ECE 584"
+      ],
+      [
+       "ECE 585"
+      ],
+      [
+       "ECE 586"
+      ],
+      [
+       "ECE 587"
+      ],
+      [
+       "ECE 591"
+      ],
+      [
+       "ECE 592"
+      ],
+      [
+       "ECE 303"
+      ],
+      [
+       "E 304"
+      ],
+      [
+       "ECE 305"
+      ],
+      [
+       "ECE 306"
+      ],
+      [
+       "ECE 308"
+      ],
+      [
+       "ECE 309"
+      ],
+      [
+       "ECE 310"
+      ],
+      [
+       "ECE 384"
+      ],
+      [
+       "ECE 425"
+      ],
+      [
+       "ECE 525"
+      ],
+      [
+       "ECE 469"
+      ],
+      [
+       "CE 214"
+      ],
+      [
+       "MAE 206"
+      ],
+      [
+       "MSE 200"
+      ],
+      [
+       "MSE 201"
+      ],
+      [
+       "ISE 311"
+      ],
+      [
+       "MAE 208"
+      ],
+      [
+       "MAE 201"
+      ],
+      [
+       "MAE 302"
+      ],
+      [
+       "BME 525"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Open Electives 12",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s24",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      3,
+      4,
+      5,
+      5,
+      6,
+      7,
+      7,
+      8,
+      9,
+      10,
+      11,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      17,
+      18,
+      19,
+      20,
+      20,
+      21,
+      21,
+      22,
+      22,
+      23,
+      23,
+      24,
+      24,
+      25,
+      25,
+      26,
+      26,
+      27,
+      27,
+      28,
+      29,
+      29,
+      30,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      88,
+      89,
+      90,
+      90,
+      91,
+      91,
+      92,
+      93,
+      94,
+      95,
+      95
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Other Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 110 Public Speaking 3",
+     "options": [
+      [
+       "COM 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 331 Communication for Engineering and Technology 3",
+     "options": [
+      [
+       "ENG 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 331 Communication for Engineering and Technology 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s26"
+    }
+   ]
+  },
+  {
+   "title": "College Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 102 Engineering in the 21st Century 2",
+     "options": [
+      [
+       "E 102"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "E 102 Engineering in the 21st Century 2",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EC 205 Fundamentals of Economics 3 or EC 201 Principles of Microeconomics or ARE 201 Introduction to Agricultural & Resource Economics or ARE 201A Introduction to Agricultural & Resource Economics",
+     "options": [
+      [
+       "EC 205"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 205 Fundamentals of Economics 3 or EC 201 Principles of Microeconomics or ARE 201 Introduction to Agricultural & Resource Economics or ARE 201A Introduction to Agricultural & Resource Economics",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-electrical-engineering-bs-music-technology-concentration-s39"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Open Electives\" has a row that is not a course and was not read: \"DSA 200 or higher level courses, up to 3 credit hours\"",
+  "List \"Open Electives\" has a row that is not a course and was not read: \"College of Science courses 400-level or higher with permission of advisor\"",
+  "List \"Open Electives\" has a row that is not a course and was not read: \"College of Engineering Courses 400-level or higher with permission of advisor\"",
+  "List \"Open Electives\" has codes with no catalog link: ECE 460/560, ECE 531, ECE 532, ECE 576, ECE 582",
+  "Codes in choice lists not found in the course catalog: ECE 531, ECE 532, ECE 542, ECE 576, ECE 582"
+ ],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/electrical-computer/electrical-engineering-bs-music-technology-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Music Technology Concentration",
+ "college": "College of Engineering"
+}

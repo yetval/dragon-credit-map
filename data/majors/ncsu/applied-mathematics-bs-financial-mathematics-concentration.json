@@ -1,0 +1,857 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration",
+ "university": "ncsu",
+ "name": "Applied Mathematics",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/mathematics/applied-mathematics-bs-financial-mathematics-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COS 100 Science of Change (Verify Requirement) 0 or E 115 Introduction to Computing Environments",
+     "options": [
+      [
+       "COS 100"
+      ],
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COS 100 Science of Change (Verify Requirement) 0 or E 115 Introduction to Computing Environments",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication and Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the communication courses (Verify requirement):",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 292"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "Select one of the communication courses (Verify requirement): 0",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Advanced Writing courses:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 425"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Advanced Writing courses: 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s4"
+    }
+   ]
+  },
+  {
+   "title": "Basic Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 225 Foundations of Advanced Mathematics 3",
+     "options": [
+      [
+       "MA 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 225 Foundations of Advanced Mathematics 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 305 Introduction to Linear Algebra and Matrices 3",
+     "options": [
+      [
+       "MA 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 305 Introduction to Linear Algebra and Matrices 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s10"
+    }
+   ]
+  },
+  {
+   "title": "Basic Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Courses must be taken from two different disciplines",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "CH 103",
+       "CH 104"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 201"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Courses must be taken from two different disciplines 8",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s11",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      4
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional Basic Science",
+     "options": [
+      [
+       "FIM 548"
+      ],
+      [
+       "FIM 549"
+      ],
+      [
+       "MA 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "MA 540"
+      ],
+      [
+       "MA 546"
+      ],
+      [
+       "MA 547"
+      ],
+      [
+       "MA 548"
+      ],
+      [
+       "MA 549"
+      ],
+      [
+       "ST 412"
+      ],
+      [
+       "ST 413"
+      ],
+      [
+       "ST 546"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Additional Basic Science 4",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following options for the Statistics requirement:",
+     "options": [
+      [
+       "ST 371",
+       "ST 372"
+      ],
+      [
+       "ST 370",
+       "ST 422"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select one of the following options for the Statistics requirement: 6",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Introduction to Programming courses:",
+     "options": [
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 112"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "CSC 116"
+      ],
+      [
+       "MA 116"
+      ],
+      [
+       "ST 114"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Introduction to Programming courses: 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s14"
+    }
+   ]
+  },
+  {
+   "title": "Advanced Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 401 Applied Differential Equations II 3 or MA 501 Advanced Mathematics for Engineers and Scientists I",
+     "options": [
+      [
+       "MA 401"
+      ],
+      [
+       "MA 501"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 401 Applied Differential Equations II 3 or MA 501 Advanced Mathematics for Engineers and Scientists I",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 405 Advanced Linear Algebra 3",
+     "options": [
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 405 Advanced Linear Algebra 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "options": [
+      [
+       "MA 407"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 425 Mathematical Analysis I 3",
+     "options": [
+      [
+       "MA 425"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 425 Mathematical Analysis I 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Financial Math Electives",
+     "options": [
+      [
+       "FIM 548"
+      ],
+      [
+       "FIM 549"
+      ],
+      [
+       "MA 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "MA 540"
+      ],
+      [
+       "MA 546"
+      ],
+      [
+       "MA 547"
+      ],
+      [
+       "MA 548"
+      ],
+      [
+       "MA 549"
+      ],
+      [
+       "ST 412"
+      ],
+      [
+       "ST 413"
+      ],
+      [
+       "ST 546"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Financial Math Electives 6",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 421 Introduction to Probability 3",
+     "options": [
+      [
+       "MA 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 421 Introduction to Probability 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math Electives",
+     "options": [
+      [
+       "CSC 427"
+      ],
+      [
+       "CSC 428"
+      ],
+      [
+       "ISE 505"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 427"
+      ],
+      [
+       "MA 428"
+      ],
+      [
+       "MA 505"
+      ],
+      [
+       "OR 505"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Math Electives 6",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following three options for the major paper requirement:",
+     "options": [
+      [
+       "MA 491"
+      ],
+      [
+       "MA 494"
+      ],
+      [
+       "MA 499"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "Select one of the following three options for the major paper requirement: 0",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s22"
+    }
+   ]
+  },
+  {
+   "title": "Advised Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Electives",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Advised Electives 9",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s23"
+    }
+   ]
+  },
+  {
+   "title": "Concentration Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EC 201 Principles of Microeconomics 3 or EC 205 Fundamentals of Economics",
+     "options": [
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 201 Principles of Microeconomics 3 or EC 205 Fundamentals of Economics",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 301 Intermediate Microeconomics 3",
+     "options": [
+      [
+       "EC 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 301 Intermediate Microeconomics 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 302 Intermediate Macroeconomics 3",
+     "options": [
+      [
+       "EC 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 302 Intermediate Macroeconomics 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 307 Introduction to Statistical Programming- SAS 1",
+     "options": [
+      [
+       "ST 307"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ST 307 Introduction to Statistical Programming- SAS 1",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 308 Introduction to Statistical Programming - R 1",
+     "options": [
+      [
+       "ST 308"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ST 308 Introduction to Statistical Programming - R 1",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s36"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 5",
+     "id": "ncsu-applied-mathematics-bs-financial-mathematics-concentration-s37"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"Courses must be taken from two different disciplines\""
+ ],
+ "parseNotes": [
+  "Group \"Advised Electives\" carries a note or open-ended option: \"Advised electives are ST, ACC, or EC courses at 300-level or above designed to allow students to concentrate in a specific area related to their academic goals. Courses used to fulfill this requirement should use advanced mathematical tools and are selected by students after consultation and approval by their advisors or the Director of the Undergraduate Program. At least one course must be chosen from the Major Paper course list.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/mathematics/applied-mathematics-bs-financial-mathematics-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Financial Mathematics Concentration",
+ "college": "College of Sciences"
+}

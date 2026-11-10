@@ -1,0 +1,241 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-dramatic-art-major-ba",
+ "university": "unc",
+ "name": "Dramatic Art",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/dramatic-art-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DRAM 120 Play Analysis 3",
+     "options": [
+      [
+       "DRAM 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DRAM 120 Play Analysis 3",
+     "id": "unc-dramatic-art-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Three courses in dramatic literature/theatre history/criticism:",
+     "options": [
+      [
+       "DRAM 220"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three courses in dramatic literature/theatre history/criticism: 9",
+     "id": "unc-dramatic-art-major-ba-s2"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "And two courses chosen from:",
+     "options": [
+      [
+       "DRAM 281"
+      ],
+      [
+       "DRAM 282"
+      ],
+      [
+       "DRAM 283"
+      ],
+      [
+       "DRAM 284"
+      ],
+      [
+       "DRAM 285"
+      ],
+      [
+       "DRAM 287"
+      ],
+      [
+       "DRAM 292"
+      ],
+      [
+       "DRAM 294"
+      ],
+      [
+       "DRAM 486"
+      ],
+      [
+       "DRAM 488"
+      ],
+      [
+       "AAAD 334"
+      ],
+      [
+       "AAAD 344"
+      ],
+      [
+       "ASIA 163"
+      ],
+      [
+       "ASIA 332"
+      ],
+      [
+       "ASIA 382"
+      ],
+      [
+       "ASIA 383"
+      ],
+      [
+       "CHIN 361"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": null,
+     "raw": "And two courses chosen from:",
+     "id": "unc-dramatic-art-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three foundational courses in acting, design, and directing:",
+     "options": [],
+     "hours": null,
+     "raw": "Three foundational courses in acting, design, and directing:",
+     "id": "unc-dramatic-art-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DRAM 150 Beginning Acting for the Major 3",
+     "options": [
+      [
+       "DRAM 150"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DRAM 150 Beginning Acting for the Major 3",
+     "id": "unc-dramatic-art-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DRAM 277 Introduction to Theatrical Design 3",
+     "options": [
+      [
+       "DRAM 277"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DRAM 277 Introduction to Theatrical Design 3",
+     "id": "unc-dramatic-art-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DRAM 300 Directing 3",
+     "options": [
+      [
+       "DRAM 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DRAM 300 Directing 3",
+     "id": "unc-dramatic-art-major-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One course in technical production or costume production:",
+     "options": [],
+     "hours": null,
+     "raw": "One course in technical production or costume production:",
+     "id": "unc-dramatic-art-major-ba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "DRAM 191 Technical Methods: Scenery 3 or DRAM 192 Technical Methods: Costume",
+     "options": [
+      [
+       "DRAM 191"
+      ],
+      [
+       "DRAM 192"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DRAM 191 Technical Methods: Scenery 3 or DRAM 192 Technical Methods: Costume",
+     "id": "unc-dramatic-art-major-ba-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Production Practicum:",
+     "options": [],
+     "hours": null,
+     "raw": "Production Practicum:",
+     "id": "unc-dramatic-art-major-ba-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DRAM 193 Production Practicum (with PlayMakers Repertory Company; transfer credit not allowed.) 3",
+     "options": [
+      [
+       "DRAM 193"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DRAM 193 Production Practicum (with PlayMakers Repertory Company; transfer credit not allowed.) 3",
+     "id": "unc-dramatic-art-major-ba-s11"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/dramatic-art-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

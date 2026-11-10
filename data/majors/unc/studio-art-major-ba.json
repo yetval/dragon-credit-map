@@ -1,0 +1,98 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-studio-art-major-ba",
+ "university": "unc",
+ "name": "Studio Art",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/studio-art-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 36,
+  "max": 36
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three Tier I studio courses",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three Tier I studio courses 9",
+     "id": "unc-studio-art-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three Tier II studio courses (see list below)",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three Tier II studio courses (see list below) 9",
+     "id": "unc-studio-art-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two Tier III studio courses (see list below)",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two Tier III studio courses (see list below) 6",
+     "id": "unc-studio-art-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three studio art elective courses",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three studio art elective courses 9",
+     "id": "unc-studio-art-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One art history (ARTH) course",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One art history (ARTH) course 3",
+     "id": "unc-studio-art-major-ba-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Three Tier I studio courses\" has a nested heading or list reference: \"Select one 2-D course (see list below)\"",
+  "Group \"Three Tier I studio courses\" has a nested heading or list reference: \"Select one 3-D course (see list below)\"",
+  "Group \"Three Tier I studio courses\" has a nested heading or list reference: \"Select one 4-D course (see list below)\"",
+  "Row points to a list that could not be linked: \"Three Tier II studio courses (see list below)\"",
+  "Row points to a list that could not be linked: \"Two Tier III studio courses (see list below)\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/studio-art-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

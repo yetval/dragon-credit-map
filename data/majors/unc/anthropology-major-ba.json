@@ -1,0 +1,317 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-anthropology-major-ba",
+ "university": "unc",
+ "name": "Anthropology",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/anthropology-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course from biological anthropology chosen from the following list:",
+     "options": [
+      [
+       "ANTH 143"
+      ],
+      [
+       "ANTH 148"
+      ],
+      [
+       "ANTH 217"
+      ],
+      [
+       "ANTH 237"
+      ],
+      [
+       "ANTH 238"
+      ],
+      [
+       "ANTH 315"
+      ],
+      [
+       "ANTH 318"
+      ],
+      [
+       "ANTH 319"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course from biological anthropology chosen from the following list: 3",
+     "id": "unc-anthropology-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course from archaeology chosen from the following list:",
+     "options": [
+      [
+       "ANTH 72"
+      ],
+      [
+       "ANTH 121"
+      ],
+      [
+       "ANTH 123"
+      ],
+      [
+       "ANTH 145"
+      ],
+      [
+       "ANTH 149"
+      ],
+      [
+       "ANTH 220"
+      ],
+      [
+       "ANTH 222"
+      ],
+      [
+       "ANTH 231"
+      ],
+      [
+       "ANTH 232"
+      ],
+      [
+       "ANTH 233"
+      ],
+      [
+       "ANTH 250"
+      ],
+      [
+       "ANTH 252"
+      ],
+      [
+       "ANTH 409"
+      ],
+      [
+       "ANTH 454"
+      ],
+      [
+       "ANTH 457"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course from archaeology chosen from the following list: 3",
+     "id": "unc-anthropology-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course from sociocultural anthropology chosen from the following list:",
+     "options": [
+      [
+       "ANTH 101"
+      ],
+      [
+       "ANTH 102"
+      ],
+      [
+       "ANTH 120"
+      ],
+      [
+       "ANTH 142"
+      ],
+      [
+       "ANTH 147"
+      ],
+      [
+       "ANTH 202"
+      ],
+      [
+       "ANTH 203"
+      ],
+      [
+       "ANTH 280"
+      ],
+      [
+       "ANTH 284"
+      ],
+      [
+       "ANTH 330"
+      ],
+      [
+       "ANTH 331"
+      ],
+      [
+       "ANTH 361"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course from sociocultural anthropology chosen from the following list: 3",
+     "id": "unc-anthropology-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One theoretical perspectives course chosen from the following list (taken in the junior year):",
+     "options": [
+      [
+       "ANTH 291"
+      ],
+      [
+       "ANTH 294"
+      ],
+      [
+       "ANTH 298"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One theoretical perspectives course chosen from the following list (taken in the junior year): 3",
+     "id": "unc-anthropology-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANTH 490 Undergraduate Seminar in Anthropology",
+     "options": [
+      [
+       "ANTH 490"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANTH 490 Undergraduate Seminar in Anthropology",
+     "id": "unc-anthropology-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four additional three-hour courses in anthropology",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four additional three-hour courses in anthropology 12",
+     "id": "unc-anthropology-major-ba-s6"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "No more than three courses used to fulfill the major can be numbered below 200.",
+     "options": [],
+     "hours": null,
+     "raw": "No more than three courses used to fulfill the major can be numbered below 200.",
+     "id": "unc-anthropology-major-ba-s7"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "No more than six hours of field-oriented coursework can be counted toward the major.",
+     "options": [
+      [
+       "ANTH 393"
+      ],
+      [
+       "ANTH 395"
+      ],
+      [
+       "ANTH 451"
+      ],
+      [
+       "ANTH 453"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": null,
+     "raw": "No more than six hours of field-oriented coursework can be counted toward the major.",
+     "id": "unc-anthropology-major-ba-s8"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "No more than three hours of coursework from the following list may be counted toward the major:",
+     "options": [
+      [
+       "ANTH 93"
+      ],
+      [
+       "ANTH 195"
+      ],
+      [
+       "ANTH 196"
+      ],
+      [
+       "ANTH 295"
+      ],
+      [
+       "ANTH 296"
+      ],
+      [
+       "ANTH 396"
+      ],
+      [
+       "ANTH 691H"
+      ],
+      [
+       "ANTH 692H"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": null,
+     "raw": "No more than three hours of coursework from the following list may be counted toward the major:",
+     "id": "unc-anthropology-major-ba-s9"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"No more than three courses used to fulfill the major can be numbered below 200.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/anthropology-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

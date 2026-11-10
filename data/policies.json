@@ -1,0 +1,147 @@
+{
+ "schemaVersion": 1,
+ "unc": {
+  "beLimits": {
+   "quote": "No more than two courses (six to eight credit hours) of BE credit may be used as part of the major core. No more than five BE credit courses may be used to fulfill the general education Focus Capacities requirements.",
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "majorCoreCourses": 2,
+   "focusCapacityCourses": 5
+  },
+  "halfCoreAtUnc": {
+   "quote": "All students, including students transferring from another institution, must take at least half of their major core requirements (courses and credit hours) at UNC–Chapel Hill.",
+   "source": {
+    "url": "https://catalog.unc.edu/undergraduate/degree-requirements/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  "focusCapacities": {
+   "quote": "Of the 9 Focus Capacities, students may fulfill up to 5 Focus Capacities (+Lab) using by-exam credit.",
+   "source": {
+    "url": "https://catalog.unc.edu/undergraduate/ideas-in-action/",
+    "fetchedAt": "2026-11-09"
+   }
+  }
+ },
+ "ncsu": {
+  "prefixAliases": {
+   "DSC": "DSA",
+   "FL": "WL",
+   "FLA": "WLAR",
+   "FLC": "WLCH",
+   "CLA": "WLCL",
+   "FLE": "WLEN",
+   "FLF": "WLFR",
+   "FLG": "WLGE",
+   "GRK": "WLGR",
+   "FLN": "WLHU",
+   "FLI": "WLIT",
+   "FLJ": "WLJA",
+   "LAT": "WLLA",
+   "PER": "WLPE",
+   "FLP": "WLPO",
+   "FLR": "WLRU",
+   "FLS": "WLSP"
+  },
+  "prefixEvidence": [
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/dsc/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/fl/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/fla/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/flc/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/cla/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/fle/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/flf/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/flg/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/grk/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/fln/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/fli/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/flj/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/lat/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/per/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/flp/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/flr/",
+    "fetchedAt": "2026-11-09"
+   },
+   {
+    "url": "https://catalog.ncsu.edu/course-descriptions/fls/",
+    "fetchedAt": "2026-11-09"
+   }
+  ],
+  "coda": {
+   "quote": "All entering engineering first-year students are classified as Engineering First-Year (EFY) students with no direct acceptance into specific engineering major programs. Students must complete each of the courses above with a C or better to receive credit and advance toward acceptance into an engineering department.",
+   "source": {
+    "url": "https://engr.ncsu.edu/academics/undergraduate/coda/",
+    "fetchedAt": "2026-11-09"
+   },
+   "successCourses": [
+    "MA 141",
+    "MA 241",
+    "PY 205",
+    "PY 206",
+    "CH 101",
+    "CH 102",
+    "PY 205",
+    "PY 205",
+    "PY 206"
+   ]
+  }
+ },
+ "ncssm": {
+  "markers": {
+   "research": "Science courses with a significant research component are indicated in the course catalog with the symbol: (*R*). This indicates that the students will develop skills in experimental design, data analysis and interpretation, and scientific communication.",
+   "mathIntensive": "Some Science courses rely heavily on mathematics and problem-solving. In order to be successful in these courses, students enrolling should have strong mathematical and problem-solving skills. These courses are indicated in the course catalog with the symbol: (*M*).",
+   "source": {
+    "url": "https://docs.google.com/document/d/e/2PACX-1vQln7G8aAN6ndZq1pJztgH4ODepxNeh00Op2SlbMBqZuJSNg3gSB_TYxJRbNZDi-ahNsRH0K4lvJ5dI/pub",
+    "fetchedAt": "2026-11-09"
+   }
+  }
+ }
+}

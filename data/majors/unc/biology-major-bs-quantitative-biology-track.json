@@ -1,0 +1,766 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-biology-major-bs-quantitative-biology-track",
+ "university": "unc",
+ "name": "Biology",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/biology-major-bs-quantitative-biology-track/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 125,
+  "max": 126
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s1"
+    }
+   ]
+  },
+  {
+   "title": "Fundamentals courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 103 How Cells Function 3",
+     "options": [
+      [
+       "BIOL 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 103 How Cells Function 3",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 104 Biodiversity 3",
+     "options": [
+      [
+       "BIOL 104"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 104 Biodiversity 3",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 105L Biological Research Skills 3",
+     "options": [
+      [
+       "BIOL 105L"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 105L Biological Research Skills 3",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s4"
+    }
+   ]
+  },
+  {
+   "title": "Intermediate Level Core Courses",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following five options:",
+     "options": [
+      [
+       "BIOL 220"
+      ],
+      [
+       "BIOL 240"
+      ],
+      [
+       "BIOL 250"
+      ],
+      [
+       "BIOL 260"
+      ],
+      [
+       "BIOL 271",
+       "BIOL 271L"
+      ],
+      [
+       "BIOL 272",
+       "BIOL 272L"
+      ],
+      [
+       "BIOL 273"
+      ],
+      [
+       "BIOL 274",
+       "BIOL 274L"
+      ],
+      [
+       "BIOL 277",
+       "BIOL 277L"
+      ],
+      [
+       "BIOL 278",
+       "BIOL 278L"
+      ],
+      [
+       "BIOL 279",
+       "BIOL 279L"
+      ],
+      [
+       "BIOL 422",
+       "BIOL 421L"
+      ],
+      [
+       "BIOL 422",
+       "BIOL 422L"
+      ],
+      [
+       "BIOL 441",
+       "BIOL 441L"
+      ],
+      [
+       "BIOL 451",
+       "BIOL 451L"
+      ],
+      [
+       "BIOL 471",
+       "BIOL 471L"
+      ],
+      [
+       "BIOL 472"
+      ],
+      [
+       "BIOL 473",
+       "BIOL 473L"
+      ],
+      [
+       "BIOL 474",
+       "BIOL 474L"
+      ],
+      [
+       "BIOL 475",
+       "BIOL 475L"
+      ],
+      [
+       "BIOL 476",
+       "BIOL 476L"
+      ],
+      [
+       "BIOL 479",
+       "BIOL 479L"
+      ],
+      [
+       "BIOL 579"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "One of the following five options: 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two laboratory courses, one of which must be a quantitative biology lab course",
+     "options": [],
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Two laboratory courses, one of which must be a quantitative biology lab course 8",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "A choice of three biology electives over BIOL 200 (each of three or more credits, not including BIOL 213, BIOL 222, BIOL 253, BIOL 291, BIOL 292, BIOL 293, BIOL 294, BIOL 295, BIOL 296, BIOL 353, a second semester of BIOL 395, and BIOL 495), of which at least two quantitative electives must be chosen from:",
+     "options": [
+      [
+       "BIOL 214H"
+      ],
+      [
+       "BIOL 224H"
+      ],
+      [
+       "BIOL 226"
+      ],
+      [
+       "BIOL 431"
+      ],
+      [
+       "BIOL 451"
+      ],
+      [
+       "BIOL 454"
+      ],
+      [
+       "BIOL 465"
+      ],
+      [
+       "BIOL 525"
+      ],
+      [
+       "BIOL 526"
+      ],
+      [
+       "BIOL 527"
+      ],
+      [
+       "BIOL 528"
+      ],
+      [
+       "BIOL 534"
+      ],
+      [
+       "BIOL 542"
+      ],
+      [
+       "BIOL 551"
+      ],
+      [
+       "BIOL 553"
+      ],
+      [
+       "BIOL 554"
+      ],
+      [
+       "BIOL 562"
+      ],
+      [
+       "BIOL 563"
+      ],
+      [
+       "BIOL 564"
+      ],
+      [
+       "BIOL 642"
+      ],
+      [
+       "COMP 555"
+      ],
+      [
+       "MATH 564"
+      ],
+      [
+       "PHYS 405"
+      ],
+      [
+       "PHYS 461"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 9,
+      "max": 12
+     },
+     "raw": "A choice of three biology electives over BIOL 200 (each of three or more credits, not including BIOL 213, BIOL 222, BIOL 253, BIOL 291, BIOL 292, BIOL 293, BIOL 294, BIOL 295, BIOL 296, BIOL 353, a second semester of BIOL 395, and BIOL 495), of which at least two quantitative electives must be chosen from: 9-12",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s7"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOS 600 Principles of Statistical Inference 3 or STOR 155 Introduction to Data Models and Inference or STOR 151 Introduction to Data Analysis or STOR 120 Foundations of Statistics and Data Science",
+     "options": [
+      [
+       "BIOS 600"
+      ],
+      [
+       "STOR 155"
+      ],
+      [
+       "STOR 151"
+      ],
+      [
+       "STOR 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 600 Principles of Statistical Inference 3 or STOR 155 Introduction to Data Models and Inference or STOR 151 Introduction to Data Analysis or STOR 120 Foundations of Statistics and Data Science",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "options": [
+      [
+       "CHEM 261"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BIOL 222"
+      ],
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ],
+      [
+       "COMP 401"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 233 Calculus of Functions of Several Variables 3-4 or MATH 210 Mathematical Tools for Data Science",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 3-4 or MATH 210 Mathematical Tools for Data Science",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "PHYS 114"
+      ],
+      [
+       "PHYS 118"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "One of the following: 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "PHYS 115"
+      ],
+      [
+       "PHYS 119"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "One of the following: 4",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "A choice of two additional allied sciences electives selected from the course list below (some courses are more than 3 credits)",
+     "options": [
+      [
+       "ANTH 143"
+      ],
+      [
+       "ANTH 148"
+      ],
+      [
+       "ANTH 298"
+      ],
+      [
+       "ANTH 315"
+      ],
+      [
+       "ANTH 318"
+      ],
+      [
+       "ANTH 412"
+      ],
+      [
+       "ANTH 414"
+      ],
+      [
+       "ANTH 415"
+      ],
+      [
+       "ANTH 416"
+      ],
+      [
+       "ANTH 470"
+      ],
+      [
+       "ANTH 623"
+      ],
+      [
+       "BIOC 107"
+      ],
+      [
+       "BIOC 108"
+      ],
+      [
+       "BMME 335"
+      ],
+      [
+       "CLAS 260"
+      ],
+      [
+       "ENEC 202I"
+      ],
+      [
+       "ENEC 256"
+      ],
+      [
+       "ENEC 324"
+      ],
+      [
+       "ENEC 403"
+      ],
+      [
+       "ENEC 406"
+      ],
+      [
+       "ENEC 410"
+      ],
+      [
+       "ENEC 411"
+      ],
+      [
+       "ENEC 415"
+      ],
+      [
+       "ENEC 471"
+      ],
+      [
+       "ENEC 489"
+      ],
+      [
+       "EPID 600"
+      ],
+      [
+       "EXSS 155"
+      ],
+      [
+       "EXSS 256"
+      ],
+      [
+       "GEOG 110"
+      ],
+      [
+       "GEOG 111"
+      ],
+      [
+       "GEOG 212"
+      ],
+      [
+       "GEOG 222"
+      ],
+      [
+       "GEOG 253"
+      ],
+      [
+       "MCRO 251"
+      ],
+      [
+       "NSCI 175"
+      ],
+      [
+       "NSCI 222"
+      ],
+      [
+       "NSCI 225"
+      ],
+      [
+       "NUTR 240"
+      ],
+      [
+       "PHIL 155"
+      ],
+      [
+       "PSYC 101"
+      ],
+      [
+       "PSYC 210"
+      ],
+      [
+       "PSYC 220"
+      ],
+      [
+       "PSYC 230"
+      ],
+      [
+       "STOR 120"
+      ],
+      [
+       "SPHS 570"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "A choice of two additional allied sciences electives selected from the course list below (some courses are more than 3 credits) 6",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s18",
+     "wildcards": [
+      {
+       "subjects": [
+        "ASTR"
+       ],
+       "minLevel": 100
+      },
+      {
+       "subjects": [
+        "BIOL"
+       ],
+       "minLevel": 102,
+       "except": [
+        "BIOL 213",
+        "BIOL 291",
+        "BIOL 292",
+        "BIOL 294",
+        "BIOL 295",
+        "BIOL 296",
+        "BIOL 495"
+       ]
+      },
+      {
+       "subjects": [
+        "BIOS"
+       ]
+      },
+      {
+       "subjects": [
+        "CHEM"
+       ],
+       "minLevel": 102
+      },
+      {
+       "subjects": [
+        "COMP"
+       ],
+       "minLevel": 101,
+       "except": [
+        "COMP 380"
+       ]
+      },
+      {
+       "subjects": [
+        "EMES"
+       ],
+       "minLevel": 101
+      },
+      {
+       "subjects": [
+        "GEOL"
+       ],
+       "minLevel": 101
+      },
+      {
+       "subjects": [
+        "MASC"
+       ],
+       "minLevel": 101
+      },
+      {
+       "subjects": [
+        "MATH"
+       ],
+       "minLevel": 111,
+       "except": [
+        "MATH 129P"
+       ]
+      },
+      {
+       "subjects": [
+        "PHYS"
+       ],
+       "minLevel": 100,
+       "except": [
+        "PHYS 132"
+       ]
+      },
+      {
+       "subjects": [
+        "STOR"
+       ],
+       "minLevel": 152
+      }
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Enough general education and free electives to accumulate 125 academic hours",
+     "options": [],
+     "hours": null,
+     "raw": "Enough general education and free electives to accumulate 125 academic hours varies",
+     "id": "unc-biology-major-bs-quantitative-biology-track-s19"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Unreadable hours \"varies\" on row: \"Enough general education and free electives to accumulate 125 academic hours varies\"",
+  "Row hours add up to 76-80 but the table total says 125-126"
+ ],
+ "parseNotes": [
+  "List \"Organismal Diversity Course List\" has codes with no catalog link: BIOL 273, BIOL 579",
+  "Codes in choice lists not found in the course catalog: BIOL 273, BIOL 579"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/biology-major-bs-quantitative-biology-track/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Quantitative Biology Track"
+}

@@ -1,0 +1,412 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-latin-american-studies-major-ba",
+ "university": "unc",
+ "name": "Latin American Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/latin-american-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 33,
+  "max": 33
+ },
+ "sections": [
+  {
+   "title": "Core Requirements (9 courses)",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two (2) courses numbered under 200 (see list below). LTAM 101 is strongly recommended",
+     "options": [
+      [
+       "AAAD 57"
+      ],
+      [
+       "ANTH 68"
+      ],
+      [
+       "ANTH 121"
+      ],
+      [
+       "ARTH 160"
+      ],
+      [
+       "ENGL 164"
+      ],
+      [
+       "HIST 51"
+      ],
+      [
+       "HIST 142"
+      ],
+      [
+       "HIST 143"
+      ],
+      [
+       "HIST 145"
+      ],
+      [
+       "LTAM 52"
+      ],
+      [
+       "LTAM 101"
+      ],
+      [
+       "MUSC 147"
+      ],
+      [
+       "POLI 57"
+      ],
+      [
+       "RELI 151"
+      ],
+      [
+       "ROML 58"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two (2) courses numbered under 200 (see list below). LTAM 101 is strongly recommended 6",
+     "id": "unc-latin-american-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select three (3) courses numbered 200-399 (see list below).",
+     "options": [
+      [
+       "AAAD 260"
+      ],
+      [
+       "AAAD 261"
+      ],
+      [
+       "AAAD 278"
+      ],
+      [
+       "AAAD 284"
+      ],
+      [
+       "AAAD 286"
+      ],
+      [
+       "AAAD 360"
+      ],
+      [
+       "AAAD 362"
+      ],
+      [
+       "AAAD 389"
+      ],
+      [
+       "ANTH 231"
+      ],
+      [
+       "ANTH 232"
+      ],
+      [
+       "ANTH 360"
+      ],
+      [
+       "ARTH 267"
+      ],
+      [
+       "ARTH 277"
+      ],
+      [
+       "ENGL 240"
+      ],
+      [
+       "ENGL 359"
+      ],
+      [
+       "FREN 280"
+      ],
+      [
+       "FREN 288"
+      ],
+      [
+       "GEOG 259"
+      ],
+      [
+       "HIST 240"
+      ],
+      [
+       "HIST 241"
+      ],
+      [
+       "HIST 242"
+      ],
+      [
+       "HIST 248"
+      ],
+      [
+       "HIST 280"
+      ],
+      [
+       "HIST 314"
+      ],
+      [
+       "HIST 315"
+      ],
+      [
+       "LTAM 215"
+      ],
+      [
+       "LTAM 241"
+      ],
+      [
+       "LTAM 261"
+      ],
+      [
+       "LTAM 291"
+      ],
+      [
+       "LTAM 314"
+      ],
+      [
+       "LTAM 350"
+      ],
+      [
+       "LTAM 362"
+      ],
+      [
+       "LTAM 390"
+      ],
+      [
+       "MUSC 258"
+      ],
+      [
+       "POLI 231"
+      ],
+      [
+       "POLI 238"
+      ],
+      [
+       "PORT 316"
+      ],
+      [
+       "PORT 323"
+      ],
+      [
+       "PORT 370"
+      ],
+      [
+       "PORT 375"
+      ],
+      [
+       "PORT 382"
+      ],
+      [
+       "PORT 387"
+      ],
+      [
+       "PORT 388"
+      ],
+      [
+       "PLCY 349"
+      ],
+      [
+       "RELI 245"
+      ],
+      [
+       "RELI 246"
+      ],
+      [
+       "SPAN 270"
+      ],
+      [
+       "SPAN 344"
+      ],
+      [
+       "SPAN 361"
+      ],
+      [
+       "SPAN 363"
+      ],
+      [
+       "SPAN 373"
+      ],
+      [
+       "SPAN 388"
+      ],
+      [
+       "WGST 352"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Select three (3) courses numbered 200-399 (see list below). 9",
+     "id": "unc-latin-american-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select three (3) courses numbered 400 and above (see list below).",
+     "options": [
+      [
+       "AAAD 460"
+      ],
+      [
+       "AAAD 461"
+      ],
+      [
+       "ANTH 453"
+      ],
+      [
+       "ARTH 445"
+      ],
+      [
+       "ARTH 452"
+      ],
+      [
+       "ARTH 469"
+      ],
+      [
+       "DRAM 486"
+      ],
+      [
+       "DRAM 488"
+      ],
+      [
+       "EDUC 510"
+      ],
+      [
+       "GEOG 457"
+      ],
+      [
+       "GEOG 458"
+      ],
+      [
+       "GEOG 459"
+      ],
+      [
+       "HIST 526"
+      ],
+      [
+       "HIST 531"
+      ],
+      [
+       "HIST 532"
+      ],
+      [
+       "LTAM 402"
+      ],
+      [
+       "LTAM 403"
+      ],
+      [
+       "LTAM 411"
+      ],
+      [
+       "LTAM 512"
+      ],
+      [
+       "LING 561"
+      ],
+      [
+       "LTAM 690"
+      ],
+      [
+       "LTAM 691H"
+      ],
+      [
+       "LTAM 692H"
+      ],
+      [
+       "POLI 435H"
+      ],
+      [
+       "MEJO 443"
+      ],
+      [
+       "MEJO 446"
+      ],
+      [
+       "MEJO 490"
+      ],
+      [
+       "POLI 434"
+      ],
+      [
+       "POLI 435"
+      ],
+      [
+       "POLI 450"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Select three (3) courses numbered 400 and above (see list below). 9",
+     "id": "unc-latin-american-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LTAM 697 Capstone Seminar 3",
+     "options": [
+      [
+       "LTAM 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "LTAM 697 Capstone Seminar 3",
+     "id": "unc-latin-american-studies-major-ba-s4"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements (2 courses)",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Spanish or Portuguese at least through the fifth-semester course",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Spanish or Portuguese at least through the fifth-semester course 6",
+     "id": "unc-latin-american-studies-major-ba-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Courses numbered 200-399\" has codes with no catalog link: ARTH 267",
+  "List \"Courses numbered 400 and above\" has codes with no catalog link: ARTH 445, ARTH 452",
+  "Codes in choice lists not found in the course catalog: ARTH 267, ARTH 445, ARTH 452, POLI 435H"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/latin-american-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

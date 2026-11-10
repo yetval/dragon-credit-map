@@ -1,0 +1,174 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-mathematics-major-ba",
+ "university": "unc",
+ "name": "Mathematics",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/mathematics-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 33,
+  "max": 33
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 347 Linear Algebra for Applications (previously offered as MATH 547) 3 or MATH 577 Linear Algebra",
+     "options": [
+      [
+       "MATH 347"
+      ],
+      [
+       "MATH 577"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 347 Linear Algebra for Applications (previously offered as MATH 547) 3 or MATH 577 Linear Algebra",
+     "id": "unc-mathematics-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 381 Discrete Mathematics 3",
+     "options": [
+      [
+       "MATH 381"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 381 Discrete Mathematics 3",
+     "id": "unc-mathematics-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 First Course in Differential Equations 3",
+     "options": [
+      [
+       "MATH 383"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 383 First Course in Differential Equations 3",
+     "id": "unc-mathematics-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 521 Advanced Calculus I 3",
+     "options": [
+      [
+       "MATH 521"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 521 Advanced Calculus I 3",
+     "id": "unc-mathematics-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "At least three more MATH courses numbered above 500.",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "MATH"
+      ],
+      "minLevel": 501
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "At least three more MATH courses numbered above 500. 9",
+     "id": "unc-mathematics-major-ba-s5"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-mathematics-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-mathematics-major-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 235"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "id": "unc-mathematics-major-ba-s8"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/mathematics-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

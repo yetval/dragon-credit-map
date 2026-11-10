@@ -1,0 +1,797 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration",
+ "university": "ncsu",
+ "name": "Paper Science and Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forest-biomaterials/paper-science-engineering-bs-sustainable-packaging-production-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 127,
+  "max": 127
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 103",
+       "CH 104"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 203",
+       "CH 204"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4",
+     "options": [
+      [
+       "PY 205",
+       "PY 206"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 201 Pulping and Papermaking Technology 3",
+     "options": [
+      [
+       "PSE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 201 Pulping and Papermaking Technology 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "FLE 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics Elective",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Economics Elective 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 225",
+       "CH 226"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 332 Wood and Pulping Chemistry 3",
+     "options": [
+      [
+       "PSE 332"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 332 Wood and Pulping Chemistry 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4",
+     "options": [
+      [
+       "PY 208",
+       "PY 209"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 205 Chemical Process Principles 4",
+     "options": [
+      [
+       "CHE 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHE 205 Chemical Process Principles 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 212 Paper Properties 4",
+     "options": [
+      [
+       "PSE 212"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PSE 212 Paper Properties 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 371 Pulping Process Analysis 3",
+     "options": [
+      [
+       "PSE 371"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 371 Pulping Process Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 109 Introduction to Sustainable Packaging 3",
+     "options": [
+      [
+       "SMT 109"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 109 Introduction to Sustainable Packaging 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 207 Principles of Sustainable Product Development Lecture 2",
+     "options": [
+      [
+       "SMT 207"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "SMT 207 Principles of Sustainable Product Development Lecture 2",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 217 Principles of Sustainable Product Development Laboratory 1",
+     "options": [
+      [
+       "SMT 217"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "SMT 217 Principles of Sustainable Product Development Laboratory 1",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 201 Thermal-Fluid Sciences 3",
+     "options": [
+      [
+       "MAE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 201 Thermal-Fluid Sciences 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 322 Wet End and Polymer Chemistry 4",
+     "options": [
+      [
+       "PSE 322"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PSE 322 Wet End and Polymer Chemistry 4",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 355 Pulp and Paper Unit Processes I 3",
+     "options": [
+      [
+       "PSE 355"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 355 Pulp and Paper Unit Processes I 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 360 Pulp and Paper Unit Processes II 3",
+     "options": [
+      [
+       "PSE 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 360 Pulp and Paper Unit Processes II 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 370 Pulp and Paper Products and Markets 3",
+     "options": [
+      [
+       "PSE 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 370 Pulp and Paper Products and Markets 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 211 Pulp and Paper Internship 1",
+     "options": [
+      [
+       "PSE 211"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PSE 211 Pulp and Paper Internship 1",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 307 Product Visualization 3",
+     "options": [
+      [
+       "SMT 307"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 307 Product Visualization 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "SPP Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPP Elective 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 415 Paper Industry Strategic Project Analysis 3",
+     "options": [
+      [
+       "PSE 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 415 Paper Industry Strategic Project Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 416 Process Design and Analysis 3",
+     "options": [
+      [
+       "PSE 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 416 Process Design and Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 417 Modeling & Simulation of Pulp & Paper Processes 3",
+     "options": [
+      [
+       "PSE 417"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 417 Modeling & Simulation of Pulp & Paper Processes 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 465 Process Engineering 3",
+     "options": [
+      [
+       "PSE 465"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 465 Process Engineering 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 472 Paper Process Analysis 3",
+     "options": [
+      [
+       "PSE 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 472 Paper Process Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 475 Process Control in Pulp and Paper 3",
+     "options": [
+      [
+       "PSE 475"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 475 Process Control in Pulp and Paper 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 476 Environmental Life Cycle Analysis 3",
+     "options": [
+      [
+       "PSE 476"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 476 Environmental Life Cycle Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s38"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s42"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s43"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s44"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s45"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-paper-science-engineering-bs-sustainable-packaging-production-concentration-s46"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Indented row without a group heading: \"CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences\"",
+  "Indented row without a group heading: \"CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences\"",
+  "Indented row without a group heading: \"CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences\"",
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [
+  "Indented note: \"or\"",
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"Acad Writing Research\" has codes with no catalog link: FLE 101"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forest-biomaterials/paper-science-engineering-bs-sustainable-packaging-production-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Sustainable Packaging Production",
+ "college": "College of Natural Resources"
+}

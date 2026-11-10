@@ -1,0 +1,1014 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration",
+ "university": "ncsu",
+ "name": "Biological Sciences",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/biological-sciences/biological-sciences-bs-molecular-cellular-developmental-biology-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Exploring the Life Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LSC 103 Exploring Opportunities in the Life Sciences 1",
+     "options": [
+      [
+       "LSC 103"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "LSC 103 Exploring Opportunities in the Life Sciences 1",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advanced Writing Requirement Elective",
+     "options": [
+      [
+       "BIO 267"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "ENG 214"
+      ],
+      [
+       "ENG 232"
+      ],
+      [
+       "ENG 287"
+      ],
+      [
+       "ENG 288"
+      ],
+      [
+       "ENG 289"
+      ],
+      [
+       "ENG 292"
+      ],
+      [
+       "ENG 316"
+      ],
+      [
+       "ENG 323"
+      ],
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 381"
+      ],
+      [
+       "ENG 388"
+      ],
+      [
+       "ENG 389"
+      ],
+      [
+       "ENG 416"
+      ],
+      [
+       "ENG 417"
+      ],
+      [
+       "ENG 422"
+      ],
+      [
+       "ENG 425"
+      ],
+      [
+       "ENG 426"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Writing Requirement Elective 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Biological Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LSC 101 Critical and Creative Thinking in the Life Sciences 2",
+     "options": [
+      [
+       "LSC 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "LSC 101 Critical and Creative Thinking in the Life Sciences 2",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIO 414 Cell Biology 3 or BIO 416 Cancer Cell Biology",
+     "options": [
+      [
+       "BIO 414"
+      ],
+      [
+       "BIO 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIO 414 Cell Biology 3 or BIO 416 Cancer Cell Biology",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIO 361 Developmental Biology 3 or GN 434 Genes and Development",
+     "options": [
+      [
+       "BIO 361"
+      ],
+      [
+       "GN 434"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIO 361 Developmental Biology 3 or GN 434 Genes and Development",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIT 410 Manipulation of Recombinant DNA 4",
+     "options": [
+      [
+       "BIT 410"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIT 410 Manipulation of Recombinant DNA 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BCH 451 Principles of Biochemistry 4",
+     "options": [
+      [
+       "BCH 451"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BCH 451 Principles of Biochemistry 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 311 Principles of Genetics 4",
+     "options": [
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GN 311 Principles of Genetics 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 312 Elementary Genetics Laboratory 1",
+     "options": [
+      [
+       "GN 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "GN 312 Elementary Genetics Laboratory 1",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BIO 240"
+      ],
+      [
+       "BIO 245"
+      ],
+      [
+       "ZO 250"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s12"
+    }
+   ]
+  },
+  {
+   "title": "Physical & Mathematical Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3 or MA 241 Calculus II",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3 or MA 241 Calculus II",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 Chemistry - A Quantitative Science 3",
+     "options": [
+      [
+       "CH 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 201 Chemistry - A Quantitative Science 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 202 Quantitative Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 202 Quantitative Chemistry Laboratory 1",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 Organic Chemistry I 3",
+     "options": [
+      [
+       "CH 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 221 Organic Chemistry I 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 222 Organic Chemistry I Lab 1",
+     "options": [
+      [
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 222 Organic Chemistry I Lab 1",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 Organic Chemistry II 3",
+     "options": [
+      [
+       "CH 223"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 223 Organic Chemistry II 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 224 Organic Chemistry II Lab 1",
+     "options": [
+      [
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 224 Organic Chemistry II Lab 1",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PY 211"
+      ],
+      [
+       "PY 205",
+       "PY 206"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PY 212"
+      ],
+      [
+       "PY 208",
+       "PY 209"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "Major Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "MCDB Electives",
+     "options": [
+      [
+       "BCH 452"
+      ],
+      [
+       "BCH 453"
+      ],
+      [
+       "BCH 455"
+      ],
+      [
+       "BCH 553"
+      ],
+      [
+       "BCH 555"
+      ],
+      [
+       "BEC 463"
+      ],
+      [
+       "BEC 563"
+      ],
+      [
+       "BIO 269"
+      ],
+      [
+       "BIO 370"
+      ],
+      [
+       "BIO 375"
+      ],
+      [
+       "BIO 405"
+      ],
+      [
+       "BIO 482"
+      ],
+      [
+       "BIT 462"
+      ],
+      [
+       "BIT 463"
+      ],
+      [
+       "BIT 464"
+      ],
+      [
+       "BIT 465"
+      ],
+      [
+       "BIT 466"
+      ],
+      [
+       "BIT 467"
+      ],
+      [
+       "BIT 468"
+      ],
+      [
+       "BIT 471"
+      ],
+      [
+       "BIT 473"
+      ],
+      [
+       "BIT 474"
+      ],
+      [
+       "BIT 476"
+      ],
+      [
+       "BIT 477"
+      ],
+      [
+       "BIT 478"
+      ],
+      [
+       "BIT 481"
+      ],
+      [
+       "BIT 562"
+      ],
+      [
+       "BIT 563"
+      ],
+      [
+       "BIT 564"
+      ],
+      [
+       "BIT 565"
+      ],
+      [
+       "BIT 566"
+      ],
+      [
+       "BIT 567"
+      ],
+      [
+       "BIT 568"
+      ],
+      [
+       "BIT 571"
+      ],
+      [
+       "BIT 573"
+      ],
+      [
+       "BIT 574"
+      ],
+      [
+       "BIT 577"
+      ],
+      [
+       "BIT 578"
+      ],
+      [
+       "CHE 463"
+      ],
+      [
+       "CHE 563"
+      ],
+      [
+       "GN 427"
+      ],
+      [
+       "GN 441"
+      ],
+      [
+       "GN 451"
+      ],
+      [
+       "GN 456"
+      ],
+      [
+       "GN 541"
+      ],
+      [
+       "MB 351"
+      ],
+      [
+       "MB 352"
+      ],
+      [
+       "MB 354"
+      ],
+      [
+       "MB 411"
+      ],
+      [
+       "MB 412"
+      ],
+      [
+       "MB 414"
+      ],
+      [
+       "MB 420"
+      ],
+      [
+       "MB 435"
+      ],
+      [
+       "MB 441"
+      ],
+      [
+       "MB 455"
+      ],
+      [
+       "MB 461"
+      ],
+      [
+       "MB 520"
+      ],
+      [
+       "MB 535"
+      ],
+      [
+       "PB 421"
+      ],
+      [
+       "PB 480"
+      ],
+      [
+       "PB 481"
+      ],
+      [
+       "PB 580"
+      ],
+      [
+       "PO 466"
+      ],
+      [
+       "PO 566"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "MCDB Electives 9",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional Science & Math Electives",
+     "options": [
+      [
+       "GN 450"
+      ],
+      [
+       "BEC 463"
+      ],
+      [
+       "BIO 230"
+      ],
+      [
+       "BIO 240"
+      ],
+      [
+       "BIO 245"
+      ],
+      [
+       "BIO 310"
+      ],
+      [
+       "BIO 416"
+      ],
+      [
+       "BIO 418"
+      ],
+      [
+       "BIO 432"
+      ],
+      [
+       "BIT 477"
+      ],
+      [
+       "GN 428"
+      ],
+      [
+       "GN 453"
+      ],
+      [
+       "MA 331"
+      ],
+      [
+       "MB 470"
+      ],
+      [
+       "PB 205"
+      ],
+      [
+       "ZO 334"
+      ],
+      [
+       "ZO 486"
+      ]
+     ],
+     "pick": {
+      "hours": 8
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Additional Science & Math Electives 8",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Learning Experience Elective",
+     "options": [
+      [
+       "BIO 269"
+      ],
+      [
+       "BIO 499"
+      ],
+      [
+       "BSC 492"
+      ],
+      [
+       "BSC 493"
+      ],
+      [
+       "BSC 498"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Learning Experience Elective 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s36"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 9",
+     "id": "ncsu-biological-sciences-bs-molecular-cellular-developmental-biology-concentration-s37"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: BIO 414"
+ ],
+ "parseNotes": [
+  "List \"MCDB Electives\" has codes with no catalog link: BIT 462, BIT 468, BIT 478, BIT 562, BIT 568, BIT 578",
+  "List \"Learning Experience Electives\" has a row that is not a course and was not read: \"Learning experience in an appropriate area (research, teaching, or other professional experience), with prior approval by faculty adviser, prospective supervisor, and departmental undergraduate coordinator. Contact and arrangements with prospective supervisors is the responsibility of the student. Talk to your advisor about this requirement.\"",
+  "List \"Learning Experience Electives\" has codes with no catalog link: BIO 499",
+  "Sentence about free electives is kept as a note, not a requirement: \"These electives cannot be remedial nor can they be taken at an elementary level after you have taken comparable coursework at a more advanced level. ST 311 is recommended as a Free Elective. Students interested in graduate school or professional school should check the courses required for admission to the programs to which they plan to apply.\"",
+  "Codes in choice lists not found in the course catalog: BIO 370, BIO 375, BIO 405, BIO 499, BIT 462, BIT 463, BIT 468, BIT 478, BIT 562, BIT 563, BIT 568, BIT 578, BSC 492, BSC 493, BSC 498, MB 351, MB 352, MB 354, MB 411, MB 412, PO 466, PO 566"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/biological-sciences/biological-sciences-bs-molecular-cellular-developmental-biology-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Molecular, Cellular, and Developmental Biology Concentration",
+ "college": "College of Sciences"
+}

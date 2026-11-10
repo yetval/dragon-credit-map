@@ -1,0 +1,475 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-human-development-family-studies-baed",
+ "university": "unc",
+ "name": "Human Development and Family Science",
+ "degree": "B.A.Ed.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/human-development-family-studies-baed/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 48,
+  "max": 48
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 181 Introduction to Human Development and Family Science 3",
+     "options": [
+      [
+       "EDUC 181"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 181 Introduction to Human Development and Family Science 3",
+     "id": "unc-human-development-family-studies-baed-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 401 Childhood Development: Prenatal Birth to Age 12 3",
+     "options": [
+      [
+       "EDUC 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 401 Childhood Development: Prenatal Birth to Age 12 3",
+     "id": "unc-human-development-family-studies-baed-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 501 Adolescent and Adulthood Development: A Cross-Cultural 3",
+     "options": [
+      [
+       "EDUC 501"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 501 Adolescent and Adulthood Development: A Cross-Cultural 3",
+     "id": "unc-human-development-family-studies-baed-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 403 Individuals, Families, and Communities in Diverse Contexts 3",
+     "options": [
+      [
+       "EDUC 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 403 Individuals, Families, and Communities in Diverse Contexts 3",
+     "id": "unc-human-development-family-studies-baed-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 405 Parenting and Family Life Education 3",
+     "options": [
+      [
+       "EDUC 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 405 Parenting and Family Life Education 3",
+     "id": "unc-human-development-family-studies-baed-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 408 Research Methods in Human Development (must be taken prior to EDUC 583) 3",
+     "options": [
+      [
+       "EDUC 408"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 408 Research Methods in Human Development (must be taken prior to EDUC 583) 3",
+     "id": "unc-human-development-family-studies-baed-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 583 Career and Professional Development 3",
+     "options": [
+      [
+       "EDUC 583"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 583 Career and Professional Development 3",
+     "id": "unc-human-development-family-studies-baed-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 698 Internship in Human Development and Family Science 9",
+     "options": [
+      [
+       "EDUC 698"
+      ]
+     ],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "EDUC 698 Internship in Human Development and Family Science 9",
+     "id": "unc-human-development-family-studies-baed-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Diversity/equity focus course (select one):",
+     "options": [
+      [
+       "EDUC 375"
+      ],
+      [
+       "EDUC 410"
+      ],
+      [
+       "EDUC 415"
+      ],
+      [
+       "EDUC 461I"
+      ],
+      [
+       "EDUC 508"
+      ],
+      [
+       "EDUC 510"
+      ],
+      [
+       "EDUC 512"
+      ],
+      [
+       "EDUC 526"
+      ],
+      [
+       "EDUC 528"
+      ],
+      [
+       "EDUC 533"
+      ],
+      [
+       "EDUC 575"
+      ],
+      [
+       "EDUC 611"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Diversity/equity focus course (select one): 3",
+     "id": "unc-human-development-family-studies-baed-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Leadership requirement (select one):",
+     "options": [
+      [
+       "EDUC 309"
+      ],
+      [
+       "EDUC 316"
+      ],
+      [
+       "EDUC 357"
+      ],
+      [
+       "EDUC 480"
+      ],
+      [
+       "EDUC 505"
+      ],
+      [
+       "EDUC 506"
+      ],
+      [
+       "EDUC 508"
+      ],
+      [
+       "EDUC 517"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Leadership requirement (select one): 3",
+     "id": "unc-human-development-family-studies-baed-s10"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select from the following 3 options:",
+     "options": [
+      [
+       "EDUC 325"
+      ],
+      [
+       "EDUC 375"
+      ],
+      [
+       "EDUC 410"
+      ],
+      [
+       "EDUC 480"
+      ],
+      [
+       "EDUC 605"
+      ],
+      [
+       "EDUC 611"
+      ],
+      [
+       "AAAD 341"
+      ],
+      [
+       "COMM 224"
+      ],
+      [
+       "COMM 318"
+      ],
+      [
+       "COMM 422"
+      ],
+      [
+       "PSYC 467"
+      ],
+      [
+       "PSYC 471"
+      ],
+      [
+       "PSYC 517"
+      ],
+      [
+       "SOCI 130"
+      ],
+      [
+       "SOCI 425"
+      ],
+      [
+       "SOCI 431"
+      ],
+      [
+       "SOCI 468"
+      ],
+      [
+       "SOWO 530"
+      ],
+      [
+       "EDUC 375"
+      ],
+      [
+       "EDUC 400"
+      ],
+      [
+       "EDUC 418"
+      ],
+      [
+       "EDUC 461I"
+      ],
+      [
+       "EDUC 470"
+      ],
+      [
+       "EDUC 475"
+      ],
+      [
+       "EDUC 528"
+      ],
+      [
+       "EDUC 630"
+      ],
+      [
+       "EDUC 689"
+      ],
+      [
+       "BIOL 252",
+       "BIOL 252L"
+      ],
+      [
+       "EXSS 211"
+      ],
+      [
+       "LING 101"
+      ],
+      [
+       "LING 200"
+      ],
+      [
+       "NURS 685I"
+      ],
+      [
+       "NUTR 240"
+      ],
+      [
+       "PLCY 662"
+      ],
+      [
+       "HPM 662"
+      ],
+      [
+       "PSYC 210"
+      ],
+      [
+       "PSYC 220"
+      ],
+      [
+       "PSYC 245"
+      ],
+      [
+       "PSYC 517"
+      ],
+      [
+       "SOCI 172"
+      ],
+      [
+       "SOCI 422"
+      ],
+      [
+       "SOCI 431"
+      ],
+      [
+       "SOCI 469"
+      ],
+      [
+       "SOWO 856"
+      ],
+      [
+       "SPHS 520"
+      ],
+      [
+       "SPHS 521"
+      ],
+      [
+       "SPHS 582"
+      ],
+      [
+       "SPHS 583"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Select from the following 3 options: 12",
+     "id": "unc-human-development-family-studies-baed-s11",
+     "altGroups": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Select from the following 3 options:\" has a nested heading or list reference: \"Four courses from the concentration lists or the elective list (see lists below)\"",
+  "The page has another requirement table with its own total (\"Electives Course List (for students who are not choosing a concentration)\") that is not included"
+ ],
+ "parseNotes": [
+  "List \"Family Life Education Concentration\" has a row that is not a course and was not read: \"Select four (4) courses from the following list:\"",
+  "List \"Child and Family Health Concentration\" has a row that is not a course and was not read: \"Select four (4) courses from the following list:\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/human-development-family-studies-baed/",
+  "fetchedAt": "2026-11-09"
+ }
+}

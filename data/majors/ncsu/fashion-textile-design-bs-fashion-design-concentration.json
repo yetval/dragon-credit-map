@@ -1,0 +1,802 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration",
+ "university": "ncsu",
+ "name": "Fashion and Textile Design",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-apparel-technology-management/fashion-textile-design-bs-fashion-design-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "options": [
+      [
+       "T 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics and Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3 or MA 241 Calculus II",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3 or MA 241 Calculus II",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 211 College Physics I 4 or PY 205 Physics for Engineers and Scientists I",
+     "options": [
+      [
+       "PY 211"
+      ],
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 211 College Physics I 4 or PY 205 Physics for Engineers and Scientists I",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TMS 211 Introduction to Fiber Science 3",
+     "options": [
+      [
+       "TMS 211"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TMS 211 Introduction to Fiber Science 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s7"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 105 Introduction to Textile Technology 3",
+     "options": [
+      [
+       "TT 105"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 105 Introduction to Textile Technology 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TTM 106 Yarn Formation, Classification and Numbering Systems 1",
+     "options": [
+      [
+       "TTM 106"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "TTM 106 Yarn Formation, Classification and Numbering Systems 1",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTM 217 The Textile Industry 3",
+     "options": [
+      [
+       "FTM 217"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTM 217 The Textile Industry 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 200 Design Skills Workshop 3",
+     "options": [
+      [
+       "FTD 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 200 Design Skills Workshop 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 252 Formation and Structure of Textile Fabrics 4",
+     "options": [
+      [
+       "TT 252"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TT 252 Formation and Structure of Textile Fabrics 4",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 201 Computer-Aided Textile Design and Color Studio 6",
+     "options": [
+      [
+       "FTD 201"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "FTD 201 Computer-Aided Textile Design and Color Studio 6",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTM 282 Marketing and Brand Management Fundamentals in Textiles and Apparel 3",
+     "options": [
+      [
+       "FTM 282"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTM 282 Marketing and Brand Management Fundamentals in Textiles and Apparel 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 302 Technology of Textile Wet Processing 4",
+     "options": [
+      [
+       "PCC 302"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PCC 302 Technology of Textile Wet Processing 4",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTM 310 Entrepreneurship & New Product Development in Textiles 3",
+     "options": [
+      [
+       "FTM 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTM 310 Entrepreneurship & New Product Development in Textiles 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 281 Drawing I 3",
+     "options": [
+      [
+       "ADN 281"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ADN 281 Drawing I 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 100 Design Inquiry I: Methods and Processes 3",
+     "options": [
+      [
+       "D 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "D 100 Design Inquiry I: Methods and Processes 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 101 Design Inquiry II: Methods and Processes 3",
+     "options": [
+      [
+       "D 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "D 101 Design Inquiry II: Methods and Processes 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 104 Fashion and Textile Design First Year Studio I 6",
+     "options": [
+      [
+       "FTD 104"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "FTD 104 Fashion and Textile Design First Year Studio I 6",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 105 Fashion and Textile Design First Year Studio II 6",
+     "options": [
+      [
+       "FTD 105"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "FTD 105 Fashion and Textile Design First Year Studio II 6",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s21"
+    }
+   ]
+  },
+  {
+   "title": "Concentration Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 218 Fashion Illustration 3",
+     "options": [
+      [
+       "FTD 218"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 218 Fashion Illustration 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 215 Fashion Design 1 3",
+     "options": [
+      [
+       "FTD 215"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 215 Fashion Design 1 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 216 Fashion Workroom Practices 3",
+     "options": [
+      [
+       "FTD 216"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 216 Fashion Workroom Practices 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTM 317 Computer Aided Fashion Design 3",
+     "options": [
+      [
+       "FTM 317"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTM 317 Computer Aided Fashion Design 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 321 Fashion Design by Draping 3",
+     "options": [
+      [
+       "FTD 321"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 321 Fashion Design by Draping 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 419 Fashion Design 2 3",
+     "options": [
+      [
+       "FTD 419"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 419 Fashion Design 2 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 498 Senior Fashion Design Studio 6",
+     "options": [
+      [
+       "FTD 498"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "FTD 498 Senior Fashion Design Studio 6",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "18FTDFAS Advised Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTD 420 Fashion Collection Preparation (or FTDFAS Advised Elective) 3",
+     "options": [
+      [
+       "FTD 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTD 420 Fashion Collection Preparation (or FTDFAS Advised Elective) 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "FTDFAS Advised Elective",
+     "options": [
+      [
+       "FTD 420"
+      ],
+      [
+       "FTM 220"
+      ],
+      [
+       "FTM 310"
+      ],
+      [
+       "FTM 315"
+      ],
+      [
+       "FTM 317"
+      ],
+      [
+       "FTM 318"
+      ],
+      [
+       "FTM 320"
+      ],
+      [
+       "FTM 380"
+      ],
+      [
+       "FTM 382"
+      ],
+      [
+       "FTM 384"
+      ],
+      [
+       "FTM 385"
+      ],
+      [
+       "FTM 387"
+      ],
+      [
+       "FTM 400"
+      ],
+      [
+       "FTM 415"
+      ],
+      [
+       "FTM 416"
+      ],
+      [
+       "FTM 420"
+      ],
+      [
+       "FTM 431"
+      ],
+      [
+       "FTM 460"
+      ],
+      [
+       "FTM 480"
+      ],
+      [
+       "FTM 481"
+      ],
+      [
+       "FTM 482"
+      ],
+      [
+       "FTM 483"
+      ],
+      [
+       "FTM 484"
+      ],
+      [
+       "FTM 485"
+      ],
+      [
+       "FTM 486"
+      ],
+      [
+       "FTM 487"
+      ],
+      [
+       "FTM 490"
+      ],
+      [
+       "FTM 491"
+      ],
+      [
+       "FTM 494"
+      ],
+      [
+       "FTM 497"
+      ],
+      [
+       "FTM 499"
+      ],
+      [
+       "PCC 201"
+      ],
+      [
+       "TT 341"
+      ],
+      [
+       "TT 380"
+      ],
+      [
+       "TT 431"
+      ],
+      [
+       "TT 451"
+      ],
+      [
+       "TT 480"
+      ],
+      [
+       "TT 485"
+      ],
+      [
+       "TT 486"
+      ],
+      [
+       "TT 499"
+      ],
+      [
+       "TT 551"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTDFAS Advised Elective 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "WLEN 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s35"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-fashion-textile-design-bs-fashion-design-concentration-s38"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-apparel-technology-management/fashion-textile-design-bs-fashion-design-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Fashion Design Concentration",
+ "college": "Wilson College of Textiles"
+}

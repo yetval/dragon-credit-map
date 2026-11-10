@@ -1,0 +1,146 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-radiologic-science-major-bs",
+ "university": "unc",
+ "name": "Radiologic Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/radiologic-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 26,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Quantitative reasoning requirement:",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 130 Precalculus Mathematics or MATH 231 Calculus of Functions of One Variable I",
+     "options": [
+      [
+       "MATH 130"
+      ],
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 130 Precalculus Mathematics or MATH 231 Calculus of Functions of One Variable I",
+     "id": "unc-radiologic-science-major-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "Six courses in the physical and life sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-radiologic-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 252 & 252L Fundamentals of Human Anatomy and Physiology and Fundamentals of Human Anatomy and Physiology Laboratory 4",
+     "options": [
+      [
+       "BIOL 252",
+       "BIOL 252L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 252 & 252L Fundamentals of Human Anatomy and Physiology and Fundamentals of Human Anatomy and Physiology Laboratory 4",
+     "id": "unc-radiologic-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4 or BIOC 107 Introduction to Biochemistry",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ],
+      [
+       "BIOC 107"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4 or BIOC 107 Introduction to Biochemistry",
+     "id": "unc-radiologic-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 114 & PHYS 115 General Physics I: For Students of the Life Sciences and General Physics II: For Students of the Life Sciences 8",
+     "options": [
+      [
+       "PHYS 114",
+       "PHYS 115"
+      ]
+     ],
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "PHYS 114 & PHYS 115 General Physics I: For Students of the Life Sciences and General Physics II: For Students of the Life Sciences 8",
+     "id": "unc-radiologic-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 101 General Psychology 3",
+     "options": [
+      [
+       "PSYC 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 101 General Psychology 3",
+     "id": "unc-radiologic-science-major-bs-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Summer Session II (Junior Year)\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/radiologic-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

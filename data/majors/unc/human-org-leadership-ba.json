@@ -1,0 +1,353 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-human-org-leadership-ba",
+ "university": "unc",
+ "name": "Human and Organizational Leadership Development",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/human-org-leadership-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 45,
+  "max": 45
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 257 Inquiry and Data Applications 3",
+     "options": [
+      [
+       "EDUC 257"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 257 Inquiry and Data Applications 3",
+     "id": "unc-human-org-leadership-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 309 Foundations of Leadership 3",
+     "options": [
+      [
+       "EDUC 309"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 309 Foundations of Leadership 3",
+     "id": "unc-human-org-leadership-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 357 Organizational and Community Development 3",
+     "options": [
+      [
+       "EDUC 357"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 357 Organizational and Community Development 3",
+     "id": "unc-human-org-leadership-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 472 System Improvement and Implementation at Scale 3",
+     "options": [
+      [
+       "EDUC 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 472 System Improvement and Implementation at Scale 3",
+     "id": "unc-human-org-leadership-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 505 Leadership in Educational/Nonprofit Settings 3",
+     "options": [
+      [
+       "EDUC 505"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 505 Leadership in Educational/Nonprofit Settings 3",
+     "id": "unc-human-org-leadership-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 508 Equity, Leadership, and You 3",
+     "options": [
+      [
+       "EDUC 508"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 508 Equity, Leadership, and You 3",
+     "id": "unc-human-org-leadership-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 585 Activating Human and Organizational Leadership Development 3",
+     "options": [
+      [
+       "EDUC 585"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDUC 585 Activating Human and Organizational Leadership Development 3",
+     "id": "unc-human-org-leadership-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDUC 695 Human and Organizational Leadership Development Capstone 9",
+     "options": [
+      [
+       "EDUC 695"
+      ]
+     ],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "EDUC 695 Human and Organizational Leadership Development Capstone 9",
+     "id": "unc-human-org-leadership-ba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least five elective courses from the list below.",
+     "options": [
+      [
+       "AMST 248"
+      ],
+      [
+       "EDUC 375"
+      ],
+      [
+       "EDUC 410"
+      ],
+      [
+       "EDUC 504"
+      ],
+      [
+       "EDUC 506"
+      ],
+      [
+       "EDUC 509"
+      ],
+      [
+       "EDUC 510"
+      ],
+      [
+       "EDUC 521"
+      ],
+      [
+       "EDUC 522"
+      ],
+      [
+       "EDUC 526"
+      ],
+      [
+       "EDUC 529"
+      ],
+      [
+       "EDUC 532"
+      ],
+      [
+       "EDUC 533"
+      ],
+      [
+       "EDUC 694H"
+      ],
+      [
+       "BUSI 405"
+      ],
+      [
+       "BUSI 507H"
+      ],
+      [
+       "BUSI 524"
+      ],
+      [
+       "COMM 120"
+      ],
+      [
+       "COMM 325"
+      ],
+      [
+       "COMM 525"
+      ],
+      [
+       "ECON 125H"
+      ],
+      [
+       "ECON 327"
+      ],
+      [
+       "HBEH 611"
+      ],
+      [
+       "MEJO 332"
+      ],
+      [
+       "MEJO 424"
+      ],
+      [
+       "MNGT 131"
+      ],
+      [
+       "SOCI 131"
+      ],
+      [
+       "NSCI 222"
+      ],
+      [
+       "POLI 209"
+      ],
+      [
+       "PLCY 85H"
+      ],
+      [
+       "PLCY 210"
+      ],
+      [
+       "PLCY 220"
+      ],
+      [
+       "PLCY 340"
+      ],
+      [
+       "PLCY 450"
+      ],
+      [
+       "PSYC 101"
+      ],
+      [
+       "PSYC 250"
+      ],
+      [
+       "PSYC 260"
+      ],
+      [
+       "SOCI 101"
+      ],
+      [
+       "SOCI 112"
+      ],
+      [
+       "SOCI 251"
+      ],
+      [
+       "SOCI 252"
+      ],
+      [
+       "SOCI 410"
+      ],
+      [
+       "SOCI 415"
+      ]
+     ],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "At least five elective courses from the list below. 15",
+     "id": "unc-human-org-leadership-ba-s9",
+     "pick": {
+      "hours": 15
+     },
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Linked \"At least five elective courses from the list below.\" to the list \"Approved Elective Courses\" by its position on the page",
+  "Codes in choice lists not found in the course catalog: BUSI 507H, ECON 125H, PLCY 85H"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/human-org-leadership-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

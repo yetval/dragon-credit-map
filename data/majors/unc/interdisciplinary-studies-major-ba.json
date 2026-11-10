@@ -1,0 +1,44 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-interdisciplinary-studies-major-ba",
+ "university": "unc",
+ "name": "Interdisciplinary Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/interdisciplinary-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Ten courses chosen from at least three departments and which must be appropriate for juniors and seniors majoring in those departments.",
+     "options": [],
+     "hours": {
+      "min": 30,
+      "max": 30
+     },
+     "raw": "Ten courses chosen from at least three departments and which must be appropriate for juniors and seniors majoring in those departments. 30",
+     "id": "unc-interdisciplinary-studies-major-ba-s1"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/interdisciplinary-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

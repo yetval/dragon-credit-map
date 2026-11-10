@@ -1,0 +1,395 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-community-global-public-health-major-bsph",
+ "university": "unc",
+ "name": "Community and Global Public Health",
+ "degree": "B.S.P.H.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/community-global-public-health-major-bsph/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 52,
+  "max": 53
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Public health core courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Public health core courses:",
+     "id": "unc-community-global-public-health-major-bsph-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 351 Foundations of Public Health 3",
+     "options": [
+      [
+       "SPHG 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPHG 351 Foundations of Public Health 3",
+     "id": "unc-community-global-public-health-major-bsph-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 352 Public Health Systems and Solutions 4",
+     "options": [
+      [
+       "SPHG 352"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SPHG 352 Public Health Systems and Solutions 4",
+     "id": "unc-community-global-public-health-major-bsph-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 600 Principles of Statistical Inference 3",
+     "options": [
+      [
+       "BIOS 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 600 Principles of Statistical Inference 3",
+     "id": "unc-community-global-public-health-major-bsph-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "options": [
+      [
+       "EPID 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "id": "unc-community-global-public-health-major-bsph-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Health Behavior courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Health Behavior courses:",
+     "id": "unc-community-global-public-health-major-bsph-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HBEH 510 Foundations of Equity, Ethics, and Engagement in Public Health 3",
+     "options": [
+      [
+       "HBEH 510"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HBEH 510 Foundations of Equity, Ethics, and Engagement in Public Health 3",
+     "id": "unc-community-global-public-health-major-bsph-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HBEH 520 Introduction to Global Health 3",
+     "options": [
+      [
+       "HBEH 520"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HBEH 520 Introduction to Global Health 3",
+     "id": "unc-community-global-public-health-major-bsph-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HBEH 531 Community Engagement and Assessment to Advance Health Equity and Social Justice 3",
+     "options": [
+      [
+       "HBEH 531"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HBEH 531 Community Engagement and Assessment to Advance Health Equity and Social Justice 3",
+     "id": "unc-community-global-public-health-major-bsph-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HBEH 532 Development and Evaluation of Health Behavior Interventions 4",
+     "options": [
+      [
+       "HBEH 532"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HBEH 532 Development and Evaluation of Health Behavior Interventions 4",
+     "id": "unc-community-global-public-health-major-bsph-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HBEH 555 Collaboration & Community Organizing in Public Health: A Community Based Culminating Experience 4",
+     "options": [
+      [
+       "HBEH 555"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HBEH 555 Collaboration & Community Organizing in Public Health: A Community Based Culminating Experience 4",
+     "id": "unc-community-global-public-health-major-bsph-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HBEH 571 Global Health and Human Rights 3",
+     "options": [
+      [
+       "HBEH 571"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HBEH 571 Global Health and Human Rights 3",
+     "id": "unc-community-global-public-health-major-bsph-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Three additional elective courses chosen from the list below.",
+     "options": [
+      [
+       "ANTH 142"
+      ],
+      [
+       "BUSI 405"
+      ],
+      [
+       "BUSI 406"
+      ],
+      [
+       "BUSI 510"
+      ],
+      [
+       "BUSI 521"
+      ],
+      [
+       "BUSI 529"
+      ],
+      [
+       "BUSI 555"
+      ],
+      [
+       "COMM 223"
+      ],
+      [
+       "GEOG 130"
+      ],
+      [
+       "GEOG 141"
+      ],
+      [
+       "GLBL 210"
+      ],
+      [
+       "GLBL 483"
+      ],
+      [
+       "NUTR 245"
+      ],
+      [
+       "NUTR 250"
+      ],
+      [
+       "NUTR 405"
+      ],
+      [
+       "PLAN 101"
+      ],
+      [
+       "PLCY 110"
+      ],
+      [
+       "PWAD 110"
+      ],
+      [
+       "SOCI 172"
+      ],
+      [
+       "SOCI 180"
+      ],
+      [
+       "SOCI 422"
+      ],
+      [
+       "SOCI 469"
+      ]
+     ],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three additional elective courses chosen from the list below. 9",
+     "id": "unc-community-global-public-health-major-bsph-s13",
+     "pick": {
+      "hours": 9
+     },
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      16,
+      17,
+      18,
+      19,
+      20
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-community-global-public-health-major-bsph-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following courses:",
+     "options": [
+      [
+       "MATH 130"
+      ],
+      [
+       "MATH 152"
+      ],
+      [
+       "MATH 231"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One of the following courses: 3-4",
+     "id": "unc-community-global-public-health-major-bsph-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following courses:",
+     "options": [
+      [
+       "SOCI 101"
+      ],
+      [
+       "PSYC 101"
+      ],
+      [
+       "ANTH 102"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following courses: 3",
+     "id": "unc-community-global-public-health-major-bsph-s16"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: HBEH 571"
+ ],
+ "parseNotes": [
+  "List \"Suggested Elective Courses\" has codes with no catalog link: GLBL 210",
+  "Linked \"Three additional elective courses chosen from the list below.\" to the list \"Suggested Elective Courses\" by its position on the page",
+  "Codes in choice lists not found in the course catalog: GLBL 210"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/community-global-public-health-major-bsph/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-classics-major-ba-classical-archaeology",
+ "university": "unc",
+ "name": "Classics",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/classics-major-ba-classical-archaeology/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following options:",
+     "options": [
+      [
+       "CLAR 244"
+      ],
+      [
+       "CLAR 375"
+      ],
+      [
+       "CLAR 491"
+      ],
+      [
+       "CLAR 492"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following options: 3",
+     "id": "unc-classics-major-ba-classical-archaeology-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CLAR 247 Roman Art and Archaeology 3",
+     "options": [
+      [
+       "CLAR 247"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CLAR 247 Roman Art and Archaeology 3",
+     "id": "unc-classics-major-ba-classical-archaeology-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CLAS 391 Junior Seminar 3",
+     "options": [
+      [
+       "CLAS 391"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CLAS 391 Junior Seminar 3",
+     "id": "unc-classics-major-ba-classical-archaeology-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four additional courses in Classical Archaeology (CLAR), including two numbered between CLAR 400 and CLAR 699",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four additional courses in Classical Archaeology (CLAR), including two numbered between CLAR 400 and CLAR 699 12",
+     "id": "unc-classics-major-ba-classical-archaeology-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three courses in one of the following configurations:",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three courses in one of the following configurations: 9",
+     "id": "unc-classics-major-ba-classical-archaeology-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Four additional courses in Classical Archaeology (CLAR), including two numbered between CLAR 400 and CLAR 699\"",
+  "Group \"Three courses in one of the following configurations:\" carries a note or open-ended option: \"Three courses in Classical Civilization (CLAS), including at least one numbered 200 or above. CLAS 125 and CLAS 126 do not satisfy this requirement.\"",
+  "Group \"Three courses in one of the following configurations:\" carries a note or open-ended option: \"Three courses in GREK or LATN at any level.\"",
+  "Group \"Three courses in one of the following configurations:\" carries a note or open-ended option: \"Three courses combining GREK or LATN at any level and CLAS courses at any level, excluding CLAS 125 and CLAS 126.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/classics-major-ba-classical-archaeology/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Classical Archaeology"
+}

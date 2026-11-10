@@ -1,0 +1,457 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-chemistry-major-bs-biochemistry-track",
+ "university": "unc",
+ "name": "Chemistry",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/chemistry-major-bs-biochemistry-track/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 71,
+  "max": 71
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 102 General Descriptive Chemistry II 3 or CHEM 102H General Descriptive Chemistry II",
+     "options": [
+      [
+       "CHEM 102"
+      ],
+      [
+       "CHEM 102H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 102 General Descriptive Chemistry II 3 or CHEM 102H General Descriptive Chemistry II",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102L Quantitative Chemistry Laboratory II 1",
+     "options": [
+      [
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 102L Quantitative Chemistry Laboratory II 1",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "options": [
+      [
+       "CHEM 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1 or CHEM 245L Honors Laboratory in Separations and Analytical Characterization of Organic and Biological Compound",
+     "options": [
+      [
+       "CHEM 241L"
+      ],
+      [
+       "CHEM 245L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1 or CHEM 245L Honors Laboratory in Separations and Analytical Characterization of Organic and Biological Compound",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 251 Introduction to Inorganic Chemistry 3",
+     "options": [
+      [
+       "CHEM 251"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 251 Introduction to Inorganic Chemistry 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 431 Macromolecular Structure and Metabolism 3",
+     "options": [
+      [
+       "CHEM 431"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 431 Macromolecular Structure and Metabolism 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 433 Introduction to Biochemistry for Majors 3",
+     "options": [
+      [
+       "CHEM 433"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 433 Introduction to Biochemistry for Majors 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 432 Metabolic Chemistry and Cellular Regulatory Networks 3",
+     "options": [
+      [
+       "CHEM 432"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 432 Metabolic Chemistry and Cellular Regulatory Networks 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 481 Physical Chemistry I 3",
+     "options": [
+      [
+       "CHEM 481"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 481 Physical Chemistry I 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 481L Physical Chemistry Laboratory I 2 or CHEM 482L Physical Chemistry Laboratory II",
+     "options": [
+      [
+       "CHEM 481L"
+      ],
+      [
+       "CHEM 482L"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "CHEM 481L Physical Chemistry Laboratory I 2 or CHEM 482L Physical Chemistry Laboratory II",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 482 Physical Chemistry II 3",
+     "options": [
+      [
+       "CHEM 482"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 482 Physical Chemistry II 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 530L Laboratory Techniques for Biochemistry 3",
+     "options": [
+      [
+       "CHEM 530L"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 530L Laboratory Techniques for Biochemistry 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "options": [
+      [
+       "CHEM 261"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 262 Introduction to Organic Chemistry II 3",
+     "options": [
+      [
+       "CHEM 262"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 262 Introduction to Organic Chemistry II 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 262L Laboratory in Organic Chemistry 1",
+     "options": [
+      [
+       "CHEM 262L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 262L Laboratory in Organic Chemistry 1",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s16"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 Principles of Biology 3",
+     "options": [
+      [
+       "BIOL 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 101 Principles of Biology 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101L Introductory Biology Laboratory 1",
+     "options": [
+      [
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "BIOL 101L Introductory Biology Laboratory 1",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 103 How Cells Function 3",
+     "options": [
+      [
+       "BIOL 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 103 How Cells Function 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 220 Molecular Genetics 3",
+     "options": [
+      [
+       "BIOL 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 220 Molecular Genetics 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4",
+     "options": [
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 First Course in Differential Equations 3",
+     "options": [
+      [
+       "MATH 383"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 383 First Course in Differential Equations 3",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "options": [
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "options": [
+      [
+       "PHYS 119"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "id": "unc-chemistry-major-bs-biochemistry-track-s25"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: CHEM 102H"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/chemistry-major-bs-biochemistry-track/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Biochemistry Track"
+}

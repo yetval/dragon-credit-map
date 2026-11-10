@@ -1,0 +1,1462 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration",
+ "university": "ncsu",
+ "name": "Elementary Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/teacher-education-learning-sciences/elementary-education-bs-science-technology-engineering-mathematics-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 151 Calculus for Elementary Education I 3",
+     "options": [
+      [
+       "MA 151"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 151 Calculus for Elementary Education I 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 152 Calculus for Elementary Education II 3",
+     "options": [
+      [
+       "MA 152"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 152 Calculus for Elementary Education II 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 101 Statistics by Example 3 or ST 311 Introduction to Statistics",
+     "options": [
+      [
+       "ST 101"
+      ],
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 101 Statistics by Example 3 or ST 311 Introduction to Statistics",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "STEM Concentration: Additional Math Elective",
+     "options": [
+      [
+       "LOG 335"
+      ],
+      [
+       "MA 103"
+      ],
+      [
+       "MA 103A"
+      ],
+      [
+       "MA 105"
+      ],
+      [
+       "MA 107"
+      ],
+      [
+       "MA 111"
+      ],
+      [
+       "MA 114"
+      ],
+      [
+       "MA 205"
+      ],
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ],
+      [
+       "MA 335"
+      ],
+      [
+       "MSGE 295"
+      ],
+      [
+       "ST 101"
+      ],
+      [
+       "ST 311"
+      ],
+      [
+       "ST 312"
+      ],
+      [
+       "GC 320"
+      ],
+      [
+       "HON 291"
+      ],
+      [
+       "LOG 201"
+      ],
+      [
+       "PHI 250"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STEM Concentration: Additional Math Elective 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 131 Conceptual Physics 4",
+     "options": [
+      [
+       "PY 131"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 131 Conceptual Physics 4",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "CH 100"
+      ],
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "BIO 105",
+       "BIO 106"
+      ],
+      [
+       "BIO 181"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "STEM Concentration: Additional Science Elective",
+     "options": [
+      [
+       "ENT 201"
+      ],
+      [
+       "ENT 425"
+      ],
+      [
+       "FW 221"
+      ],
+      [
+       "MEA 200"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "PY 124"
+      ],
+      [
+       "ZO 410"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STEM Concentration: Additional Science Elective 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s8"
+    }
+   ]
+  },
+  {
+   "title": "Engineering, Tech, Design",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Engineering, Tech, Design Elective",
+     "options": [
+      [
+       "AEE 208"
+      ],
+      [
+       "ANS 208"
+      ],
+      [
+       "ANT 261"
+      ],
+      [
+       "ARS 257"
+      ],
+      [
+       "D 100"
+      ],
+      [
+       "D 101"
+      ],
+      [
+       "ECI 201"
+      ],
+      [
+       "GC 120"
+      ],
+      [
+       "MSE 201"
+      ],
+      [
+       "PB 208"
+      ],
+      [
+       "SOC 261"
+      ],
+      [
+       "STS 210"
+      ],
+      [
+       "STS 214"
+      ],
+      [
+       "STS 257"
+      ],
+      [
+       "STS 302"
+      ],
+      [
+       "STS 304"
+      ],
+      [
+       "STS 322"
+      ],
+      [
+       "STS 405"
+      ],
+      [
+       "WGS 210"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Engineering, Tech, Design Elective 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Humanities & Social Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "ENG Elective",
+     "options": [
+      [
+       "AFS 248"
+      ],
+      [
+       "AFS 349"
+      ],
+      [
+       "AFS 448"
+      ],
+      [
+       "AFS 548"
+      ],
+      [
+       "CLA 320"
+      ],
+      [
+       "CLA 325"
+      ],
+      [
+       "COM 395"
+      ],
+      [
+       "ENG 206"
+      ],
+      [
+       "ENG 207"
+      ],
+      [
+       "ENG 208"
+      ],
+      [
+       "ENG 209"
+      ],
+      [
+       "ENG 219"
+      ],
+      [
+       "ENG 220"
+      ],
+      [
+       "ENG 221"
+      ],
+      [
+       "ENG 222"
+      ],
+      [
+       "ENG 223"
+      ],
+      [
+       "ENG 224"
+      ],
+      [
+       "ENG 232"
+      ],
+      [
+       "ENG 246"
+      ],
+      [
+       "ENG 248"
+      ],
+      [
+       "ENG 249"
+      ],
+      [
+       "ENG 251"
+      ],
+      [
+       "ENG 252"
+      ],
+      [
+       "ENG 255"
+      ],
+      [
+       "ENG 261"
+      ],
+      [
+       "ENG 262"
+      ],
+      [
+       "ENG 265"
+      ],
+      [
+       "ENG 266"
+      ],
+      [
+       "ENG 267"
+      ],
+      [
+       "ENG 275"
+      ],
+      [
+       "ENG 305"
+      ],
+      [
+       "ENG 308"
+      ],
+      [
+       "ENG 326"
+      ],
+      [
+       "ENG 329"
+      ],
+      [
+       "ENG 342"
+      ],
+      [
+       "ENG 349"
+      ],
+      [
+       "ENG 361"
+      ],
+      [
+       "ENG 362"
+      ],
+      [
+       "ENG 369"
+      ],
+      [
+       "ENG 370"
+      ],
+      [
+       "ENG 372"
+      ],
+      [
+       "ENG 377"
+      ],
+      [
+       "ENG 380"
+      ],
+      [
+       "ENG 385"
+      ],
+      [
+       "ENG 390"
+      ],
+      [
+       "ENG 392"
+      ],
+      [
+       "ENG 393"
+      ],
+      [
+       "ENG 394"
+      ],
+      [
+       "ENG 395"
+      ],
+      [
+       "ENG 399"
+      ],
+      [
+       "ENG 406"
+      ],
+      [
+       "ENG 407"
+      ],
+      [
+       "ENG 410"
+      ],
+      [
+       "ENG 420"
+      ],
+      [
+       "ENG 439"
+      ],
+      [
+       "ENG 448"
+      ],
+      [
+       "ENG 451"
+      ],
+      [
+       "ENG 460"
+      ],
+      [
+       "ENG 464"
+      ],
+      [
+       "ENG 465"
+      ],
+      [
+       "ENG 466"
+      ],
+      [
+       "ENG 467"
+      ],
+      [
+       "ENG 468"
+      ],
+      [
+       "ENG 470"
+      ],
+      [
+       "ENG 476"
+      ],
+      [
+       "ENG 486"
+      ],
+      [
+       "ENG 487"
+      ],
+      [
+       "ENG 548"
+      ],
+      [
+       "FL 219"
+      ],
+      [
+       "FL 220"
+      ],
+      [
+       "FL 221"
+      ],
+      [
+       "FL 222"
+      ],
+      [
+       "FL 223"
+      ],
+      [
+       "FL 224"
+      ],
+      [
+       "FL 246"
+      ],
+      [
+       "FL 275"
+      ],
+      [
+       "FL 392"
+      ],
+      [
+       "FL 393"
+      ],
+      [
+       "FL 394"
+      ],
+      [
+       "FL 406"
+      ],
+      [
+       "FL 407"
+      ],
+      [
+       "HUMU 295"
+      ],
+      [
+       "WGS 305"
+      ],
+      [
+       "WGS 308"
+      ],
+      [
+       "WGS 410"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG Elective 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "HI Elective",
+     "options": [
+      [
+       "AFS 275"
+      ],
+      [
+       "AFS 276"
+      ],
+      [
+       "AFS 372"
+      ],
+      [
+       "AFS 373"
+      ],
+      [
+       "HA 240"
+      ],
+      [
+       "HI 207"
+      ],
+      [
+       "HI 208"
+      ],
+      [
+       "HI 209"
+      ],
+      [
+       "HI 210"
+      ],
+      [
+       "HI 214"
+      ],
+      [
+       "HI 215"
+      ],
+      [
+       "HI 216"
+      ],
+      [
+       "HI 217"
+      ],
+      [
+       "HI 221"
+      ],
+      [
+       "HI 222"
+      ],
+      [
+       "HI 232"
+      ],
+      [
+       "HI 233"
+      ],
+      [
+       "HI 240"
+      ],
+      [
+       "HI 251"
+      ],
+      [
+       "HI 252"
+      ],
+      [
+       "HI 253"
+      ],
+      [
+       "HI 254"
+      ],
+      [
+       "HI 263"
+      ],
+      [
+       "HI 264"
+      ],
+      [
+       "HI 270"
+      ],
+      [
+       "HI 275"
+      ],
+      [
+       "HI 276"
+      ],
+      [
+       "HI 305"
+      ],
+      [
+       "HI 307"
+      ],
+      [
+       "HI 317"
+      ],
+      [
+       "HI 320"
+      ],
+      [
+       "HI 321"
+      ],
+      [
+       "HI 324"
+      ],
+      [
+       "HI 332"
+      ],
+      [
+       "HI 335"
+      ],
+      [
+       "HI 337"
+      ],
+      [
+       "HI 338"
+      ],
+      [
+       "HI 340"
+      ],
+      [
+       "HI 345"
+      ],
+      [
+       "HI 346"
+      ],
+      [
+       "HI 350"
+      ],
+      [
+       "HI 351"
+      ],
+      [
+       "HI 354"
+      ],
+      [
+       "HI 360"
+      ],
+      [
+       "HI 364"
+      ],
+      [
+       "HI 365"
+      ],
+      [
+       "HI 366"
+      ],
+      [
+       "HI 370"
+      ],
+      [
+       "HI 371"
+      ],
+      [
+       "HI 372"
+      ],
+      [
+       "HI 373"
+      ],
+      [
+       "HI 374"
+      ],
+      [
+       "HI 380"
+      ],
+      [
+       "HI 381"
+      ],
+      [
+       "HI 385"
+      ],
+      [
+       "HI 403"
+      ],
+      [
+       "HI 407"
+      ],
+      [
+       "HI 408"
+      ],
+      [
+       "HI 409"
+      ],
+      [
+       "HI 410"
+      ],
+      [
+       "HI 441"
+      ],
+      [
+       "HI 445"
+      ],
+      [
+       "HI 446"
+      ],
+      [
+       "HI 447"
+      ],
+      [
+       "HI 448"
+      ],
+      [
+       "HI 452"
+      ],
+      [
+       "HI 453"
+      ],
+      [
+       "HI 454"
+      ],
+      [
+       "HI 503"
+      ],
+      [
+       "HI 509"
+      ],
+      [
+       "HI 541"
+      ],
+      [
+       "HI 545"
+      ],
+      [
+       "HI 546"
+      ],
+      [
+       "HI 547"
+      ],
+      [
+       "HI 548"
+      ],
+      [
+       "HI 552"
+      ],
+      [
+       "HI 553"
+      ],
+      [
+       "REL 320"
+      ],
+      [
+       "REL 407"
+      ],
+      [
+       "REL 408"
+      ],
+      [
+       "WGS 447"
+      ],
+      [
+       "WGS 448"
+      ],
+      [
+       "WGS 547"
+      ],
+      [
+       "WGS 548"
+      ],
+      [
+       "AFS 455"
+      ],
+      [
+       "AFS 475"
+      ],
+      [
+       "AFS 476"
+      ],
+      [
+       "AFS 479"
+      ],
+      [
+       "AFS 555"
+      ],
+      [
+       "AFS 575"
+      ],
+      [
+       "AFS 576"
+      ],
+      [
+       "AFS 579"
+      ],
+      [
+       "HI 455"
+      ],
+      [
+       "HI 459"
+      ],
+      [
+       "HI 461"
+      ],
+      [
+       "HI 462"
+      ],
+      [
+       "HI 475"
+      ],
+      [
+       "HI 476"
+      ],
+      [
+       "HI 478"
+      ],
+      [
+       "HI 479"
+      ],
+      [
+       "HI 486"
+      ],
+      [
+       "HI 555"
+      ],
+      [
+       "HI 559"
+      ],
+      [
+       "HI 561"
+      ],
+      [
+       "HI 562"
+      ],
+      [
+       "HI 575"
+      ],
+      [
+       "HI 576"
+      ],
+      [
+       "HI 579"
+      ],
+      [
+       "HI 586"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HI Elective 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EDP 370 Applied Child Development 3 or PSY 376 Developmental Psychology",
+     "options": [
+      [
+       "EDP 370"
+      ],
+      [
+       "PSY 376"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 370 Applied Child Development 3 or PSY 376 Developmental Psychology",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "SOC 202 Principles of Sociology 3 or SOC 203 Current Social Problems or SOC 204 Sociology of Family or ANT 254 Introduction to Linguistic Anthropology",
+     "options": [
+      [
+       "SOC 202"
+      ],
+      [
+       "SOC 203"
+      ],
+      [
+       "SOC 204"
+      ],
+      [
+       "ANT 254"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOC 202 Principles of Sociology 3 or SOC 203 Current Social Problems or SOC 204 Sociology of Family or ANT 254 Introduction to Linguistic Anthropology",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s15"
+    }
+   ]
+  },
+  {
+   "title": "Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 100 Intro to Education 2",
+     "options": [
+      [
+       "ED 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 250 Introduction to Elementary Education in a Global Society 3",
+     "options": [
+      [
+       "ELM 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 250 Introduction to Elementary Education in a Global Society 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 310 Children's Thinking and Additive Reasoning 3",
+     "options": [
+      [
+       "ELM 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 310 Children's Thinking and Additive Reasoning 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 320 Teaching Science in the Primary Grades 3",
+     "options": [
+      [
+       "ELM 320"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 320 Teaching Science in the Primary Grades 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 330 Teaching Reading in Elementary School: K-2 3",
+     "options": [
+      [
+       "ELM 330"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 330 Teaching Reading in Elementary School: K-2 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 370 Connections Seminar II- The Elementary Classroom and School Community 3",
+     "options": [
+      [
+       "ELM 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 370 Connections Seminar II- The Elementary Classroom and School Community 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 410 Children's Thinking and Multiplicative Reasoning 3",
+     "options": [
+      [
+       "ELM 410"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 410 Children's Thinking and Multiplicative Reasoning 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 460 Social Studies for the Young Learner 3",
+     "options": [
+      [
+       "ELM 460"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 460 Social Studies for the Young Learner 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 335 Teaching Reading in the Elementary School: 3-5 3",
+     "options": [
+      [
+       "ELM 335"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 335 Teaching Reading in the Elementary School: 3-5 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 340 Children Design, Create and Invent 3",
+     "options": [
+      [
+       "ELM 340"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 340 Children Design, Create and Invent 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 296 Special Topics in Education (Contemporary Approaches for Supporting All Learners) 3",
+     "options": [
+      [
+       "ECI 296"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 296 Special Topics in Education (Contemporary Approaches for Supporting All Learners) 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 440 Teaching Students with Disabilities in Inclusive Elementary Classrooms 3",
+     "options": [
+      [
+       "ELM 440"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 440 Teaching Students with Disabilities in Inclusive Elementary Classrooms 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 430 Teaching Language Arts in the Elementary School 3",
+     "options": [
+      [
+       "ELM 430"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 430 Teaching Language Arts in the Elementary School 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 420 Teaching Science in the Intermediate Grades 3",
+     "options": [
+      [
+       "ELM 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 420 Teaching Science in the Intermediate Grades 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 450 The Arts for Elementary Education 3",
+     "options": [
+      [
+       "ELM 450"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 450 The Arts for Elementary Education 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 400 Connections Seminar III- Instructional Design and Assessment 3",
+     "options": [
+      [
+       "ELM 400"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 400 Connections Seminar III- Instructional Design and Assessment 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 480 Connections Seminar IV Linking Theory and Practice 3",
+     "options": [
+      [
+       "ELM 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELM 480 Connections Seminar IV Linking Theory and Practice 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELM 484 Student Teaching in Elementary Education 9",
+     "options": [
+      [
+       "ELM 484"
+      ]
+     ],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "ELM 484 Student Teaching in Elementary Education 9",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s35"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-elementary-education-bs-science-technology-engineering-mathematics-concentration-s41"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"STEM Concentration: Additional Math Electives\" has codes with no catalog link: MA 205",
+  "Codes in choice lists not found in the course catalog: HI 251, HI 252, HI 381, HUMU 295, MA 205"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/teacher-education-learning-sciences/elementary-education-bs-science-technology-engineering-mathematics-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Science, Technology, Engineering, and Mathematics Concentration",
+ "college": "College of Education"
+}

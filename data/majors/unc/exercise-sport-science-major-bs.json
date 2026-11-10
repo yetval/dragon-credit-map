@@ -1,0 +1,657 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-exercise-sport-science-major-bs",
+ "university": "unc",
+ "name": "Exercise and Sport Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 60,
+  "max": 62
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 155 Human Anatomy and Physiology I 3",
+     "options": [
+      [
+       "EXSS 155"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 155 Human Anatomy and Physiology I 3",
+     "id": "unc-exercise-sport-science-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 256 Human Anatomy and Physiology II 3",
+     "options": [
+      [
+       "EXSS 256"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 256 Human Anatomy and Physiology II 3",
+     "id": "unc-exercise-sport-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 273 Research in Exercise and Sport Science 3",
+     "options": [
+      [
+       "EXSS 273"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 273 Research in Exercise and Sport Science 3",
+     "id": "unc-exercise-sport-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 376 Physiological Basis of Human Performance 4",
+     "options": [
+      [
+       "EXSS 376"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "EXSS 376 Physiological Basis of Human Performance 4",
+     "id": "unc-exercise-sport-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 380 Neuromuscular Control and Learning 3",
+     "options": [
+      [
+       "EXSS 380"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 380 Neuromuscular Control and Learning 3",
+     "id": "unc-exercise-sport-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 385 Biomechanics of Sport 3",
+     "options": [
+      [
+       "EXSS 385"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 385 Biomechanics of Sport 3",
+     "id": "unc-exercise-sport-science-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Five elective courses from the following list, with at least 9 credits from courses numbered 400 and above:",
+     "options": [
+      [
+       "EXSS 181"
+      ],
+      [
+       "EXSS 265"
+      ],
+      [
+       "EXSS 275L"
+      ],
+      [
+       "EXSS 288"
+      ],
+      [
+       "EXSS 360"
+      ],
+      [
+       "EXSS 366"
+      ],
+      [
+       "EXSS 395"
+      ],
+      [
+       "EXSS 408"
+      ],
+      [
+       "EXSS 409"
+      ],
+      [
+       "EXSS 410"
+      ],
+      [
+       "EXSS 433L"
+      ],
+      [
+       "EXSS 450"
+      ],
+      [
+       "EXSS 475"
+      ],
+      [
+       "EXSS 478"
+      ],
+      [
+       "EXSS 573"
+      ],
+      [
+       "EXSS 576"
+      ],
+      [
+       "EXSS 580"
+      ],
+      [
+       "EXSS 581"
+      ],
+      [
+       "EXSS 694H"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 13,
+      "max": 15
+     },
+     "raw": "Five elective courses from the following list, with at least 9 credits from courses numbered 400 and above: 13-15",
+     "id": "unc-exercise-sport-science-major-bs-s7"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-exercise-sport-science-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select three courses from the following options:",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ],
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ],
+      [
+       "PHYS 114"
+      ],
+      [
+       "PHYS 118"
+      ],
+      [
+       "PHYS 115"
+      ],
+      [
+       "PHYS 119"
+      ],
+      [
+       "MATH 231"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Select three courses from the following options: 12",
+     "id": "unc-exercise-sport-science-major-bs-s9",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      3,
+      4
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "A choice of four additional allied sciences electives, selected from the course list below (some courses are more than 3 credits)",
+     "options": [
+      [
+       "ANTH 143"
+      ],
+      [
+       "ANTH 148"
+      ],
+      [
+       "ANTH 151"
+      ],
+      [
+       "ANTH 217"
+      ],
+      [
+       "ANTH 298"
+      ],
+      [
+       "ANTH 315"
+      ],
+      [
+       "ANTH 318"
+      ],
+      [
+       "ANTH 412"
+      ],
+      [
+       "ANTH 413"
+      ],
+      [
+       "ANTH 414"
+      ],
+      [
+       "ANTH 415"
+      ],
+      [
+       "ANTH 416"
+      ],
+      [
+       "ANTH 423"
+      ],
+      [
+       "ANTH 437"
+      ],
+      [
+       "ANTH 470"
+      ],
+      [
+       "ANTH 471"
+      ],
+      [
+       "BIOC 107"
+      ],
+      [
+       "BIOC 108"
+      ],
+      [
+       "BMME 150"
+      ],
+      [
+       "BMME 207"
+      ],
+      [
+       "BMME 301"
+      ],
+      [
+       "BMME 315"
+      ],
+      [
+       "BMME 335"
+      ],
+      [
+       "BMME 385"
+      ],
+      [
+       "BMME 435"
+      ],
+      [
+       "BMME 505"
+      ],
+      [
+       "BMME 521"
+      ],
+      [
+       "BMME 543"
+      ],
+      [
+       "BMME 545"
+      ],
+      [
+       "BMME 555"
+      ],
+      [
+       "BMME 572"
+      ],
+      [
+       "BMME 585"
+      ],
+      [
+       "ENEC 108"
+      ],
+      [
+       "ENEC 202"
+      ],
+      [
+       "ENEC 220"
+      ],
+      [
+       "ENEC 222"
+      ],
+      [
+       "ENEC 256"
+      ],
+      [
+       "ENEC 304"
+      ],
+      [
+       "ENEC 324"
+      ],
+      [
+       "ENEC 352"
+      ],
+      [
+       "ENEC 403"
+      ],
+      [
+       "ENEC 406"
+      ],
+      [
+       "ENEC 410"
+      ],
+      [
+       "ENEC 411"
+      ],
+      [
+       "ENEC 415"
+      ],
+      [
+       "ENEC 416"
+      ],
+      [
+       "ENEC 431"
+      ],
+      [
+       "ENEC 450"
+      ],
+      [
+       "ENEC 462"
+      ],
+      [
+       "ENEC 471"
+      ],
+      [
+       "ENEC 479"
+      ],
+      [
+       "ENEC 489"
+      ],
+      [
+       "ENEC 530"
+      ],
+      [
+       "ENEC 562"
+      ],
+      [
+       "ENEC 567"
+      ],
+      [
+       "ENVR 205"
+      ],
+      [
+       "ENVR 403"
+      ],
+      [
+       "ENVR 411"
+      ],
+      [
+       "ENVR 412"
+      ],
+      [
+       "ENVR 413"
+      ],
+      [
+       "ENVR 416"
+      ],
+      [
+       "ENVR 419"
+      ],
+      [
+       "ENVR 421"
+      ],
+      [
+       "ENVR 425"
+      ],
+      [
+       "ENVR 430"
+      ],
+      [
+       "ENVR 451"
+      ],
+      [
+       "ENVR 453"
+      ],
+      [
+       "ENVR 468"
+      ],
+      [
+       "ENVR 470"
+      ],
+      [
+       "ENVR 472"
+      ],
+      [
+       "ENVR 514"
+      ],
+      [
+       "ENVR 575"
+      ],
+      [
+       "ENVR 630"
+      ],
+      [
+       "ENVR 661"
+      ],
+      [
+       "ENVR 662"
+      ],
+      [
+       "ENVR 666"
+      ],
+      [
+       "ENVR 668"
+      ],
+      [
+       "ENVR 669"
+      ],
+      [
+       "ENVR 671"
+      ],
+      [
+       "ENVR 672"
+      ],
+      [
+       "ENVR 675"
+      ],
+      [
+       "GEOG 110"
+      ],
+      [
+       "GEOG 111"
+      ],
+      [
+       "GEOG 212"
+      ],
+      [
+       "GEOG 253"
+      ],
+      [
+       "GEOG 391"
+      ],
+      [
+       "GEOG 412"
+      ],
+      [
+       "GEOG 414"
+      ],
+      [
+       "GEOG 416"
+      ],
+      [
+       "GEOG 440"
+      ],
+      [
+       "GEOG 441"
+      ],
+      [
+       "GEOG 442"
+      ],
+      [
+       "MCRO 251"
+      ],
+      [
+       "NUTR 240"
+      ],
+      [
+       "NUTR 600"
+      ],
+      [
+       "NUTR 620"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "A choice of four additional allied sciences electives, selected from the course list below (some courses are more than 3 credits) 12",
+     "id": "unc-exercise-sport-science-major-bs-s10",
+     "wildcards": [
+      {
+       "subjects": [
+        "BIOL"
+       ],
+       "minLevel": 102,
+       "except": [
+        "BIOL 271",
+        "BIOL 272",
+        "BIOL 273"
+       ]
+      },
+      {
+       "subjects": [
+        "BIOS"
+       ],
+       "minLevel": 501,
+       "except": [
+        "BIOS 540",
+        "BIOS 543",
+        "BIOS 690",
+        "BIOS 691",
+        "BIOS 693H",
+        "BIOS 694H"
+       ]
+      },
+      {
+       "subjects": [
+        "CHEM"
+       ],
+       "minLevel": 103
+      },
+      {
+       "subjects": [
+        "COMP"
+       ]
+      },
+      {
+       "subjects": [
+        "EMES"
+       ],
+       "minLevel": 101,
+       "except": [
+        "EMES 190",
+        "EMES 390",
+        "EMES 395",
+        "EMES 396",
+        "EMES 412",
+        "EMES 490",
+        "EMES 590",
+        "EMES 691H",
+        "EMES 692H"
+       ]
+      },
+      {
+       "subjects": [
+        "MATH"
+       ],
+       "minLevel": 232
+      },
+      {
+       "subjects": [
+        "PSYC"
+       ],
+       "minLevel": 102
+      },
+      {
+       "subjects": [
+        "NSCI"
+       ]
+      },
+      {
+       "subjects": [
+        "STOR"
+       ],
+       "minLevel": 156
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Allied Science Electives\" has codes with no catalog link: BMME 505, BMME 545, ENEC 202",
+  "Codes in choice lists not found in the course catalog: BMME 505, BMME 545, ENEC 202"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

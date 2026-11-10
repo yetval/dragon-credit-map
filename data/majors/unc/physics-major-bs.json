@@ -1,0 +1,391 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-physics-major-bs",
+ "university": "unc",
+ "name": "Physics",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/physics-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 281L Experimental Techniques in Physics 3",
+     "options": [
+      [
+       "PHYS 281L"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 281L Experimental Techniques in Physics 3",
+     "id": "unc-physics-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 331 Numerical Techniques for the Sciences I 4",
+     "options": [
+      [
+       "PHYS 331"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 331 Numerical Techniques for the Sciences I 4",
+     "id": "unc-physics-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 332 Numerical Techniques for the Sciences II 4",
+     "options": [
+      [
+       "PHYS 332"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 332 Numerical Techniques for the Sciences II 4",
+     "id": "unc-physics-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 401 Mechanics I 3",
+     "options": [
+      [
+       "PHYS 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 401 Mechanics I 3",
+     "id": "unc-physics-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 311 Electromagnetism I 3",
+     "options": [
+      [
+       "PHYS 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 311 Electromagnetism I 3",
+     "id": "unc-physics-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 412 Electromagnetism II 3",
+     "options": [
+      [
+       "PHYS 412"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 412 Electromagnetism II 3",
+     "id": "unc-physics-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 421 Introduction to Quantum Mechanics 3",
+     "options": [
+      [
+       "PHYS 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 421 Introduction to Quantum Mechanics 3",
+     "id": "unc-physics-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 451 Electronics I 4",
+     "options": [
+      [
+       "PHYS 451"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 451 Electronics I 4",
+     "id": "unc-physics-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 521 Applications of Quantum Mechanics 3",
+     "options": [
+      [
+       "PHYS 521"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 521 Applications of Quantum Mechanics 3",
+     "id": "unc-physics-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 441 Thermal Physics 3",
+     "options": [
+      [
+       "PHYS 441"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 441 Thermal Physics 3",
+     "id": "unc-physics-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 481L Advanced Laboratory I 2",
+     "options": [
+      [
+       "PHYS 481L"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PHYS 481L Advanced Laboratory I 2",
+     "id": "unc-physics-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHYS 395 Research with Faculty Mentor II 3 or PHYS 692H Senior Honor Thesis Research II",
+     "options": [
+      [
+       "PHYS 395"
+      ],
+      [
+       "PHYS 692H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHYS 395 Research with Faculty Mentor II 3 or PHYS 692H Senior Honor Thesis Research II",
+     "id": "unc-physics-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Six additional credit hours chosen from:",
+     "options": [
+      [
+       "ASTR 202"
+      ],
+      [
+       "MATH 528"
+      ],
+      [
+       "MATH 529"
+      ],
+      [
+       "PHYS 231"
+      ]
+     ],
+     "pick": {
+      "count": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Six additional credit hours chosen from: 6",
+     "id": "unc-physics-major-bs-s13"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "options": [
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "id": "unc-physics-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "options": [
+      [
+       "PHYS 119"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "id": "unc-physics-major-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-physics-major-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-physics-major-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4",
+     "options": [
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4",
+     "id": "unc-physics-major-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 First Course in Differential Equations 3",
+     "options": [
+      [
+       "MATH 383"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 383 First Course in Differential Equations 3",
+     "id": "unc-physics-major-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I (CHEM 102/CHEM 102L are recommended but not required) 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I (CHEM 102/CHEM 102L are recommended but not required) 4",
+     "id": "unc-physics-major-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Remaining General Education requirements and enough free electives to accumulate 120 academic hours",
+     "options": [],
+     "hours": {
+      "min": 49,
+      "max": 49
+     },
+     "raw": "Remaining General Education requirements and enough free electives to accumulate 120 academic hours 49",
+     "id": "unc-physics-major-bs-s21"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Physics Major, B.S.–Astrophysics Option\") that is not included"
+ ],
+ "parseNotes": [
+  "Group \"Six additional credit hours chosen from:\" carries a note or open-ended option: \"ASTR (numbered above 300)\"",
+  "Group \"Six additional credit hours chosen from:\" carries a note or open-ended option: \"PHYS (numbered above 300 except PHYS 395)\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/physics-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

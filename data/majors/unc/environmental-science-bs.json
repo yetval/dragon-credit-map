@@ -1,0 +1,437 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-environmental-science-bs",
+ "university": "unc",
+ "name": "Environmental Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/environmental-science-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENEC 201 Introduction to Environment and Society 4",
+     "options": [
+      [
+       "ENEC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENEC 201 Introduction to Environment and Society 4",
+     "id": "unc-environmental-science-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENEC 202I Introduction to the Environmental Sciences 4",
+     "options": [
+      [
+       "ENEC 202I"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENEC 202I Introduction to the Environmental Sciences 4",
+     "id": "unc-environmental-science-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENEC 203 Introduction to Environmental Science Problem Solving 3 or EMES 203 Data Analysis for Earth, Marine, and Environmental Sciences or ENEC 415 Environmental Systems Modeling",
+     "options": [
+      [
+       "ENEC 203"
+      ],
+      [
+       "EMES 203"
+      ],
+      [
+       "ENEC 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENEC 203 Introduction to Environmental Science Problem Solving 3 or EMES 203 Data Analysis for Earth, Marine, and Environmental Sciences or ENEC 415 Environmental Systems Modeling",
+     "id": "unc-environmental-science-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENEC 698 Capstone: Analysis and Solution of Environmental Problems 3 or ENEC 694H Honors Project in Environmental Sciences and Studies",
+     "options": [
+      [
+       "ENEC 698"
+      ],
+      [
+       "ENEC 694H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENEC 698 Capstone: Analysis and Solution of Environmental Problems 3 or ENEC 694H Honors Project in Environmental Sciences and Studies",
+     "id": "unc-environmental-science-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two courses from one analytical skills option:",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 7
+     },
+     "raw": "Two courses from one analytical skills option: 6-7",
+     "id": "unc-environmental-science-bs-s5"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Applied Math:",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 383"
+      ]
+     ],
+     "hours": null,
+     "raw": "Applied Math:",
+     "id": "unc-environmental-science-bs-s6"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "GIS and Remote Sensing:",
+     "options": [
+      [
+       "ANTH 419"
+      ],
+      [
+       "EMES 483"
+      ],
+      [
+       "ENEC 468"
+      ],
+      [
+       "ENEC 340"
+      ],
+      [
+       "ENEC 479"
+      ],
+      [
+       "GEOG 370"
+      ],
+      [
+       "GEOG 456"
+      ],
+      [
+       "GEOG 477"
+      ],
+      [
+       "GEOG 491"
+      ],
+      [
+       "GEOG 577"
+      ],
+      [
+       "GEOG 591"
+      ]
+     ],
+     "hours": null,
+     "raw": "GIS and Remote Sensing:",
+     "id": "unc-environmental-science-bs-s7"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Statistics:",
+     "options": [
+      [
+       "BIOL 562"
+      ],
+      [
+       "BIOL 563"
+      ],
+      [
+       "BIOS 511"
+      ],
+      [
+       "BIOS 650"
+      ],
+      [
+       "EMES 515"
+      ],
+      [
+       "EMES 520"
+      ],
+      [
+       "EMES 525"
+      ],
+      [
+       "ENEC 570"
+      ],
+      [
+       "STOR 455"
+      ],
+      [
+       "STOR 556"
+      ]
+     ],
+     "hours": null,
+     "raw": "Statistics:",
+     "id": "unc-environmental-science-bs-s8"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Informatics",
+     "options": [
+      [
+       "BUSI 410"
+      ],
+      [
+       "BUSI 520"
+      ],
+      [
+       "INLS 161"
+      ],
+      [
+       "INLS 382"
+      ],
+      [
+       "INLS 523"
+      ],
+      [
+       "INLS 541"
+      ],
+      [
+       "STOR 215"
+      ],
+      [
+       "STOR 305"
+      ]
+     ],
+     "hours": null,
+     "raw": "Informatics",
+     "id": "unc-environmental-science-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Five courses chosen from one of the following concentrations (see lists below)",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 20
+     },
+     "raw": "Five courses chosen from one of the following concentrations (see lists below) 15-20",
+     "id": "unc-environmental-science-bs-s10"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-environmental-science-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-environmental-science-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming or BIOL 222 Introduction to Programming with Biological Data or INLS 560 Introduction to Programming",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ],
+      [
+       "BIOL 222"
+      ],
+      [
+       "INLS 560"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming or BIOL 222 Introduction to Programming with Biological Data or INLS 560 Introduction to Programming",
+     "id": "unc-environmental-science-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-environmental-science-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-environmental-science-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 155 Introduction to Data Models and Inference 3 or BIOS 600 Principles of Statistical Inference",
+     "options": [
+      [
+       "STOR 155"
+      ],
+      [
+       "BIOS 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 155 Introduction to Data Models and Inference 3 or BIOS 600 Principles of Statistical Inference",
+     "id": "unc-environmental-science-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L",
+       "BIOL 104"
+      ],
+      [
+       "PHYS 118",
+       "PHYS 119"
+      ],
+      [
+       "PHYS 114",
+       "PHYS 115"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Select one of the following: 8",
+     "id": "unc-environmental-science-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students are required to earn a minor in an allied science, such as biology, chemistry, computer science, data science, geography, geographic information sciences, geology, hydrology, information science, marine science, mathematics, physics, risk management, or statistics and analytics.",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Students are required to earn a minor in an allied science, such as biology, chemistry, computer science, data science, geography, geographic information sciences, geology, hydrology, information science, marine science, mathematics, physics, risk management, or statistics and analytics. 15",
+     "id": "unc-environmental-science-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Enough free electives to accumulate minimum of 120 credit hours.",
+     "options": [],
+     "hours": null,
+     "raw": "Enough free electives to accumulate minimum of 120 credit hours. varies",
+     "id": "unc-environmental-science-bs-s19"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group meaning unclear (take all, one, or some?): \"Applied Math:\"",
+  "Group meaning unclear (take all, one, or some?): \"GIS and Remote Sensing:\"",
+  "Group meaning unclear (take all, one, or some?): \"Statistics:\"",
+  "Group meaning unclear (take all, one, or some?): \"Informatics\"",
+  "Unreadable hours \"varies\" on row: \"Enough free electives to accumulate minimum of 120 credit hours. varies\"",
+  "Row hours add up to 80-86 but the table total says 120",
+  "The page has another requirement table with its own total (\"Environmental Science, B.S.–Quantitative Energy Systems Track\") that is not included",
+  "Row points to a list that could not be linked: \"Five courses chosen from one of the following concentrations (see lists below)\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/environmental-science-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

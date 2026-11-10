@@ -1,0 +1,1729 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-artificial-intelligence-concentration",
+ "university": "ncsu",
+ "name": "Computer Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/computer-science/artificial-intelligence-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 121,
+  "max": 121
+ },
+ "sections": [
+  {
+   "title": "Math",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-artificial-intelligence-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-artificial-intelligence-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-artificial-intelligence-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 305 Introduction to Linear Algebra and Matrices 3",
+     "options": [
+      [
+       "MA 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 305 Introduction to Linear Algebra and Matrices 3",
+     "id": "ncsu-artificial-intelligence-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 370 Probability and Statistics for Engineers 3",
+     "options": [
+      [
+       "ST 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 370 Probability and Statistics for Engineers 3",
+     "id": "ncsu-artificial-intelligence-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-artificial-intelligence-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-artificial-intelligence-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-artificial-intelligence-concentration-s8"
+    }
+   ]
+  },
+  {
+   "title": "CSC Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 116 Introduction to Computing - Java 3",
+     "options": [
+      [
+       "CSC 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 116 Introduction to Computing - Java 3",
+     "id": "ncsu-artificial-intelligence-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 216 & CSC 217 Software Development Fundamentals and Software Development Fundamentals Lab 4",
+     "options": [
+      [
+       "CSC 216",
+       "CSC 217"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CSC 216 & CSC 217 Software Development Fundamentals and Software Development Fundamentals Lab 4",
+     "id": "ncsu-artificial-intelligence-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 226 Discrete Mathematics 3",
+     "options": [
+      [
+       "CSC 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 226 Discrete Mathematics 3",
+     "id": "ncsu-artificial-intelligence-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 230 C and Software Tools 3",
+     "options": [
+      [
+       "CSC 230"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 230 C and Software Tools 3",
+     "id": "ncsu-artificial-intelligence-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 246 Concepts and Facilities of Operating Systems for Computer Scientists 3",
+     "options": [
+      [
+       "CSC 246"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 246 Concepts and Facilities of Operating Systems for Computer Scientists 3",
+     "id": "ncsu-artificial-intelligence-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 316 Data Structures and Algorithms 3",
+     "options": [
+      [
+       "CSC 316"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 316 Data Structures and Algorithms 3",
+     "id": "ncsu-artificial-intelligence-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 326 Software Engineering 4",
+     "options": [
+      [
+       "CSC 326"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CSC 326 Software Engineering 4",
+     "id": "ncsu-artificial-intelligence-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 333 Automata, Grammars, and Computability 3",
+     "options": [
+      [
+       "CSC 333"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 333 Automata, Grammars, and Computability 3",
+     "id": "ncsu-artificial-intelligence-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 379 Ethics in Computing 1",
+     "options": [
+      [
+       "CSC 379"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CSC 379 Ethics in Computing 1",
+     "id": "ncsu-artificial-intelligence-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 492 Senior Design Project 3",
+     "options": [
+      [
+       "CSC 492"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 492 Senior Design Project 3",
+     "id": "ncsu-artificial-intelligence-concentration-s18"
+    }
+   ]
+  },
+  {
+   "title": "Other Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 201 Fundamentals of Applied AI 3",
+     "options": [
+      [
+       "CSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 201 Fundamentals of Applied AI 3",
+     "id": "ncsu-artificial-intelligence-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 301 Problem Solving with Applied AI 3",
+     "options": [
+      [
+       "CSC 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 301 Problem Solving with Applied AI 3",
+     "id": "ncsu-artificial-intelligence-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Other Restricted Electives - Group B",
+     "options": [
+      [
+       "CSC 236"
+      ],
+      [
+       "CSC 302"
+      ],
+      [
+       "CSC 580"
+      ],
+      [
+       "CSC 342"
+      ],
+      [
+       "CSC 401"
+      ],
+      [
+       "CSC 573"
+      ],
+      [
+       "CSC 402"
+      ],
+      [
+       "CSC 405"
+      ],
+      [
+       "CSC 406"
+      ],
+      [
+       "CSC 506"
+      ],
+      [
+       "CSC 408"
+      ],
+      [
+       "CSC 411"
+      ],
+      [
+       "CSC 520"
+      ],
+      [
+       "CSC 412"
+      ],
+      [
+       "CSC 512"
+      ],
+      [
+       "CSC 414"
+      ],
+      [
+       "CSC 514"
+      ],
+      [
+       "CSC 415"
+      ],
+      [
+       "CSC 515"
+      ],
+      [
+       "CSC 416"
+      ],
+      [
+       "CSC 417"
+      ],
+      [
+       "CSC 418"
+      ],
+      [
+       "CSC 419"
+      ],
+      [
+       "CSC 519"
+      ],
+      [
+       "CSC 422"
+      ],
+      [
+       "CSC 522"
+      ],
+      [
+       "CSC 431"
+      ],
+      [
+       "CSC 433"
+      ],
+      [
+       "CSC 533"
+      ],
+      [
+       "CSC 440"
+      ],
+      [
+       "CSC 540"
+      ],
+      [
+       "CSC 442"
+      ],
+      [
+       "CSC 447"
+      ],
+      [
+       "CSC 547"
+      ],
+      [
+       "CSC 450"
+      ],
+      [
+       "CSC 451"
+      ],
+      [
+       "CSC 453"
+      ],
+      [
+       "CSC 454"
+      ],
+      [
+       "CSC 554"
+      ],
+      [
+       "CSC 455"
+      ],
+      [
+       "CSC 555"
+      ],
+      [
+       "CSC 456"
+      ],
+      [
+       "CSC 506"
+      ],
+      [
+       "CSC 461"
+      ],
+      [
+       "CSC 561"
+      ],
+      [
+       "CSC 462"
+      ],
+      [
+       "CSC 562"
+      ],
+      [
+       "CSC 467"
+      ],
+      [
+       "CSC 469"
+      ],
+      [
+       "CSC 471"
+      ],
+      [
+       "CSC 472"
+      ],
+      [
+       "CSC 474"
+      ],
+      [
+       "CSC 574"
+      ],
+      [
+       "CSC 481"
+      ],
+      [
+       "CSC 581"
+      ],
+      [
+       "CSC 482"
+      ],
+      [
+       "CSC 484"
+      ],
+      [
+       "CSC 584"
+      ],
+      [
+       "CSC 486"
+      ],
+      [
+       "CSC 490"
+      ],
+      [
+       "CSC 491"
+      ],
+      [
+       "CSC 499"
+      ],
+      [
+       "CSC 501"
+      ],
+      [
+       "CSC 503"
+      ],
+      [
+       "CSC 505"
+      ],
+      [
+       "CSC 510"
+      ],
+      [
+       "CSC 517"
+      ],
+      [
+       "CSC 530"
+      ],
+      [
+       "CSC 537"
+      ],
+      [
+       "CSC 541"
+      ],
+      [
+       "CSC 542"
+      ],
+      [
+       "CSC 546"
+      ],
+      [
+       "CSC 548"
+      ],
+      [
+       "CSC 563"
+      ],
+      [
+       "CSC 565"
+      ],
+      [
+       "CSC 568"
+      ],
+      [
+       "CSC 570"
+      ],
+      [
+       "CSC 572"
+      ],
+      [
+       "CSC 575"
+      ],
+      [
+       "CSC 576"
+      ],
+      [
+       "CSC 577"
+      ],
+      [
+       "CSC 578"
+      ],
+      [
+       "CSC 582"
+      ],
+      [
+       "CSC 583"
+      ],
+      [
+       "CSC 591"
+      ],
+      [
+       "CSC 595"
+      ],
+      [
+       "ECE 482"
+      ],
+      [
+       "ECE 483"
+      ],
+      [
+       "MA 414"
+      ],
+      [
+       "MA 416"
+      ],
+      [
+       "ST 442"
+      ],
+      [
+       "ACC 310"
+      ],
+      [
+       "ACC 311"
+      ],
+      [
+       "ACC 330"
+      ],
+      [
+       "ACC 340"
+      ],
+      [
+       "ARS 306"
+      ],
+      [
+       "BUS 320"
+      ],
+      [
+       "BUS 340"
+      ],
+      [
+       "BUS 360"
+      ],
+      [
+       "CHE 435"
+      ],
+      [
+       "CHE 465"
+      ],
+      [
+       "CSC 427"
+      ],
+      [
+       "CSC 428"
+      ],
+      [
+       "DSC 405"
+      ],
+      [
+       "DSC 406"
+      ],
+      [
+       "DSC 410"
+      ],
+      [
+       "DSC 412"
+      ],
+      [
+       "EED 401"
+      ],
+      [
+       "EED 501"
+      ],
+      [
+       "EED 411"
+      ],
+      [
+       "EED 511"
+      ],
+      [
+       "EED 414"
+      ],
+      [
+       "EED 514"
+      ],
+      [
+       "EED 495"
+      ],
+      [
+       "EED 502"
+      ],
+      [
+       "EED 509"
+      ],
+      [
+       "EED 595"
+      ],
+      [
+       "EMS 480"
+      ],
+      [
+       "GC 320"
+      ],
+      [
+       "GC 350"
+      ],
+      [
+       "GC 420"
+      ],
+      [
+       "ISE 311"
+      ],
+      [
+       "ISE 361"
+      ],
+      [
+       "LOG 335"
+      ],
+      [
+       "LOG 435"
+      ],
+      [
+       "LOG 535"
+      ],
+      [
+       "MA 302"
+      ],
+      [
+       "MA 341"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 403"
+      ],
+      [
+       "MA 405"
+      ],
+      [
+       "MA 407"
+      ],
+      [
+       "MA 408"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "MA 425"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 427"
+      ],
+      [
+       "MA 428"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "MA 437"
+      ],
+      [
+       "MUS 306"
+      ],
+      [
+       "PHI 425"
+      ],
+      [
+       "PSY 307"
+      ],
+      [
+       "PSY 340"
+      ],
+      [
+       "PSY 400"
+      ],
+      [
+       "PSY 420"
+      ],
+      [
+       "PSY 425"
+      ],
+      [
+       "ST 372"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Other Restricted Electives - Group B 3",
+     "id": "ncsu-artificial-intelligence-concentration-s21",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      8,
+      8,
+      9,
+      9,
+      10,
+      10,
+      11,
+      11,
+      12,
+      13,
+      14,
+      15,
+      15,
+      16,
+      16,
+      17,
+      18,
+      18,
+      19,
+      19,
+      20,
+      21,
+      21,
+      22,
+      23,
+      24,
+      25,
+      25,
+      26,
+      26,
+      27,
+      27,
+      28,
+      28,
+      29,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      34,
+      35,
+      35,
+      36,
+      37,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      87,
+      88,
+      88,
+      89,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129
+     ],
+     "wildcards": [
+      {
+       "subjects": [
+        "BUS"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "EC"
+       ],
+       "minLevel": 300,
+       "maxLevel": 399
+      },
+      {
+       "subjects": [
+        "EC"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "EC"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "ECE"
+       ],
+       "minLevel": 300,
+       "maxLevel": 399,
+       "except": [
+        "ECE 309"
+       ]
+      },
+      {
+       "subjects": [
+        "ECE"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "ECE"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "GN"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "ISE"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "ISE"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "MA"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "MAE"
+       ],
+       "minLevel": 300,
+       "maxLevel": 399
+      },
+      {
+       "subjects": [
+        "MAE"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "MAE"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "MIE"
+       ],
+       "minLevel": 300,
+       "maxLevel": 399
+      },
+      {
+       "subjects": [
+        "MIE"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "MSE"
+       ],
+       "minLevel": 300,
+       "maxLevel": 399
+      },
+      {
+       "subjects": [
+        "MSE"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "MSE"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "NE"
+       ],
+       "minLevel": 300,
+       "maxLevel": 399
+      },
+      {
+       "subjects": [
+        "NE"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "NE"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "OR"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "PY"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "PY"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      },
+      {
+       "subjects": [
+        "ST"
+       ],
+       "minLevel": 400,
+       "maxLevel": 499
+      },
+      {
+       "subjects": [
+        "ST"
+       ],
+       "minLevel": 500,
+       "maxLevel": 599
+      }
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 331 Communication for Engineering and Technology 3",
+     "options": [
+      [
+       "ENG 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 331 Communication for Engineering and Technology 3",
+     "id": "ncsu-artificial-intelligence-concentration-s22"
+    }
+   ]
+  },
+  {
+   "title": "Concentration Courses/Groups/Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 411 Introduction to Artificial Intelligence 3",
+     "options": [
+      [
+       "CSC 411"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 411 Introduction to Artificial Intelligence 3",
+     "id": "ncsu-artificial-intelligence-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 422 Automated Learning and Data Analysis 3",
+     "options": [
+      [
+       "CSC 422"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 422 Automated Learning and Data Analysis 3",
+     "id": "ncsu-artificial-intelligence-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "CSC AI Restricted Electives",
+     "options": [
+      [
+       "BUS 351"
+      ],
+      [
+       "BUS 428"
+      ],
+      [
+       "BUS 429"
+      ],
+      [
+       "BUS 470"
+      ],
+      [
+       "BUS 476"
+      ],
+      [
+       "CSC 427"
+      ],
+      [
+       "CSC 428"
+      ],
+      [
+       "EC 351"
+      ],
+      [
+       "DSA 405"
+      ],
+      [
+       "DSA 406"
+      ],
+      [
+       "DSA 412"
+      ],
+      [
+       "DSA 435"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "ISE 361"
+      ],
+      [
+       "ISE 362"
+      ],
+      [
+       "ISE 417"
+      ],
+      [
+       "ISE 437"
+      ],
+      [
+       "ISE 441"
+      ],
+      [
+       "ISE 447"
+      ],
+      [
+       "MA 341"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "ST 307"
+      ],
+      [
+       "ST 372"
+      ],
+      [
+       "ST 430"
+      ],
+      [
+       "ST 431"
+      ],
+      [
+       "ST 432"
+      ],
+      [
+       "ST 437"
+      ],
+      [
+       "ST 440"
+      ],
+      [
+       "ST 445"
+      ],
+      [
+       "CSC 440"
+      ],
+      [
+       "CSC 442"
+      ],
+      [
+       "CSC 455"
+      ],
+      [
+       "CSC 484"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "CSC AI Restricted Electives 6",
+     "id": "ncsu-artificial-intelligence-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "AI Restricted Electives",
+     "options": [
+      [
+       "BUS 351"
+      ],
+      [
+       "BUS 428"
+      ],
+      [
+       "BUS 429"
+      ],
+      [
+       "BUS 470"
+      ],
+      [
+       "BUS 476"
+      ],
+      [
+       "CSC 427"
+      ],
+      [
+       "CSC 428"
+      ],
+      [
+       "EC 351"
+      ],
+      [
+       "DSA 405"
+      ],
+      [
+       "DSA 406"
+      ],
+      [
+       "DSA 412"
+      ],
+      [
+       "DSA 435"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "ISE 361"
+      ],
+      [
+       "ISE 362"
+      ],
+      [
+       "ISE 417"
+      ],
+      [
+       "ISE 437"
+      ],
+      [
+       "ISE 441"
+      ],
+      [
+       "ISE 447"
+      ],
+      [
+       "MA 341"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "ST 307"
+      ],
+      [
+       "ST 372"
+      ],
+      [
+       "ST 430"
+      ],
+      [
+       "ST 431"
+      ],
+      [
+       "ST 432"
+      ],
+      [
+       "ST 437"
+      ],
+      [
+       "ST 440"
+      ],
+      [
+       "ST 445"
+      ],
+      [
+       "CSC 440"
+      ],
+      [
+       "CSC 442"
+      ],
+      [
+       "CSC 455"
+      ],
+      [
+       "CSC 484"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "AI Restricted Electives 9",
+     "id": "ncsu-artificial-intelligence-concentration-s26"
+    }
+   ]
+  },
+  {
+   "title": "College Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving",
+     "id": "ncsu-artificial-intelligence-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 102 Engineering in the 21st Century",
+     "options": [
+      [
+       "E 102"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "E 102 Engineering in the 21st Century",
+     "id": "ncsu-artificial-intelligence-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments",
+     "id": "ncsu-artificial-intelligence-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EC 205 Fundamentals of Economics or EC 201 Principles of Microeconomics or ARE 201 Introduction to Agricultural & Resource Economics",
+     "options": [
+      [
+       "EC 205"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "ARE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 205 Fundamentals of Economics or EC 201 Principles of Microeconomics or ARE 201 Introduction to Agricultural & Resource Economics",
+     "id": "ncsu-artificial-intelligence-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 4",
+     "id": "ncsu-artificial-intelligence-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-artificial-intelligence-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-artificial-intelligence-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-artificial-intelligence-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-artificial-intelligence-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-artificial-intelligence-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-artificial-intelligence-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-artificial-intelligence-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-artificial-intelligence-concentration-s39"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Other Restricted Elective - Group B\" includes the list \"CSC Restricted Electives\" through its row \"CSC Restricted Elective Courses\"",
+  "List \"AI Restricted Electives\" includes the list \"CSC AI Restricted Electives2\" through its row \"CSC AI Restricted Electives (only 3 hours may count in the AI Restricted Electives from this list)\"",
+  "Codes in choice lists not found in the course catalog: CSC 419, CSC 542, CSC 576, ISE 417"
+ ],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/computer-science/artificial-intelligence-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Artificial Intelligence Concentration",
+ "college": "College of Engineering"
+}

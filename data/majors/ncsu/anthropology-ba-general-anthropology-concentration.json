@@ -1,0 +1,4165 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-anthropology-ba-general-anthropology-concentration",
+ "university": "ncsu",
+ "name": "Anthropology",
+ "degree": "BA",
+ "url": "https://catalog.ncsu.edu/undergraduate/humanities-social-sciences/sociology-anthropology/anthropology-ba-general-anthropology-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Mathematics",
+     "options": [
+      [
+       "MA 103"
+      ],
+      [
+       "MA 103A"
+      ],
+      [
+       "MA 105"
+      ],
+      [
+       "MA 107"
+      ],
+      [
+       "MA 111"
+      ],
+      [
+       "MA 114"
+      ],
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Mathematics 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math/Statistics/Logic",
+     "options": [
+      [
+       "BUS 350"
+      ],
+      [
+       "LOG 201"
+      ],
+      [
+       "ST 101"
+      ],
+      [
+       "ST 311"
+      ],
+      [
+       "ST 350"
+      ],
+      [
+       "MA 103"
+      ],
+      [
+       "MA 103A"
+      ],
+      [
+       "MA 105"
+      ],
+      [
+       "MA 107"
+      ],
+      [
+       "MA 111"
+      ],
+      [
+       "MA 114"
+      ],
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Math/Statistics/Logic 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Departmental Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANT 251 Introduction to Biological Anthropology 3",
+     "options": [
+      [
+       "ANT 251"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANT 251 Introduction to Biological Anthropology 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANT 252 Introduction to Cultural Anthropology 3",
+     "options": [
+      [
+       "ANT 252"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANT 252 Introduction to Cultural Anthropology 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ANT 253 Introduction to Archaeology 3 or ANT 254 Introduction to Linguistic Anthropology",
+     "options": [
+      [
+       "ANT 253"
+      ],
+      [
+       "ANT 254"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANT 253 Introduction to Archaeology 3 or ANT 254 Introduction to Linguistic Anthropology",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "ANT Theory Electives",
+     "options": [],
+     "hours": null,
+     "raw": "ANT Theory Electives",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ANT 411"
+      ],
+      [
+       "ANT 483"
+      ],
+      [
+       "ANT 511"
+      ],
+      [
+       "ANT 583"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "ANT Methods Electives",
+     "options": [],
+     "hours": null,
+     "raw": "ANT Methods Electives",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ANT 389"
+      ],
+      [
+       "ANT 416"
+      ],
+      [
+       "ANT 516"
+      ],
+      [
+       "ANT 529"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Concentration Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "ANT Ethnography Elective",
+     "options": [
+      [
+       "ANT 310"
+      ],
+      [
+       "ANT 325"
+      ],
+      [
+       "ANT 330"
+      ],
+      [
+       "ANT 345"
+      ],
+      [
+       "ANT 346"
+      ],
+      [
+       "ANT 351"
+      ],
+      [
+       "ANT 354"
+      ],
+      [
+       "FLJ 351"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANT Ethnography Elective 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "ANT Elective 400 Level",
+     "options": [
+      [
+       "ANT 412"
+      ],
+      [
+       "ANT 416"
+      ],
+      [
+       "ANT 419"
+      ],
+      [
+       "ANT 421"
+      ],
+      [
+       "ANT 424"
+      ],
+      [
+       "ANT 431"
+      ],
+      [
+       "ANT 433"
+      ],
+      [
+       "ANT 444"
+      ],
+      [
+       "ANT 450"
+      ],
+      [
+       "ANT 460"
+      ],
+      [
+       "ANT 461"
+      ],
+      [
+       "ANT 464"
+      ],
+      [
+       "ANT 471"
+      ],
+      [
+       "ANT 475"
+      ],
+      [
+       "ANT 495"
+      ],
+      [
+       "ANT 512"
+      ],
+      [
+       "ANT 516"
+      ],
+      [
+       "ANT 521"
+      ],
+      [
+       "ANT 524"
+      ],
+      [
+       "ANT 529"
+      ],
+      [
+       "ANT 531"
+      ],
+      [
+       "ANT 533"
+      ],
+      [
+       "ANT 544"
+      ],
+      [
+       "ANT 550"
+      ],
+      [
+       "ANT 560"
+      ],
+      [
+       "ANT 561"
+      ],
+      [
+       "ANT 564"
+      ],
+      [
+       "ANT 571"
+      ],
+      [
+       "ANT 575"
+      ],
+      [
+       "WGS 444"
+      ],
+      [
+       "WGS 544"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANT Elective 400 Level 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "ANT General Electives",
+     "options": [
+      [
+       "ANT 310"
+      ],
+      [
+       "ANT 315"
+      ],
+      [
+       "ANT 325"
+      ],
+      [
+       "ANT 330"
+      ],
+      [
+       "ANT 345"
+      ],
+      [
+       "ANT 346"
+      ],
+      [
+       "ANT 351"
+      ],
+      [
+       "ANT 354"
+      ],
+      [
+       "ANT 370"
+      ],
+      [
+       "ANT 371"
+      ],
+      [
+       "ANT 374"
+      ],
+      [
+       "ANT 389"
+      ],
+      [
+       "ANT 395"
+      ],
+      [
+       "FLJ 351"
+      ],
+      [
+       "ANT 412"
+      ],
+      [
+       "ANT 416"
+      ],
+      [
+       "ANT 419"
+      ],
+      [
+       "ANT 421"
+      ],
+      [
+       "ANT 424"
+      ],
+      [
+       "ANT 431"
+      ],
+      [
+       "ANT 433"
+      ],
+      [
+       "ANT 444"
+      ],
+      [
+       "ANT 450"
+      ],
+      [
+       "ANT 460"
+      ],
+      [
+       "ANT 461"
+      ],
+      [
+       "ANT 464"
+      ],
+      [
+       "ANT 471"
+      ],
+      [
+       "ANT 475"
+      ],
+      [
+       "ANT 495"
+      ],
+      [
+       "ANT 512"
+      ],
+      [
+       "ANT 516"
+      ],
+      [
+       "ANT 521"
+      ],
+      [
+       "ANT 524"
+      ],
+      [
+       "ANT 529"
+      ],
+      [
+       "ANT 531"
+      ],
+      [
+       "ANT 533"
+      ],
+      [
+       "ANT 544"
+      ],
+      [
+       "ANT 550"
+      ],
+      [
+       "ANT 560"
+      ],
+      [
+       "ANT 564"
+      ],
+      [
+       "ANT 575"
+      ],
+      [
+       "WGS 444"
+      ],
+      [
+       "WGS 544"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "ANT General Electives 9",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s12"
+    }
+   ]
+  },
+  {
+   "title": "Humanities and Social Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "History I",
+     "options": [
+      [
+       "AFS 275"
+      ],
+      [
+       "HI 275"
+      ],
+      [
+       "AFS 276"
+      ],
+      [
+       "HI 276"
+      ],
+      [
+       "HI 207"
+      ],
+      [
+       "HI 214"
+      ],
+      [
+       "HI 215"
+      ],
+      [
+       "HI 216"
+      ],
+      [
+       "HI 217"
+      ],
+      [
+       "HI 232"
+      ],
+      [
+       "HI 233"
+      ],
+      [
+       "HI 263"
+      ],
+      [
+       "HI 264"
+      ],
+      [
+       "HI 270"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "History I 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s14",
+     "altGroups": [
+      0,
+      0,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "History II",
+     "options": [
+      [
+       "HI 205"
+      ],
+      [
+       "HI 208"
+      ],
+      [
+       "HI 209"
+      ],
+      [
+       "HI 210"
+      ],
+      [
+       "HI 221"
+      ],
+      [
+       "HI 222"
+      ],
+      [
+       "HI 251"
+      ],
+      [
+       "HI 252"
+      ],
+      [
+       "HI 253"
+      ],
+      [
+       "HI 254"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "History II 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Global Literature",
+     "options": [
+      [
+       "ENG 209"
+      ],
+      [
+       "ENG 219"
+      ],
+      [
+       "WL 219"
+      ],
+      [
+       "ENG 220"
+      ],
+      [
+       "WL 220"
+      ],
+      [
+       "ENG 221"
+      ],
+      [
+       "WL 221"
+      ],
+      [
+       "ENG 222"
+      ],
+      [
+       "WL 222"
+      ],
+      [
+       "ENG 223"
+      ],
+      [
+       "WL 223"
+      ],
+      [
+       "ENG 224"
+      ],
+      [
+       "WL 224"
+      ],
+      [
+       "ENG 246"
+      ],
+      [
+       "WL 246"
+      ],
+      [
+       "ENG 251"
+      ],
+      [
+       "ENG 255"
+      ],
+      [
+       "ENG 261"
+      ],
+      [
+       "ENG 262"
+      ],
+      [
+       "ENG 275"
+      ],
+      [
+       "WL 275"
+      ],
+      [
+       "ENG 349"
+      ],
+      [
+       "AFS 349"
+      ],
+      [
+       "ENG 361"
+      ],
+      [
+       "ENG 362"
+      ],
+      [
+       "ENG 385"
+      ],
+      [
+       "ENG 390"
+      ],
+      [
+       "ENG 392"
+      ],
+      [
+       "WL 392"
+      ],
+      [
+       "ENG 394"
+      ],
+      [
+       "WL 394"
+      ],
+      [
+       "ENG 406"
+      ],
+      [
+       "WL 406"
+      ],
+      [
+       "ENG 407"
+      ],
+      [
+       "WL 407"
+      ],
+      [
+       "ENG 439"
+      ],
+      [
+       "ENG 451"
+      ],
+      [
+       "ENG 452"
+      ],
+      [
+       "ENG 453"
+      ],
+      [
+       "ENG 460"
+      ],
+      [
+       "ENG 462"
+      ],
+      [
+       "ENG 463"
+      ],
+      [
+       "ENG 464"
+      ],
+      [
+       "ENG 465"
+      ],
+      [
+       "ENG 466"
+      ],
+      [
+       "ENG 485"
+      ],
+      [
+       "ENG 486"
+      ],
+      [
+       "ENG 487"
+      ],
+      [
+       "ENG 490"
+      ],
+      [
+       "WL 210"
+      ],
+      [
+       "WL 211"
+      ],
+      [
+       "WL 320"
+      ],
+      [
+       "WL 393"
+      ],
+      [
+       "WLAR 440"
+      ],
+      [
+       "WLCL 210"
+      ],
+      [
+       "WLCL 320"
+      ],
+      [
+       "WLCL 325"
+      ],
+      [
+       "WLFR 301"
+      ],
+      [
+       "WLFR 302"
+      ],
+      [
+       "WLGE 320"
+      ],
+      [
+       "WLGE 323"
+      ],
+      [
+       "WLGE 325"
+      ],
+      [
+       "WLHU 301"
+      ],
+      [
+       "WLHU 302"
+      ],
+      [
+       "WLHU 401"
+      ],
+      [
+       "WLJA 342"
+      ],
+      [
+       "WLJA 344"
+      ],
+      [
+       "WLJA 345"
+      ],
+      [
+       "WLRU 303"
+      ],
+      [
+       "WLRU 304"
+      ],
+      [
+       "WLSP 340"
+      ],
+      [
+       "WLSP 341"
+      ],
+      [
+       "WLSP 342"
+      ],
+      [
+       "WLSP 343"
+      ],
+      [
+       "WLSP 351"
+      ],
+      [
+       "WLSP 352"
+      ],
+      [
+       "WLSP 353"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Global Literature 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s16",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      12,
+      13,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      18,
+      19,
+      19,
+      20,
+      20,
+      21,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional Literature Elective",
+     "options": [
+      [
+       "ENG 206"
+      ],
+      [
+       "ENG 207"
+      ],
+      [
+       "ENG 208"
+      ],
+      [
+       "ENG 209"
+      ],
+      [
+       "ENG 223"
+      ],
+      [
+       "WL 223"
+      ],
+      [
+       "ENG 224"
+      ],
+      [
+       "WL 224"
+      ],
+      [
+       "ENG 232"
+      ],
+      [
+       "ENG 246"
+      ],
+      [
+       "WL 246"
+      ],
+      [
+       "ENG 248"
+      ],
+      [
+       "AFS 248"
+      ],
+      [
+       "ENG 249"
+      ],
+      [
+       "ENG 252"
+      ],
+      [
+       "ENG 265"
+      ],
+      [
+       "ENG 266"
+      ],
+      [
+       "ENG 267"
+      ],
+      [
+       "ENG 275"
+      ],
+      [
+       "WL 275"
+      ],
+      [
+       "ENG 305"
+      ],
+      [
+       "WGS 305"
+      ],
+      [
+       "ENG 339"
+      ],
+      [
+       "ENG 340"
+      ],
+      [
+       "ENG 341"
+      ],
+      [
+       "ENG 342"
+      ],
+      [
+       "ENG 349"
+      ],
+      [
+       "AFS 349"
+      ],
+      [
+       "ENG 361"
+      ],
+      [
+       "ENG 362"
+      ],
+      [
+       "ENG 369"
+      ],
+      [
+       "ENG 370"
+      ],
+      [
+       "ENG 372"
+      ],
+      [
+       "ENG 376"
+      ],
+      [
+       "ENG 377"
+      ],
+      [
+       "ENG 380"
+      ],
+      [
+       "ENG 382"
+      ],
+      [
+       "ENG 385"
+      ],
+      [
+       "ENG 390"
+      ],
+      [
+       "ENG 391"
+      ],
+      [
+       "ENG 392"
+      ],
+      [
+       "WL 392"
+      ],
+      [
+       "ENG 393"
+      ],
+      [
+       "WL 393"
+      ],
+      [
+       "ENG 394"
+      ],
+      [
+       "WL 394"
+      ],
+      [
+       "ENG 399"
+      ],
+      [
+       "ENG 406"
+      ],
+      [
+       "WL 406"
+      ],
+      [
+       "ENG 407"
+      ],
+      [
+       "WL 407"
+      ],
+      [
+       "ENG 410"
+      ],
+      [
+       "WGS 410"
+      ],
+      [
+       "ENG 420"
+      ],
+      [
+       "ENG 439"
+      ],
+      [
+       "ENG 448"
+      ],
+      [
+       "AFS 448"
+      ],
+      [
+       "ENG 451"
+      ],
+      [
+       "ENG 452"
+      ],
+      [
+       "ENG 453"
+      ],
+      [
+       "ENG 460"
+      ],
+      [
+       "ENG 462"
+      ],
+      [
+       "ENG 463"
+      ],
+      [
+       "ENG 464"
+      ],
+      [
+       "ENG 465"
+      ],
+      [
+       "ENG 466"
+      ],
+      [
+       "ENG 467"
+      ],
+      [
+       "ENG 468"
+      ],
+      [
+       "ENG 470"
+      ],
+      [
+       "ENG 476"
+      ],
+      [
+       "ENG 480"
+      ],
+      [
+       "ENG 486"
+      ],
+      [
+       "ENG 487"
+      ],
+      [
+       "ENG 490"
+      ],
+      [
+       "HON 202"
+      ],
+      [
+       "WL 210"
+      ],
+      [
+       "WL 211"
+      ],
+      [
+       "WL 320"
+      ],
+      [
+       "WLAR 440"
+      ],
+      [
+       "WLCL 210"
+      ],
+      [
+       "WLCL 320"
+      ],
+      [
+       "WLCL 325"
+      ],
+      [
+       "WLFR 301"
+      ],
+      [
+       "WLFR 302"
+      ],
+      [
+       "WLFR 492"
+      ],
+      [
+       "WLGE 320"
+      ],
+      [
+       "WLGE 323"
+      ],
+      [
+       "WLGE 325"
+      ],
+      [
+       "WLHU 301"
+      ],
+      [
+       "WLHU 302"
+      ],
+      [
+       "WLHU 401"
+      ],
+      [
+       "WLJA 342"
+      ],
+      [
+       "WLJA 344"
+      ],
+      [
+       "WLJA 345"
+      ],
+      [
+       "WLRU 303"
+      ],
+      [
+       "WLRU 304"
+      ],
+      [
+       "WLSP 340"
+      ],
+      [
+       "WLSP 341"
+      ],
+      [
+       "WLSP 342"
+      ],
+      [
+       "WLSP 343"
+      ],
+      [
+       "WLSP 351"
+      ],
+      [
+       "WLSP 352"
+      ],
+      [
+       "WLSP 353"
+      ],
+      [
+       "WLSP 492"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Additional Literature Elective 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s17",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6,
+      7,
+      7,
+      8,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      14,
+      15,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      33,
+      34,
+      34,
+      35,
+      35,
+      36,
+      37,
+      37,
+      38,
+      38,
+      39,
+      39,
+      40,
+      41,
+      42,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "World Language 200 Level",
+     "options": [
+      [
+       "WLAR 201"
+      ],
+      [
+       "WLCH 201"
+      ],
+      [
+       "WLFR 201"
+      ],
+      [
+       "WLGE 201"
+      ],
+      [
+       "WLGR 201"
+      ],
+      [
+       "WLHU 201"
+      ],
+      [
+       "WLIT 201"
+      ],
+      [
+       "WLJA 201"
+      ],
+      [
+       "WLLA 201"
+      ],
+      [
+       "WLPE 201"
+      ],
+      [
+       "WLPO 201"
+      ],
+      [
+       "WLRU 201"
+      ],
+      [
+       "WLSP 201"
+      ],
+      [
+       "WLSP 212"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "World Language 200 Level 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Philosophy",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Philosophy 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Arts and Letters",
+     "options": [
+      [
+       "ADN 111"
+      ],
+      [
+       "ADN 112"
+      ],
+      [
+       "ADN 212"
+      ],
+      [
+       "ADN 281"
+      ],
+      [
+       "ADN 414"
+      ],
+      [
+       "AFS 230"
+      ],
+      [
+       "AFS 260"
+      ],
+      [
+       "AFS 343"
+      ],
+      [
+       "AFS 346"
+      ],
+      [
+       "AFS 375"
+      ],
+      [
+       "ARC 140"
+      ],
+      [
+       "ARC 141"
+      ],
+      [
+       "ARC 241"
+      ],
+      [
+       "ARS 251"
+      ],
+      [
+       "ARS 252"
+      ],
+      [
+       "ARS 257"
+      ],
+      [
+       "ARS 258"
+      ],
+      [
+       "ARS 259"
+      ],
+      [
+       "ARS 306"
+      ],
+      [
+       "ARS 346"
+      ],
+      [
+       "ARS 351"
+      ],
+      [
+       "ARS 353"
+      ],
+      [
+       "ARS 354"
+      ],
+      [
+       "COM 321"
+      ],
+      [
+       "COM 364"
+      ],
+      [
+       "COM 374"
+      ],
+      [
+       "COM 395"
+      ],
+      [
+       "COM 411"
+      ],
+      [
+       "D 231"
+      ],
+      [
+       "DAN 272"
+      ],
+      [
+       "DAN 295"
+      ],
+      [
+       "ENG 282"
+      ],
+      [
+       "ENG 289"
+      ],
+      [
+       "ENG 321"
+      ],
+      [
+       "ENG 323"
+      ],
+      [
+       "ENG 359"
+      ],
+      [
+       "ENG 364"
+      ],
+      [
+       "ENG 374"
+      ],
+      [
+       "ENG 375"
+      ],
+      [
+       "ENG 378"
+      ],
+      [
+       "ENG 382"
+      ],
+      [
+       "ENG 384"
+      ],
+      [
+       "ENG 385"
+      ],
+      [
+       "ENG 411"
+      ],
+      [
+       "ENG 426"
+      ],
+      [
+       "ENG 492"
+      ],
+      [
+       "GD 203"
+      ],
+      [
+       "GD 303"
+      ],
+      [
+       "HA 201"
+      ],
+      [
+       "HA 202"
+      ],
+      [
+       "HA 203"
+      ],
+      [
+       "HA 240"
+      ],
+      [
+       "HA 298"
+      ],
+      [
+       "HA 395"
+      ],
+      [
+       "HA 401"
+      ],
+      [
+       "HA 404"
+      ],
+      [
+       "HA 410"
+      ],
+      [
+       "HA 498"
+      ],
+      [
+       "HESM 322"
+      ],
+      [
+       "HESM 324"
+      ],
+      [
+       "HESM 326"
+      ],
+      [
+       "HI 240"
+      ],
+      [
+       "HI 307"
+      ],
+      [
+       "HI 320"
+      ],
+      [
+       "HI 402"
+      ],
+      [
+       "HI 407"
+      ],
+      [
+       "HI 408"
+      ],
+      [
+       "HI 502"
+      ],
+      [
+       "HI 507"
+      ],
+      [
+       "HI 508"
+      ],
+      [
+       "HON 390"
+      ],
+      [
+       "IDS 496"
+      ],
+      [
+       "LAR 444"
+      ],
+      [
+       "MUS 105"
+      ],
+      [
+       "MUS 180"
+      ],
+      [
+       "MUS 181"
+      ],
+      [
+       "MUS 200"
+      ],
+      [
+       "MUS 201"
+      ],
+      [
+       "MUS 202"
+      ],
+      [
+       "MUS 260"
+      ],
+      [
+       "MUS 306"
+      ],
+      [
+       "MUS 310"
+      ],
+      [
+       "MUS 315"
+      ],
+      [
+       "MUS 320"
+      ],
+      [
+       "MUS 330"
+      ],
+      [
+       "MUS 350"
+      ],
+      [
+       "MUS 360"
+      ],
+      [
+       "REL 200"
+      ],
+      [
+       "REL 210"
+      ],
+      [
+       "REL 298"
+      ],
+      [
+       "REL 309"
+      ],
+      [
+       "REL 311"
+      ],
+      [
+       "REL 312"
+      ],
+      [
+       "REL 314"
+      ],
+      [
+       "REL 317"
+      ],
+      [
+       "REL 320"
+      ],
+      [
+       "REL 323"
+      ],
+      [
+       "REL 327"
+      ],
+      [
+       "REL 331"
+      ],
+      [
+       "REL 332"
+      ],
+      [
+       "REL 333"
+      ],
+      [
+       "REL 334"
+      ],
+      [
+       "REL 340"
+      ],
+      [
+       "REL 343"
+      ],
+      [
+       "REL 350"
+      ],
+      [
+       "REL 380"
+      ],
+      [
+       "REL 383"
+      ],
+      [
+       "REL 402"
+      ],
+      [
+       "REL 407"
+      ],
+      [
+       "REL 408"
+      ],
+      [
+       "REL 412"
+      ],
+      [
+       "REL 413"
+      ],
+      [
+       "REL 423"
+      ],
+      [
+       "REL 424"
+      ],
+      [
+       "REL 471"
+      ],
+      [
+       "REL 472"
+      ],
+      [
+       "REL 473"
+      ],
+      [
+       "REL 482"
+      ],
+      [
+       "REL 489"
+      ],
+      [
+       "REL 496"
+      ],
+      [
+       "REL 498"
+      ],
+      [
+       "REL 502"
+      ],
+      [
+       "REL 507"
+      ],
+      [
+       "REL 508"
+      ],
+      [
+       "REL 512"
+      ],
+      [
+       "REL 513"
+      ],
+      [
+       "REL 523"
+      ],
+      [
+       "REL 524"
+      ],
+      [
+       "REL 571"
+      ],
+      [
+       "REL 572"
+      ],
+      [
+       "REL 573"
+      ],
+      [
+       "REL 582"
+      ],
+      [
+       "REL 589"
+      ],
+      [
+       "REL 598"
+      ],
+      [
+       "SOC 309"
+      ],
+      [
+       "STS 257"
+      ],
+      [
+       "STS 471"
+      ],
+      [
+       "STS 571"
+      ],
+      [
+       "THE 103"
+      ],
+      [
+       "THE 203"
+      ],
+      [
+       "THE 303"
+      ],
+      [
+       "THE 334"
+      ],
+      [
+       "THE 340"
+      ],
+      [
+       "WGS 360"
+      ],
+      [
+       "WGS 472"
+      ],
+      [
+       "WGS 473"
+      ],
+      [
+       "WGS 572"
+      ],
+      [
+       "WGS 573"
+      ],
+      [
+       "WL 216"
+      ],
+      [
+       "WLAR 318"
+      ],
+      [
+       "WLAR 351"
+      ],
+      [
+       "WLCH 351"
+      ],
+      [
+       "WLCL 210"
+      ],
+      [
+       "WLFR 318"
+      ],
+      [
+       "WLGE 318"
+      ],
+      [
+       "WLIT 318"
+      ],
+      [
+       "WLJA 351"
+      ],
+      [
+       "WLHU 351"
+      ],
+      [
+       "WLRU 318"
+      ],
+      [
+       "WLSP 360"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Arts and Letters 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Social Science",
+     "options": [
+      [
+       "ANT 251"
+      ],
+      [
+       "ANT 252"
+      ],
+      [
+       "ANT 253"
+      ],
+      [
+       "ANT 254"
+      ],
+      [
+       "ANT 261"
+      ],
+      [
+       "ANT 295"
+      ],
+      [
+       "ANT 310"
+      ],
+      [
+       "ANT 315"
+      ],
+      [
+       "ANT 325"
+      ],
+      [
+       "ANT 330"
+      ],
+      [
+       "ANT 345"
+      ],
+      [
+       "ANT 346"
+      ],
+      [
+       "ANT 351"
+      ],
+      [
+       "ANT 354"
+      ],
+      [
+       "ANT 370"
+      ],
+      [
+       "ANT 371"
+      ],
+      [
+       "ANT 374"
+      ],
+      [
+       "ANT 389"
+      ],
+      [
+       "ANT 395"
+      ],
+      [
+       "ANT 411"
+      ],
+      [
+       "ANT 412"
+      ],
+      [
+       "ANT 416"
+      ],
+      [
+       "ANT 419"
+      ],
+      [
+       "ANT 421"
+      ],
+      [
+       "ANT 424"
+      ],
+      [
+       "ANT 427"
+      ],
+      [
+       "ANT 428"
+      ],
+      [
+       "ANT 431"
+      ],
+      [
+       "ANT 433"
+      ],
+      [
+       "ANT 444"
+      ],
+      [
+       "ANT 450"
+      ],
+      [
+       "ANT 460"
+      ],
+      [
+       "ANT 461"
+      ],
+      [
+       "ANT 464"
+      ],
+      [
+       "ANT 471"
+      ],
+      [
+       "ANT 475"
+      ],
+      [
+       "ANT 483"
+      ],
+      [
+       "ANT 495"
+      ],
+      [
+       "ANT 496"
+      ],
+      [
+       "ANT 498"
+      ],
+      [
+       "ANT 501"
+      ],
+      [
+       "ANT 511"
+      ],
+      [
+       "ANT 512"
+      ],
+      [
+       "ANT 516"
+      ],
+      [
+       "ANT 521"
+      ],
+      [
+       "ANT 524"
+      ],
+      [
+       "ANT 528"
+      ],
+      [
+       "ANT 529"
+      ],
+      [
+       "ANT 531"
+      ],
+      [
+       "ANT 533"
+      ],
+      [
+       "ANT 544"
+      ],
+      [
+       "ANT 550"
+      ],
+      [
+       "ANT 560"
+      ],
+      [
+       "ANT 561"
+      ],
+      [
+       "ANT 564"
+      ],
+      [
+       "ANT 571"
+      ],
+      [
+       "ANT 575"
+      ],
+      [
+       "ANT 583"
+      ],
+      [
+       "ANT 585"
+      ],
+      [
+       "ANT 595"
+      ],
+      [
+       "ANT 598"
+      ],
+      [
+       "HI 587"
+      ],
+      [
+       "IS 471"
+      ],
+      [
+       "IS 571"
+      ],
+      [
+       "SOC 261"
+      ],
+      [
+       "WGS 444"
+      ],
+      [
+       "WGS 544"
+      ],
+      [
+       "WLJA 351"
+      ],
+      [
+       "ARE 121"
+      ],
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 260"
+      ],
+      [
+       "ARE 270"
+      ],
+      [
+       "ARE 290"
+      ],
+      [
+       "ARE 295"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 323"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "ARE 345"
+      ],
+      [
+       "ARE 370"
+      ],
+      [
+       "ARE 395"
+      ],
+      [
+       "ARE 404"
+      ],
+      [
+       "ARE 412"
+      ],
+      [
+       "ARE 413"
+      ],
+      [
+       "ARE 415"
+      ],
+      [
+       "ARE 420"
+      ],
+      [
+       "ARE 425"
+      ],
+      [
+       "ARE 433"
+      ],
+      [
+       "ARE 444"
+      ],
+      [
+       "ARE 448"
+      ],
+      [
+       "ARE 455"
+      ],
+      [
+       "ARE 470"
+      ],
+      [
+       "ARE 475"
+      ],
+      [
+       "ARE 490"
+      ],
+      [
+       "ARE 492"
+      ],
+      [
+       "ARE 493"
+      ],
+      [
+       "ARE 494"
+      ],
+      [
+       "ARE 495"
+      ],
+      [
+       "ARE 590"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 202"
+      ],
+      [
+       "EC 205"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 305"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "EC 351"
+      ],
+      [
+       "EC 404"
+      ],
+      [
+       "EC 410"
+      ],
+      [
+       "EC 413"
+      ],
+      [
+       "EC 431"
+      ],
+      [
+       "EC 449"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "EC 468"
+      ],
+      [
+       "EC 474"
+      ],
+      [
+       "EC 490"
+      ],
+      [
+       "EC 495"
+      ],
+      [
+       "EC 498"
+      ],
+      [
+       "AFS 409"
+      ],
+      [
+       "LPS 315"
+      ],
+      [
+       "PS 201"
+      ],
+      [
+       "PS 202"
+      ],
+      [
+       "PS 203"
+      ],
+      [
+       "PS 204"
+      ],
+      [
+       "PS 231"
+      ],
+      [
+       "PS 236"
+      ],
+      [
+       "PS 241"
+      ],
+      [
+       "PS 298"
+      ],
+      [
+       "PS 301"
+      ],
+      [
+       "PS 302"
+      ],
+      [
+       "PS 303"
+      ],
+      [
+       "PS 305"
+      ],
+      [
+       "PS 306"
+      ],
+      [
+       "PS 307"
+      ],
+      [
+       "PS 308"
+      ],
+      [
+       "PS 309"
+      ],
+      [
+       "PS 310"
+      ],
+      [
+       "PS 312"
+      ],
+      [
+       "PS 313"
+      ],
+      [
+       "PS 314"
+      ],
+      [
+       "PS 320"
+      ],
+      [
+       "PS 331"
+      ],
+      [
+       "PS 335"
+      ],
+      [
+       "PS 336"
+      ],
+      [
+       "PS 339"
+      ],
+      [
+       "PS 341"
+      ],
+      [
+       "PS 342"
+      ],
+      [
+       "PS 343"
+      ],
+      [
+       "PS 345"
+      ],
+      [
+       "PS 353"
+      ],
+      [
+       "PS 361"
+      ],
+      [
+       "PS 362"
+      ],
+      [
+       "PS 371"
+      ],
+      [
+       "PS 391"
+      ],
+      [
+       "PS 398"
+      ],
+      [
+       "PS 401"
+      ],
+      [
+       "PS 409"
+      ],
+      [
+       "PS 411"
+      ],
+      [
+       "PS 415"
+      ],
+      [
+       "PS 418"
+      ],
+      [
+       "PS 431"
+      ],
+      [
+       "PS 432"
+      ],
+      [
+       "PS 433"
+      ],
+      [
+       "PS 437"
+      ],
+      [
+       "PS 443"
+      ],
+      [
+       "PS 445"
+      ],
+      [
+       "PS 462"
+      ],
+      [
+       "PS 463"
+      ],
+      [
+       "PS 464"
+      ],
+      [
+       "PS 471"
+      ],
+      [
+       "PS 490"
+      ],
+      [
+       "PS 492"
+      ],
+      [
+       "PS 498"
+      ],
+      [
+       "PS 502"
+      ],
+      [
+       "PS 506"
+      ],
+      [
+       "PS 507"
+      ],
+      [
+       "PS 530"
+      ],
+      [
+       "PS 531"
+      ],
+      [
+       "PS 532"
+      ],
+      [
+       "PS 533"
+      ],
+      [
+       "PS 534"
+      ],
+      [
+       "PS 536"
+      ],
+      [
+       "PS 539"
+      ],
+      [
+       "PS 540"
+      ],
+      [
+       "PS 541"
+      ],
+      [
+       "PS 542"
+      ],
+      [
+       "PS 543"
+      ],
+      [
+       "PS 544"
+      ],
+      [
+       "PS 545"
+      ],
+      [
+       "PS 546"
+      ],
+      [
+       "PS 547"
+      ],
+      [
+       "PS 560"
+      ],
+      [
+       "PS 561"
+      ],
+      [
+       "PS 571"
+      ],
+      [
+       "PS 585"
+      ],
+      [
+       "PS 590"
+      ],
+      [
+       "PS 598"
+      ],
+      [
+       "SOC 413"
+      ],
+      [
+       "SOC 432"
+      ],
+      [
+       "WGS 306"
+      ],
+      [
+       "WGS 418"
+      ],
+      [
+       "AFS 345"
+      ],
+      [
+       "EDP 304"
+      ],
+      [
+       "EDP 476"
+      ],
+      [
+       "EDP 582"
+      ],
+      [
+       "ISE 540"
+      ],
+      [
+       "PHI 425"
+      ],
+      [
+       "PHI 525"
+      ],
+      [
+       "PSY 200"
+      ],
+      [
+       "PSY 208"
+      ],
+      [
+       "PSY 230"
+      ],
+      [
+       "PSY 240"
+      ],
+      [
+       "PSY 241"
+      ],
+      [
+       "PSY 242"
+      ],
+      [
+       "PSY 243"
+      ],
+      [
+       "PSY 307"
+      ],
+      [
+       "PSY 311"
+      ],
+      [
+       "PSY 312"
+      ],
+      [
+       "PSY 313"
+      ],
+      [
+       "PSY 340"
+      ],
+      [
+       "PSY 345"
+      ],
+      [
+       "PSY 360"
+      ],
+      [
+       "PSY 370"
+      ],
+      [
+       "PSY 376"
+      ],
+      [
+       "PSY 400"
+      ],
+      [
+       "PSY 406"
+      ],
+      [
+       "PSY 410"
+      ],
+      [
+       "PSY 411"
+      ],
+      [
+       "PSY 416"
+      ],
+      [
+       "PSY 420"
+      ],
+      [
+       "PSY 425"
+      ],
+      [
+       "PSY 430"
+      ],
+      [
+       "PSY 431"
+      ],
+      [
+       "PSY 436"
+      ],
+      [
+       "PSY 465"
+      ],
+      [
+       "PSY 470"
+      ],
+      [
+       "PSY 475"
+      ],
+      [
+       "PSY 476"
+      ],
+      [
+       "PSY 491"
+      ],
+      [
+       "PSY 495"
+      ],
+      [
+       "PSY 498"
+      ],
+      [
+       "PSY 499"
+      ],
+      [
+       "PSY 500"
+      ],
+      [
+       "PSY 502"
+      ],
+      [
+       "PSY 504"
+      ],
+      [
+       "PSY 508"
+      ],
+      [
+       "PSY 510"
+      ],
+      [
+       "PSY 511"
+      ],
+      [
+       "PSY 525"
+      ],
+      [
+       "PSY 535"
+      ],
+      [
+       "PSY 540"
+      ],
+      [
+       "PSY 541"
+      ],
+      [
+       "PSY 558"
+      ],
+      [
+       "PSY 582"
+      ],
+      [
+       "PSY 584"
+      ],
+      [
+       "PSY 590"
+      ],
+      [
+       "PSY 591"
+      ],
+      [
+       "WGS 406"
+      ],
+      [
+       "AFS 305"
+      ],
+      [
+       "GEO 220"
+      ],
+      [
+       "REL 309"
+      ],
+      [
+       "SOC 202"
+      ],
+      [
+       "SOC 203"
+      ],
+      [
+       "SOC 203A"
+      ],
+      [
+       "SOC 204"
+      ],
+      [
+       "SOC 205"
+      ],
+      [
+       "SOC 206"
+      ],
+      [
+       "SOC 207"
+      ],
+      [
+       "SOC 211"
+      ],
+      [
+       "SOC 212"
+      ],
+      [
+       "SOC 220"
+      ],
+      [
+       "SOC 241"
+      ],
+      [
+       "SOC 241A"
+      ],
+      [
+       "SOC 295"
+      ],
+      [
+       "SOC 300"
+      ],
+      [
+       "SOC 301"
+      ],
+      [
+       "SOC 304"
+      ],
+      [
+       "SOC 305"
+      ],
+      [
+       "SOC 306"
+      ],
+      [
+       "SOC 309"
+      ],
+      [
+       "SOC 311"
+      ],
+      [
+       "SOC 342"
+      ],
+      [
+       "SOC 350"
+      ],
+      [
+       "SOC 351"
+      ],
+      [
+       "SOC 381"
+      ],
+      [
+       "SOC 395"
+      ],
+      [
+       "SOC 400"
+      ],
+      [
+       "SOC 401"
+      ],
+      [
+       "SOC 402"
+      ],
+      [
+       "SOC 404"
+      ],
+      [
+       "SOC 405"
+      ],
+      [
+       "SOC 407"
+      ],
+      [
+       "SOC 410"
+      ],
+      [
+       "SOC 414"
+      ],
+      [
+       "SOC 418"
+      ],
+      [
+       "SOC 425"
+      ],
+      [
+       "SOC 427"
+      ],
+      [
+       "SOC 428"
+      ],
+      [
+       "SOC 429"
+      ],
+      [
+       "SOC 430"
+      ],
+      [
+       "SOC 440"
+      ],
+      [
+       "SOC 445"
+      ],
+      [
+       "SOC 450"
+      ],
+      [
+       "SOC 457"
+      ],
+      [
+       "SOC 465"
+      ],
+      [
+       "SOC 492"
+      ],
+      [
+       "SOC 493"
+      ],
+      [
+       "SOC 495"
+      ],
+      [
+       "SOC 498"
+      ],
+      [
+       "SOC 591"
+      ],
+      [
+       "WGS 204"
+      ],
+      [
+       "WGS 304"
+      ],
+      [
+       "WGS 407"
+      ],
+      [
+       "ENG 210"
+      ],
+      [
+       "STS 402"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Social Science 12",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s21"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Twelve (12) credit hours required from three different disciplines, six (6) must be on GEP Social Sciences list",
+     "options": [
+      [
+       "ANT 251"
+      ],
+      [
+       "ANT 252"
+      ],
+      [
+       "ANT 253"
+      ],
+      [
+       "ANT 254"
+      ],
+      [
+       "ANT 261"
+      ],
+      [
+       "ANT 295"
+      ],
+      [
+       "ANT 310"
+      ],
+      [
+       "ANT 315"
+      ],
+      [
+       "ANT 325"
+      ],
+      [
+       "ANT 330"
+      ],
+      [
+       "ANT 345"
+      ],
+      [
+       "ANT 346"
+      ],
+      [
+       "ANT 351"
+      ],
+      [
+       "ANT 354"
+      ],
+      [
+       "ANT 370"
+      ],
+      [
+       "ANT 371"
+      ],
+      [
+       "ANT 374"
+      ],
+      [
+       "ANT 389"
+      ],
+      [
+       "ANT 395"
+      ],
+      [
+       "ANT 411"
+      ],
+      [
+       "ANT 412"
+      ],
+      [
+       "ANT 416"
+      ],
+      [
+       "ANT 419"
+      ],
+      [
+       "ANT 421"
+      ],
+      [
+       "ANT 424"
+      ],
+      [
+       "ANT 427"
+      ],
+      [
+       "ANT 428"
+      ],
+      [
+       "ANT 431"
+      ],
+      [
+       "ANT 433"
+      ],
+      [
+       "ANT 444"
+      ],
+      [
+       "ANT 450"
+      ],
+      [
+       "ANT 460"
+      ],
+      [
+       "ANT 461"
+      ],
+      [
+       "ANT 464"
+      ],
+      [
+       "ANT 471"
+      ],
+      [
+       "ANT 475"
+      ],
+      [
+       "ANT 483"
+      ],
+      [
+       "ANT 495"
+      ],
+      [
+       "ANT 496"
+      ],
+      [
+       "ANT 498"
+      ],
+      [
+       "ANT 501"
+      ],
+      [
+       "ANT 511"
+      ],
+      [
+       "ANT 512"
+      ],
+      [
+       "ANT 516"
+      ],
+      [
+       "ANT 521"
+      ],
+      [
+       "ANT 524"
+      ],
+      [
+       "ANT 528"
+      ],
+      [
+       "ANT 529"
+      ],
+      [
+       "ANT 531"
+      ],
+      [
+       "ANT 533"
+      ],
+      [
+       "ANT 544"
+      ],
+      [
+       "ANT 550"
+      ],
+      [
+       "ANT 560"
+      ],
+      [
+       "ANT 561"
+      ],
+      [
+       "ANT 564"
+      ],
+      [
+       "ANT 571"
+      ],
+      [
+       "ANT 575"
+      ],
+      [
+       "ANT 583"
+      ],
+      [
+       "ANT 585"
+      ],
+      [
+       "ANT 595"
+      ],
+      [
+       "ANT 598"
+      ],
+      [
+       "HI 587"
+      ],
+      [
+       "IS 471"
+      ],
+      [
+       "IS 571"
+      ],
+      [
+       "SOC 261"
+      ],
+      [
+       "WGS 444"
+      ],
+      [
+       "WGS 544"
+      ],
+      [
+       "WLJA 351"
+      ],
+      [
+       "ARE 121"
+      ],
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 260"
+      ],
+      [
+       "ARE 270"
+      ],
+      [
+       "ARE 290"
+      ],
+      [
+       "ARE 295"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 323"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "ARE 345"
+      ],
+      [
+       "ARE 370"
+      ],
+      [
+       "ARE 395"
+      ],
+      [
+       "ARE 404"
+      ],
+      [
+       "ARE 412"
+      ],
+      [
+       "ARE 413"
+      ],
+      [
+       "ARE 415"
+      ],
+      [
+       "ARE 420"
+      ],
+      [
+       "ARE 425"
+      ],
+      [
+       "ARE 433"
+      ],
+      [
+       "ARE 444"
+      ],
+      [
+       "ARE 448"
+      ],
+      [
+       "ARE 455"
+      ],
+      [
+       "ARE 470"
+      ],
+      [
+       "ARE 475"
+      ],
+      [
+       "ARE 490"
+      ],
+      [
+       "ARE 492"
+      ],
+      [
+       "ARE 493"
+      ],
+      [
+       "ARE 494"
+      ],
+      [
+       "ARE 495"
+      ],
+      [
+       "ARE 590"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 202"
+      ],
+      [
+       "EC 205"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 305"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "EC 351"
+      ],
+      [
+       "EC 404"
+      ],
+      [
+       "EC 410"
+      ],
+      [
+       "EC 413"
+      ],
+      [
+       "EC 431"
+      ],
+      [
+       "EC 449"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "EC 468"
+      ],
+      [
+       "EC 474"
+      ],
+      [
+       "EC 490"
+      ],
+      [
+       "EC 495"
+      ],
+      [
+       "EC 498"
+      ],
+      [
+       "AFS 409"
+      ],
+      [
+       "LPS 315"
+      ],
+      [
+       "PS 201"
+      ],
+      [
+       "PS 202"
+      ],
+      [
+       "PS 203"
+      ],
+      [
+       "PS 204"
+      ],
+      [
+       "PS 231"
+      ],
+      [
+       "PS 236"
+      ],
+      [
+       "PS 241"
+      ],
+      [
+       "PS 298"
+      ],
+      [
+       "PS 301"
+      ],
+      [
+       "PS 302"
+      ],
+      [
+       "PS 303"
+      ],
+      [
+       "PS 305"
+      ],
+      [
+       "PS 306"
+      ],
+      [
+       "PS 307"
+      ],
+      [
+       "PS 308"
+      ],
+      [
+       "PS 309"
+      ],
+      [
+       "PS 310"
+      ],
+      [
+       "PS 312"
+      ],
+      [
+       "PS 313"
+      ],
+      [
+       "PS 314"
+      ],
+      [
+       "PS 320"
+      ],
+      [
+       "PS 331"
+      ],
+      [
+       "PS 335"
+      ],
+      [
+       "PS 336"
+      ],
+      [
+       "PS 339"
+      ],
+      [
+       "PS 341"
+      ],
+      [
+       "PS 342"
+      ],
+      [
+       "PS 343"
+      ],
+      [
+       "PS 345"
+      ],
+      [
+       "PS 353"
+      ],
+      [
+       "PS 361"
+      ],
+      [
+       "PS 362"
+      ],
+      [
+       "PS 371"
+      ],
+      [
+       "PS 391"
+      ],
+      [
+       "PS 398"
+      ],
+      [
+       "PS 401"
+      ],
+      [
+       "PS 409"
+      ],
+      [
+       "PS 411"
+      ],
+      [
+       "PS 415"
+      ],
+      [
+       "PS 418"
+      ],
+      [
+       "PS 431"
+      ],
+      [
+       "PS 432"
+      ],
+      [
+       "PS 433"
+      ],
+      [
+       "PS 437"
+      ],
+      [
+       "PS 443"
+      ],
+      [
+       "PS 445"
+      ],
+      [
+       "PS 462"
+      ],
+      [
+       "PS 463"
+      ],
+      [
+       "PS 464"
+      ],
+      [
+       "PS 471"
+      ],
+      [
+       "PS 490"
+      ],
+      [
+       "PS 492"
+      ],
+      [
+       "PS 498"
+      ],
+      [
+       "PS 502"
+      ],
+      [
+       "PS 506"
+      ],
+      [
+       "PS 507"
+      ],
+      [
+       "PS 530"
+      ],
+      [
+       "PS 531"
+      ],
+      [
+       "PS 532"
+      ],
+      [
+       "PS 533"
+      ],
+      [
+       "PS 534"
+      ],
+      [
+       "PS 536"
+      ],
+      [
+       "PS 539"
+      ],
+      [
+       "PS 540"
+      ],
+      [
+       "PS 541"
+      ],
+      [
+       "PS 542"
+      ],
+      [
+       "PS 543"
+      ],
+      [
+       "PS 544"
+      ],
+      [
+       "PS 545"
+      ],
+      [
+       "PS 546"
+      ],
+      [
+       "PS 547"
+      ],
+      [
+       "PS 560"
+      ],
+      [
+       "PS 561"
+      ],
+      [
+       "PS 571"
+      ],
+      [
+       "PS 585"
+      ],
+      [
+       "PS 590"
+      ],
+      [
+       "PS 598"
+      ],
+      [
+       "SOC 413"
+      ],
+      [
+       "SOC 432"
+      ],
+      [
+       "WGS 306"
+      ],
+      [
+       "WGS 418"
+      ],
+      [
+       "AFS 345"
+      ],
+      [
+       "EDP 304"
+      ],
+      [
+       "EDP 476"
+      ],
+      [
+       "EDP 582"
+      ],
+      [
+       "ISE 540"
+      ],
+      [
+       "PHI 425"
+      ],
+      [
+       "PHI 525"
+      ],
+      [
+       "PSY 200"
+      ],
+      [
+       "PSY 208"
+      ],
+      [
+       "PSY 230"
+      ],
+      [
+       "PSY 240"
+      ],
+      [
+       "PSY 241"
+      ],
+      [
+       "PSY 242"
+      ],
+      [
+       "PSY 243"
+      ],
+      [
+       "PSY 307"
+      ],
+      [
+       "PSY 311"
+      ],
+      [
+       "PSY 312"
+      ],
+      [
+       "PSY 313"
+      ],
+      [
+       "PSY 340"
+      ],
+      [
+       "PSY 345"
+      ],
+      [
+       "PSY 360"
+      ],
+      [
+       "PSY 370"
+      ],
+      [
+       "PSY 376"
+      ],
+      [
+       "PSY 400"
+      ],
+      [
+       "PSY 406"
+      ],
+      [
+       "PSY 410"
+      ],
+      [
+       "PSY 411"
+      ],
+      [
+       "PSY 416"
+      ],
+      [
+       "PSY 420"
+      ],
+      [
+       "PSY 425"
+      ],
+      [
+       "PSY 430"
+      ],
+      [
+       "PSY 431"
+      ],
+      [
+       "PSY 436"
+      ],
+      [
+       "PSY 465"
+      ],
+      [
+       "PSY 470"
+      ],
+      [
+       "PSY 475"
+      ],
+      [
+       "PSY 476"
+      ],
+      [
+       "PSY 491"
+      ],
+      [
+       "PSY 495"
+      ],
+      [
+       "PSY 498"
+      ],
+      [
+       "PSY 499"
+      ],
+      [
+       "PSY 500"
+      ],
+      [
+       "PSY 502"
+      ],
+      [
+       "PSY 504"
+      ],
+      [
+       "PSY 508"
+      ],
+      [
+       "PSY 510"
+      ],
+      [
+       "PSY 511"
+      ],
+      [
+       "PSY 525"
+      ],
+      [
+       "PSY 535"
+      ],
+      [
+       "PSY 540"
+      ],
+      [
+       "PSY 541"
+      ],
+      [
+       "PSY 558"
+      ],
+      [
+       "PSY 582"
+      ],
+      [
+       "PSY 584"
+      ],
+      [
+       "PSY 590"
+      ],
+      [
+       "PSY 591"
+      ],
+      [
+       "WGS 406"
+      ],
+      [
+       "AFS 305"
+      ],
+      [
+       "GEO 220"
+      ],
+      [
+       "REL 309"
+      ],
+      [
+       "SOC 202"
+      ],
+      [
+       "SOC 203"
+      ],
+      [
+       "SOC 203A"
+      ],
+      [
+       "SOC 204"
+      ],
+      [
+       "SOC 205"
+      ],
+      [
+       "SOC 206"
+      ],
+      [
+       "SOC 207"
+      ],
+      [
+       "SOC 211"
+      ],
+      [
+       "SOC 212"
+      ],
+      [
+       "SOC 220"
+      ],
+      [
+       "SOC 241"
+      ],
+      [
+       "SOC 241A"
+      ],
+      [
+       "SOC 295"
+      ],
+      [
+       "SOC 300"
+      ],
+      [
+       "SOC 301"
+      ],
+      [
+       "SOC 304"
+      ],
+      [
+       "SOC 305"
+      ],
+      [
+       "SOC 306"
+      ],
+      [
+       "SOC 309"
+      ],
+      [
+       "SOC 311"
+      ],
+      [
+       "SOC 342"
+      ],
+      [
+       "SOC 350"
+      ],
+      [
+       "SOC 351"
+      ],
+      [
+       "SOC 381"
+      ],
+      [
+       "SOC 395"
+      ],
+      [
+       "SOC 400"
+      ],
+      [
+       "SOC 401"
+      ],
+      [
+       "SOC 402"
+      ],
+      [
+       "SOC 404"
+      ],
+      [
+       "SOC 405"
+      ],
+      [
+       "SOC 407"
+      ],
+      [
+       "SOC 410"
+      ],
+      [
+       "SOC 414"
+      ],
+      [
+       "SOC 418"
+      ],
+      [
+       "SOC 425"
+      ],
+      [
+       "SOC 427"
+      ],
+      [
+       "SOC 428"
+      ],
+      [
+       "SOC 429"
+      ],
+      [
+       "SOC 430"
+      ],
+      [
+       "SOC 440"
+      ],
+      [
+       "SOC 445"
+      ],
+      [
+       "SOC 450"
+      ],
+      [
+       "SOC 457"
+      ],
+      [
+       "SOC 465"
+      ],
+      [
+       "SOC 492"
+      ],
+      [
+       "SOC 493"
+      ],
+      [
+       "SOC 495"
+      ],
+      [
+       "SOC 498"
+      ],
+      [
+       "SOC 591"
+      ],
+      [
+       "WGS 204"
+      ],
+      [
+       "WGS 304"
+      ],
+      [
+       "WGS 407"
+      ],
+      [
+       "ENG 210"
+      ],
+      [
+       "STS 402"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": null,
+     "raw": "Twelve (12) credit hours required from three different disciplines, six (6) must be on GEP Social Sciences list",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s22"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Mathematical Sciences 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s27"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 27,
+      "max": 27
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 27",
+     "id": "ncsu-anthropology-ba-general-anthropology-concentration-s31"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "List \"Social Science\" has a rule that cannot be checked automatically: \"12 credit hours required from 3 different disciplines, chosen from college approved list.\"",
+  "Rule cannot be checked automatically: \"Twelve (12) credit hours required from three different disciplines, six (6) must be on GEP Social Sciences list\""
+ ],
+ "parseNotes": [
+  "List \"ANT Ethnography Electives\" has codes with no catalog link: FLJ 351",
+  "List \"ANT General Electives\" has codes with no catalog link: FLJ 351",
+  "List \"History I\" has a row that is not a course and was not read: \"A 200-level survey course covering a culture significantly different from our own, i.e., ancient or non-Western.\"",
+  "List \"History II\" has a row that is not a course and was not read: \"A 200-level survey course covering our own or a similar culture, i.e., United States or other Western Culture.\"",
+  "Group \"Philosophy\" carries a note or open-ended option: \"Any PHI course on the approved GEP Humanities list.\"",
+  "List \"Arts and Letters\" has codes with no catalog link: HESM 322, HESM 324, HESM 326",
+  "Codes in choice lists not found in the course catalog: AFS 230, ANT 501, DAN 295, HESM 322, HESM 324, HESM 326, HI 251, HI 252, MUS 201, MUS 310, MUS 315, PS 415"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/humanities-social-sciences/sociology-anthropology/anthropology-ba-general-anthropology-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "General Anthropology Concentration",
+ "college": "College of Humanities and Social Sciences"
+}

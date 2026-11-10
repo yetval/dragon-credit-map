@@ -1,0 +1,437 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-neurodiagnostics-sleep-sciences-major-bs",
+ "university": "unc",
+ "name": "Neurodiagnostics and Sleep Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/neurodiagnostics-sleep-sciences-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 81,
+  "max": 81
+ },
+ "sections": [
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 252 & 252L Fundamentals of Human Anatomy and Physiology and Fundamentals of Human Anatomy and Physiology Laboratory 4",
+     "options": [
+      [
+       "BIOL 252",
+       "BIOL 252L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 252 & 252L Fundamentals of Human Anatomy and Physiology and Fundamentals of Human Anatomy and Physiology Laboratory 4",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4 or BIOC 107 Introduction to Biochemistry",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ],
+      [
+       "BIOC 107"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4 or BIOC 107 Introduction to Biochemistry",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 130 Precalculus Mathematics 3 or MATH 231 Calculus of Functions of One Variable I",
+     "options": [
+      [
+       "MATH 130"
+      ],
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 130 Precalculus Mathematics 3 or MATH 231 Calculus of Functions of One Variable I",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHYS 114 General Physics I: For Students of the Life Sciences 4 or PHYS 118 Introductory Calculus-based Mechanics and Relativity",
+     "options": [
+      [
+       "PHYS 114"
+      ],
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 114 General Physics I: For Students of the Life Sciences 4 or PHYS 118 Introductory Calculus-based Mechanics and Relativity",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHYS 115 General Physics II: For Students of the Life Sciences 4 or PHYS 119 Introductory Calculus-based Electromagnetism and Quanta",
+     "options": [
+      [
+       "PHYS 115"
+      ],
+      [
+       "PHYS 119"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 115 General Physics II: For Students of the Life Sciences 4 or PHYS 119 Introductory Calculus-based Electromagnetism and Quanta",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 101 General Psychology 3",
+     "options": [
+      [
+       "PSYC 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 101 General Psychology 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s7"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 393 Clinical rotation in Neurophysiology and Polysomnography 2",
+     "options": [
+      [
+       "NDSS 393"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "NDSS 393 Clinical rotation in Neurophysiology and Polysomnography 2",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 401 Basic Neurophysiology and Sleep for Clinical Neurophysiology 3",
+     "options": [
+      [
+       "NDSS 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 401 Basic Neurophysiology and Sleep for Clinical Neurophysiology 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 410 Intro to Basic Sleep and Neurophysiology Instrumentation and Technology 4",
+     "options": [
+      [
+       "NDSS 410"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NDSS 410 Intro to Basic Sleep and Neurophysiology Instrumentation and Technology 4",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 415L Polysomnographic and Neurophysiologic Technology/Lab 7",
+     "options": [
+      [
+       "NDSS 415L"
+      ]
+     ],
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "NDSS 415L Polysomnographic and Neurophysiologic Technology/Lab 7",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 420 Pathophysiology of Sleep, Neurological, and Related Disorders 3",
+     "options": [
+      [
+       "NDSS 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 420 Pathophysiology of Sleep, Neurological, and Related Disorders 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 430 Neurological and Sleep Diagnostic and Therapeutic Methods, and Monitoring 3",
+     "options": [
+      [
+       "NDSS 430"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 430 Neurological and Sleep Diagnostic and Therapeutic Methods, and Monitoring 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 440 Evidence Based Practice in Neurodiagnostics and Sleep Science 3",
+     "options": [
+      [
+       "NDSS 440"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 440 Evidence Based Practice in Neurodiagnostics and Sleep Science 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 450 Advanced Sleep and Neurodiagnostic Clinical Procedures 3",
+     "options": [
+      [
+       "NDSS 450"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 450 Advanced Sleep and Neurodiagnostic Clinical Procedures 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 460 Informational Technology and Analytics in Neurodiagnostics and Sleep Science 3",
+     "options": [
+      [
+       "NDSS 460"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 460 Informational Technology and Analytics in Neurodiagnostics and Sleep Science 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 493 Neurodiagnostics and Sleep Science Practicum 3",
+     "options": [
+      [
+       "NDSS 493"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 493 Neurodiagnostics and Sleep Science Practicum 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 500 Principals and Practice of Healthcare Education 3",
+     "options": [
+      [
+       "NDSS 500"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 500 Principals and Practice of Healthcare Education 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 510 Program Administration: Neurodiagnostics and Sleep Science Department Management 3",
+     "options": [
+      [
+       "NDSS 510"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 510 Program Administration: Neurodiagnostics and Sleep Science Department Management 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 520 Advanced Physiological Monitoring and Data Acquisition 3",
+     "options": [
+      [
+       "NDSS 520"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 520 Advanced Physiological Monitoring and Data Acquisition 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 530 Leadership in Healthcare Organizations 3",
+     "options": [
+      [
+       "NDSS 530"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 530 Leadership in Healthcare Organizations 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 593 Neurodiagnostics and Sleep Science Internship 3",
+     "options": [
+      [
+       "NDSS 593"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 593 Neurodiagnostics and Sleep Science Internship 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 697 Neurodiagnostics and Sleep Science Capstone 3",
+     "options": [
+      [
+       "NDSS 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 697 Neurodiagnostics and Sleep Science Capstone 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NDSS 698 Neurodiagnostics and Sleep Science Capstone II 3",
+     "options": [
+      [
+       "NDSS 698"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NDSS 698 Neurodiagnostics and Sleep Science Capstone II 3",
+     "id": "unc-neurodiagnostics-sleep-sciences-major-bs-s24"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/neurodiagnostics-sleep-sciences-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

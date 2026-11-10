@@ -1,0 +1,117 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-american-studies-major-ba",
+ "university": "unc",
+ "name": "American Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/american-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AMST 101I This Place Called \"America\" 3",
+     "options": [
+      [
+       "AMST 101I"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AMST 101I This Place Called \"America\" 3",
+     "id": "unc-american-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two of the following options:",
+     "options": [
+      [
+       "AMST 102"
+      ],
+      [
+       "AMST 110"
+      ],
+      [
+       "AMST 210"
+      ],
+      [
+       "AMST 211"
+      ],
+      [
+       "AMST 255"
+      ],
+      [
+       "AMST 275"
+      ],
+      [
+       "AMST 277"
+      ],
+      [
+       "FOLK 202"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two of the following options: 6",
+     "id": "unc-american-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Six additional elective courses selected from other AMST, FOLK, and CHER courses.",
+     "options": [],
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Six additional elective courses selected from other AMST, FOLK, and CHER courses. 18",
+     "id": "unc-american-studies-major-ba-s3"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Of the nine (9) total courses in the major, at least four (4) must be numbered 200 or higher",
+     "options": [],
+     "hours": null,
+     "raw": "Of the nine (9) total courses in the major, at least four (4) must be numbered 200 or higher",
+     "id": "unc-american-studies-major-ba-s4"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Of the nine (9) total courses in the major, at least four (4) must be numbered 200 or higher\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/american-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

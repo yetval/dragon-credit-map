@@ -1,0 +1,617 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-industrial-design-bachelor",
+ "university": "ncsu",
+ "name": "Industrial Design",
+ "degree": "Bachelor",
+ "url": "https://catalog.ncsu.edu/undergraduate/design/graphic-industrial-design/industrial-design-bachelor/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-industrial-design-bachelor-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 110 Introduction to Digital Techniques 3",
+     "options": [
+      [
+       "ID 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 110 Introduction to Digital Techniques 3",
+     "id": "ncsu-industrial-design-bachelor-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 210 Intermediate Digital Techniques 3",
+     "options": [
+      [
+       "ID 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 210 Intermediate Digital Techniques 3",
+     "id": "ncsu-industrial-design-bachelor-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 310 Advanced Digital Techniques 3",
+     "options": [
+      [
+       "ID 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 310 Advanced Digital Techniques 3",
+     "id": "ncsu-industrial-design-bachelor-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 216 Visualization I 3",
+     "options": [
+      [
+       "ID 216"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 216 Visualization I 3",
+     "id": "ncsu-industrial-design-bachelor-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 316 Visualization II 3",
+     "options": [
+      [
+       "ID 316"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 316 Visualization II 3",
+     "id": "ncsu-industrial-design-bachelor-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 255 Contemporary Manufacturing Processes I 3",
+     "options": [
+      [
+       "ID 255"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 255 Contemporary Manufacturing Processes I 3",
+     "id": "ncsu-industrial-design-bachelor-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 244 History of Industrial Design 3",
+     "options": [
+      [
+       "ID 244"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 244 History of Industrial Design 3",
+     "id": "ncsu-industrial-design-bachelor-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 240 Human-Centered Design 3",
+     "options": [
+      [
+       "ID 240"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 240 Human-Centered Design 3",
+     "id": "ncsu-industrial-design-bachelor-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 340 Research Methods in Industrial Design 3",
+     "options": [
+      [
+       "ID 340"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 340 Research Methods in Industrial Design 3",
+     "id": "ncsu-industrial-design-bachelor-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 440 Experience Design for ID 3",
+     "options": [
+      [
+       "ID 440"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ID 440 Experience Design for ID 3",
+     "id": "ncsu-industrial-design-bachelor-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Design Electives",
+     "options": [
+      [
+       "ADN 212"
+      ],
+      [
+       "ADN 219"
+      ],
+      [
+       "ADN 272"
+      ],
+      [
+       "ADN 273"
+      ],
+      [
+       "ADN 281"
+      ],
+      [
+       "ADN 312"
+      ],
+      [
+       "ADN 319"
+      ],
+      [
+       "ADN 384"
+      ],
+      [
+       "ADN 386"
+      ],
+      [
+       "ADN 414"
+      ],
+      [
+       "ADN 419"
+      ],
+      [
+       "ADN 472"
+      ],
+      [
+       "ADN 481"
+      ],
+      [
+       "ADN 486"
+      ],
+      [
+       "ARC 162"
+      ],
+      [
+       "GD 492"
+      ],
+      [
+       "GD 494"
+      ],
+      [
+       "GD 495"
+      ],
+      [
+       "GD 510"
+      ],
+      [
+       "GD 517"
+      ],
+      [
+       "ID 256"
+      ],
+      [
+       "ID 262"
+      ],
+      [
+       "ID 494"
+      ],
+      [
+       "ID 495"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Design Electives 6",
+     "id": "ncsu-industrial-design-bachelor-s12"
+    }
+   ]
+  },
+  {
+   "title": "Studios",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 104 First Year Studio I 6",
+     "options": [
+      [
+       "D 104"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "D 104 First Year Studio I 6",
+     "id": "ncsu-industrial-design-bachelor-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 102 Basic Industrial Design Studio 6",
+     "options": [
+      [
+       "ID 102"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 102 Basic Industrial Design Studio 6",
+     "id": "ncsu-industrial-design-bachelor-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 201 Industrial Design Studio I 6",
+     "options": [
+      [
+       "ID 201"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 201 Industrial Design Studio I 6",
+     "id": "ncsu-industrial-design-bachelor-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 202 Industrial Design Studio II 6",
+     "options": [
+      [
+       "ID 202"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 202 Industrial Design Studio II 6",
+     "id": "ncsu-industrial-design-bachelor-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 301 Industrial Design Studio III 6",
+     "options": [
+      [
+       "ID 301"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 301 Industrial Design Studio III 6",
+     "id": "ncsu-industrial-design-bachelor-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 302 Industrial Design Studio IV 6",
+     "options": [
+      [
+       "ID 302"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 302 Industrial Design Studio IV 6",
+     "id": "ncsu-industrial-design-bachelor-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 401 Advanced Industrial Design Studio I 6",
+     "options": [
+      [
+       "ID 401"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 401 Advanced Industrial Design Studio I 6",
+     "id": "ncsu-industrial-design-bachelor-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ID 402 Advanced Industrial Design Studio II 6",
+     "options": [
+      [
+       "ID 402"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ID 402 Advanced Industrial Design Studio II 6",
+     "id": "ncsu-industrial-design-bachelor-s20"
+    }
+   ]
+  },
+  {
+   "title": "International Experience",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "International Experience (S Allowed, Verify requirement)",
+     "options": [],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "International Experience (S Allowed, Verify requirement) 0",
+     "id": "ncsu-industrial-design-bachelor-s21"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Humanities 3",
+     "id": "ncsu-industrial-design-bachelor-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-industrial-design-bachelor-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Mathematical Sciences 6",
+     "id": "ncsu-industrial-design-bachelor-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-industrial-design-bachelor-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-industrial-design-bachelor-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-industrial-design-bachelor-s27"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-industrial-design-bachelor-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-industrial-design-bachelor-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-industrial-design-bachelor-s30"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 5",
+     "id": "ncsu-industrial-design-bachelor-s31"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: ADN 419"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/design/graphic-industrial-design/industrial-design-bachelor/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Design"
+}

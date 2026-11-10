@@ -1,0 +1,61 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-romance-languages-major-ba-italian",
+ "university": "unc",
+ "name": "Romance Languages",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-italian/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 24,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ITAL 300 Communicating in Italian: Media, Culture, and Society 3",
+     "options": [
+      [
+       "ITAL 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ITAL 300 Communicating in Italian: Media, Culture, and Society 3",
+     "id": "unc-romance-languages-major-ba-italian-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Seven additional ITAL courses excluding ITAL 101, ITAL 102, ITAL 203, ITAL 204, ITAL 401, ITAL 402 and ITAL 692H.",
+     "options": [],
+     "hours": {
+      "min": 21,
+      "max": 21
+     },
+     "raw": "Seven additional ITAL courses excluding ITAL 101, ITAL 102, ITAL 203, ITAL 204, ITAL 401, ITAL 402 and ITAL 692H. 21",
+     "id": "unc-romance-languages-major-ba-italian-s2"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-italian/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Italian"
+}

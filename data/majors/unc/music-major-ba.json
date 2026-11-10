@@ -1,0 +1,329 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-music-major-ba",
+ "university": "unc",
+ "name": "Music",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/music-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 35,
+  "max": 39
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Foundations:",
+     "options": [],
+     "hours": null,
+     "raw": "Foundations:",
+     "id": "unc-music-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUSC 120 Foundations in Music 3",
+     "options": [
+      [
+       "MUSC 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUSC 120 Foundations in Music 3",
+     "id": "unc-music-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Musicianship:",
+     "options": [],
+     "hours": null,
+     "raw": "Musicianship:",
+     "id": "unc-music-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUSC 128 Improvisation Without Borders 1",
+     "options": [
+      [
+       "MUSC 128"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUSC 128 Improvisation Without Borders 1",
+     "id": "unc-music-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One additional course (one hour), chosen from:",
+     "options": [
+      [
+       "MUSC 129"
+      ],
+      [
+       "MUSC 130"
+      ]
+     ],
+     "pick": {
+      "hours": 1
+     },
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "One additional course (one hour), chosen from: 1",
+     "id": "unc-music-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Music theory (six hours), two of:",
+     "options": [
+      [
+       "MUSC 131"
+      ],
+      [
+       "MUSC 132"
+      ],
+      [
+       "MUSC 135"
+      ],
+      [
+       "MUSC 137"
+      ],
+      [
+       "MUSC 156"
+      ],
+      [
+       "MUSC 166"
+      ],
+      [
+       "MUSC 234"
+      ],
+      [
+       "MUSC 381"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Music theory (six hours), two of: 6",
+     "id": "unc-music-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Critical approaches to music:",
+     "options": [],
+     "hours": null,
+     "raw": "Critical approaches to music:",
+     "id": "unc-music-major-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUSC 270 Critical Approaches to Music: Object Lessons 3",
+     "options": [
+      [
+       "MUSC 270"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUSC 270 Critical Approaches to Music: Object Lessons 3",
+     "id": "unc-music-major-ba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUSC 271 Critical Approaches to Music: Critical Moves 3",
+     "options": [
+      [
+       "MUSC 271"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUSC 271 Critical Approaches to Music: Critical Moves 3",
+     "id": "unc-music-major-ba-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUSC 351 Critical Approaches to Music: Guided Research 3",
+     "options": [
+      [
+       "MUSC 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUSC 351 Critical Approaches to Music: Guided Research 3",
+     "id": "unc-music-major-ba-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Individual/group lessons (taken over two semesters) chosen from:",
+     "options": [
+      [
+       "MUSC 100"
+      ],
+      [
+       "MUSC 102"
+      ],
+      [
+       "MUSC 103"
+      ],
+      [
+       "MUSC 104"
+      ],
+      [
+       "MUSC 105"
+      ],
+      [
+       "MUSC 106"
+      ],
+      [
+       "MUSC 107"
+      ],
+      [
+       "MUSC 110"
+      ],
+      [
+       "MUSC 111"
+      ],
+      [
+       "MUSC 112"
+      ],
+      [
+       "MUSC 113"
+      ],
+      [
+       "MUSC 114"
+      ],
+      [
+       "MUSC 115"
+      ],
+      [
+       "MUSC 156"
+      ],
+      [
+       "MUSC 157"
+      ],
+      [
+       "MUSC 200"
+      ],
+      [
+       "MUSC 202"
+      ],
+      [
+       "MUSC 203"
+      ],
+      [
+       "MUSC 204"
+      ],
+      [
+       "MUSC 205"
+      ],
+      [
+       "MUSC 206"
+      ],
+      [
+       "MUSC 207"
+      ],
+      [
+       "MUSC 266"
+      ],
+      [
+       "MUSC 381"
+      ]
+     ],
+     "pick": {
+      "hours": 2
+     },
+     "hours": {
+      "min": 2,
+      "max": 6
+     },
+     "raw": "Individual/group lessons (taken over two semesters) chosen from: 2-6",
+     "id": "unc-music-major-ba-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Ensemble performance (four hours) chosen from:",
+     "options": [
+      [
+       "MUSC 211"
+      ],
+      [
+       "MUSC 212"
+      ],
+      [
+       "MUSC 213"
+      ],
+      [
+       "MUSC 214"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Ensemble performance (four hours) chosen from: 4",
+     "id": "unc-music-major-ba-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Music electives (nine hours) chosen from MUSC courses: students may count no more than three additional hours from MUSC 211 - MUSC 214 towards their music major. They may count as credit hours for graduation, subject to the overall limit on music hours.",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Music electives (nine hours) chosen from MUSC courses: students may count no more than three additional hours from MUSC 211 - MUSC 214 towards their music major. They may count as credit hours for graduation, subject to the overall limit on music hours. 9",
+     "id": "unc-music-major-ba-s13"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/music-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

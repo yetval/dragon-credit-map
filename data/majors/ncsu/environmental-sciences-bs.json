@@ -1,0 +1,838 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-environmental-sciences-bs",
+ "university": "ncsu",
+ "name": "Environmental Sciences",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/environmental-sciences-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "English & Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-environmental-sciences-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Communication Skills",
+     "options": [
+      [
+       "ENG 210"
+      ],
+      [
+       "ENG 214"
+      ],
+      [
+       "ENG 216"
+      ],
+      [
+       "ENG 281"
+      ],
+      [
+       "ENG 287"
+      ],
+      [
+       "ENG 288"
+      ],
+      [
+       "ENG 289"
+      ],
+      [
+       "ENG 292"
+      ],
+      [
+       "ENG 316"
+      ],
+      [
+       "ENG 317"
+      ],
+      [
+       "ENG 323"
+      ],
+      [
+       "ENG 324"
+      ],
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 422"
+      ],
+      [
+       "ENG 425"
+      ],
+      [
+       "ENG 426"
+      ],
+      [
+       "AEE 311"
+      ],
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 202"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 226"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "COM 292"
+      ],
+      [
+       "COM 392"
+      ],
+      [
+       "COM 395"
+      ],
+      [
+       "COM 411"
+      ],
+      [
+       "COM 436"
+      ],
+      [
+       "COM 479"
+      ],
+      [
+       "ENG 321"
+      ],
+      [
+       "ENG 325"
+      ],
+      [
+       "ENG 326"
+      ],
+      [
+       "ENG 327"
+      ],
+      [
+       "ENG 328"
+      ],
+      [
+       "ENG 329"
+      ],
+      [
+       "ENG 335"
+      ],
+      [
+       "ENG 395"
+      ],
+      [
+       "ENG 411"
+      ],
+      [
+       "ENG 494"
+      ],
+      [
+       "PRT 342"
+      ],
+      [
+       "THE 103"
+      ],
+      [
+       "THE 203"
+      ],
+      [
+       "THE 293"
+      ],
+      [
+       "WGS 327"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Communication Skills 6",
+     "id": "ncsu-environmental-sciences-bs-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics and Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "id": "ncsu-environmental-sciences-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3 or MA 241 Calculus II",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3 or MA 241 Calculus II",
+     "id": "ncsu-environmental-sciences-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-environmental-sciences-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "CH 220",
+       "CH 222"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-environmental-sciences-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-environmental-sciences-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Science Electives",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "GN 311"
+      ],
+      [
+       "MB 251",
+       "MB 252"
+      ],
+      [
+       "PY 208"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Science Electives 4",
+     "id": "ncsu-environmental-sciences-bs-s8"
+    }
+   ]
+  },
+  {
+   "title": "Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-environmental-sciences-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEC/PB 360 Ecology 4 or BIO 183 Introductory Biology: Cellular and Molecular Biology",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "AEC/PB 360 Ecology 4 or BIO 183 Introductory Biology: Cellular and Molecular Biology",
+     "id": "ncsu-environmental-sciences-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Natural Sciences Electives",
+     "options": [
+      [
+       "AEC 419"
+      ],
+      [
+       "AEC 460"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "FOR 401"
+      ],
+      [
+       "MEA 200",
+       "MEA 210"
+      ],
+      [
+       "PB 250"
+      ],
+      [
+       "PB 345",
+       "PB 346"
+      ],
+      [
+       "SSC 200",
+       "SSC 201"
+      ],
+      [
+       "ZO 250"
+      ],
+      [
+       "ZO 350"
+      ],
+      [
+       "ZO 402"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Natural Sciences Electives 4",
+     "id": "ncsu-environmental-sciences-bs-s11"
+    }
+   ]
+  },
+  {
+   "title": "Departmental Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 100 Student Success in Environmental First Year 1",
+     "options": [
+      [
+       "ENV 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ENV 100 Student Success in Environmental First Year 1",
+     "id": "ncsu-environmental-sciences-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 101 Exploring the Environment 2",
+     "options": [
+      [
+       "ENV 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ENV 101 Exploring the Environment 2",
+     "id": "ncsu-environmental-sciences-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ES 100 Introduction to Environmental Sciences 3",
+     "options": [
+      [
+       "ES 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ES 100 Introduction to Environmental Sciences 3",
+     "id": "ncsu-environmental-sciences-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ES 111 Applications of Environmental Sciences 1",
+     "options": [
+      [
+       "ES 111"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ES 111 Applications of Environmental Sciences 1",
+     "id": "ncsu-environmental-sciences-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ES 200 Climate Change and Sustainability 3",
+     "options": [
+      [
+       "ES 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ES 200 Climate Change and Sustainability 3",
+     "id": "ncsu-environmental-sciences-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ES 300 Energy and Environment 3",
+     "options": [
+      [
+       "ES 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ES 300 Energy and Environment 3",
+     "id": "ncsu-environmental-sciences-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ES 400 Analysis of Environmental Issues 3",
+     "options": [
+      [
+       "ES 400"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ES 400 Analysis of Environmental Issues 3",
+     "id": "ncsu-environmental-sciences-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-environmental-sciences-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Analytical Skills Electives",
+     "options": [
+      [
+       "GIS 280"
+      ],
+      [
+       "ST 312"
+      ],
+      [
+       "FOR 353"
+      ],
+      [
+       "PS 371"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Analytical Skills Electives 3",
+     "id": "ncsu-environmental-sciences-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics Electives",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ],
+      [
+       "NR 219"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Economics Electives 3",
+     "id": "ncsu-environmental-sciences-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Environmental Law and Policy Electives",
+     "options": [
+      [
+       "ARE 309"
+      ],
+      [
+       "PS 320"
+      ],
+      [
+       "PS 336"
+      ],
+      [
+       "NR 460"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Environmental Law and Policy Electives 3",
+     "id": "ncsu-environmental-sciences-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "External Learning Experience",
+     "options": [
+      [
+       "ES 496"
+      ],
+      [
+       "ES 497"
+      ],
+      [
+       "ES 498"
+      ],
+      [
+       "ES 499"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "External Learning Experience 3",
+     "id": "ncsu-environmental-sciences-bs-s23"
+    }
+   ]
+  },
+  {
+   "title": "Focal Area",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "ES Focal Area (See Advisor)",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "ES Focal Area (See Advisor) 15",
+     "id": "ncsu-environmental-sciences-bs-s24"
+    }
+   ]
+  },
+  {
+   "title": "Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Electives (See Advisor)",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Advised Electives (See Advisor) 9",
+     "id": "ncsu-environmental-sciences-bs-s25"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-environmental-sciences-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-environmental-sciences-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-environmental-sciences-bs-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (Verify Requirements)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (Verify Requirements)",
+     "id": "ncsu-environmental-sciences-bs-s29"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-environmental-sciences-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency GEP Global Knowledge (Verify Requirements)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency GEP Global Knowledge (Verify Requirements)",
+     "id": "ncsu-environmental-sciences-bs-s31"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 10,
+      "max": 10
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 10",
+     "id": "ncsu-environmental-sciences-bs-s32"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Communication Skills Electives\" has a row that is not a course and was not read: \"Maximum of 3 credits\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/environmental-sciences-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Natural Resources"
+}

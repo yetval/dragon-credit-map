@@ -1,0 +1,1327 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-agricultural-education-bs-animal-science-concentration",
+ "university": "ncsu",
+ "name": "Agricultural Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-education-bs-animal-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "AEE 103"
+      ],
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing and Speaking",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 110 Public Speaking 3",
+     "options": [
+      [
+       "COM 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Agricultural Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 101 Introduction to Career and Technical Education 1",
+     "options": [
+      [
+       "AEE 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 101 Introduction to Career and Technical Education 1",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 206 Introduction to Teaching Agriculture 3",
+     "options": [
+      [
+       "AEE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 206 Introduction to Teaching Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "options": [
+      [
+       "AEE 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 303 Administration and Supervision of Student Organizations 3",
+     "options": [
+      [
+       "AEE 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 303 Administration and Supervision of Student Organizations 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 322 Experiential Learning in Agriculture 3",
+     "options": [
+      [
+       "AEE 322"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 322 Experiential Learning in Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 326 Teaching Diverse Learners in AED 3",
+     "options": [
+      [
+       "AEE 326"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 326 Teaching Diverse Learners in AED 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 327 Conducting Summer Programs in Agricultural Education 1",
+     "options": [
+      [
+       "AEE 327"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 327 Conducting Summer Programs in Agricultural Education 1",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 424 Planning Agricultural Educational Programs 3",
+     "options": [
+      [
+       "AEE 424"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 424 Planning Agricultural Educational Programs 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 426 Methods of Teaching Agriculture 3",
+     "options": [
+      [
+       "AEE 426"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 426 Methods of Teaching Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 427 Student Teaching in Agriculture 8",
+     "options": [
+      [
+       "AEE 427"
+      ]
+     ],
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "AEE 427 Student Teaching in Agriculture 8",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 491 Seminar in Agricultural Education 1",
+     "options": [
+      [
+       "AEE 491"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 491 Seminar in Agricultural Education 1",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s16"
+    }
+   ]
+  },
+  {
+   "title": "Other Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s20"
+    }
+   ]
+  },
+  {
+   "title": "Teaching Content Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BAET 201 Shop Processes and Management 3 or TDE 110 Materials & Processes Technology",
+     "options": [
+      [
+       "BAET 201"
+      ],
+      [
+       "TDE 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAET 201 Shop Processes and Management 3 or TDE 110 Materials & Processes Technology",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Plant Science Elective",
+     "options": [
+      [
+       "AEC 423"
+      ],
+      [
+       "ANS 215"
+      ],
+      [
+       "CS 200"
+      ],
+      [
+       "CS 210"
+      ],
+      [
+       "CS 211"
+      ],
+      [
+       "CS 213"
+      ],
+      [
+       "CS 214"
+      ],
+      [
+       "CS 216"
+      ],
+      [
+       "CS 218"
+      ],
+      [
+       "CS 224"
+      ],
+      [
+       "CS 230"
+      ],
+      [
+       "CS 400"
+      ],
+      [
+       "CS 410"
+      ],
+      [
+       "CS 413"
+      ],
+      [
+       "CS 414"
+      ],
+      [
+       "CS 415"
+      ],
+      [
+       "CS 418"
+      ],
+      [
+       "CS 424"
+      ],
+      [
+       "CS 430"
+      ],
+      [
+       "CS 465"
+      ],
+      [
+       "CS 470"
+      ],
+      [
+       "CS 480"
+      ],
+      [
+       "ENT 402"
+      ],
+      [
+       "ENT 470"
+      ],
+      [
+       "FOR 150"
+      ],
+      [
+       "FOR 172"
+      ],
+      [
+       "FOR 204"
+      ],
+      [
+       "FOR 248"
+      ],
+      [
+       "FOR 250"
+      ],
+      [
+       "FOR 252"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "FOR 261"
+      ],
+      [
+       "FOR 264"
+      ],
+      [
+       "FOR 265"
+      ],
+      [
+       "FOR 273"
+      ],
+      [
+       "FOR 293"
+      ],
+      [
+       "FOR 294"
+      ],
+      [
+       "FOR 295"
+      ],
+      [
+       "FOR 303"
+      ],
+      [
+       "FOR 304"
+      ],
+      [
+       "FOR 318"
+      ],
+      [
+       "FOR 319"
+      ],
+      [
+       "FOR 330"
+      ],
+      [
+       "FOR 334"
+      ],
+      [
+       "FOR 350"
+      ],
+      [
+       "FOR 353"
+      ],
+      [
+       "FOR 374"
+      ],
+      [
+       "FOR 402"
+      ],
+      [
+       "FOR 405"
+      ],
+      [
+       "FOR 406"
+      ],
+      [
+       "FOR 408"
+      ],
+      [
+       "FOR 411"
+      ],
+      [
+       "FOR 414"
+      ],
+      [
+       "FOR 415"
+      ],
+      [
+       "FOR 420"
+      ],
+      [
+       "FOR 422"
+      ],
+      [
+       "FOR 430"
+      ],
+      [
+       "FOR 434"
+      ],
+      [
+       "FOR 472"
+      ],
+      [
+       "FOR 491"
+      ],
+      [
+       "FOR 493"
+      ],
+      [
+       "FOR 494"
+      ],
+      [
+       "FS 462"
+      ],
+      [
+       "FW 221"
+      ],
+      [
+       "FW 404"
+      ],
+      [
+       "HS 131"
+      ],
+      [
+       "HS 144"
+      ],
+      [
+       "HS 200"
+      ],
+      [
+       "HS 201"
+      ],
+      [
+       "HS 202"
+      ],
+      [
+       "HS 203"
+      ],
+      [
+       "HS 204"
+      ],
+      [
+       "HS 205"
+      ],
+      [
+       "HS 215"
+      ],
+      [
+       "HS 242"
+      ],
+      [
+       "HS 250"
+      ],
+      [
+       "HS 252"
+      ],
+      [
+       "HS 272"
+      ],
+      [
+       "HS 280"
+      ],
+      [
+       "HS 301"
+      ],
+      [
+       "HS 302"
+      ],
+      [
+       "HS 303"
+      ],
+      [
+       "HS 304"
+      ],
+      [
+       "HS 357"
+      ],
+      [
+       "HS 400"
+      ],
+      [
+       "HS 410"
+      ],
+      [
+       "HS 411"
+      ],
+      [
+       "HS 416"
+      ],
+      [
+       "HS 418"
+      ],
+      [
+       "HS 420"
+      ],
+      [
+       "HS 421"
+      ],
+      [
+       "HS 422"
+      ],
+      [
+       "HS 428"
+      ],
+      [
+       "HS 431"
+      ],
+      [
+       "HS 432"
+      ],
+      [
+       "HS 433"
+      ],
+      [
+       "HS 440"
+      ],
+      [
+       "HS 442"
+      ],
+      [
+       "HS 451"
+      ],
+      [
+       "HS 462"
+      ],
+      [
+       "HS 471"
+      ],
+      [
+       "HS 476"
+      ],
+      [
+       "HS 480"
+      ],
+      [
+       "HS 491"
+      ],
+      [
+       "HS 532"
+      ],
+      [
+       "NR 420"
+      ],
+      [
+       "NR 460"
+      ],
+      [
+       "NR 491"
+      ],
+      [
+       "PP 144"
+      ],
+      [
+       "PP 318"
+      ],
+      [
+       "PP 470"
+      ],
+      [
+       "SMT 202"
+      ],
+      [
+       "SSC 428"
+      ],
+      [
+       "SSC 440"
+      ],
+      [
+       "SSC 462"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Plant Science Elective 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "options": [
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics Electives:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics Electives: 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "Animal Science Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 150 & ANS 151 Introduction to Animal Science and Introduction to Animal Science Lab 4",
+     "options": [
+      [
+       "ANS 150",
+       "ANS 151"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ANS 150 & ANS 151 Introduction to Animal Science and Introduction to Animal Science Lab 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Evaluation of Farm Animals courses:",
+     "options": [
+      [
+       "ANS 205"
+      ],
+      [
+       "ANS 303"
+      ],
+      [
+       "ANS 304"
+      ],
+      [
+       "ANS 309"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "Select one of the following Evaluation of Farm Animals courses: 2",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ANS 225 Principles of Animal Nutrition 3 or ANS 230 Animal Nutrition",
+     "options": [
+      [
+       "ANS 225"
+      ],
+      [
+       "ANS 230"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANS 225 Principles of Animal Nutrition 3 or ANS 230 Animal Nutrition",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ANS 215 Agricultural Genetics 3 or GN 301 Genetics in Human Affairs",
+     "options": [
+      [
+       "ANS 215"
+      ],
+      [
+       "GN 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANS 215 Agricultural Genetics 3 or GN 301 Genetics in Human Affairs",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Animal Science Elective",
+     "options": [
+      [
+       "AEE 208"
+      ],
+      [
+       "ANS 105"
+      ],
+      [
+       "ANS 110"
+      ],
+      [
+       "ANS 150"
+      ],
+      [
+       "ANS 151"
+      ],
+      [
+       "ANS 201"
+      ],
+      [
+       "ANS 205"
+      ],
+      [
+       "ANS 206"
+      ],
+      [
+       "ANS 208"
+      ],
+      [
+       "ANS 215"
+      ],
+      [
+       "ANS 220"
+      ],
+      [
+       "ANS 221"
+      ],
+      [
+       "ANS 225"
+      ],
+      [
+       "ANS 230"
+      ],
+      [
+       "ANS 231"
+      ],
+      [
+       "ANS 240"
+      ],
+      [
+       "ANS 240A"
+      ],
+      [
+       "ANS 260"
+      ],
+      [
+       "ANS 261"
+      ],
+      [
+       "ANS 262"
+      ],
+      [
+       "ANS 263"
+      ],
+      [
+       "ANS 264"
+      ],
+      [
+       "ANS 265"
+      ],
+      [
+       "ANS 266"
+      ],
+      [
+       "ANS 267"
+      ],
+      [
+       "ANS 268"
+      ],
+      [
+       "ANS 269"
+      ],
+      [
+       "ANS 270"
+      ],
+      [
+       "ANS 271"
+      ],
+      [
+       "ANS 281"
+      ],
+      [
+       "ANS 290"
+      ],
+      [
+       "ANS 303"
+      ],
+      [
+       "ANS 304"
+      ],
+      [
+       "ANS 309"
+      ],
+      [
+       "ANS 322"
+      ],
+      [
+       "ANS 324"
+      ],
+      [
+       "ANS 330"
+      ],
+      [
+       "ANS 395"
+      ],
+      [
+       "ANS 400"
+      ],
+      [
+       "ANS 402"
+      ],
+      [
+       "ANS 403"
+      ],
+      [
+       "ANS 404"
+      ],
+      [
+       "ANS 408"
+      ],
+      [
+       "ANS 410"
+      ],
+      [
+       "ANS 411"
+      ],
+      [
+       "ANS 415"
+      ],
+      [
+       "ANS 425"
+      ],
+      [
+       "ANS 440"
+      ],
+      [
+       "ANS 452"
+      ],
+      [
+       "ANS 453"
+      ],
+      [
+       "ANS 454"
+      ],
+      [
+       "ANS 480"
+      ],
+      [
+       "ANS 492"
+      ],
+      [
+       "ANS 493"
+      ],
+      [
+       "ANS 494"
+      ],
+      [
+       "ANS 495"
+      ],
+      [
+       "FM 425"
+      ],
+      [
+       "FS 301"
+      ],
+      [
+       "FS 322"
+      ],
+      [
+       "FS 324"
+      ],
+      [
+       "FS 435"
+      ],
+      [
+       "HS 215"
+      ],
+      [
+       "NTR 415"
+      ],
+      [
+       "NTR 425"
+      ],
+      [
+       "NTR 454"
+      ],
+      [
+       "PB 208"
+      ],
+      [
+       "PO 322"
+      ],
+      [
+       "PO 415"
+      ],
+      [
+       "PO 425"
+      ]
+     ],
+     "pick": {
+      "hours": 2
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "Animal Science Elective 2",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "ANS Restricted Elective",
+     "options": [
+      [
+       "ANS 400"
+      ],
+      [
+       "ANS 402"
+      ],
+      [
+       "ANS 403"
+      ],
+      [
+       "ANS 404"
+      ],
+      [
+       "ANS 408"
+      ],
+      [
+       "ANS 410"
+      ],
+      [
+       "ANS 411"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ANS Restricted Elective 6",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses In The Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Mathematical Sciences 6",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s39"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Free Electives 4",
+     "id": "ncsu-agricultural-education-bs-animal-science-concentration-s40"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: FOR 303, FOR 304, FOR 374"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-education-bs-animal-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Animal Science Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

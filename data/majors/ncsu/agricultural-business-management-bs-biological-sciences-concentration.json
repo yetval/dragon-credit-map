@@ -1,0 +1,4619 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration",
+ "university": "ncsu",
+ "name": "Agricultural Business Management",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-resource-economics/agricultural-business-management-bs-biological-sciences-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communications & Tech Fluency",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Communications Course:",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 201"
+      ],
+      [
+       "COM 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Communications Course: 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Advanced Writing Course:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Writing Course: 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "options": [
+      [
+       "AEE 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "or CSC 200",
+     "options": [],
+     "hours": null,
+     "raw": "or CSC 200",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Select one of the following: 3-4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "MA 114"
+      ],
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Select one of the following: 3-4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Statistics Course:",
+     "options": [
+      [
+       "BUS 350"
+      ],
+      [
+       "ST 311"
+      ],
+      [
+       "ST 350"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Statistics Course: 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s8"
+    }
+   ]
+  },
+  {
+   "title": "Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BIO 183"
+      ],
+      [
+       "PB 200"
+      ],
+      [
+       "PB 250"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "GN 301 Genetics in Human Affairs 3 or GN 311 Principles of Genetics",
+     "options": [
+      [
+       "GN 301"
+      ],
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GN 301 Genetics in Human Affairs 3 or GN 311 Principles of Genetics",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Physics Course:",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Physics Course: 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Chemistry Course:",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "CH 220"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Chemistry Course: 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Biology Course:",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "MB 351",
+       "MB 352"
+      ],
+      [
+       "PB 360"
+      ],
+      [
+       "PB 400"
+      ],
+      [
+       "ZO 250"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Biology Course: 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s15"
+    }
+   ]
+  },
+  {
+   "title": "Deptartment Course Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE 201 Introduction to Agricultural & Resource Economics 3 or EC 201 Principles of Microeconomics",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "EC 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 201 Introduction to Agricultural & Resource Economics 3 or EC 201 Principles of Microeconomics",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ACC 220 Introduction to Managerial Accounting 3 or ACC 210 Concepts of Financial Reporting",
+     "options": [
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ACC 220 Introduction to Managerial Accounting 3 or ACC 210 Concepts of Financial Reporting",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARE 304 Agribusiness Management 3",
+     "options": [
+      [
+       "ARE 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 304 Agribusiness Management 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE 306 Agricultural Law 3 or ARE 309 Environmental Law & Economic Policy",
+     "options": [
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 306 Agricultural Law 3 or ARE 309 Environmental Law & Economic Policy",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Marketing Course:",
+     "options": [
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "BUS 360"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Marketing Course: 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE 321 Agricultural Financial Management 3 or BUS 320 Principles of Finance",
+     "options": [
+      [
+       "ARE 321"
+      ],
+      [
+       "BUS 320"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 321 Agricultural Financial Management 3 or BUS 320 Principles of Finance",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE 301 Intermediate Microeconomics 3 or EC 301 Intermediate Microeconomics",
+     "options": [
+      [
+       "ARE 301"
+      ],
+      [
+       "EC 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 301 Intermediate Microeconomics 3 or EC 301 Intermediate Microeconomics",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE/EC Elective:",
+     "options": [
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 345"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "EC 431"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE/EC Elective: 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARE 490 Career Seminar in Agriculture & Resource Economics 1",
+     "options": [
+      [
+       "ARE 490"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ARE 490 Career Seminar in Agriculture & Resource Economics 1",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "ARE Electives",
+     "options": [
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 260"
+      ],
+      [
+       "ARE 270"
+      ],
+      [
+       "ARE 295"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 323"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "ARE 345"
+      ],
+      [
+       "ARE 370"
+      ],
+      [
+       "ARE 395"
+      ],
+      [
+       "ARE 404"
+      ],
+      [
+       "ARE 412"
+      ],
+      [
+       "ARE 413"
+      ],
+      [
+       "ARE 415"
+      ],
+      [
+       "ARE 420"
+      ],
+      [
+       "ARE 425"
+      ],
+      [
+       "ARE 433"
+      ],
+      [
+       "ARE 444"
+      ],
+      [
+       "ARE 448"
+      ],
+      [
+       "ARE 455"
+      ],
+      [
+       "ARE 470"
+      ],
+      [
+       "ARE 475"
+      ],
+      [
+       "ARE 490"
+      ],
+      [
+       "ARE 492"
+      ],
+      [
+       "ARE 493"
+      ],
+      [
+       "ARE 494"
+      ],
+      [
+       "ARE 495"
+      ],
+      [
+       "ARE 590"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "ECG 505"
+      ],
+      [
+       "ECG 506"
+      ],
+      [
+       "ECG 512"
+      ],
+      [
+       "ECG 515"
+      ],
+      [
+       "ECG 528"
+      ],
+      [
+       "ECG 530"
+      ],
+      [
+       "ECG 537"
+      ],
+      [
+       "ECG 540"
+      ],
+      [
+       "ECG 548"
+      ],
+      [
+       "ECG 561"
+      ],
+      [
+       "ECG 562"
+      ],
+      [
+       "ECG 563"
+      ],
+      [
+       "ECG 580"
+      ],
+      [
+       "ECG 590"
+      ],
+      [
+       "FIM 528"
+      ],
+      [
+       "MA 528"
+      ],
+      [
+       "MBA 528"
+      ],
+      [
+       "ST 561"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE Electives 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s25"
+    }
+   ]
+  },
+  {
+   "title": "Restricted Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Restricted Electives",
+     "options": [
+      [
+       "ACC 210"
+      ],
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 230"
+      ],
+      [
+       "ACC 280"
+      ],
+      [
+       "ACC 295"
+      ],
+      [
+       "ACC 310"
+      ],
+      [
+       "ACC 311"
+      ],
+      [
+       "ACC 330"
+      ],
+      [
+       "ACC 340"
+      ],
+      [
+       "ACC 411"
+      ],
+      [
+       "ACC 420"
+      ],
+      [
+       "ACC 440"
+      ],
+      [
+       "ACC 450"
+      ],
+      [
+       "ACC 451"
+      ],
+      [
+       "ACC 460"
+      ],
+      [
+       "ACC 495"
+      ],
+      [
+       "ACC 498"
+      ],
+      [
+       "ACC 499"
+      ],
+      [
+       "ACC 508"
+      ],
+      [
+       "ACC 510"
+      ],
+      [
+       "ACC 519"
+      ],
+      [
+       "ACC 520"
+      ],
+      [
+       "ACC 530"
+      ],
+      [
+       "ACC 533"
+      ],
+      [
+       "ACC 540"
+      ],
+      [
+       "ACC 550"
+      ],
+      [
+       "ACC 560"
+      ],
+      [
+       "ACC 561"
+      ],
+      [
+       "ACC 562"
+      ],
+      [
+       "ACC 563"
+      ],
+      [
+       "ACC 564"
+      ],
+      [
+       "ACC 565"
+      ],
+      [
+       "ACC 566"
+      ],
+      [
+       "ACC 567"
+      ],
+      [
+       "ACC 568"
+      ],
+      [
+       "ACC 569"
+      ],
+      [
+       "ACC 570"
+      ],
+      [
+       "ACC 571"
+      ],
+      [
+       "ACC 588"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 260"
+      ],
+      [
+       "ARE 270"
+      ],
+      [
+       "ARE 295"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 323"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "ARE 345"
+      ],
+      [
+       "ARE 370"
+      ],
+      [
+       "ARE 395"
+      ],
+      [
+       "ARE 404"
+      ],
+      [
+       "ARE 412"
+      ],
+      [
+       "ARE 413"
+      ],
+      [
+       "ARE 415"
+      ],
+      [
+       "ARE 420"
+      ],
+      [
+       "ARE 425"
+      ],
+      [
+       "ARE 433"
+      ],
+      [
+       "ARE 444"
+      ],
+      [
+       "ARE 448"
+      ],
+      [
+       "ARE 455"
+      ],
+      [
+       "ARE 470"
+      ],
+      [
+       "ARE 475"
+      ],
+      [
+       "ARE 490"
+      ],
+      [
+       "ARE 492"
+      ],
+      [
+       "ARE 493"
+      ],
+      [
+       "ARE 494"
+      ],
+      [
+       "ARE 495"
+      ],
+      [
+       "ARE 590"
+      ],
+      [
+       "BUS 225"
+      ],
+      [
+       "BUS 295"
+      ],
+      [
+       "BUS 320"
+      ],
+      [
+       "BUS 340"
+      ],
+      [
+       "BUS 350"
+      ],
+      [
+       "BUS 351"
+      ],
+      [
+       "BUS 360"
+      ],
+      [
+       "BUS 370"
+      ],
+      [
+       "BUS 420"
+      ],
+      [
+       "BUS 422"
+      ],
+      [
+       "BUS 425"
+      ],
+      [
+       "BUS 426"
+      ],
+      [
+       "BUS 428"
+      ],
+      [
+       "BUS 429"
+      ],
+      [
+       "BUS 440"
+      ],
+      [
+       "BUS 441"
+      ],
+      [
+       "BUS 442"
+      ],
+      [
+       "BUS 443"
+      ],
+      [
+       "BUS 444"
+      ],
+      [
+       "BUS 449"
+      ],
+      [
+       "BUS 458"
+      ],
+      [
+       "BUS 459"
+      ],
+      [
+       "BUS 460"
+      ],
+      [
+       "BUS 461"
+      ],
+      [
+       "BUS 462"
+      ],
+      [
+       "BUS 464"
+      ],
+      [
+       "BUS 465"
+      ],
+      [
+       "BUS 466"
+      ],
+      [
+       "BUS 467"
+      ],
+      [
+       "BUS 468"
+      ],
+      [
+       "BUS 469"
+      ],
+      [
+       "BUS 470"
+      ],
+      [
+       "BUS 472"
+      ],
+      [
+       "BUS 473"
+      ],
+      [
+       "BUS 474"
+      ],
+      [
+       "BUS 475"
+      ],
+      [
+       "BUS 476"
+      ],
+      [
+       "BUS 479"
+      ],
+      [
+       "BUS 495"
+      ],
+      [
+       "BUS 498"
+      ],
+      [
+       "BUS 501"
+      ],
+      [
+       "BUS 554"
+      ],
+      [
+       "BUS 571"
+      ],
+      [
+       "BUS 585"
+      ],
+      [
+       "BUS 590"
+      ],
+      [
+       "EC 202"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 305"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "EC 351"
+      ],
+      [
+       "EC 404"
+      ],
+      [
+       "EC 410"
+      ],
+      [
+       "EC 413"
+      ],
+      [
+       "EC 431"
+      ],
+      [
+       "EC 437"
+      ],
+      [
+       "EC 449"
+      ],
+      [
+       "EC 451"
+      ],
+      [
+       "EC 468"
+      ],
+      [
+       "EC 474"
+      ],
+      [
+       "EC 480"
+      ],
+      [
+       "EC 490"
+      ],
+      [
+       "EC 495"
+      ],
+      [
+       "EC 498"
+      ],
+      [
+       "ECG 512"
+      ],
+      [
+       "FTM 482"
+      ],
+      [
+       "M 100"
+      ],
+      [
+       "MBA 577"
+      ],
+      [
+       "MIE 201"
+      ],
+      [
+       "MIE 295"
+      ],
+      [
+       "MIE 305"
+      ],
+      [
+       "MIE 306"
+      ],
+      [
+       "MIE 310"
+      ],
+      [
+       "MIE 330"
+      ],
+      [
+       "MIE 335"
+      ],
+      [
+       "MIE 410"
+      ],
+      [
+       "MIE 411"
+      ],
+      [
+       "MIE 412"
+      ],
+      [
+       "MIE 413"
+      ],
+      [
+       "MIE 416"
+      ],
+      [
+       "MIE 418"
+      ],
+      [
+       "MIE 419"
+      ],
+      [
+       "MIE 430"
+      ],
+      [
+       "MIE 432"
+      ],
+      [
+       "MIE 434"
+      ],
+      [
+       "MIE 435"
+      ],
+      [
+       "MIE 436"
+      ],
+      [
+       "MIE 438"
+      ],
+      [
+       "MIE 439"
+      ],
+      [
+       "MIE 480"
+      ],
+      [
+       "MIE 495"
+      ],
+      [
+       "MIE 498"
+      ],
+      [
+       "MSE 577"
+      ],
+      [
+       "PRT 406"
+      ],
+      [
+       "ST 350"
+      ],
+      [
+       "TTM 585"
+      ],
+      [
+       "AEC 360"
+      ],
+      [
+       "AEC 380"
+      ],
+      [
+       "AEC 419"
+      ],
+      [
+       "AEC 420"
+      ],
+      [
+       "AEC 423"
+      ],
+      [
+       "AEC 441"
+      ],
+      [
+       "AEC 442"
+      ],
+      [
+       "AEC 460"
+      ],
+      [
+       "AEC 509"
+      ],
+      [
+       "AEC 515"
+      ],
+      [
+       "AEC 519"
+      ],
+      [
+       "AEC 586"
+      ],
+      [
+       "AEC 587"
+      ],
+      [
+       "AEC 761"
+      ],
+      [
+       "AEE 101"
+      ],
+      [
+       "AEE 103"
+      ],
+      [
+       "AEE 208"
+      ],
+      [
+       "AEE 226"
+      ],
+      [
+       "AEE 230"
+      ],
+      [
+       "AEE 303"
+      ],
+      [
+       "AEE 311"
+      ],
+      [
+       "AEE 322"
+      ],
+      [
+       "AEE 323"
+      ],
+      [
+       "AEE 325"
+      ],
+      [
+       "AEE 326"
+      ],
+      [
+       "AEE 327"
+      ],
+      [
+       "AEE 350"
+      ],
+      [
+       "AEE 360"
+      ],
+      [
+       "AEE 423"
+      ],
+      [
+       "AEE 424"
+      ],
+      [
+       "AEE 426"
+      ],
+      [
+       "AEE 427"
+      ],
+      [
+       "AEE 433"
+      ],
+      [
+       "AEE 435"
+      ],
+      [
+       "AEE 460"
+      ],
+      [
+       "AEE 478"
+      ],
+      [
+       "AEE 490"
+      ],
+      [
+       "AEE 491"
+      ],
+      [
+       "AEE 492"
+      ],
+      [
+       "AEE 493"
+      ],
+      [
+       "AEE 495"
+      ],
+      [
+       "AEE 500"
+      ],
+      [
+       "AEE 501"
+      ],
+      [
+       "AEE 503"
+      ],
+      [
+       "AEE 505"
+      ],
+      [
+       "AEE 507"
+      ],
+      [
+       "AEE 521"
+      ],
+      [
+       "AEE 522"
+      ],
+      [
+       "AEE 523"
+      ],
+      [
+       "AEE 524"
+      ],
+      [
+       "AEE 526"
+      ],
+      [
+       "AEE 529"
+      ],
+      [
+       "AEE 533"
+      ],
+      [
+       "AEE 535"
+      ],
+      [
+       "AEE 545"
+      ],
+      [
+       "AEE 560"
+      ],
+      [
+       "AEE 577"
+      ],
+      [
+       "AEE 578"
+      ],
+      [
+       "AEE 579"
+      ],
+      [
+       "AEE 595"
+      ],
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ],
+      [
+       "ANS 105"
+      ],
+      [
+       "ANS 110"
+      ],
+      [
+       "ANS 150"
+      ],
+      [
+       "ANS 151"
+      ],
+      [
+       "ANS 201"
+      ],
+      [
+       "ANS 205"
+      ],
+      [
+       "ANS 206"
+      ],
+      [
+       "ANS 208"
+      ],
+      [
+       "ANS 215"
+      ],
+      [
+       "ANS 220"
+      ],
+      [
+       "ANS 221"
+      ],
+      [
+       "ANS 225"
+      ],
+      [
+       "ANS 230"
+      ],
+      [
+       "ANS 231"
+      ],
+      [
+       "ANS 240"
+      ],
+      [
+       "ANS 240A"
+      ],
+      [
+       "ANS 260"
+      ],
+      [
+       "ANS 261"
+      ],
+      [
+       "ANS 262"
+      ],
+      [
+       "ANS 263"
+      ],
+      [
+       "ANS 264"
+      ],
+      [
+       "ANS 265"
+      ],
+      [
+       "ANS 266"
+      ],
+      [
+       "ANS 267"
+      ],
+      [
+       "ANS 268"
+      ],
+      [
+       "ANS 269"
+      ],
+      [
+       "ANS 270"
+      ],
+      [
+       "ANS 271"
+      ],
+      [
+       "ANS 281"
+      ],
+      [
+       "ANS 290"
+      ],
+      [
+       "ANS 303"
+      ],
+      [
+       "ANS 304"
+      ],
+      [
+       "ANS 309"
+      ],
+      [
+       "ANS 322"
+      ],
+      [
+       "ANS 324"
+      ],
+      [
+       "ANS 330"
+      ],
+      [
+       "ANS 395"
+      ],
+      [
+       "ANS 400"
+      ],
+      [
+       "ANS 402"
+      ],
+      [
+       "ANS 403"
+      ],
+      [
+       "ANS 404"
+      ],
+      [
+       "ANS 408"
+      ],
+      [
+       "ANS 410"
+      ],
+      [
+       "ANS 411"
+      ],
+      [
+       "ANS 415"
+      ],
+      [
+       "ANS 425"
+      ],
+      [
+       "ANS 440"
+      ],
+      [
+       "ANS 452"
+      ],
+      [
+       "ANS 453"
+      ],
+      [
+       "ANS 454"
+      ],
+      [
+       "ANS 480"
+      ],
+      [
+       "ANS 492"
+      ],
+      [
+       "ANS 493"
+      ],
+      [
+       "ANS 494"
+      ],
+      [
+       "ANS 495"
+      ],
+      [
+       "ANS 515"
+      ],
+      [
+       "ANS 525"
+      ],
+      [
+       "ANS 530"
+      ],
+      [
+       "ANS 531"
+      ],
+      [
+       "ANS 540"
+      ],
+      [
+       "ANS 550"
+      ],
+      [
+       "ANS 552"
+      ],
+      [
+       "ANS 553"
+      ],
+      [
+       "ANS 554"
+      ],
+      [
+       "ANS 561"
+      ],
+      [
+       "ANS 571"
+      ],
+      [
+       "ANS 575"
+      ],
+      [
+       "ANS 590"
+      ],
+      [
+       "BAE 100"
+      ],
+      [
+       "BAE 200"
+      ],
+      [
+       "BAE 202"
+      ],
+      [
+       "BAE 203"
+      ],
+      [
+       "BAE 204"
+      ],
+      [
+       "BAE 302"
+      ],
+      [
+       "BAE 305"
+      ],
+      [
+       "BAE 321"
+      ],
+      [
+       "BAE 322"
+      ],
+      [
+       "BAE 325"
+      ],
+      [
+       "BAE 361"
+      ],
+      [
+       "BAE 371"
+      ],
+      [
+       "BAE 376"
+      ],
+      [
+       "BAE 401"
+      ],
+      [
+       "BAE 425"
+      ],
+      [
+       "BAE 435"
+      ],
+      [
+       "BAE 451"
+      ],
+      [
+       "BAE 452"
+      ],
+      [
+       "BAE 462"
+      ],
+      [
+       "BAE 472"
+      ],
+      [
+       "BAE 473"
+      ],
+      [
+       "BAE 474"
+      ],
+      [
+       "BAE 478"
+      ],
+      [
+       "BAE 481"
+      ],
+      [
+       "BAE 488"
+      ],
+      [
+       "BAE 492"
+      ],
+      [
+       "BAE 493"
+      ],
+      [
+       "BAE 495"
+      ],
+      [
+       "BAE 501"
+      ],
+      [
+       "BAE 502"
+      ],
+      [
+       "BAE 525"
+      ],
+      [
+       "BAE 528"
+      ],
+      [
+       "BAE 535"
+      ],
+      [
+       "BAE 536"
+      ],
+      [
+       "BAE 560"
+      ],
+      [
+       "BAE 561"
+      ],
+      [
+       "BAE 572"
+      ],
+      [
+       "BAE 573"
+      ],
+      [
+       "BAE 574"
+      ],
+      [
+       "BAE 575"
+      ],
+      [
+       "BAE 576"
+      ],
+      [
+       "BAE 577"
+      ],
+      [
+       "BAE 578"
+      ],
+      [
+       "BAE 580"
+      ],
+      [
+       "BAE 581"
+      ],
+      [
+       "BAE 582"
+      ],
+      [
+       "BAE 583"
+      ],
+      [
+       "BAE 584"
+      ],
+      [
+       "BAE 585"
+      ],
+      [
+       "BAE 590"
+      ],
+      [
+       "BAE 591"
+      ],
+      [
+       "BAE 592"
+      ],
+      [
+       "BAE 593"
+      ],
+      [
+       "BBS 325"
+      ],
+      [
+       "BBS 426"
+      ],
+      [
+       "BBS 526"
+      ],
+      [
+       "BCH 101"
+      ],
+      [
+       "BCH 571"
+      ],
+      [
+       "BEC 220"
+      ],
+      [
+       "BEC 330"
+      ],
+      [
+       "BEC 363"
+      ],
+      [
+       "BEC 426"
+      ],
+      [
+       "BEC 436"
+      ],
+      [
+       "BEC 440"
+      ],
+      [
+       "BEC 441"
+      ],
+      [
+       "BEC 462"
+      ],
+      [
+       "BEC 463"
+      ],
+      [
+       "BEC 475"
+      ],
+      [
+       "BEC 480"
+      ],
+      [
+       "BEC 483"
+      ],
+      [
+       "BEC 485"
+      ],
+      [
+       "BEC 488"
+      ],
+      [
+       "BEC 495"
+      ],
+      [
+       "BEC 497"
+      ],
+      [
+       "BEC 515"
+      ],
+      [
+       "BEC 526"
+      ],
+      [
+       "BEC 532"
+      ],
+      [
+       "BEC 536"
+      ],
+      [
+       "BEC 540"
+      ],
+      [
+       "BEC 541"
+      ],
+      [
+       "BEC 562"
+      ],
+      [
+       "BEC 563"
+      ],
+      [
+       "BEC 575"
+      ],
+      [
+       "BEC 577"
+      ],
+      [
+       "BEC 580"
+      ],
+      [
+       "BEC 583"
+      ],
+      [
+       "BEC 585"
+      ],
+      [
+       "BEC 590"
+      ],
+      [
+       "BEC 595"
+      ],
+      [
+       "BIO 140"
+      ],
+      [
+       "BIO 141"
+      ],
+      [
+       "BIO 165"
+      ],
+      [
+       "BIO 183"
+      ],
+      [
+       "BIO 227"
+      ],
+      [
+       "BIO 230"
+      ],
+      [
+       "BIO 240"
+      ],
+      [
+       "BIO 245"
+      ],
+      [
+       "BIO 267"
+      ],
+      [
+       "BIO 269"
+      ],
+      [
+       "BIO 310"
+      ],
+      [
+       "BIO 315"
+      ],
+      [
+       "BIO 325"
+      ],
+      [
+       "BIO 330"
+      ],
+      [
+       "BIO 361"
+      ],
+      [
+       "BIO 370"
+      ],
+      [
+       "BIO 375"
+      ],
+      [
+       "BIO 405"
+      ],
+      [
+       "BIO 414"
+      ],
+      [
+       "BIO 416"
+      ],
+      [
+       "BIO 418"
+      ],
+      [
+       "BIO 424"
+      ],
+      [
+       "BIO 432"
+      ],
+      [
+       "BIO 434"
+      ],
+      [
+       "BIO 440"
+      ],
+      [
+       "BIO 444"
+      ],
+      [
+       "BIO 481"
+      ],
+      [
+       "BIO 482"
+      ],
+      [
+       "BIO 483"
+      ],
+      [
+       "BIO 484"
+      ],
+      [
+       "BIO 485"
+      ],
+      [
+       "BIO 488"
+      ],
+      [
+       "BIO 498"
+      ],
+      [
+       "BIO 499"
+      ],
+      [
+       "BIO 518"
+      ],
+      [
+       "BIO 560"
+      ],
+      [
+       "BIO 570"
+      ],
+      [
+       "BIO 572"
+      ],
+      [
+       "BIO 588"
+      ],
+      [
+       "BIO 592"
+      ],
+      [
+       "BIT 210"
+      ],
+      [
+       "BIT 211"
+      ],
+      [
+       "BIT 463"
+      ],
+      [
+       "BIT 466"
+      ],
+      [
+       "BIT 476"
+      ],
+      [
+       "BIT 481"
+      ],
+      [
+       "BIT 563"
+      ],
+      [
+       "BIT 566"
+      ],
+      [
+       "BIT 572"
+      ],
+      [
+       "BMA 560"
+      ],
+      [
+       "BME 483"
+      ],
+      [
+       "BME 583"
+      ],
+      [
+       "BSC 295"
+      ],
+      [
+       "BSC 492"
+      ],
+      [
+       "BSC 493"
+      ],
+      [
+       "BSC 495"
+      ],
+      [
+       "CE 435"
+      ],
+      [
+       "CE 479"
+      ],
+      [
+       "CE 581"
+      ],
+      [
+       "CH 100"
+      ],
+      [
+       "CH 101"
+      ],
+      [
+       "CH 102"
+      ],
+      [
+       "CH 103"
+      ],
+      [
+       "CH 104"
+      ],
+      [
+       "CH 111"
+      ],
+      [
+       "CH 201"
+      ],
+      [
+       "CH 202"
+      ],
+      [
+       "CH 203"
+      ],
+      [
+       "CH 204"
+      ],
+      [
+       "CH 220"
+      ],
+      [
+       "CH 221"
+      ],
+      [
+       "CH 222"
+      ],
+      [
+       "CH 223"
+      ],
+      [
+       "CH 224"
+      ],
+      [
+       "CH 225"
+      ],
+      [
+       "CH 226"
+      ],
+      [
+       "CH 227"
+      ],
+      [
+       "CH 228"
+      ],
+      [
+       "CH 230"
+      ],
+      [
+       "CH 232"
+      ],
+      [
+       "CH 295"
+      ],
+      [
+       "CH 315"
+      ],
+      [
+       "CH 316"
+      ],
+      [
+       "CH 331"
+      ],
+      [
+       "CH 335"
+      ],
+      [
+       "CH 345"
+      ],
+      [
+       "CH 401"
+      ],
+      [
+       "CH 403"
+      ],
+      [
+       "CH 415"
+      ],
+      [
+       "CH 431"
+      ],
+      [
+       "CH 433"
+      ],
+      [
+       "CH 435"
+      ],
+      [
+       "CH 437"
+      ],
+      [
+       "CH 441"
+      ],
+      [
+       "CH 442"
+      ],
+      [
+       "CH 444"
+      ],
+      [
+       "CH 452"
+      ],
+      [
+       "CH 454"
+      ],
+      [
+       "CH 463"
+      ],
+      [
+       "CH 495"
+      ],
+      [
+       "CH 499"
+      ],
+      [
+       "CH 563"
+      ],
+      [
+       "CH 572"
+      ],
+      [
+       "CHE 462"
+      ],
+      [
+       "CHE 463"
+      ],
+      [
+       "CHE 488"
+      ],
+      [
+       "CHE 562"
+      ],
+      [
+       "CHE 563"
+      ],
+      [
+       "CHE 577"
+      ],
+      [
+       "CS 200"
+      ],
+      [
+       "CS 210"
+      ],
+      [
+       "CS 211"
+      ],
+      [
+       "CS 213"
+      ],
+      [
+       "CS 214"
+      ],
+      [
+       "CS 216"
+      ],
+      [
+       "CS 218"
+      ],
+      [
+       "CS 224"
+      ],
+      [
+       "CS 230"
+      ],
+      [
+       "CS 312"
+      ],
+      [
+       "CS 400"
+      ],
+      [
+       "CS 410"
+      ],
+      [
+       "CS 411"
+      ],
+      [
+       "CS 413"
+      ],
+      [
+       "CS 414"
+      ],
+      [
+       "CS 415"
+      ],
+      [
+       "CS 418"
+      ],
+      [
+       "CS 424"
+      ],
+      [
+       "CS 430"
+      ],
+      [
+       "CS 465"
+      ],
+      [
+       "CS 470"
+      ],
+      [
+       "CS 480"
+      ],
+      [
+       "CS 502"
+      ],
+      [
+       "CS 518"
+      ],
+      [
+       "CS 524"
+      ],
+      [
+       "CS 541"
+      ],
+      [
+       "CS 565"
+      ],
+      [
+       "CS 590"
+      ],
+      [
+       "CS 591"
+      ],
+      [
+       "CSSC 290"
+      ],
+      [
+       "CSSC 490"
+      ],
+      [
+       "CSSC 492"
+      ],
+      [
+       "CSSC 493"
+      ],
+      [
+       "CSSC 495"
+      ],
+      [
+       "ECE 488"
+      ],
+      [
+       "ECE 489"
+      ],
+      [
+       "ECE 588"
+      ],
+      [
+       "ECE 589"
+      ],
+      [
+       "ECI 424"
+      ],
+      [
+       "ENT 201"
+      ],
+      [
+       "ENT 203"
+      ],
+      [
+       "ENT 207"
+      ],
+      [
+       "ENT 212"
+      ],
+      [
+       "ENT 305"
+      ],
+      [
+       "ENT 401"
+      ],
+      [
+       "ENT 402"
+      ],
+      [
+       "ENT 425"
+      ],
+      [
+       "ENT 470"
+      ],
+      [
+       "ENT 492"
+      ],
+      [
+       "ENT 493"
+      ],
+      [
+       "ENT 495"
+      ],
+      [
+       "ENT 502"
+      ],
+      [
+       "ENT 503"
+      ],
+      [
+       "ENT 504"
+      ],
+      [
+       "ENT 506"
+      ],
+      [
+       "ENT 509"
+      ],
+      [
+       "ENT 510"
+      ],
+      [
+       "ENT 520"
+      ],
+      [
+       "ENT 526"
+      ],
+      [
+       "ENT 550"
+      ],
+      [
+       "ENT 560"
+      ],
+      [
+       "ENT 582"
+      ],
+      [
+       "ENT 591"
+      ],
+      [
+       "ES 100"
+      ],
+      [
+       "ES 111"
+      ],
+      [
+       "ES 113"
+      ],
+      [
+       "ES 150"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "ES 295"
+      ],
+      [
+       "ES 300"
+      ],
+      [
+       "ES 400"
+      ],
+      [
+       "ES 449"
+      ],
+      [
+       "ES 450"
+      ],
+      [
+       "ES 495"
+      ],
+      [
+       "ES 496"
+      ],
+      [
+       "ES 497"
+      ],
+      [
+       "ES 498"
+      ],
+      [
+       "ES 499"
+      ],
+      [
+       "ET 105"
+      ],
+      [
+       "ET 120"
+      ],
+      [
+       "ET 201"
+      ],
+      [
+       "ET 202"
+      ],
+      [
+       "ET 203"
+      ],
+      [
+       "ET 220"
+      ],
+      [
+       "ET 255"
+      ],
+      [
+       "ET 262"
+      ],
+      [
+       "ET 293"
+      ],
+      [
+       "ET 294"
+      ],
+      [
+       "ET 295"
+      ],
+      [
+       "ET 301"
+      ],
+      [
+       "ET 302"
+      ],
+      [
+       "ET 303"
+      ],
+      [
+       "ET 310"
+      ],
+      [
+       "ET 320"
+      ],
+      [
+       "ET 330"
+      ],
+      [
+       "ET 401"
+      ],
+      [
+       "ET 455"
+      ],
+      [
+       "ET 460"
+      ],
+      [
+       "ET 493"
+      ],
+      [
+       "ET 494"
+      ],
+      [
+       "ET 495"
+      ],
+      [
+       "FM 425"
+      ],
+      [
+       "FM 426"
+      ],
+      [
+       "FM 525"
+      ],
+      [
+       "FM 580"
+      ],
+      [
+       "FOR 150"
+      ],
+      [
+       "FOR 172"
+      ],
+      [
+       "FOR 204"
+      ],
+      [
+       "FOR 248"
+      ],
+      [
+       "FOR 250"
+      ],
+      [
+       "FOR 252"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "FOR 261"
+      ],
+      [
+       "FOR 264"
+      ],
+      [
+       "FOR 265"
+      ],
+      [
+       "FOR 273"
+      ],
+      [
+       "FOR 293"
+      ],
+      [
+       "FOR 294"
+      ],
+      [
+       "FOR 295"
+      ],
+      [
+       "FOR 303"
+      ],
+      [
+       "FOR 304"
+      ],
+      [
+       "FOR 318"
+      ],
+      [
+       "FOR 319"
+      ],
+      [
+       "FOR 330"
+      ],
+      [
+       "FOR 334"
+      ],
+      [
+       "FOR 339"
+      ],
+      [
+       "FOR 350"
+      ],
+      [
+       "FOR 353"
+      ],
+      [
+       "FOR 374"
+      ],
+      [
+       "FOR 402"
+      ],
+      [
+       "FOR 405"
+      ],
+      [
+       "FOR 406"
+      ],
+      [
+       "FOR 408"
+      ],
+      [
+       "FOR 411"
+      ],
+      [
+       "FOR 414"
+      ],
+      [
+       "FOR 415"
+      ],
+      [
+       "FOR 420"
+      ],
+      [
+       "FOR 422"
+      ],
+      [
+       "FOR 430"
+      ],
+      [
+       "FOR 434"
+      ],
+      [
+       "FOR 472"
+      ],
+      [
+       "FOR 491"
+      ],
+      [
+       "FOR 493"
+      ],
+      [
+       "FOR 494"
+      ],
+      [
+       "FOR 501"
+      ],
+      [
+       "FOR 502"
+      ],
+      [
+       "FOR 503"
+      ],
+      [
+       "FOR 504"
+      ],
+      [
+       "FOR 505"
+      ],
+      [
+       "FOR 506"
+      ],
+      [
+       "FOR 507"
+      ],
+      [
+       "FOR 508"
+      ],
+      [
+       "FOR 509"
+      ],
+      [
+       "FOR 510"
+      ],
+      [
+       "FOR 513"
+      ],
+      [
+       "FOR 514"
+      ],
+      [
+       "FOR 519"
+      ],
+      [
+       "FOR 520"
+      ],
+      [
+       "FOR 522"
+      ],
+      [
+       "FOR 531"
+      ],
+      [
+       "FOR 532"
+      ],
+      [
+       "FOR 534"
+      ],
+      [
+       "FOR 540"
+      ],
+      [
+       "FOR 561"
+      ],
+      [
+       "FOR 562"
+      ],
+      [
+       "FOR 565"
+      ],
+      [
+       "FOR 574"
+      ],
+      [
+       "FOR 575"
+      ],
+      [
+       "FOR 583"
+      ],
+      [
+       "FOR 595"
+      ],
+      [
+       "FS 201"
+      ],
+      [
+       "FS 231"
+      ],
+      [
+       "FS 250"
+      ],
+      [
+       "FS 290"
+      ],
+      [
+       "FS 295"
+      ],
+      [
+       "FS 301"
+      ],
+      [
+       "FS 322"
+      ],
+      [
+       "FS 324"
+      ],
+      [
+       "FS 325"
+      ],
+      [
+       "FS 330"
+      ],
+      [
+       "FS 352"
+      ],
+      [
+       "FS 354"
+      ],
+      [
+       "FS 401"
+      ],
+      [
+       "FS 402"
+      ],
+      [
+       "FS 403"
+      ],
+      [
+       "FS 405"
+      ],
+      [
+       "FS 406"
+      ],
+      [
+       "FS 416"
+      ],
+      [
+       "FS 421"
+      ],
+      [
+       "FS 426"
+      ],
+      [
+       "FS 435"
+      ],
+      [
+       "FS 453"
+      ],
+      [
+       "FS 462"
+      ],
+      [
+       "FS 471"
+      ],
+      [
+       "FS 475"
+      ],
+      [
+       "FS 481"
+      ],
+      [
+       "FS 492"
+      ],
+      [
+       "FS 493"
+      ],
+      [
+       "FS 495"
+      ],
+      [
+       "FS 501"
+      ],
+      [
+       "FS 502"
+      ],
+      [
+       "FS 505"
+      ],
+      [
+       "FS 506"
+      ],
+      [
+       "FS 516"
+      ],
+      [
+       "FS 520"
+      ],
+      [
+       "FS 521"
+      ],
+      [
+       "FS 522"
+      ],
+      [
+       "FS 526"
+      ],
+      [
+       "FS 530"
+      ],
+      [
+       "FS 535"
+      ],
+      [
+       "FS 540"
+      ],
+      [
+       "FS 550"
+      ],
+      [
+       "FS 553"
+      ],
+      [
+       "FS 554"
+      ],
+      [
+       "FS 555"
+      ],
+      [
+       "FS 557"
+      ],
+      [
+       "FS 562"
+      ],
+      [
+       "FS 567"
+      ],
+      [
+       "FS 580"
+      ],
+      [
+       "FS 591"
+      ],
+      [
+       "FS 592"
+      ],
+      [
+       "FSA 520"
+      ],
+      [
+       "FSA 530"
+      ],
+      [
+       "FSA 540"
+      ],
+      [
+       "FSA 580"
+      ],
+      [
+       "FW 221"
+      ],
+      [
+       "FW 293"
+      ],
+      [
+       "FW 294"
+      ],
+      [
+       "FW 311"
+      ],
+      [
+       "FW 312"
+      ],
+      [
+       "FW 313"
+      ],
+      [
+       "FW 314"
+      ],
+      [
+       "FW 333"
+      ],
+      [
+       "FW 353"
+      ],
+      [
+       "FW 373"
+      ],
+      [
+       "FW 403"
+      ],
+      [
+       "FW 404"
+      ],
+      [
+       "FW 405"
+      ],
+      [
+       "FW 411"
+      ],
+      [
+       "FW 415"
+      ],
+      [
+       "FW 444"
+      ],
+      [
+       "FW 445"
+      ],
+      [
+       "FW 453"
+      ],
+      [
+       "FW 460"
+      ],
+      [
+       "FW 465"
+      ],
+      [
+       "FW 492"
+      ],
+      [
+       "FW 493"
+      ],
+      [
+       "FW 494"
+      ],
+      [
+       "FW 495"
+      ],
+      [
+       "FW 511"
+      ],
+      [
+       "FW 515"
+      ],
+      [
+       "FW 544"
+      ],
+      [
+       "FW 553"
+      ],
+      [
+       "FW 560"
+      ],
+      [
+       "FW 565"
+      ],
+      [
+       "FW 586"
+      ],
+      [
+       "FW 587"
+      ],
+      [
+       "FW 595"
+      ],
+      [
+       "GES 506"
+      ],
+      [
+       "GIS 512"
+      ],
+      [
+       "GIS 515"
+      ],
+      [
+       "GIS 530"
+      ],
+      [
+       "GIS 550"
+      ],
+      [
+       "GIS 582"
+      ],
+      [
+       "GN 301"
+      ],
+      [
+       "GN 311"
+      ],
+      [
+       "GN 312"
+      ],
+      [
+       "GN 421"
+      ],
+      [
+       "GN 423"
+      ],
+      [
+       "GN 425"
+      ],
+      [
+       "GN 427"
+      ],
+      [
+       "GN 428"
+      ],
+      [
+       "GN 434"
+      ],
+      [
+       "GN 441"
+      ],
+      [
+       "GN 451"
+      ],
+      [
+       "GN 453"
+      ],
+      [
+       "GN 456"
+      ],
+      [
+       "GN 461"
+      ],
+      [
+       "GN 490"
+      ],
+      [
+       "GN 496"
+      ],
+      [
+       "GN 497"
+      ],
+      [
+       "GN 521"
+      ],
+      [
+       "GN 541"
+      ],
+      [
+       "HS 131"
+      ],
+      [
+       "HS 144"
+      ],
+      [
+       "HS 200"
+      ],
+      [
+       "HS 201"
+      ],
+      [
+       "HS 202"
+      ],
+      [
+       "HS 203"
+      ],
+      [
+       "HS 204"
+      ],
+      [
+       "HS 205"
+      ],
+      [
+       "HS 215"
+      ],
+      [
+       "HS 242"
+      ],
+      [
+       "HS 250"
+      ],
+      [
+       "HS 252"
+      ],
+      [
+       "HS 272"
+      ],
+      [
+       "HS 280"
+      ],
+      [
+       "HS 290"
+      ],
+      [
+       "HS 301"
+      ],
+      [
+       "HS 302"
+      ],
+      [
+       "HS 303"
+      ],
+      [
+       "HS 304"
+      ],
+      [
+       "HS 357"
+      ],
+      [
+       "HS 400"
+      ],
+      [
+       "HS 410"
+      ],
+      [
+       "HS 411"
+      ],
+      [
+       "HS 416"
+      ],
+      [
+       "HS 418"
+      ],
+      [
+       "HS 420"
+      ],
+      [
+       "HS 421"
+      ],
+      [
+       "HS 422"
+      ],
+      [
+       "HS 423"
+      ],
+      [
+       "HS 428"
+      ],
+      [
+       "HS 431"
+      ],
+      [
+       "HS 432"
+      ],
+      [
+       "HS 433"
+      ],
+      [
+       "HS 440"
+      ],
+      [
+       "HS 442"
+      ],
+      [
+       "HS 451"
+      ],
+      [
+       "HS 462"
+      ],
+      [
+       "HS 471"
+      ],
+      [
+       "HS 475"
+      ],
+      [
+       "HS 476"
+      ],
+      [
+       "HS 480"
+      ],
+      [
+       "HS 491"
+      ],
+      [
+       "HS 492"
+      ],
+      [
+       "HS 493"
+      ],
+      [
+       "HS 494"
+      ],
+      [
+       "HS 495"
+      ],
+      [
+       "HS 502"
+      ],
+      [
+       "HS 516"
+      ],
+      [
+       "HS 520"
+      ],
+      [
+       "HS 521"
+      ],
+      [
+       "HS 523"
+      ],
+      [
+       "HS 532"
+      ],
+      [
+       "HS 533"
+      ],
+      [
+       "HS 541"
+      ],
+      [
+       "HS 550"
+      ],
+      [
+       "HS 551"
+      ],
+      [
+       "HS 562"
+      ],
+      [
+       "HS 576"
+      ],
+      [
+       "HS 583"
+      ],
+      [
+       "HS 590"
+      ],
+      [
+       "IDS 303"
+      ],
+      [
+       "MA 315"
+      ],
+      [
+       "MA 555"
+      ],
+      [
+       "MB 101"
+      ],
+      [
+       "MB 103"
+      ],
+      [
+       "MB 180"
+      ],
+      [
+       "MB 200"
+      ],
+      [
+       "MB 210"
+      ],
+      [
+       "MB 211"
+      ],
+      [
+       "MB 351"
+      ],
+      [
+       "MB 352"
+      ],
+      [
+       "MB 354"
+      ],
+      [
+       "MB 360"
+      ],
+      [
+       "MB 405"
+      ],
+      [
+       "MB 406"
+      ],
+      [
+       "MB 411"
+      ],
+      [
+       "MB 412"
+      ],
+      [
+       "MB 414"
+      ],
+      [
+       "MB 420"
+      ],
+      [
+       "MB 435"
+      ],
+      [
+       "MB 441"
+      ],
+      [
+       "MB 451"
+      ],
+      [
+       "MB 452"
+      ],
+      [
+       "MB 455"
+      ],
+      [
+       "MB 461"
+      ],
+      [
+       "MB 470"
+      ],
+      [
+       "MB 480"
+      ],
+      [
+       "MB 492"
+      ],
+      [
+       "MB 501"
+      ],
+      [
+       "MB 505"
+      ],
+      [
+       "MB 506"
+      ],
+      [
+       "MB 520"
+      ],
+      [
+       "MB 532"
+      ],
+      [
+       "MB 535"
+      ],
+      [
+       "MB 555"
+      ],
+      [
+       "MB 575"
+      ],
+      [
+       "MB 585"
+      ],
+      [
+       "MB 590"
+      ],
+      [
+       "MEA 100"
+      ],
+      [
+       "MEA 101"
+      ],
+      [
+       "MEA 110"
+      ],
+      [
+       "MEA 130"
+      ],
+      [
+       "MEA 135"
+      ],
+      [
+       "MEA 150"
+      ],
+      [
+       "MEA 200"
+      ],
+      [
+       "MEA 202"
+      ],
+      [
+       "MEA 210"
+      ],
+      [
+       "MEA 211"
+      ],
+      [
+       "MEA 215"
+      ],
+      [
+       "MEA 217"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "MEA 240"
+      ],
+      [
+       "MEA 250"
+      ],
+      [
+       "MEA 251"
+      ],
+      [
+       "MEA 252"
+      ],
+      [
+       "MEA 300"
+      ],
+      [
+       "MEA 312"
+      ],
+      [
+       "MEA 315"
+      ],
+      [
+       "MEA 320"
+      ],
+      [
+       "MEA 321"
+      ],
+      [
+       "MEA 323"
+      ],
+      [
+       "MEA 350"
+      ],
+      [
+       "MEA 369"
+      ],
+      [
+       "MEA 409"
+      ],
+      [
+       "MEA 410"
+      ],
+      [
+       "MEA 411"
+      ],
+      [
+       "MEA 412"
+      ],
+      [
+       "MEA 415"
+      ],
+      [
+       "MEA 421"
+      ],
+      [
+       "MEA 422"
+      ],
+      [
+       "MEA 425"
+      ],
+      [
+       "MEA 440"
+      ],
+      [
+       "MEA 443"
+      ],
+      [
+       "MEA 444"
+      ],
+      [
+       "MEA 449"
+      ],
+      [
+       "MEA 450"
+      ],
+      [
+       "MEA 451"
+      ],
+      [
+       "MEA 454"
+      ],
+      [
+       "MEA 455"
+      ],
+      [
+       "MEA 458"
+      ],
+      [
+       "MEA 459"
+      ],
+      [
+       "MEA 460"
+      ],
+      [
+       "MEA 462"
+      ],
+      [
+       "MEA 463"
+      ],
+      [
+       "MEA 464"
+      ],
+      [
+       "MEA 465"
+      ],
+      [
+       "MEA 466"
+      ],
+      [
+       "MEA 467"
+      ],
+      [
+       "MEA 469"
+      ],
+      [
+       "MEA 470"
+      ],
+      [
+       "MEA 471"
+      ],
+      [
+       "MEA 473"
+      ],
+      [
+       "MEA 476"
+      ],
+      [
+       "MEA 479"
+      ],
+      [
+       "MEA 481"
+      ],
+      [
+       "MEA 485"
+      ],
+      [
+       "MEA 488"
+      ],
+      [
+       "MEA 493"
+      ],
+      [
+       "MEA 495"
+      ],
+      [
+       "MEA 498"
+      ],
+      [
+       "MEA 507"
+      ],
+      [
+       "MEA 510"
+      ],
+      [
+       "MEA 511"
+      ],
+      [
+       "MEA 514"
+      ],
+      [
+       "MEA 515"
+      ],
+      [
+       "MEA 517"
+      ],
+      [
+       "MEA 518"
+      ],
+      [
+       "MEA 519"
+      ],
+      [
+       "MEA 525"
+      ],
+      [
+       "MEA 540"
+      ],
+      [
+       "MEA 549"
+      ],
+      [
+       "MEA 553"
+      ],
+      [
+       "MEA 554"
+      ],
+      [
+       "MEA 562"
+      ],
+      [
+       "MEA 570"
+      ],
+      [
+       "MEA 573"
+      ],
+      [
+       "MEA 574"
+      ],
+      [
+       "MEA 577"
+      ],
+      [
+       "MEA 579"
+      ],
+      [
+       "MEA 580"
+      ],
+      [
+       "MEA 581"
+      ],
+      [
+       "MEA 582"
+      ],
+      [
+       "MEA 585"
+      ],
+      [
+       "MEA 591"
+      ],
+      [
+       "MEA 592"
+      ],
+      [
+       "MEA 593"
+      ],
+      [
+       "MEA 599"
+      ],
+      [
+       "MSE 489"
+      ],
+      [
+       "MSE 589"
+      ],
+      [
+       "NE 528"
+      ],
+      [
+       "NE 529"
+      ],
+      [
+       "NR 219"
+      ],
+      [
+       "NR 293"
+      ],
+      [
+       "NR 294"
+      ],
+      [
+       "NR 295"
+      ],
+      [
+       "NR 300"
+      ],
+      [
+       "NR 301"
+      ],
+      [
+       "NR 303"
+      ],
+      [
+       "NR 350"
+      ],
+      [
+       "NR 360"
+      ],
+      [
+       "NR 400"
+      ],
+      [
+       "NR 406"
+      ],
+      [
+       "NR 420"
+      ],
+      [
+       "NR 421"
+      ],
+      [
+       "NR 460"
+      ],
+      [
+       "NR 484"
+      ],
+      [
+       "NR 491"
+      ],
+      [
+       "NR 493"
+      ],
+      [
+       "NR 500"
+      ],
+      [
+       "NR 494"
+      ],
+      [
+       "NR 510"
+      ],
+      [
+       "NR 511"
+      ],
+      [
+       "NR 512"
+      ],
+      [
+       "NR 520"
+      ],
+      [
+       "NR 521"
+      ],
+      [
+       "NR 548"
+      ],
+      [
+       "NR 554"
+      ],
+      [
+       "NR 560"
+      ],
+      [
+       "NR 571"
+      ],
+      [
+       "NR 595"
+      ],
+      [
+       "NTR 210"
+      ],
+      [
+       "NTR 220"
+      ],
+      [
+       "NTR 301"
+      ],
+      [
+       "NTR 302"
+      ],
+      [
+       "NTR 320"
+      ],
+      [
+       "NTR 330"
+      ],
+      [
+       "NTR 401"
+      ],
+      [
+       "NTR 410"
+      ],
+      [
+       "NTR 415"
+      ],
+      [
+       "NTR 419"
+      ],
+      [
+       "NTR 420"
+      ],
+      [
+       "NTR 421"
+      ],
+      [
+       "NTR 425"
+      ],
+      [
+       "NTR 454"
+      ],
+      [
+       "NTR 490"
+      ],
+      [
+       "NTR 492"
+      ],
+      [
+       "NTR 493"
+      ],
+      [
+       "NTR 495"
+      ],
+      [
+       "NTR 500"
+      ],
+      [
+       "NTR 501"
+      ],
+      [
+       "NTR 510"
+      ],
+      [
+       "NTR 515"
+      ],
+      [
+       "NTR 521"
+      ],
+      [
+       "NTR 525"
+      ],
+      [
+       "NTR 550"
+      ],
+      [
+       "NTR 554"
+      ],
+      [
+       "NTR 555"
+      ],
+      [
+       "NTR 557"
+      ],
+      [
+       "NTR 561"
+      ],
+      [
+       "NTR 594"
+      ],
+      [
+       "PB 103"
+      ],
+      [
+       "PB 200"
+      ],
+      [
+       "PB 205"
+      ],
+      [
+       "PB 208"
+      ],
+      [
+       "PB 213"
+      ],
+      [
+       "PB 215"
+      ],
+      [
+       "PB 219"
+      ],
+      [
+       "PB 220"
+      ],
+      [
+       "PB 250"
+      ],
+      [
+       "PB 277"
+      ],
+      [
+       "PB 295"
+      ],
+      [
+       "PB 321"
+      ],
+      [
+       "PB 325"
+      ],
+      [
+       "PB 345"
+      ],
+      [
+       "PB 346"
+      ],
+      [
+       "PB 360"
+      ],
+      [
+       "PB 400"
+      ],
+      [
+       "PB 403"
+      ],
+      [
+       "PB 413"
+      ],
+      [
+       "PB 421"
+      ],
+      [
+       "PB 445"
+      ],
+      [
+       "PB 464"
+      ],
+      [
+       "PB 480"
+      ],
+      [
+       "PB 481"
+      ],
+      [
+       "PB 488"
+      ],
+      [
+       "PB 492"
+      ],
+      [
+       "PB 493"
+      ],
+      [
+       "PB 495"
+      ],
+      [
+       "PB 501"
+      ],
+      [
+       "PB 503"
+      ],
+      [
+       "PB 513"
+      ],
+      [
+       "PB 545"
+      ],
+      [
+       "PB 559"
+      ],
+      [
+       "PB 564"
+      ],
+      [
+       "PB 570"
+      ],
+      [
+       "PB 575"
+      ],
+      [
+       "PB 580"
+      ],
+      [
+       "PB 595"
+      ],
+      [
+       "PHY 452"
+      ],
+      [
+       "PHY 524"
+      ],
+      [
+       "PHY 552"
+      ],
+      [
+       "PO 201"
+      ],
+      [
+       "PO 201A"
+      ],
+      [
+       "PO 202"
+      ],
+      [
+       "PO 202A"
+      ],
+      [
+       "PO 212"
+      ],
+      [
+       "PO 215"
+      ],
+      [
+       "PO 290"
+      ],
+      [
+       "PO 322"
+      ],
+      [
+       "PO 340"
+      ],
+      [
+       "PO 404"
+      ],
+      [
+       "PO 406"
+      ],
+      [
+       "PO 407"
+      ],
+      [
+       "PO 410"
+      ],
+      [
+       "PO 411"
+      ],
+      [
+       "PO 412"
+      ],
+      [
+       "PO 415"
+      ],
+      [
+       "PO 421"
+      ],
+      [
+       "PO 424"
+      ],
+      [
+       "PO 425"
+      ],
+      [
+       "PO 426"
+      ],
+      [
+       "PO 433"
+      ],
+      [
+       "PO 435"
+      ],
+      [
+       "PO 466"
+      ],
+      [
+       "PO 492"
+      ],
+      [
+       "PO 493"
+      ],
+      [
+       "PO 495"
+      ],
+      [
+       "PO 504"
+      ],
+      [
+       "PO 506"
+      ],
+      [
+       "PO 510"
+      ],
+      [
+       "PO 515"
+      ],
+      [
+       "PO 524"
+      ],
+      [
+       "PO 525"
+      ],
+      [
+       "PO 533"
+      ],
+      [
+       "PO 566"
+      ],
+      [
+       "PO 580"
+      ],
+      [
+       "PO 590"
+      ],
+      [
+       "PP 144"
+      ],
+      [
+       "PP 222"
+      ],
+      [
+       "PP 318"
+      ],
+      [
+       "PP 470"
+      ],
+      [
+       "PP 501"
+      ],
+      [
+       "PP 502"
+      ],
+      [
+       "PP 575"
+      ],
+      [
+       "PRT 449"
+      ],
+      [
+       "PRT 450"
+      ],
+      [
+       "PSE 335"
+      ],
+      [
+       "PY 123"
+      ],
+      [
+       "PY 124"
+      ],
+      [
+       "PY 125"
+      ],
+      [
+       "PY 131"
+      ],
+      [
+       "PY 201"
+      ],
+      [
+       "PY 202"
+      ],
+      [
+       "PY 203"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 208"
+      ],
+      [
+       "PY 211"
+      ],
+      [
+       "PY 212"
+      ],
+      [
+       "PY 251"
+      ],
+      [
+       "PY 252"
+      ],
+      [
+       "PY 299"
+      ],
+      [
+       "PY 301"
+      ],
+      [
+       "PY 328"
+      ],
+      [
+       "PY 341"
+      ],
+      [
+       "PY 401"
+      ],
+      [
+       "PY 402"
+      ],
+      [
+       "PY 407"
+      ],
+      [
+       "PY 411"
+      ],
+      [
+       "PY 412"
+      ],
+      [
+       "PY 413"
+      ],
+      [
+       "PY 414"
+      ],
+      [
+       "PY 415"
+      ],
+      [
+       "PY 452"
+      ],
+      [
+       "PY 489"
+      ],
+      [
+       "PY 495"
+      ],
+      [
+       "PY 499"
+      ],
+      [
+       "PY 501"
+      ],
+      [
+       "PY 502"
+      ],
+      [
+       "PY 506"
+      ],
+      [
+       "PY 507"
+      ],
+      [
+       "PY 509"
+      ],
+      [
+       "PY 511"
+      ],
+      [
+       "PY 512"
+      ],
+      [
+       "PY 514"
+      ],
+      [
+       "PY 515"
+      ],
+      [
+       "PY 516"
+      ],
+      [
+       "PY 517"
+      ],
+      [
+       "PY 519"
+      ],
+      [
+       "PY 525"
+      ],
+      [
+       "PY 528"
+      ],
+      [
+       "PY 529"
+      ],
+      [
+       "PY 543"
+      ],
+      [
+       "PY 552"
+      ],
+      [
+       "PY 570"
+      ],
+      [
+       "PY 581"
+      ],
+      [
+       "PY 582"
+      ],
+      [
+       "PY 589"
+      ],
+      [
+       "PY 590"
+      ],
+      [
+       "PY 599"
+      ],
+      [
+       "SMT 202"
+      ],
+      [
+       "SSC 185"
+      ],
+      [
+       "SSC 200"
+      ],
+      [
+       "SSC 201"
+      ],
+      [
+       "SSC 332"
+      ],
+      [
+       "SSC 341"
+      ],
+      [
+       "SSC 342"
+      ],
+      [
+       "SSC 410"
+      ],
+      [
+       "SSC 421"
+      ],
+      [
+       "SSC 427"
+      ],
+      [
+       "SSC 428"
+      ],
+      [
+       "SSC 440"
+      ],
+      [
+       "SSC 442"
+      ],
+      [
+       "SSC 452"
+      ],
+      [
+       "SSC 455"
+      ],
+      [
+       "SSC 461"
+      ],
+      [
+       "SSC 462"
+      ],
+      [
+       "SSC 470"
+      ],
+      [
+       "SSC 473"
+      ],
+      [
+       "SSC 511"
+      ],
+      [
+       "SSC 521"
+      ],
+      [
+       "SSC 532"
+      ],
+      [
+       "SSC 540"
+      ],
+      [
+       "SSC 541"
+      ],
+      [
+       "SSC 545"
+      ],
+      [
+       "SSC 551"
+      ],
+      [
+       "SSC 562"
+      ],
+      [
+       "SSC 570"
+      ],
+      [
+       "SSC 573"
+      ],
+      [
+       "SSC 590"
+      ],
+      [
+       "TE 570"
+      ],
+      [
+       "TOX 201"
+      ],
+      [
+       "TOX 401"
+      ],
+      [
+       "TOX 415"
+      ],
+      [
+       "TOX 501"
+      ],
+      [
+       "TOX 515"
+      ],
+      [
+       "TOX 595"
+      ],
+      [
+       "USC 291"
+      ],
+      [
+       "USC 292"
+      ],
+      [
+       "VMP 401"
+      ],
+      [
+       "VMP 420"
+      ],
+      [
+       "ZO 233"
+      ],
+      [
+       "ZO 250"
+      ],
+      [
+       "ZO 317"
+      ],
+      [
+       "ZO 333"
+      ],
+      [
+       "ZO 350"
+      ],
+      [
+       "ZO 402"
+      ],
+      [
+       "ZO 410"
+      ],
+      [
+       "ZO 486"
+      ],
+      [
+       "ZO 524"
+      ],
+      [
+       "ZO 553"
+      ],
+      [
+       "ZO 582"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Restricted Electives 12",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s26"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s32"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s35"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 11,
+      "max": 11
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 11",
+     "id": "ncsu-agricultural-business-management-bs-biological-sciences-concentration-s36"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"ARE Electives\" has codes with no catalog link: ECG 505, ECG 506, ECG 512, ECG 580",
+  "List \"Restricted Electives\" has a row that is not a course and was not read: \"Before registering for these courses students should check to make sure they have met the necessary prerequisites and that credit restrictions do not apply: e.g. credit is not allowed for both BIO 105 and BIO 181.\"",
+  "List \"Restricted Electives\" has a row that is not a course and was not read: \"Note: 300-Level BUS courses are restricted to students in the Business minor and 400-level BUS courses are restricted to Business majors.\"",
+  "List \"Restricted Electives\" has codes with no catalog link: ACC 560, ACC 561, ACC 562, ACC 563, ACC 564, ACC 565, ACC 566, ACC 567, ACC 568, ACC 569, ACC 570, BUS 585, EC 480, ECG 512, AEC 586, AEC 587, ANS 530, ANS 531, ANS 575, BAE 574, BAE 576, BAE 585, BEC 363, BEC 440, BEC 441, BEC 483, BEC 540, BEC 541, BEC 583, BIO 140, BIO 141, BIO 165, BIO 498, BIO 499, BIO 518, CS 312, CS 411, CS 591, ENT 560, FOR 339, FW 586, FW 587, HS 423, HS 475, HS 523, HS 583, NTR 320, NTR 420, NTR 421, NTR 521, PHY 452, PO 407, SSC 421, SSC 545, ZO 524, ZO 553",
+  "Group \"Free Electives (12 Hr S/U Lmt)\" carries a note or open-ended option: \"Select courses with enough credits to meet the minimum graduation requirement of 120 total credit hours.\"",
+  "Codes in choice lists not found in the course catalog: ACC 451, ACC 560, ACC 561, ACC 562, ACC 563, ACC 564, ACC 565, ACC 566, ACC 567, ACC 568, ACC 569, AEC 586, AEC 587, AEE 500, AEE 503, AEE 505, AEE 521, AEE 522, AEE 523, AEE 524, AEE 529, AEE 535, AEE 545, AEE 560, AEE 577, AEE 578, AEE 579, AEE 595, ANS 530, ANS 531, ANS 575, BAE 574, BAE 576, BAE 585, BEC 363, BEC 440, BEC 441, BEC 540, BEC 541, BIO 140, BIO 141, BIO 165, BIO 370, BIO 375, BIO 405, BIO 414, BIO 498, BIO 499, BIO 518, BIT 463, BIT 563, BSC 295, BSC 492, BSC 493, BSC 495, BUS 501, BUS 554, BUS 571, BUS 585, CS 312, CS 411, CS 591, CSSC 290, CSSC 490, CSSC 492, CSSC 493, CSSC 495, EC 480, ECG 506, ECG 512, ECG 580, ECI 424, ENT 203, ENT 509, ENT 560, FOR 303, FOR 304, FOR 339, FOR 374, FS 231, FW 586, FW 587, HS 423, HS 475, HS 523, HS 583, IDS 303, MB 351, MB 352, MB 354, MB 411, MB 412, MBA 528, MBA 577, NR 303, NTR 320, NTR 420, NTR 421, NTR 521, PHY 452, PHY 552, PO 407, PO 466, PO 566, PRT 406, SSC 421, SSC 545, ZO 524, ZO 553, ZO 582"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-resource-economics/agricultural-business-management-bs-biological-sciences-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Biological Sciences Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

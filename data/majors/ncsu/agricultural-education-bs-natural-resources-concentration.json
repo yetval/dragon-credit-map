@@ -1,0 +1,1250 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-agricultural-education-bs-natural-resources-concentration",
+ "university": "ncsu",
+ "name": "Agricultural Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-education-bs-natural-resources-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "AEE 103"
+      ],
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing and Speaking",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 110 Public Speaking 3",
+     "options": [
+      [
+       "COM 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Agricultural Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 101 Introduction to Career and Technical Education 1",
+     "options": [
+      [
+       "AEE 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 101 Introduction to Career and Technical Education 1",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 206 Introduction to Teaching Agriculture 3",
+     "options": [
+      [
+       "AEE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 206 Introduction to Teaching Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "options": [
+      [
+       "AEE 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 303 Administration and Supervision of Student Organizations 3",
+     "options": [
+      [
+       "AEE 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 303 Administration and Supervision of Student Organizations 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 322 Experiential Learning in Agriculture 3",
+     "options": [
+      [
+       "AEE 322"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 322 Experiential Learning in Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 326 Teaching Diverse Learners in AED 3",
+     "options": [
+      [
+       "AEE 326"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 326 Teaching Diverse Learners in AED 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 327 Conducting Summer Programs in Agricultural Education 1",
+     "options": [
+      [
+       "AEE 327"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 327 Conducting Summer Programs in Agricultural Education 1",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 424 Planning Agricultural Educational Programs 3",
+     "options": [
+      [
+       "AEE 424"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 424 Planning Agricultural Educational Programs 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 426 Methods of Teaching Agriculture 3",
+     "options": [
+      [
+       "AEE 426"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 426 Methods of Teaching Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 427 Student Teaching in Agriculture 8",
+     "options": [
+      [
+       "AEE 427"
+      ]
+     ],
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "AEE 427 Student Teaching in Agriculture 8",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 491 Seminar in Agricultural Education 1",
+     "options": [
+      [
+       "AEE 491"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 491 Seminar in Agricultural Education 1",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s16"
+    }
+   ]
+  },
+  {
+   "title": "Other Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s20"
+    }
+   ]
+  },
+  {
+   "title": "Teaching Content Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BAET 201 Shop Processes and Management 3 or TDE 110 Materials & Processes Technology",
+     "options": [
+      [
+       "BAET 201"
+      ],
+      [
+       "TDE 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAET 201 Shop Processes and Management 3 or TDE 110 Materials & Processes Technology",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 150 & ANS 151 Introduction to Animal Science and Introduction to Animal Science Lab 4",
+     "options": [
+      [
+       "ANS 150",
+       "ANS 151"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ANS 150 & ANS 151 Introduction to Animal Science and Introduction to Animal Science Lab 4",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Agriculture Elective",
+     "options": [
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 260"
+      ],
+      [
+       "ARE 270"
+      ],
+      [
+       "ARE 295"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 323"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "ARE 345"
+      ],
+      [
+       "ARE 370"
+      ],
+      [
+       "ARE 395"
+      ],
+      [
+       "ARE 404"
+      ],
+      [
+       "ARE 412"
+      ],
+      [
+       "ARE 413"
+      ],
+      [
+       "ARE 415"
+      ],
+      [
+       "ARE 420"
+      ],
+      [
+       "ARE 425"
+      ],
+      [
+       "ARE 433"
+      ],
+      [
+       "ARE 444"
+      ],
+      [
+       "ARE 448"
+      ],
+      [
+       "ARE 455"
+      ],
+      [
+       "ARE 470"
+      ],
+      [
+       "ARE 475"
+      ],
+      [
+       "ARE 490"
+      ],
+      [
+       "ARE 492"
+      ],
+      [
+       "ARE 493"
+      ],
+      [
+       "ARE 494"
+      ],
+      [
+       "ARE 495"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "ANS 105"
+      ],
+      [
+       "ANS 110"
+      ],
+      [
+       "ANS 150"
+      ],
+      [
+       "ANS 151"
+      ],
+      [
+       "ANS 201"
+      ],
+      [
+       "ANS 208"
+      ],
+      [
+       "ANS 225"
+      ],
+      [
+       "ANS 303"
+      ],
+      [
+       "ANS 304"
+      ],
+      [
+       "ANS 309"
+      ],
+      [
+       "ANS 322"
+      ],
+      [
+       "ANS 324"
+      ],
+      [
+       "ANS 400"
+      ],
+      [
+       "ANS 402"
+      ],
+      [
+       "ANS 403"
+      ],
+      [
+       "ANS 404"
+      ],
+      [
+       "ANS 408"
+      ],
+      [
+       "ANS 410"
+      ],
+      [
+       "ANS 425"
+      ],
+      [
+       "ANS 440"
+      ],
+      [
+       "ANS 453"
+      ],
+      [
+       "ANS 454"
+      ],
+      [
+       "BAE 100"
+      ],
+      [
+       "BAE 202"
+      ],
+      [
+       "BAE 302"
+      ],
+      [
+       "BAE 322"
+      ],
+      [
+       "BAE 361"
+      ],
+      [
+       "BAE 371"
+      ],
+      [
+       "BAE 401"
+      ],
+      [
+       "BAE 435"
+      ],
+      [
+       "BAE 451"
+      ],
+      [
+       "BAE 452"
+      ],
+      [
+       "BAE 462"
+      ],
+      [
+       "BAE 472"
+      ],
+      [
+       "BAE 473"
+      ],
+      [
+       "BAE 474"
+      ],
+      [
+       "BAE 481"
+      ],
+      [
+       "BAET 201"
+      ],
+      [
+       "BAET 323"
+      ],
+      [
+       "BAET 332"
+      ],
+      [
+       "BAET 333"
+      ],
+      [
+       "BAET 343"
+      ],
+      [
+       "BAET 411"
+      ],
+      [
+       "BAET 432"
+      ],
+      [
+       "BAET 443"
+      ],
+      [
+       "CS 470"
+      ],
+      [
+       "ENT 470"
+      ],
+      [
+       "FM 425"
+      ],
+      [
+       "FS 322"
+      ],
+      [
+       "FS 324"
+      ],
+      [
+       "FS 435"
+      ],
+      [
+       "NTR 425"
+      ],
+      [
+       "NTR 454"
+      ],
+      [
+       "PB 208"
+      ],
+      [
+       "PO 322"
+      ],
+      [
+       "BME 365"
+      ],
+      [
+       "PO 425"
+      ],
+      [
+       "PP 470"
+      ],
+      [
+       "SSC 440"
+      ],
+      [
+       "SSC 473"
+      ],
+      [
+       "AEC 420"
+      ],
+      [
+       "ANS 330"
+      ],
+      [
+       "ANS 411"
+      ],
+      [
+       "BAE 325"
+      ],
+      [
+       "BAE 425"
+      ],
+      [
+       "BBS 201"
+      ],
+      [
+       "BCH 220"
+      ],
+      [
+       "CS 200"
+      ],
+      [
+       "CS 210"
+      ],
+      [
+       "CS 213"
+      ],
+      [
+       "CS 216"
+      ],
+      [
+       "CS 218"
+      ],
+      [
+       "CS 230"
+      ],
+      [
+       "CS 400"
+      ],
+      [
+       "CS 413"
+      ],
+      [
+       "CS 414"
+      ],
+      [
+       "CS 415"
+      ],
+      [
+       "CS 424"
+      ],
+      [
+       "CS 430"
+      ],
+      [
+       "CS 465"
+      ],
+      [
+       "ENT 203"
+      ],
+      [
+       "ENT 401"
+      ],
+      [
+       "ES 100"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "ES 300"
+      ],
+      [
+       "ES 400"
+      ],
+      [
+       "FM 460"
+      ],
+      [
+       "FM 480"
+      ],
+      [
+       "FOR 318"
+      ],
+      [
+       "FOR 420"
+      ],
+      [
+       "FOR 472"
+      ],
+      [
+       "FS 201"
+      ],
+      [
+       "FS 330"
+      ],
+      [
+       "FS 352"
+      ],
+      [
+       "FS 354"
+      ],
+      [
+       "FS 416"
+      ],
+      [
+       "FS 421"
+      ],
+      [
+       "FS 426"
+      ],
+      [
+       "FS 453"
+      ],
+      [
+       "FS 462"
+      ],
+      [
+       "FS 475"
+      ],
+      [
+       "FW 221"
+      ],
+      [
+       "FW 311"
+      ],
+      [
+       "FW 312"
+      ],
+      [
+       "FW 313"
+      ],
+      [
+       "FW 314"
+      ],
+      [
+       "FW 353"
+      ],
+      [
+       "FW 403"
+      ],
+      [
+       "FW 411"
+      ],
+      [
+       "FW 453"
+      ],
+      [
+       "FW 460"
+      ],
+      [
+       "FW 465"
+      ],
+      [
+       "HS 432"
+      ],
+      [
+       "HS 462"
+      ],
+      [
+       "IDS 303"
+      ],
+      [
+       "NR 303"
+      ],
+      [
+       "NR 350"
+      ],
+      [
+       "NR 406"
+      ],
+      [
+       "NR 420"
+      ],
+      [
+       "NR 460"
+      ],
+      [
+       "NTR 525"
+      ],
+      [
+       "PO 424"
+      ],
+      [
+       "PO 435"
+      ],
+      [
+       "PP 318"
+      ],
+      [
+       "SSC 462"
+      ],
+      [
+       "TE 466"
+      ],
+      [
+       "TE 467"
+      ],
+      [
+       "VMP 401"
+      ],
+      [
+       "VMP 420"
+      ]
+     ],
+     "pick": {
+      "hours": 5
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Agriculture Elective 5",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics Courses:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics Courses: 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "Natural Resources Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARE 336 Introduction to Resource and Environmental Economics 3",
+     "options": [
+      [
+       "ARE 336"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 336 Introduction to Resource and Environmental Economics 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CS 230 Introduction to Agroecology 3",
+     "options": [
+      [
+       "CS 230"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CS 230 Introduction to Agroecology 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FOR 252 Introduction to Forest Science 3",
+     "options": [
+      [
+       "FOR 252"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FOR 252 Introduction to Forest Science 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 221 Conservation of Natural Resources 3",
+     "options": [
+      [
+       "FW 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 221 Conservation of Natural Resources 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 353 Wildlife Management 3",
+     "options": [
+      [
+       "FW 353"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 353 Wildlife Management 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 185 Land and Life 3",
+     "options": [
+      [
+       "SSC 185"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SSC 185 Land and Life 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "options": [
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s31"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses In The Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Mathematical Sciences 6",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "GEP Health and Exercise Studies 1",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "GEP Health and Exercise Studies 1",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s40"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 5",
+     "id": "ncsu-agricultural-education-bs-natural-resources-concentration-s41"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: ENT 203, IDS 303, NR 303"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-education-bs-natural-resources-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Natural Resources Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

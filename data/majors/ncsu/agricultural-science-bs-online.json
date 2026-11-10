@@ -1,0 +1,617 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-agricultural-science-bs-online",
+ "university": "ncsu",
+ "name": "Agricultural Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-science-bs-online/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "AEE 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-agricultural-science-bs-online-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication and Social Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3 or COM 112 Interpersonal Communication",
+     "id": "ncsu-agricultural-science-bs-online-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical and Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 107 Precalculus I 3",
+     "options": [
+      [
+       "MA 107"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 107 Precalculus I 3",
+     "id": "ncsu-agricultural-science-bs-online-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3",
+     "options": [
+      [
+       "MA 131"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3",
+     "id": "ncsu-agricultural-science-bs-online-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-agricultural-science-bs-online-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-agricultural-science-bs-online-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-agricultural-science-bs-online-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Natural Science Elective",
+     "options": [
+      [
+       "ANS 215"
+      ],
+      [
+       "GN 301"
+      ],
+      [
+       "MEA 100"
+      ],
+      [
+       "MEA 101"
+      ],
+      [
+       "MEA 110"
+      ],
+      [
+       "MEA 130"
+      ],
+      [
+       "MEA 135"
+      ],
+      [
+       "PY 131"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Natural Science Elective 4",
+     "id": "ncsu-agricultural-science-bs-online-s8"
+    }
+   ]
+  },
+  {
+   "title": "Professional Content Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 150 Introduction to Animal Science 3",
+     "options": [
+      [
+       "ANS 150"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANS 150 Introduction to Animal Science 3",
+     "id": "ncsu-agricultural-science-bs-online-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics Electives:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics Electives: 3",
+     "id": "ncsu-agricultural-science-bs-online-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CS 213 Crop Science 3 or HS 201 The World of Horticulture: Principles and Practices",
+     "options": [
+      [
+       "CS 213"
+      ],
+      [
+       "HS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CS 213 Crop Science 3 or HS 201 The World of Horticulture: Principles and Practices",
+     "id": "ncsu-agricultural-science-bs-online-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 Soil Science 3",
+     "options": [
+      [
+       "SSC 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SSC 200 Soil Science 3",
+     "id": "ncsu-agricultural-science-bs-online-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ES 100 Introduction to Environmental Sciences 3",
+     "options": [
+      [
+       "ES 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ES 100 Introduction to Environmental Sciences 3",
+     "id": "ncsu-agricultural-science-bs-online-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FS 201 Introduction to Food Science 3",
+     "options": [
+      [
+       "FS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FS 201 Introduction to Food Science 3",
+     "id": "ncsu-agricultural-science-bs-online-s14"
+    }
+   ]
+  },
+  {
+   "title": "Agricultural Extension Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 311 Communication Methods and Media 3",
+     "options": [
+      [
+       "AEE 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 311 Communication Methods and Media 3",
+     "id": "ncsu-agricultural-science-bs-online-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 323 Leadership Development in Agriculture and Life Sciences 3",
+     "options": [
+      [
+       "AEE 323"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 323 Leadership Development in Agriculture and Life Sciences 3",
+     "id": "ncsu-agricultural-science-bs-online-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 350 Personal Leadership Development in Agriculture and Life Sciences 3",
+     "options": [
+      [
+       "AEE 350"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 350 Personal Leadership Development in Agriculture and Life Sciences 3",
+     "id": "ncsu-agricultural-science-bs-online-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 360 Developing Team Leadership in Agriculture and Life Sciences 3",
+     "options": [
+      [
+       "AEE 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 360 Developing Team Leadership in Agriculture and Life Sciences 3",
+     "id": "ncsu-agricultural-science-bs-online-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 435 Professional Presentations in Agricultural Organizations 3",
+     "options": [
+      [
+       "AEE 435"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 435 Professional Presentations in Agricultural Organizations 3",
+     "id": "ncsu-agricultural-science-bs-online-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 460 Organizational Leadership Development in Agriculture and Life Sciences 3",
+     "options": [
+      [
+       "AEE 460"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 460 Organizational Leadership Development in Agriculture and Life Sciences 3",
+     "id": "ncsu-agricultural-science-bs-online-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 490 Seminar in Agricultural and Extension Education 3",
+     "options": [
+      [
+       "AEE 490"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 490 Seminar in Agricultural and Extension Education 3",
+     "id": "ncsu-agricultural-science-bs-online-s21"
+    }
+   ]
+  },
+  {
+   "title": "Restricted Elective Option 1",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "First of two agricultural specializations required. Select from courses in the following areas of agriculture: Animal Science, Agricultural Business Management, Crop Science, Food Science, Horticultural Science, Poultry Science, or Soil Science. Courses must focus on one of these agricultural disciplines. At least six (6) semester hours of course credit in this specialization must be earned in courses at the 300 level or above.",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "First of two agricultural specializations required. Select from courses in the following areas of agriculture: Animal Science, Agricultural Business Management, Crop Science, Food Science, Horticultural Science, Poultry Science, or Soil Science. Courses must focus on one of these agricultural disciplines. At least six (6) semester hours of course credit in this specialization must be earned in courses at the 300 level or above. 12",
+     "id": "ncsu-agricultural-science-bs-online-s22"
+    }
+   ]
+  },
+  {
+   "title": "Restricted Elective Option 2",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "First of two agricultural specializations required. Select from courses in the following areas of agriculture: Animal Science, Agricultural Business Management, Crop Science, Food Science, Horticultural Science, Poultry Science, or Soil Science. Courses must focus on one of these agricultural disciplines. At least six (6) semester hours of course credit in this specialization must be earned in courses at the 300 level or above.",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "First of two agricultural specializations required. Select from courses in the following areas of agriculture: Animal Science, Agricultural Business Management, Crop Science, Food Science, Horticultural Science, Poultry Science, or Soil Science. Courses must focus on one of these agricultural disciplines. At least six (6) semester hours of course credit in this specialization must be earned in courses at the 300 level or above. 12",
+     "id": "ncsu-agricultural-science-bs-online-s23"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-agricultural-science-bs-online-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-agricultural-science-bs-online-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-agricultural-science-bs-online-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-agricultural-science-bs-online-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-agricultural-science-bs-online-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-agricultural-science-bs-online-s29"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-agricultural-science-bs-online-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-agricultural-science-bs-online-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 11,
+      "max": 11
+     },
+     "raw": "Free Electives 11",
+     "id": "ncsu-agricultural-science-bs-online-s32"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"First of two agricultural specializations required. Select from courses in the following areas of agriculture: Animal Science, Agricultural Business Management, Crop Science, Food Science, Horticultural Science, Poultry Science, or Soil Science. Courses must focus on one of these agricultural disciplines. At least six (6) semester hours of course credit in this specialization must be earned in courses at the 300 level or above.\"",
+  "Group \"Free Electives\" carries a note or open-ended option: \"Total hours of free electives vary in order to allow the minimum hours required for the degree to equal 120 credit hrs.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-science-bs-online/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Online",
+ "college": "College of Agriculture and Life Sciences"
+}

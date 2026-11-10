@@ -1,0 +1,762 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-mathematics-education-bs-computer-specialization",
+ "university": "ncsu",
+ "name": "Mathematics Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/stem/mathematics-education-bs-computer-specialization/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 100 Intro to Education 2",
+     "options": [
+      [
+       "ED 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s1"
+    }
+   ]
+  },
+  {
+   "title": "Statistics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 312 Introduction to Statistics II 3",
+     "options": [
+      [
+       "ST 312"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 312 Introduction to Statistics II 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 307 Introduction to Statistical Programming- SAS 1",
+     "options": [
+      [
+       "ST 307"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ST 307 Introduction to Statistical Programming- SAS 1",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s4"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 225 Foundations of Advanced Mathematics 3",
+     "options": [
+      [
+       "MA 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 225 Foundations of Advanced Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 403 Introduction to Modern Algebra 3",
+     "options": [
+      [
+       "MA 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 403 Introduction to Modern Algebra 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 405 Introduction to Linear Algebra 3",
+     "options": [
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 405 Introduction to Linear Algebra 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 408 Foundations of Euclidean Geometry 3",
+     "options": [
+      [
+       "MA 408"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 408 Foundations of Euclidean Geometry 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s11"
+    }
+   ]
+  },
+  {
+   "title": "Computer Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 110 Computer Science Principles - The Beauty and Joy of Computing 3",
+     "options": [
+      [
+       "CSC 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 110 Computer Science Principles - The Beauty and Joy of Computing 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 116 Introduction to Computing - Java 3",
+     "options": [
+      [
+       "CSC 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 116 Introduction to Computing - Java 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 216 Software Development Fundamentals 3",
+     "options": [
+      [
+       "CSC 216"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 216 Software Development Fundamentals 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 217 Software Development Fundamentals Lab 1",
+     "options": [
+      [
+       "CSC 217"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CSC 217 Software Development Fundamentals Lab 1",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 226 Discrete Mathematics 3",
+     "options": [
+      [
+       "CSC 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 226 Discrete Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s17"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Lab-Based Course",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ],
+      [
+       "PY 205",
+       "PY 206"
+      ],
+      [
+       "PY 208",
+       "PY 209"
+      ],
+      [
+       "PY 201"
+      ],
+      [
+       "PY 202"
+      ],
+      [
+       "PY 211"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "pick": {
+      "hours": 8
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Lab-Based Course 8",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Natural Sciences 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s19"
+    }
+   ]
+  },
+  {
+   "title": "Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 112 Interpersonal Communication 3",
+     "options": [
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 112 Interpersonal Communication 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s20"
+    }
+   ]
+  },
+  {
+   "title": "Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 204 Introduction to Mathematics Education 2",
+     "options": [
+      [
+       "EMS 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 204 Introduction to Mathematics Education 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 472 Teaching Mathematics Topics in Senior High School 3",
+     "options": [
+      [
+       "EMS 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 472 Teaching Mathematics Topics in Senior High School 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 480 Teaching Mathematics with Technology 3",
+     "options": [
+      [
+       "EMS 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 480 Teaching Mathematics with Technology 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 470 Methods and Materials for Teaching Mathematics 3",
+     "options": [
+      [
+       "EMS 470"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 470 Methods and Materials for Teaching Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 490 School Mathematics from an Advanced Perspective 3",
+     "options": [
+      [
+       "EMS 490"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 490 School Mathematics from an Advanced Perspective 3",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 471 Student Teaching in Mathematics 10",
+     "options": [
+      [
+       "EMS 471"
+      ]
+     ],
+     "hours": {
+      "min": 10,
+      "max": 10
+     },
+     "raw": "EMS 471 Student Teaching in Mathematics 10",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "options": [
+      [
+       "EMS 495"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s33"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s40"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Free Electives 5",
+     "id": "ncsu-mathematics-education-bs-computer-specialization-s41"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Lab-Based Science Courses\" has a row that is not a course and was not read: \"Choose two of the following, given pre-requisite requirements.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/stem/mathematics-education-bs-computer-specialization/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Computer Specialization",
+ "college": "College of Education"
+}

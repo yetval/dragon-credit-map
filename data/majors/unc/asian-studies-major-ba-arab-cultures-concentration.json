@@ -1,0 +1,445 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-arab-cultures-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-arab-cultures-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 28,
+  "max": 28
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARAB 300 Arabic Grammar and Composition 3",
+     "options": [
+      [
+       "ARAB 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARAB 300 Arabic Grammar and Composition 3",
+     "id": "unc-asian-studies-major-ba-arab-cultures-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two additional Arabic language courses beyond ARAB 204",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two additional Arabic language courses beyond ARAB 204 6",
+     "id": "unc-asian-studies-major-ba-arab-cultures-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following introductory-level classes:",
+     "options": [
+      [
+       "ASIA 73"
+      ],
+      [
+       "ASIA 74"
+      ],
+      [
+       "ARAB 150"
+      ],
+      [
+       "ARAB 151"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following introductory-level classes: 3",
+     "id": "unc-asian-studies-major-ba-arab-cultures-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Four Arabic literature and culture courses (list below)",
+     "options": [
+      [
+       "ARAB 211"
+      ],
+      [
+       "ARAB 214"
+      ],
+      [
+       "ANTH 214"
+      ],
+      [
+       "ARAB 255"
+      ],
+      [
+       "ASIA 329"
+      ],
+      [
+       "WGST 329"
+      ],
+      [
+       "ARAB 337"
+      ],
+      [
+       "ARAB 354"
+      ],
+      [
+       "ANTH 354"
+      ],
+      [
+       "ASIA 359"
+      ],
+      [
+       "CMPL 359"
+      ],
+      [
+       "ARAB 407"
+      ],
+      [
+       "ARAB 408"
+      ],
+      [
+       "ARAB 409"
+      ],
+      [
+       "ARAB 410"
+      ],
+      [
+       "ASIA 425"
+      ],
+      [
+       "JWST 425"
+      ],
+      [
+       "PWAD 425"
+      ],
+      [
+       "ARAB 432"
+      ],
+      [
+       "ANTH 432"
+      ],
+      [
+       "ARAB 434"
+      ],
+      [
+       "ASIA 442"
+      ],
+      [
+       "CMPL 442"
+      ],
+      [
+       "ARAB 453"
+      ],
+      [
+       "ASIA 462"
+      ],
+      [
+       "JWST 462"
+      ],
+      [
+       "PWAD 462"
+      ],
+      [
+       "ASIA 471"
+      ],
+      [
+       "WGST 471"
+      ],
+      [
+       "ASIA 692H"
+      ],
+      [
+       "GEOG 59"
+      ],
+      [
+       "ASIA 138"
+      ],
+      [
+       "HIST 138"
+      ],
+      [
+       "ASIA 139"
+      ],
+      [
+       "HIST 139"
+      ],
+      [
+       "ASIA 180"
+      ],
+      [
+       "RELI 180"
+      ],
+      [
+       "ASIA 181"
+      ],
+      [
+       "RELI 181"
+      ],
+      [
+       "RELI 185"
+      ],
+      [
+       "ASIA 276"
+      ],
+      [
+       "HIST 276"
+      ],
+      [
+       "ASIA 277"
+      ],
+      [
+       "HIST 277"
+      ],
+      [
+       "PWAD 277"
+      ],
+      [
+       "RELI 279"
+      ],
+      [
+       "ASIA 279"
+      ],
+      [
+       "SOCI 419"
+      ],
+      [
+       "ASIA 435"
+      ],
+      [
+       "PWAD 435"
+      ],
+      [
+       "CMPL 535"
+      ],
+      [
+       "ASIA 447"
+      ],
+      [
+       "GEOG 447"
+      ],
+      [
+       "WGST 447"
+      ],
+      [
+       "GEOG 448"
+      ],
+      [
+       "RELI 480"
+      ],
+      [
+       "RELI 485"
+      ],
+      [
+       "ASIA 485"
+      ],
+      [
+       "RELI 486"
+      ],
+      [
+       "ASIA 486"
+      ],
+      [
+       "ASIA 536"
+      ],
+      [
+       "HIST 536"
+      ],
+      [
+       "ASIA 537"
+      ],
+      [
+       "HIST 537"
+      ],
+      [
+       "WGST 537"
+      ],
+      [
+       "ASIA 538"
+      ],
+      [
+       "HIST 538"
+      ],
+      [
+       "ASIA 581"
+      ],
+      [
+       "RELI 581"
+      ],
+      [
+       "ASIA 582"
+      ],
+      [
+       "RELI 582"
+      ],
+      [
+       "ASIA 584"
+      ],
+      [
+       "RELI 584"
+      ],
+      [
+       "RELI 587"
+      ],
+      [
+       "ASIA 587"
+      ],
+      [
+       "FREN 617"
+      ],
+      [
+       "ARAB 681"
+      ],
+      [
+       "ASIA 681"
+      ],
+      [
+       "RELI 681"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four Arabic literature and culture courses (list below) 12",
+     "id": "unc-asian-studies-major-ba-arab-cultures-concentration-s4",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      3,
+      4,
+      5,
+      5,
+      6,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      11,
+      11,
+      12,
+      12,
+      13,
+      14,
+      14,
+      15,
+      16,
+      16,
+      16,
+      17,
+      17,
+      18,
+      19,
+      20,
+      20,
+      21,
+      21,
+      22,
+      22,
+      23,
+      23,
+      24,
+      25,
+      25,
+      26,
+      26,
+      26,
+      27,
+      27,
+      28,
+      29,
+      29,
+      29,
+      30,
+      30,
+      30,
+      31,
+      32,
+      33,
+      33,
+      34,
+      34,
+      35,
+      35,
+      36,
+      36,
+      36,
+      37,
+      37,
+      38,
+      38,
+      39,
+      39,
+      40,
+      40,
+      41,
+      41,
+      42,
+      43,
+      43,
+      43
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Arabic through level 4",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Arabic through level 4 4",
+     "id": "unc-asian-studies-major-ba-arab-cultures-concentration-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Arabic Literature and Culture Courses\" has a row that is not a course and was not read: \"or approved courses taken in UNC–Chapel Hill-sponsored study abroad programs\"",
+  "List \"Arabic Literature and Culture Courses\" has codes with no catalog link: ASIA/GEOG/WGST 447",
+  "Codes in choice lists not found in the course catalog: ASIA 447, GEOG 447, WGST 447"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-arab-cultures-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Arab Cultures Concentration"
+}

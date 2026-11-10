@@ -1,0 +1,942 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-chemical-engineering-bs-nanoscience-concentration",
+ "university": "ncsu",
+ "name": "Chemical Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/chemical-biomolecular/chemical-engineering-bs-nanoscience-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 125,
+  "max": 125
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 101 or CH 103 Chemistry - A Molecular Science or General Chemistry I for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 101"
+      ],
+      [
+       "CH 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 or CH 103 Chemistry - A Molecular Science or General Chemistry I for Students in Chemical Sciences 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 102 or CH 104 General Chemistry Laboratory or General Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 102"
+      ],
+      [
+       "CH 104"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 or CH 104 General Chemistry Laboratory or General Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 201 or CH 203 Chemistry - A Quantitative Science or General Chemistry II for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 201"
+      ],
+      [
+       "CH 203"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 201 or CH 203 Chemistry - A Quantitative Science or General Chemistry II for Students in Chemical Sciences 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 202 or CH 204 Quantitative Chemistry Laboratory or General Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 202"
+      ],
+      [
+       "CH 204"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 202 or CH 204 Quantitative Chemistry Laboratory or General Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics Courses:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics Courses: 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 102 Engineering in the 21st Century 2",
+     "options": [
+      [
+       "E 102"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "E 102 Engineering in the 21st Century 2",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 221 or CH 225 Organic Chemistry I or Organic Chemistry I for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 221"
+      ],
+      [
+       "CH 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 221 or CH 225 Organic Chemistry I or Organic Chemistry I for Students in Chemical Sciences 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 222 or CH 226 Organic Chemistry I Lab or Organic Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 222"
+      ],
+      [
+       "CH 226"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 222 or CH 226 Organic Chemistry I Lab or Organic Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 205 Chemical Process Principles 4",
+     "options": [
+      [
+       "CHE 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHE 205 Chemical Process Principles 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 223 or CH 227 Organic Chemistry II or Organic Chemistry II for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 223"
+      ],
+      [
+       "CH 227"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 223 or CH 227 Organic Chemistry II or Organic Chemistry II for Students in Chemical Sciences 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CH 224 or CH 228 Organic Chemistry II Lab or Organic Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 224"
+      ],
+      [
+       "CH 228"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 224 or CH 228 Organic Chemistry II Lab or Organic Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 225 Introduction to Chemical Engineering Analysis 3",
+     "options": [
+      [
+       "CHE 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 225 Introduction to Chemical Engineering Analysis 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MSE 201 Structure and Properties of Engineering Materials 3",
+     "options": [
+      [
+       "MSE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MSE 201 Structure and Properties of Engineering Materials 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Chemistry Electives:",
+     "options": [
+      [
+       "PCC 461",
+       "PCC 464"
+      ],
+      [
+       "BCH 451"
+      ],
+      [
+       "CH 315",
+       "CH 316"
+      ],
+      [
+       "CH 437"
+      ],
+      [
+       "CH 610"
+      ],
+      [
+       "BIO 183"
+      ],
+      [
+       "FS 402"
+      ],
+      [
+       "TOX 415"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Chemistry Electives: 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 311 Transport Processes I 3",
+     "options": [
+      [
+       "CHE 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 311 Transport Processes I 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 315 Chemical Process Thermodynamics 3",
+     "options": [
+      [
+       "CHE 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 315 Chemical Process Thermodynamics 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 395 Professional Development Seminar 1",
+     "options": [
+      [
+       "CHE 395"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHE 395 Professional Development Seminar 1",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 437 Physical Chemistry for Engineers 4",
+     "options": [
+      [
+       "CH 437"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 437 Physical Chemistry for Engineers 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 312 Transport Processes II 3",
+     "options": [
+      [
+       "CHE 312"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 312 Transport Processes II 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 316 Thermodynamics of Chemical and Phase Equilibria 3",
+     "options": [
+      [
+       "CHE 316"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 316 Thermodynamics of Chemical and Phase Equilibria 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 330 Chemical Engineering Lab I 4",
+     "options": [
+      [
+       "CHE 330"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHE 330 Chemical Engineering Lab I 4",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 331 Chemical Engineering Lab II 2",
+     "options": [
+      [
+       "CHE 331"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "CHE 331 Chemical Engineering Lab II 2",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 446 Design and Analysis of Chemical Reactors 3",
+     "options": [
+      [
+       "CHE 446"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 446 Design and Analysis of Chemical Reactors 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select one of the following:",
+     "options": [],
+     "hours": null,
+     "raw": "Select one of the following:",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHE 450 or ECE 482 Chemical Engineering Design I or Engineering Entrepreneurship Senior Design I 3",
+     "options": [
+      [
+       "CHE 450"
+      ],
+      [
+       "ECE 482"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 450 or ECE 482 Chemical Engineering Design I or Engineering Entrepreneurship Senior Design I 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Nanosciences Elective",
+     "options": [
+      [
+       "BEC 462"
+      ],
+      [
+       "BEC 562"
+      ],
+      [
+       "CHE 460"
+      ],
+      [
+       "CHE 461"
+      ],
+      [
+       "CHE 462"
+      ],
+      [
+       "CHE 465"
+      ],
+      [
+       "CHE 467"
+      ],
+      [
+       "CHE 562"
+      ],
+      [
+       "E 304"
+      ],
+      [
+       "ECE 331"
+      ],
+      [
+       "MSE 355"
+      ],
+      [
+       "MSE 455"
+      ],
+      [
+       "MSE 460"
+      ],
+      [
+       "PY 407"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Nanosciences Elective 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 435 Process Systems Analysis and Control 3",
+     "options": [
+      [
+       "CHE 435"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 435 Process Systems Analysis and Control 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Select one of the following:",
+     "options": [],
+     "hours": null,
+     "raw": "Select one of the following:",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHE 451 or ECE 483 Chemical Engineering Design II or Engineering Entrepreneurship Senior Design II 3",
+     "options": [
+      [
+       "CHE 451"
+      ],
+      [
+       "ECE 483"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHE 451 or ECE 483 Chemical Engineering Design II or Engineering Entrepreneurship Senior Design II 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Nanosciences Elective",
+     "options": [
+      [
+       "BEC 462"
+      ],
+      [
+       "BEC 562"
+      ],
+      [
+       "CHE 460"
+      ],
+      [
+       "CHE 461"
+      ],
+      [
+       "CHE 462"
+      ],
+      [
+       "CHE 465"
+      ],
+      [
+       "CHE 467"
+      ],
+      [
+       "CHE 562"
+      ],
+      [
+       "E 304"
+      ],
+      [
+       "ECE 331"
+      ],
+      [
+       "MSE 355"
+      ],
+      [
+       "MSE 455"
+      ],
+      [
+       "MSE 460"
+      ],
+      [
+       "PY 407"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Nanosciences Elective 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s39"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s42"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s43"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s44"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s45"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s46"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s47"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 3",
+     "id": "ncsu-chemical-engineering-bs-nanoscience-concentration-s48"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/chemical-biomolecular/chemical-engineering-bs-nanoscience-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Nanoscience Concentration",
+ "college": "College of Engineering"
+}

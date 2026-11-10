@@ -1,0 +1,826 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-biochemistry-bs",
+ "university": "ncsu",
+ "name": "Biochemistry",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/molecular-structural-biochemistry/biochemistry-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 121
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BCH 103 Introduction to Biochemistry 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences or LSC 103 Exploring Opportunities in the Life Sciences",
+     "options": [
+      [
+       "BCH 103"
+      ],
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ],
+      [
+       "LSC 103"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "BCH 103 Introduction to Biochemistry 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences or LSC 103 Exploring Opportunities in the Life Sciences",
+     "id": "ncsu-biochemistry-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "English & Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research (C- or better) 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research (C- or better) 4",
+     "id": "ncsu-biochemistry-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENG 331 Communication for Engineering and Technology 3 or ENG 333 Communication for Science and Research",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 331 Communication for Engineering and Technology 3 or ENG 333 Communication for Science and Research",
+     "id": "ncsu-biochemistry-bs-s3"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical Science & Physics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Choose one of the following Math sequences:",
+     "options": [
+      [
+       "MA 141"
+      ],
+      [
+       "MA 241"
+      ],
+      [
+       "MA 242"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 231"
+      ],
+      [
+       "ST 311"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Choose one of the following Math sequences: 12",
+     "id": "ncsu-biochemistry-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4 or PY 211 College Physics I",
+     "options": [
+      [
+       "PY 205",
+       "PY 206"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4 or PY 211 College Physics I",
+     "id": "ncsu-biochemistry-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4 or PY 212 College Physics II",
+     "options": [
+      [
+       "PY 208",
+       "PY 209"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4 or PY 212 College Physics II",
+     "id": "ncsu-biochemistry-bs-s6"
+    }
+   ]
+  },
+  {
+   "title": "Chemistry/Lab Analysis",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-biochemistry-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "id": "ncsu-biochemistry-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "id": "ncsu-biochemistry-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "options": [
+      [
+       "CH 223",
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "id": "ncsu-biochemistry-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Physical Chemistry sequences:",
+     "options": [
+      [
+       "CH 331"
+      ],
+      [
+       "BCH 330"
+      ],
+      [
+       "CH 431",
+       "CH 433"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select one of the following Physical Chemistry sequences: 6",
+     "id": "ncsu-biochemistry-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Laboratory Analysis Elective",
+     "options": [
+      [
+       "BCH 454"
+      ],
+      [
+       "BEC 463"
+      ],
+      [
+       "BEC 563"
+      ],
+      [
+       "BIT 463"
+      ],
+      [
+       "BIT 464"
+      ],
+      [
+       "BIT 465"
+      ],
+      [
+       "BIT 466"
+      ],
+      [
+       "BIT 467"
+      ],
+      [
+       "BIT 471"
+      ],
+      [
+       "BIT 473"
+      ],
+      [
+       "BIT 474"
+      ],
+      [
+       "BIT 476"
+      ],
+      [
+       "BIT 477"
+      ],
+      [
+       "BIT 479"
+      ],
+      [
+       "BIT 480"
+      ],
+      [
+       "BIT 481"
+      ],
+      [
+       "BIT 563"
+      ],
+      [
+       "BIT 564"
+      ],
+      [
+       "BIT 565"
+      ],
+      [
+       "BIT 566"
+      ],
+      [
+       "BIT 567"
+      ],
+      [
+       "BIT 571"
+      ],
+      [
+       "BIT 573"
+      ],
+      [
+       "BIT 574"
+      ],
+      [
+       "BIT 577"
+      ],
+      [
+       "BIT 579"
+      ],
+      [
+       "BIT 580"
+      ],
+      [
+       "CH 315"
+      ],
+      [
+       "CH 316"
+      ],
+      [
+       "CHE 463"
+      ],
+      [
+       "CHE 563"
+      ],
+      [
+       "PB 481"
+      ],
+      [
+       "PO 466"
+      ],
+      [
+       "PO 566"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Laboratory Analysis Elective 3",
+     "id": "ncsu-biochemistry-bs-s12",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Life Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LSC 101 Critical and Creative Thinking in the Life Sciences 2",
+     "options": [
+      [
+       "LSC 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "LSC 101 Critical and Creative Thinking in the Life Sciences 2",
+     "id": "ncsu-biochemistry-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-biochemistry-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-biochemistry-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advised Elective 3",
+     "id": "ncsu-biochemistry-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BCH 451 Principles of Biochemistry 4",
+     "options": [
+      [
+       "BCH 451"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BCH 451 Principles of Biochemistry 4",
+     "id": "ncsu-biochemistry-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BCH 453 Biochemistry of Gene Expression 3 or BCH 553 Biochemistry of Gene Expression",
+     "options": [
+      [
+       "BCH 453"
+      ],
+      [
+       "BCH 553"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BCH 453 Biochemistry of Gene Expression 3 or BCH 553 Biochemistry of Gene Expression",
+     "id": "ncsu-biochemistry-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BCH 455 Proteins and Molecular Mechanisms 3 or BCH 555 Proteins and Molecular Mechanisms",
+     "options": [
+      [
+       "BCH 455"
+      ],
+      [
+       "BCH 555"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BCH 455 Proteins and Molecular Mechanisms 3 or BCH 555 Proteins and Molecular Mechanisms",
+     "id": "ncsu-biochemistry-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Biochemistry Laboratory Elective",
+     "options": [
+      [
+       "BCH 452"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 6
+     },
+     "raw": "Biochemistry Laboratory Elective 5-6",
+     "id": "ncsu-biochemistry-bs-s20"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "one-of",
+     "label": "and one of the following:",
+     "options": [
+      [
+       "BCH 454"
+      ],
+      [
+       "ALS 499"
+      ],
+      [
+       "BCH 492"
+      ],
+      [
+       "BCH 493"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": null,
+     "raw": "and one of the following:",
+     "id": "ncsu-biochemistry-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MB 351 General Microbiology 3",
+     "options": [
+      [
+       "MB 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MB 351 General Microbiology 3",
+     "id": "ncsu-biochemistry-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MB 352 General Microbiology Laboratory 1 or MB 354 Inquiry-Guided Microbiology Lab",
+     "options": [
+      [
+       "MB 352"
+      ],
+      [
+       "MB 354"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MB 352 General Microbiology Laboratory 1 or MB 354 Inquiry-Guided Microbiology Lab",
+     "id": "ncsu-biochemistry-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 311 Principles of Genetics 4",
+     "options": [
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GN 311 Principles of Genetics 4",
+     "id": "ncsu-biochemistry-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Cell Biology/Physiology: Select one of the following:",
+     "options": [
+      [
+       "BIO 240"
+      ],
+      [
+       "BIO 245"
+      ],
+      [
+       "BIO 414"
+      ],
+      [
+       "PB 421"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Cell Biology/Physiology: Select one of the following: 3",
+     "id": "ncsu-biochemistry-bs-s25"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-biochemistry-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-biochemistry-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-biochemistry-bs-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-biochemistry-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-biochemistry-bs-s30"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-biochemistry-bs-s31"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-biochemistry-bs-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-biochemistry-bs-s33"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 8",
+     "id": "ncsu-biochemistry-bs-s34"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Choose one of the following Math sequences:\" has a nested heading or list reference: \"OR\"",
+  "Group \"Select one of the following Physical Chemistry sequences:\" has a nested heading or list reference: \"OR\"",
+  "Group meaning unclear (take all, one, or some?): \"Biochemistry Laboratory Elective\"",
+  "Required course codes not found in the course catalog: BIO 414, MB 351, MB 352, MB 354"
+ ],
+ "parseNotes": [
+  "Group \"Choose one of the following Math sequences:\" carries a note or open-ended option: \"Advised Elective MA, ST or CSC\"",
+  "Group \"Select one of the following Physical Chemistry sequences:\" carries a note or open-ended option: \"Sciences Advised Elective\"",
+  "Codes in choice lists not found in the course catalog: BIT 463, BIT 563, PO 466, PO 566"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/molecular-structural-biochemistry/biochemistry-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Agriculture and Life Sciences"
+}

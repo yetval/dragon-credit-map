@@ -1,0 +1,1021 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration",
+ "university": "ncsu",
+ "name": "Textile Technology",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-engineering-chemistry-science/textile-technology-bs-supply-chain-operations-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "options": [
+      [
+       "T 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "MA/ST and Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3-4 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3-4 or MA 141 Calculus I",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3-4 or MA 241 Calculus II",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3-4 or MA 241 Calculus II",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 311 Introduction to Statistics 3 or ST 370 Probability and Statistics for Engineers",
+     "options": [
+      [
+       "ST 311"
+      ],
+      [
+       "ST 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3 or ST 370 Probability and Statistics for Engineers",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 205 Physics for Engineers and Scientists I 4 or PY 211 College Physics I",
+     "options": [
+      [
+       "PY 205"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4 or PY 211 College Physics I",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 208 Physics for Engineers and Scientists II 4 or PY 212 College Physics II",
+     "options": [
+      [
+       "PY 208"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4 or PY 212 College Physics II",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s8"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 205 Fundamentals of Economics 3",
+     "options": [
+      [
+       "EC 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 205 Fundamentals of Economics 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FTM 217 The Textile Industry 3",
+     "options": [
+      [
+       "FTM 217"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FTM 217 The Textile Industry 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MT 366 Biotextile Product Development 3",
+     "options": [
+      [
+       "MT 366"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MT 366 Biotextile Product Development 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 302 Technology of Textile Wet Processing 4",
+     "options": [
+      [
+       "PCC 302"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PCC 302 Technology of Textile Wet Processing 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 200 Introduction to Polymer Science and Engineering 3",
+     "options": [
+      [
+       "TE 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 200 Introduction to Polymer Science and Engineering 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 201 Fiber Science 4",
+     "options": [
+      [
+       "TE 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 201 Fiber Science 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 105 Introduction to Textile Technology 3",
+     "options": [
+      [
+       "TT 105"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 105 Introduction to Textile Technology 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 327 Yarn Production and Properties 4",
+     "options": [
+      [
+       "TT 327"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TT 327 Yarn Production and Properties 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 331 Performance Evaluation of Textile Materials 4",
+     "options": [
+      [
+       "TT 331"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TT 331 Performance Evaluation of Textile Materials 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 341 Knitted Fabric Technology 3",
+     "options": [
+      [
+       "TT 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 341 Knitted Fabric Technology 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 351 Woven Products and Processes 3",
+     "options": [
+      [
+       "TT 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 351 Woven Products and Processes 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 380 Management and Control of Textile and Apparel Systems 3",
+     "options": [
+      [
+       "TT 380"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 380 Management and Control of Textile and Apparel Systems 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 401 Textile Technology Senior Design I 4",
+     "options": [
+      [
+       "TT 401"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TT 401 Textile Technology Senior Design I 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 402 Textile Technology Senior Design II 4",
+     "options": [
+      [
+       "TT 402"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TT 402 Textile Technology Senior Design II 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 404 Introduction to Nonwovens Products and Processes 3",
+     "options": [
+      [
+       "TT 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 404 Introduction to Nonwovens Products and Processes 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 431 Quality Management and Control In Textile Manufacturing 3",
+     "options": [
+      [
+       "TT 431"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 431 Quality Management and Control In Textile Manufacturing 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 481 Design and Technology of Technical Textiles 3",
+     "options": [
+      [
+       "TT 481"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 481 Design and Technology of Technical Textiles 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s25"
+    }
+   ]
+  },
+  {
+   "title": "Supply Chain Operations Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 480 Operations Management Decisions for Textiles 3",
+     "options": [
+      [
+       "TT 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 480 Operations Management Decisions for Textiles 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TT 486 Supply Chain Management in the Textile Industry 3",
+     "options": [
+      [
+       "TT 486"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TT 486 Supply Chain Management in the Textile Industry 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ACC 210 Concepts of Financial Reporting 3",
+     "options": [
+      [
+       "ACC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ACC 210 Concepts of Financial Reporting 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 320 Principles of Finance 3",
+     "options": [
+      [
+       "BUS 320"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 320 Principles of Finance 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Supply Chain Operations Concentration",
+     "options": [
+      [
+       "DSC 201"
+      ],
+      [
+       "DSC 205"
+      ],
+      [
+       "DSC 295"
+      ],
+      [
+       "DSC 406"
+      ],
+      [
+       "DSC 412"
+      ],
+      [
+       "DSC 495"
+      ],
+      [
+       "FTM 310"
+      ],
+      [
+       "FTM 315"
+      ],
+      [
+       "FTM 317"
+      ],
+      [
+       "FTM 318"
+      ],
+      [
+       "FTM 320"
+      ],
+      [
+       "FTM 382"
+      ],
+      [
+       "FTM 384"
+      ],
+      [
+       "FTM 385"
+      ],
+      [
+       "FTM 387"
+      ],
+      [
+       "FTM 400"
+      ],
+      [
+       "FTM 415"
+      ],
+      [
+       "FTM 416"
+      ],
+      [
+       "FTM 420"
+      ],
+      [
+       "FTM 460"
+      ],
+      [
+       "FTM 481"
+      ],
+      [
+       "FTM 482"
+      ],
+      [
+       "FTM 483"
+      ],
+      [
+       "FTM 484"
+      ],
+      [
+       "FTM 485"
+      ],
+      [
+       "FTM 487"
+      ],
+      [
+       "FTM 490"
+      ],
+      [
+       "FTM 491"
+      ],
+      [
+       "MT 323"
+      ],
+      [
+       "MT 381"
+      ],
+      [
+       "MT 432"
+      ],
+      [
+       "MT 471"
+      ],
+      [
+       "NW 408"
+      ],
+      [
+       "TT 508"
+      ],
+      [
+       "NW 503"
+      ],
+      [
+       "TT 503"
+      ],
+      [
+       "NW 504"
+      ],
+      [
+       "TT 504"
+      ],
+      [
+       "NW 507"
+      ],
+      [
+       "TT 507"
+      ],
+      [
+       "PCC 201"
+      ],
+      [
+       "PCC 274"
+      ],
+      [
+       "PCC 350"
+      ],
+      [
+       "PCC 354"
+      ],
+      [
+       "PCC 420"
+      ],
+      [
+       "PCC 471"
+      ],
+      [
+       "TE 110"
+      ],
+      [
+       "TE 440"
+      ],
+      [
+       "TE 533"
+      ],
+      [
+       "TMS 521"
+      ],
+      [
+       "TT 405"
+      ],
+      [
+       "NW 405"
+      ],
+      [
+       "TT 407"
+      ],
+      [
+       "TT 451"
+      ],
+      [
+       "TT 470"
+      ],
+      [
+       "TT 485"
+      ],
+      [
+       "TT 500"
+      ],
+      [
+       "TT 503"
+      ],
+      [
+       "TT 504"
+      ],
+      [
+       "TT 507"
+      ],
+      [
+       "TT 508"
+      ],
+      [
+       "T 493"
+      ],
+      [
+       "T 497"
+      ],
+      [
+       "T 498"
+      ],
+      [
+       "TT 520"
+      ],
+      [
+       "TT 521"
+      ],
+      [
+       "TT 530"
+      ],
+      [
+       "TT 532"
+      ],
+      [
+       "TT 533"
+      ],
+      [
+       "TT 535"
+      ],
+      [
+       "TT 549"
+      ],
+      [
+       "TT 550"
+      ],
+      [
+       "TT 551"
+      ],
+      [
+       "TT 553"
+      ],
+      [
+       "TT 570"
+      ],
+      [
+       "TT 571"
+      ],
+      [
+       "TT 581"
+      ],
+      [
+       "TT 591"
+      ],
+      [
+       "TTM 530"
+      ],
+      [
+       "TTM 533"
+      ],
+      [
+       "TTM 535"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Supply Chain Operations Concentration 6",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s30",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      32,
+      33,
+      33,
+      34,
+      34,
+      35,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75
+     ]
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "WLEN 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-textile-technology-bs-supply-chain-operations-concentration-s39"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1 GEP\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-engineering-chemistry-science/textile-technology-bs-supply-chain-operations-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Supply Chain Operations Concentration",
+ "college": "Wilson College of Textiles"
+}

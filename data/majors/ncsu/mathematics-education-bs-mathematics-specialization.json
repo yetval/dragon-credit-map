@@ -1,0 +1,809 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-mathematics-education-bs-mathematics-specialization",
+ "university": "ncsu",
+ "name": "Mathematics Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/stem/mathematics-education-bs-mathematics-specialization/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 100 Intro to Education 2",
+     "options": [
+      [
+       "ED 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s1"
+    }
+   ]
+  },
+  {
+   "title": "Computer Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "E 115 Introduction to Computing Environments 1 or COS 100 Science of Change",
+     "options": [
+      [
+       "E 115"
+      ],
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1 or COS 100 Science of Change",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Introductory Programming (Choose one):",
+     "options": [
+      [
+       "CSC 110"
+      ],
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "CSC 116"
+      ],
+      [
+       "MA 116"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Introductory Programming (Choose one): 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s3"
+    }
+   ]
+  },
+  {
+   "title": "Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 112 Interpersonal Communication 3",
+     "options": [
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 112 Interpersonal Communication 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s4"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 225 Foundations of Advanced Mathematics 3",
+     "options": [
+      [
+       "MA 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 225 Foundations of Advanced Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 351 Introduction to Discrete Mathematical Models 3 or MA 341 Applied Differential Equations I",
+     "options": [
+      [
+       "MA 351"
+      ],
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 351 Introduction to Discrete Mathematical Models 3 or MA 341 Applied Differential Equations I",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 403 Introduction to Modern Algebra 3",
+     "options": [
+      [
+       "MA 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 403 Introduction to Modern Algebra 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 405 Introduction to Linear Algebra 3",
+     "options": [
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 405 Introduction to Linear Algebra 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 408 Foundations of Euclidean Geometry 3",
+     "options": [
+      [
+       "MA 408"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 408 Foundations of Euclidean Geometry 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math Electives",
+     "options": [
+      [
+       "MA 105"
+      ],
+      [
+       "MA 114"
+      ],
+      [
+       "MA 325"
+      ],
+      [
+       "MA 335"
+      ],
+      [
+       "MA 341"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 425"
+      ],
+      [
+       "MA 427"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "MA 437"
+      ],
+      [
+       "LOG 435"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Math Electives 6",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s13",
+     "altGroups": [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Statistics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 307 Introduction to Statistical Programming- SAS 1",
+     "options": [
+      [
+       "ST 307"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ST 307 Introduction to Statistical Programming- SAS 1",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 312 Introduction to Statistics II 3",
+     "options": [
+      [
+       "ST 312"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 312 Introduction to Statistics II 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s16"
+    }
+   ]
+  },
+  {
+   "title": "Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Natural Science Lab Course (choose two)",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ],
+      [
+       "PY 205",
+       "PY 206"
+      ],
+      [
+       "PY 208",
+       "PY 209"
+      ],
+      [
+       "PY 201"
+      ],
+      [
+       "PY 202"
+      ],
+      [
+       "PY 211"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "pick": {
+      "hours": 8
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Natural Science Lab Course (choose two) 8",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Natural Sciences 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s18"
+    }
+   ]
+  },
+  {
+   "title": "Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 204 Introduction to Mathematics Education 2",
+     "options": [
+      [
+       "EMS 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 204 Introduction to Mathematics Education 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 472 Teaching Mathematics Topics in Senior High School 3",
+     "options": [
+      [
+       "EMS 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 472 Teaching Mathematics Topics in Senior High School 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 480 Teaching Mathematics with Technology 3",
+     "options": [
+      [
+       "EMS 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 480 Teaching Mathematics with Technology 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 470 Methods and Materials for Teaching Mathematics 3",
+     "options": [
+      [
+       "EMS 470"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 470 Methods and Materials for Teaching Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 490 School Mathematics from an Advanced Perspective 3",
+     "options": [
+      [
+       "EMS 490"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 490 School Mathematics from an Advanced Perspective 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 471 Student Teaching in Mathematics 10",
+     "options": [
+      [
+       "EMS 471"
+      ]
+     ],
+     "hours": {
+      "min": 10,
+      "max": 10
+     },
+     "raw": "EMS 471 Student Teaching in Mathematics 10",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "options": [
+      [
+       "EMS 495"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s31"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Free Elective 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s32"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-mathematics-specialization-s39"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Natural Sciences Lab Course Electives\" has a row that is not a course and was not read: \"Choose two of the following, given pre-requisite requirements:\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/stem/mathematics-education-bs-mathematics-specialization/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Mathematics Specialization",
+ "college": "College of Education"
+}

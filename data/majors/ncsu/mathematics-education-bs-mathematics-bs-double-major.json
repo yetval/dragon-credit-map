@@ -1,0 +1,1041 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major",
+ "university": "ncsu",
+ "name": "Mathematics Education (BS) and Mathematics (BS)",
+ "degree": "Double Major",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/stem/mathematics-education-bs-mathematics-bs-double-major/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 129,
+  "max": 129
+ },
+ "sections": [
+  {
+   "title": "Computer Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "E 115 Introduction to Computing Environments 1 or COS 100 Science of Change",
+     "options": [
+      [
+       "E 115"
+      ],
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1 or COS 100 Science of Change",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Introduction to Computing (Choose one):",
+     "options": [
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "CSC 116"
+      ],
+      [
+       "MA 116"
+      ],
+      [
+       "PY 251"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Introduction to Computing (Choose one): 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s2"
+    }
+   ]
+  },
+  {
+   "title": "Communications",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 112 Interpersonal Communication 3",
+     "options": [
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 112 Interpersonal Communication 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s3"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4",
+     "options": [
+      [
+       "PY 205",
+       "PY 206"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s5"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Or",
+     "options": [
+      [
+       "PY 201"
+      ]
+     ],
+     "hours": null,
+     "raw": "Or",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s6"
+    }
+   ]
+  },
+  {
+   "title": "Science Elective: (4 credit hours, choose from the list below given pre-requisite reqquirements)",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Science Elective: (4 credit hours, choose from the list below given pre-requisite reqquirements)",
+     "options": [
+      [
+       "PY 208",
+       "PY 209"
+      ],
+      [
+       "PY 202"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ],
+      [
+       "CH 201",
+       "CH 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Science Elective: (4 credit hours, choose from the list below given pre-requisite reqquirements) 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s7"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 225 Foundations of Advanced Mathematics 3",
+     "options": [
+      [
+       "MA 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 225 Foundations of Advanced Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 341 Applied Differential Equations I 3 or MA 351 Introduction to Discrete Mathematical Models",
+     "options": [
+      [
+       "MA 341"
+      ],
+      [
+       "MA 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3 or MA 351 Introduction to Discrete Mathematical Models",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 405 Introduction to Linear Algebra 3",
+     "options": [
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 405 Introduction to Linear Algebra 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "options": [
+      [
+       "MA 407"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 408 Foundations of Euclidean Geometry 3",
+     "options": [
+      [
+       "MA 408"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 408 Foundations of Euclidean Geometry 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 421 Introduction to Probability 3",
+     "options": [
+      [
+       "MA 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 421 Introduction to Probability 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 425 Mathematical Analysis I 3",
+     "options": [
+      [
+       "MA 425"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 425 Mathematical Analysis I 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math Electives",
+     "options": [
+      [
+       "MA 325"
+      ],
+      [
+       "MA 335"
+      ],
+      [
+       "LOG 335"
+      ],
+      [
+       "MA 341"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 405"
+      ],
+      [
+       "MA 407"
+      ],
+      [
+       "MA 408"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "MA 416"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 425"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 427"
+      ],
+      [
+       "MA 428"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "MA 437"
+      ],
+      [
+       "MA 444"
+      ],
+      [
+       "MA 450"
+      ],
+      [
+       "MA 451"
+      ],
+      [
+       "MA 491"
+      ],
+      [
+       "MA 493"
+      ],
+      [
+       "MA 494"
+      ],
+      [
+       "MA 499"
+      ],
+      [
+       "MA 501"
+      ],
+      [
+       "MA 502"
+      ],
+      [
+       "MA 504"
+      ],
+      [
+       "MA 505"
+      ],
+      [
+       "MA 513"
+      ],
+      [
+       "MA 515"
+      ],
+      [
+       "MA 518"
+      ],
+      [
+       "MA 520"
+      ],
+      [
+       "MA 521"
+      ],
+      [
+       "MA 522"
+      ],
+      [
+       "MA 523"
+      ],
+      [
+       "MA 524"
+      ],
+      [
+       "MA 526"
+      ],
+      [
+       "MA 531"
+      ],
+      [
+       "MA 532"
+      ],
+      [
+       "MA 534"
+      ],
+      [
+       "MA 537"
+      ],
+      [
+       "MA 540"
+      ],
+      [
+       "MA 544"
+      ],
+      [
+       "MA 546"
+      ],
+      [
+       "MA 547"
+      ],
+      [
+       "MA 548"
+      ],
+      [
+       "MA 549"
+      ],
+      [
+       "MA 551"
+      ],
+      [
+       "MA 555"
+      ],
+      [
+       "MA 561"
+      ],
+      [
+       "MA 565"
+      ],
+      [
+       "MA 573"
+      ],
+      [
+       "MA 574"
+      ],
+      [
+       "MA 583"
+      ],
+      [
+       "MA 584"
+      ],
+      [
+       "MA 587"
+      ],
+      [
+       "MA 591"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Math Electives 12",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s18",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Statistics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Statistics",
+     "options": [
+      [
+       "ST 370"
+      ],
+      [
+       "ST 372"
+      ],
+      [
+       "ST 421"
+      ],
+      [
+       "ST 422"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Statistics 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s19"
+    }
+   ]
+  },
+  {
+   "title": "Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 100 Intro to Education 2",
+     "options": [
+      [
+       "ED 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 204 Introduction to Mathematics Education 2",
+     "options": [
+      [
+       "EMS 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 204 Introduction to Mathematics Education 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 472 Teaching Mathematics Topics in Senior High School 3",
+     "options": [
+      [
+       "EMS 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 472 Teaching Mathematics Topics in Senior High School 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 480 Teaching Mathematics with Technology 3",
+     "options": [
+      [
+       "EMS 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 480 Teaching Mathematics with Technology 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 470 Methods and Materials for Teaching Mathematics 3",
+     "options": [
+      [
+       "EMS 470"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 470 Methods and Materials for Teaching Mathematics 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 490 School Mathematics from an Advanced Perspective 3",
+     "options": [
+      [
+       "EMS 490"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 490 School Mathematics from an Advanced Perspective 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 471 Student Teaching in Mathematics 10",
+     "options": [
+      [
+       "EMS 471"
+      ]
+     ],
+     "hours": {
+      "min": 10,
+      "max": 10
+     },
+     "raw": "EMS 471 Student Teaching in Mathematics 10",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "options": [
+      [
+       "EMS 495"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s33"
+    }
+   ]
+  },
+  {
+   "title": "Free Elective",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Free Elective 3",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s34"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s40"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": null,
+     "raw": "GEP Elective",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-mathematics-education-bs-mathematics-bs-double-major-s42"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group meaning unclear (take all, one, or some?): \"Or\""
+ ],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: MA 526"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/stem/mathematics-education-bs-mathematics-bs-double-major/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Education"
+}

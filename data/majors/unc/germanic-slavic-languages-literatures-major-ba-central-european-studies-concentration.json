@@ -1,0 +1,201 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration",
+ "university": "unc",
+ "name": "Germanic and Slavic Languages and Literatures",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GSLL 260 From Berlin to Budapest: Literature, Film, and Culture of Central Europe 3",
+     "options": [
+      [
+       "GSLL 260"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GSLL 260 From Berlin to Budapest: Literature, Film, and Culture of Central Europe 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "HIST 250 Central Europe, Medieval to Modern 3 or HIST 260 From Kings to Communists: East-Central Europe in the Modern Era",
+     "options": [
+      [
+       "HIST 250"
+      ],
+      [
+       "HIST 260"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HIST 250 Central Europe, Medieval to Modern 3 or HIST 260 From Kings to Communists: East-Central Europe in the Modern Era",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four departmental courses (12 credit hours) in CZCH, GSLL, PLSH, RUSS, or SLAV numbered above 200 (not including introductory or intermediate foreign language courses)",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Four departmental courses (12 credit hours) in CZCH, GSLL, PLSH, RUSS, or SLAV numbered above 200 (not including introductory or intermediate foreign language courses) 6",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two additional courses (6 credit hours), which may include departmental courses in CZCH, GSLL, PLSH, RUSS, or SLAV numbered above 100, or approved Slavic & East European studies electives (see list below)",
+     "options": [
+      [
+       "ANTH 449"
+      ],
+      [
+       "HIST 140"
+      ],
+      [
+       "HIST 159"
+      ],
+      [
+       "EURO 159"
+      ],
+      [
+       "HIST 485"
+      ],
+      [
+       "JWST 485"
+      ],
+      [
+       "HIST 262"
+      ],
+      [
+       "JWST 262"
+      ],
+      [
+       "PWAD 262"
+      ],
+      [
+       "JWST 420"
+      ],
+      [
+       "RELI 420"
+      ],
+      [
+       "JWST 465"
+      ],
+      [
+       "POLI 260"
+      ],
+      [
+       "PWAD 260"
+      ],
+      [
+       "SOCI 260"
+      ],
+      [
+       "HIST 480"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Two additional courses (6 credit hours), which may include departmental courses in CZCH, GSLL, PLSH, RUSS, or SLAV numbered above 100, or approved Slavic & East European studies electives (see list below) 12",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration-s4",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      6,
+      7,
+      7,
+      7,
+      8
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Students must establish credit for level 4 (four semesters) of one East or Central European language (3 credit hours):",
+     "options": [
+      [
+       "BCS 404"
+      ],
+      [
+       "CZCH 404"
+      ],
+      [
+       "PLSH 404"
+      ],
+      [
+       "RUSS 204"
+      ],
+      [
+       "GERM 204"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Students must establish credit for level 4 (four semesters) of one East or Central European language (3 credit hours): 3",
+     "id": "unc-germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration-s5"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Four departmental courses (12 credit hours) in CZCH, GSLL, PLSH, RUSS, or SLAV numbered above 200 (not including introductory or intermediate foreign language courses)\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/germanic-slavic-languages-literatures-major-ba-central-european-studies-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Slavic and East European Studies Concentration"
+}

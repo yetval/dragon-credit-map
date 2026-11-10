@@ -1,0 +1,428 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-south-asian-studies-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-south-asian-studies-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 31,
+  "max": 31
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two Hindi-Urdu courses beyond HNUR 204.",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two Hindi-Urdu courses beyond HNUR 204. 6",
+     "id": "unc-asian-studies-major-ba-south-asian-studies-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following introductory courses:",
+     "options": [
+      [
+       "ASIA 59"
+      ],
+      [
+       "ASIA 61"
+      ],
+      [
+       "HIST 74"
+      ],
+      [
+       "ASIA 135"
+      ],
+      [
+       "ASIA 136"
+      ],
+      [
+       "ASIA 152"
+      ],
+      [
+       "ASIA 167"
+      ],
+      [
+       "ASIA 267"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following introductory courses: 3",
+     "id": "unc-asian-studies-major-ba-south-asian-studies-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Five courses, including at least three numbered 200 or above, from either the list of introductory courses above or the course list below",
+     "options": [
+      [
+       "ASIA 69"
+      ],
+      [
+       "PWAD 69"
+      ],
+      [
+       "ASIA 124"
+      ],
+      [
+       "ASIA 125I"
+      ],
+      [
+       "ASIA 126"
+      ],
+      [
+       "ASIA 127"
+      ],
+      [
+       "WGST 127"
+      ],
+      [
+       "ASIA 163"
+      ],
+      [
+       "ASIA 164"
+      ],
+      [
+       "MUSC 164"
+      ],
+      [
+       "ASIA 228"
+      ],
+      [
+       "ASIA 231"
+      ],
+      [
+       "ASIA 256"
+      ],
+      [
+       "CMPL 256"
+      ],
+      [
+       "ASIA 258"
+      ],
+      [
+       "CMPL 258"
+      ],
+      [
+       "ASIA 261"
+      ],
+      [
+       "CMPL 261"
+      ],
+      [
+       "ASIA 262"
+      ],
+      [
+       "ASIA 272"
+      ],
+      [
+       "HIST 272"
+      ],
+      [
+       "ASIA 280"
+      ],
+      [
+       "RELI 280"
+      ],
+      [
+       "ASIA 285"
+      ],
+      [
+       "RELI 285"
+      ],
+      [
+       "ASIA 300"
+      ],
+      [
+       "RELI 283"
+      ],
+      [
+       "ASIA 331"
+      ],
+      [
+       "HIST 335"
+      ],
+      [
+       "PWAD 331"
+      ],
+      [
+       "ASIA 332"
+      ],
+      [
+       "ASIA 333"
+      ],
+      [
+       "ANTH 361"
+      ],
+      [
+       "ASIA 381"
+      ],
+      [
+       "RELI 381"
+      ],
+      [
+       "ASIA 382"
+      ],
+      [
+       "RELI 382"
+      ],
+      [
+       "ASIA 383"
+      ],
+      [
+       "RELI 383"
+      ],
+      [
+       "HNUR 407"
+      ],
+      [
+       "HNUR 408"
+      ],
+      [
+       "HNUR 409"
+      ],
+      [
+       "HNUR 410"
+      ],
+      [
+       "HNUR 411"
+      ],
+      [
+       "ASIA 431"
+      ],
+      [
+       "ASIA 440"
+      ],
+      [
+       "HIST 440"
+      ],
+      [
+       "ASIA 441"
+      ],
+      [
+       "HIST 442"
+      ],
+      [
+       "ASIA 453"
+      ],
+      [
+       "RELI 481"
+      ],
+      [
+       "PWAD 481"
+      ],
+      [
+       "ASIA 482"
+      ],
+      [
+       "RELI 482"
+      ],
+      [
+       "WGST 482"
+      ],
+      [
+       "HNUR 490"
+      ],
+      [
+       "ASIA 522"
+      ],
+      [
+       "ASIA 557"
+      ],
+      [
+       "HIST 557"
+      ],
+      [
+       "ASIA 581"
+      ],
+      [
+       "RELI 581"
+      ],
+      [
+       "ASIA 582"
+      ],
+      [
+       "RELI 582"
+      ],
+      [
+       "ASIA 583"
+      ],
+      [
+       "RELI 583"
+      ],
+      [
+       "HNUR 592"
+      ],
+      [
+       "RELI 592"
+      ],
+      [
+       "ASIA 692H"
+      ]
+     ],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five courses, including at least three numbered 200 or above, from either the list of introductory courses above or the course list below 15",
+     "id": "unc-asian-studies-major-ba-south-asian-studies-concentration-s3",
+     "pick": {
+      "hours": 15
+     },
+     "altGroups": [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      4,
+      5,
+      6,
+      6,
+      7,
+      8,
+      9,
+      9,
+      10,
+      10,
+      11,
+      11,
+      12,
+      13,
+      13,
+      14,
+      14,
+      15,
+      15,
+      16,
+      16,
+      17,
+      17,
+      17,
+      18,
+      19,
+      20,
+      21,
+      21,
+      22,
+      22,
+      23,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      30,
+      31,
+      31,
+      32,
+      33,
+      33,
+      34,
+      34,
+      34,
+      35,
+      36,
+      37,
+      37,
+      38,
+      38,
+      39,
+      39,
+      40,
+      40,
+      41,
+      41,
+      42
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "HNUR through level 4",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HNUR through level 4 4",
+     "id": "unc-asian-studies-major-ba-south-asian-studies-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HNUR 220 Introduction to the Hindi Script (Devanagari) (not required if the student has taken HNUR 101) 1",
+     "options": [
+      [
+       "HNUR 220"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "HNUR 220 Introduction to the Hindi Script (Devanagari) (not required if the student has taken HNUR 101) 1",
+     "id": "unc-asian-studies-major-ba-south-asian-studies-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HNUR 221 Introduction to the Urdu Script (Nastaliq) 2",
+     "options": [
+      [
+       "HNUR 221"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "HNUR 221 Introduction to the Urdu Script (Nastaliq) 2",
+     "id": "unc-asian-studies-major-ba-south-asian-studies-concentration-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Five courses, including at least three numbered 200 or above, from either the list of introductory courses above or the course list below\"",
+  "Linked \"Five courses, including at least three numbered 200 or above, from either the list of introductory courses above or the course list below\" to the list \"Courses\" by its position on the page"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-south-asian-studies-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "South Asian Studies Concentration"
+}

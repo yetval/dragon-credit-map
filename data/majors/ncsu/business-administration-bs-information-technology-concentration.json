@@ -1,0 +1,735 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-business-administration-bs-information-technology-concentration",
+ "university": "ncsu",
+ "name": "Business Administration",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/management/itao/business-administration-bs-information-technology-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Humanities and Social Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "WLEN 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSY 200 Introduction to Psychology 3",
+     "options": [
+      [
+       "PSY 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSY 200 Introduction to Psychology 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 202 Principles of Macroeconomics 3",
+     "options": [
+      [
+       "EC 202"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 202 Principles of Macroeconomics 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s8"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "one-of",
+     "label": "Select one of the following: (verify requirement)",
+     "options": [
+      [
+       "MIE 306"
+      ],
+      [
+       "PHI 214"
+      ],
+      [
+       "PHI 221"
+      ],
+      [
+       "PHI 313"
+      ],
+      [
+       "PHI 375"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": null,
+     "raw": "Select one of the following: (verify requirement)",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s10"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s11"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical and Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 114 Introduction to Finite Mathematics with Applications 3 or MA 242 Calculus III",
+     "options": [
+      [
+       "MA 114"
+      ],
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 114 Introduction to Finite Mathematics with Applications 3 or MA 242 Calculus III",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "BUS 350"
+      ],
+      [
+       "ST 350"
+      ],
+      [
+       "ST 312"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "ST 372"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 351 Introduction to Business Analytics 3",
+     "options": [
+      [
+       "BUS 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 351 Introduction to Business Analytics 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 307 Introduction to Statistical Programming- SAS 1 or ST 308 Introduction to Statistical Programming - R",
+     "options": [
+      [
+       "ST 307"
+      ],
+      [
+       "ST 308"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ST 307 Introduction to Statistical Programming- SAS 1 or ST 308 Introduction to Statistical Programming - R",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s17"
+    }
+   ]
+  },
+  {
+   "title": "Interdisciplinary Perspectives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s18"
+    }
+   ]
+  },
+  {
+   "title": "Physical Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s19"
+    }
+   ]
+  },
+  {
+   "title": "Corequisites",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s20"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "M 100 Personal and Professional Identity Development 1",
+     "options": [
+      [
+       "M 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "M 100 Personal and Professional Identity Development 1",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 201 Introduction to Business 3",
+     "options": [
+      [
+       "MIE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 201 Introduction to Business 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ACC 210 Concepts of Financial Reporting 3",
+     "options": [
+      [
+       "ACC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ACC 210 Concepts of Financial Reporting 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ACC 220 Introduction to Managerial Accounting 3",
+     "options": [
+      [
+       "ACC 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ACC 220 Introduction to Managerial Accounting 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 310 Introduction to Entrepreneurship 3",
+     "options": [
+      [
+       "MIE 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 310 Introduction to Entrepreneurship 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 320 Financial Management 3",
+     "options": [
+      [
+       "BUS 320"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 320 Financial Management 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 330 Managing People 3",
+     "options": [
+      [
+       "MIE 330"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 330 Managing People 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 340 Information Systems Management 3",
+     "options": [
+      [
+       "BUS 340"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 340 Information Systems Management 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 360 Marketing Methods 3",
+     "options": [
+      [
+       "BUS 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 360 Marketing Methods 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUS 370 Operations and Supply Chain Management 3",
+     "options": [
+      [
+       "BUS 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUS 370 Operations and Supply Chain Management 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 305 Legal and Regulatory Environment 3",
+     "options": [
+      [
+       "MIE 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 305 Legal and Regulatory Environment 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 480 Business Policy and Strategy 3",
+     "options": [
+      [
+       "MIE 480"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 480 Business Policy and Strategy 3",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s32"
+    }
+   ]
+  },
+  {
+   "title": "Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two of the following:",
+     "options": [
+      [
+       "BUS 440"
+      ],
+      [
+       "BUS 441"
+      ],
+      [
+       "BUS 442"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two of the following: 6",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two of the following:",
+     "options": [
+      [
+       "BUS 440"
+      ],
+      [
+       "BUS 441"
+      ],
+      [
+       "BUS 442"
+      ],
+      [
+       "BUS 443"
+      ],
+      [
+       "BUS 444"
+      ],
+      [
+       "BUS 449"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two of the following: 6",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s34"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 22,
+      "max": 22
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 22",
+     "id": "ncsu-business-administration-bs-information-technology-concentration-s35"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: PHI 313"
+ ],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "Group \"GEP Humanities\" carries a note or open-ended option: \"Students must also take one course from the Poole College of Management Ethics list (no credit hour requirement); If a student takes a PHI course to satisfy the Ethics requirement, it may double-count as the second humanities course provided the first course was not also a PHI course.\"",
+  "Group \"Select one of the following:\" carries a note or open-ended option: \"MA 131 or MA 141 are encouraged for students who qualify and aspire to take additional calculus. For students completing MA 141, one credit of MA141 will count as free elective credit.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/management/itao/business-administration-bs-information-technology-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Information Technology Concentration",
+ "college": "Poole College of Management"
+}

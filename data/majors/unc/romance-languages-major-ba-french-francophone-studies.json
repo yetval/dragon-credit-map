@@ -1,0 +1,92 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-romance-languages-major-ba-french-francophone-studies",
+ "university": "unc",
+ "name": "Romance Languages",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-french-francophone-studies/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following courses:",
+     "options": [
+      [
+       "FREN 255"
+      ],
+      [
+       "FREN 260"
+      ],
+      [
+       "FREN 262"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following courses: 3",
+     "id": "unc-romance-languages-major-ba-french-francophone-studies-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FREN 300 French Composition and Grammar Review 3",
+     "options": [
+      [
+       "FREN 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FREN 300 French Composition and Grammar Review 3",
+     "id": "unc-romance-languages-major-ba-french-francophone-studies-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Seven additional courses above 204, which must include:",
+     "options": [],
+     "hours": {
+      "min": 21,
+      "max": 21
+     },
+     "raw": "Seven additional courses above 204, which must include: 21",
+     "id": "unc-romance-languages-major-ba-french-francophone-studies-s3"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Seven additional courses above 204, which must include:\" has a nested heading or list reference: \"At least one course focused on French and Francophone contexts up to 1789 (see course list below)\"",
+  "Group \"Seven additional courses above 204, which must include:\" has a nested heading or list reference: \"At least one course focused on French and Francophone contexts since 1789 (see course list below)\"",
+  "Group \"Seven additional courses above 204, which must include:\" has a nested heading or list reference: \"At least four courses taught in French (see course lists below)\""
+ ],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Seven additional courses above 204, which must include:\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-french-francophone-studies/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "French and Francophone Studies"
+}

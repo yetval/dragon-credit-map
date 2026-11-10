@@ -1,0 +1,273 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-american-studies-major-baamerican-indian-indigenous-studies-concentration",
+ "university": "unc",
+ "name": "American Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/american-studies-major-baamerican-indian-indigenous-studies-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AMST/HIST 110 Introduction to the Cultures and Histories of Native North America 3",
+     "options": [
+      [
+       "AMST 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AMST/HIST 110 Introduction to the Cultures and Histories of Native North America 3",
+     "id": "unc-american-studies-major-baamerican-indian-indigenous-studies-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select eight additional courses from the list below, with at least four numbered 200 or higher.",
+     "options": [
+      [
+       "AMST 203"
+      ],
+      [
+       "ANTH 203"
+      ],
+      [
+       "AMST 231"
+      ],
+      [
+       "HIST 231"
+      ],
+      [
+       "AMST 233"
+      ],
+      [
+       "HIST 233"
+      ],
+      [
+       "AMST 234"
+      ],
+      [
+       "ANTH 234"
+      ],
+      [
+       "HIST 234"
+      ],
+      [
+       "AMST 235"
+      ],
+      [
+       "HIST 235"
+      ],
+      [
+       "AMST 246"
+      ],
+      [
+       "AMST 336"
+      ],
+      [
+       "AMST 337"
+      ],
+      [
+       "AMST 338"
+      ],
+      [
+       "AMST 339"
+      ],
+      [
+       "AMST 340"
+      ],
+      [
+       "AMST 341"
+      ],
+      [
+       "AMST 345"
+      ],
+      [
+       "AMST 439"
+      ],
+      [
+       "AMST 510"
+      ],
+      [
+       "AMST 511"
+      ],
+      [
+       "ANTH 121"
+      ],
+      [
+       "ANTH 206"
+      ],
+      [
+       "ANTH 231"
+      ],
+      [
+       "ANTH 232"
+      ],
+      [
+       "ANTH 250"
+      ],
+      [
+       "ANTH 252"
+      ],
+      [
+       "ANTH 406"
+      ],
+      [
+       "ANTH 451"
+      ],
+      [
+       "ANTH 550"
+      ],
+      [
+       "ARTH 160"
+      ],
+      [
+       "CHER 101"
+      ],
+      [
+       "CHER 102"
+      ],
+      [
+       "CHER 203"
+      ],
+      [
+       "CHER 204"
+      ],
+      [
+       "HIST 142"
+      ],
+      [
+       "HIST 145"
+      ],
+      [
+       "HIST 240"
+      ],
+      [
+       "HIST 315"
+      ],
+      [
+       "HIST 526"
+      ],
+      [
+       "HIST 576"
+      ],
+      [
+       "WGST 576"
+      ],
+      [
+       "LING 558"
+      ],
+      [
+       "LING 560"
+      ],
+      [
+       "LING 561"
+      ],
+      [
+       "RELI 448"
+      ],
+      [
+       "SPAN 344"
+      ],
+      [
+       "SPAN 625"
+      ],
+      [
+       "SPAN 683"
+      ]
+     ],
+     "hours": {
+      "min": 24,
+      "max": 24
+     },
+     "raw": "Select eight additional courses from the list below, with at least four numbered 200 or higher. 24",
+     "id": "unc-american-studies-major-baamerican-indian-indigenous-studies-concentration-s2",
+     "pick": {
+      "hours": 24
+     },
+     "altGroups": [
+      0,
+      0,
+      1,
+      1,
+      2,
+      2,
+      3,
+      3,
+      3,
+      4,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Select eight additional courses from the list below, with at least four numbered 200 or higher.\"",
+  "List \"Electives\" has a row that is not a course and was not read: \"AMST FYS First-Year Seminar\"",
+  "List \"Electives\" has codes with no catalog link: CHER 101, CHER 102, CHER 203, CHER 204",
+  "Linked \"Select eight additional courses from the list below, with at least four numbered 200 or higher.\" to the list \"Electives\" by its position on the page",
+  "Codes in choice lists not found in the course catalog: CHER 101, CHER 102, CHER 203, CHER 204"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/american-studies-major-baamerican-indian-indigenous-studies-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "American Indian and Indigenous Studies Concentration"
+}

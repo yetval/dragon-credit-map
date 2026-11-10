@@ -1,0 +1,85 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-art-history-major-ba",
+ "university": "unc",
+ "name": "Art History",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/art-history-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 36,
+  "max": 36
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two art history foundation courses from ARTH 100 to ARTH 200",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two art history foundation courses from ARTH 100 to ARTH 200 6",
+     "id": "unc-art-history-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Nine ARTH courses above 200, apportioned in the following way",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "ARTH"
+      ],
+      "minLevel": 201
+     },
+     "hours": {
+      "min": 27,
+      "max": 27
+     },
+     "raw": "Nine ARTH courses above 200, apportioned in the following way 27",
+     "id": "unc-art-history-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARTH 391 Undergraduate Research Seminar 3",
+     "options": [
+      [
+       "ARTH 391"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARTH 391 Undergraduate Research Seminar 3",
+     "id": "unc-art-history-major-ba-s3"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"At least one course from three of the four geographic areas (see course lists below)\"",
+  "Rule cannot be checked automatically: \"At least one course from each of the three chronological periods (see course lists below)\"",
+  "Group \"Nine ARTH courses above 200, apportioned in the following way\" has a nested heading or list reference: \"At least one course from three of the four geographic areas (see course lists below)\"",
+  "Group \"Nine ARTH courses above 200, apportioned in the following way\" has a nested heading or list reference: \"At least one course from each of the three chronological periods (see course lists below)\""
+ ],
+ "parseNotes": [
+  "Group \"Nine ARTH courses above 200, apportioned in the following way\" carries a note or open-ended option: \"At least three courses must be numbered above 399\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/art-history-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

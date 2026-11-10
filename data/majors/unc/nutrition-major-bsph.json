@@ -1,0 +1,358 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-nutrition-major-bsph",
+ "university": "unc",
+ "name": "Nutrition",
+ "degree": "B.S.P.H.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/nutrition-major-bsph/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 72,
+  "max": 72
+ },
+ "sections": [
+  {
+   "title": "Core Courses",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Public Health Core Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Public Health Core Courses:",
+     "id": "unc-nutrition-major-bsph-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 600 Principles of Statistical Inference 3",
+     "options": [
+      [
+       "BIOS 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 600 Principles of Statistical Inference 3",
+     "id": "unc-nutrition-major-bsph-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "options": [
+      [
+       "EPID 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "id": "unc-nutrition-major-bsph-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 351 Foundations of Public Health 3",
+     "options": [
+      [
+       "SPHG 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPHG 351 Foundations of Public Health 3",
+     "id": "unc-nutrition-major-bsph-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 352 Public Health Systems and Solutions 4",
+     "options": [
+      [
+       "SPHG 352"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SPHG 352 Public Health Systems and Solutions 4",
+     "id": "unc-nutrition-major-bsph-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Other Core Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Other Core Courses:",
+     "id": "unc-nutrition-major-bsph-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 175 Introduction to Food Studies: From Science to Society 3",
+     "options": [
+      [
+       "NUTR 175"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 175 Introduction to Food Studies: From Science to Society 3",
+     "id": "unc-nutrition-major-bsph-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 240 Introduction to Human Nutrition 3",
+     "options": [
+      [
+       "NUTR 240"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 240 Introduction to Human Nutrition 3",
+     "id": "unc-nutrition-major-bsph-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "NUTR 245 Sustainable Local Food Systems: Intersection of Local Foods and Public Health 3 or NUTR 250 Global Sustainable Food Systems",
+     "options": [
+      [
+       "NUTR 245"
+      ],
+      [
+       "NUTR 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 245 Sustainable Local Food Systems: Intersection of Local Foods and Public Health 3 or NUTR 250 Global Sustainable Food Systems",
+     "id": "unc-nutrition-major-bsph-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 405 Fundamentals of Food and Nutrition Policy in Public Health 3",
+     "options": [
+      [
+       "NUTR 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 405 Fundamentals of Food and Nutrition Policy in Public Health 3",
+     "id": "unc-nutrition-major-bsph-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 470 Foundations of Nutrition Interventions 3",
+     "options": [
+      [
+       "NUTR 470"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 470 Foundations of Nutrition Interventions 3",
+     "id": "unc-nutrition-major-bsph-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 611 Food And Your Life Stages 3",
+     "options": [
+      [
+       "NUTR 611"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 611 Food And Your Life Stages 3",
+     "id": "unc-nutrition-major-bsph-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 622 Nutrition Research Seminar 1",
+     "options": [
+      [
+       "NUTR 622"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NUTR 622 Nutrition Research Seminar 1",
+     "id": "unc-nutrition-major-bsph-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 630 Navigating Culture, Technology, and Communication in Nutrition 3",
+     "options": [
+      [
+       "NUTR 630"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 630 Navigating Culture, Technology, and Communication in Nutrition 3",
+     "id": "unc-nutrition-major-bsph-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Research and Capstone:",
+     "options": [],
+     "hours": null,
+     "raw": "Research and Capstone:",
+     "id": "unc-nutrition-major-bsph-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NUTR 295 Undergraduate Research Experience in Nutrition 3",
+     "options": [
+      [
+       "NUTR 295"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NUTR 295 Undergraduate Research Experience in Nutrition 3",
+     "id": "unc-nutrition-major-bsph-s16"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-nutrition-major-bsph-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-nutrition-major-bsph-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-nutrition-major-bsph-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 252 & 252L Fundamentals of Human Anatomy and Physiology and Fundamentals of Human Anatomy and Physiology Laboratory 4",
+     "options": [
+      [
+       "BIOL 252",
+       "BIOL 252L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 252 & 252L Fundamentals of Human Anatomy and Physiology and Fundamentals of Human Anatomy and Physiology Laboratory 4",
+     "id": "unc-nutrition-major-bsph-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "18 hours of elective courses (e.g., 6 courses) from other fields of study",
+     "options": [],
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "18 hours of elective courses (e.g., 6 courses) from other fields of study 18",
+     "id": "unc-nutrition-major-bsph-s21"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Nutrition Major, B.S.P.H–Nutrition Science and Research\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/nutrition-major-bsph/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-10T05:04:18.310Z",
+  "title": "Design System: Dragon Credit Map",
+  "extensions": {
+    "colorMeta": {
+      "green": {
+        "role": "primary",
+        "displayName": "Dragon Green",
+        "canonical": "oklch(47.1% 0.096 157)",
+        "tonalRamp": [
+          "#001005",
+          "#002e18",
+          "#00502e",
+          "#27714b",
+          "#4b946b",
+          "#6fb78d",
+          "#93ddb0",
+          "#c5ffdb"
+        ]
+      },
+      "on-green": {
+        "role": "primary",
+        "displayName": "On Green",
+        "canonical": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "green-tint": {
+        "role": "primary",
+        "displayName": "Green Tint",
+        "canonical": "oklch(94.9% 0.014 156)",
+        "tonalRamp": [
+          "#070d09",
+          "#202722",
+          "#3c443f",
+          "#5b645e",
+          "#7c857f",
+          "#9ea8a1",
+          "#c2ccc5",
+          "#e7f1ea"
+        ]
+      },
+      "red": {
+        "role": "tertiary",
+        "displayName": "Dragon Red",
+        "canonical": "oklch(57.5% 0.168 28)",
+        "tonalRamp": [
+          "#210000",
+          "#4e0001",
+          "#810007",
+          "#ac2a25",
+          "#d45046",
+          "#fd7568",
+          "#ffb3a9",
+          "#ffe9e6"
+        ]
+      },
+      "blue": {
+        "role": "secondary",
+        "displayName": "Status Blue",
+        "canonical": "oklch(49.1% 0.128 259)",
+        "tonalRamp": [
+          "#000829",
+          "#002156",
+          "#0d3e84",
+          "#3060a9",
+          "#5082ce",
+          "#72a6f5",
+          "#aacbfe",
+          "#e6effe"
+        ]
+      },
+      "blue-tint": {
+        "role": "secondary",
+        "displayName": "Status Blue Tint",
+        "canonical": "oklch(92.8% 0.020 257)",
+        "tonalRamp": [
+          "#060b14",
+          "#1f252f",
+          "#3b434d",
+          "#5a626d",
+          "#7b838f",
+          "#9da6b2",
+          "#c1cad7",
+          "#e6effc"
+        ]
+      },
+      "amber": {
+        "role": "secondary",
+        "displayName": "Status Amber",
+        "canonical": "oklch(51.7% 0.108 70)",
+        "tonalRamp": [
+          "#150700",
+          "#371f00",
+          "#5d3900",
+          "#875403",
+          "#ab7631",
+          "#d19855",
+          "#f7bd79",
+          "#ffebd5"
+        ]
+      },
+      "amber-tint": {
+        "role": "secondary",
+        "displayName": "Status Amber Tint",
+        "canonical": "oklch(94.7% 0.032 83)",
+        "tonalRamp": [
+          "#120a00",
+          "#2d2412",
+          "#4a412f",
+          "#6a604d",
+          "#8c816d",
+          "#afa48f",
+          "#d3c8b2",
+          "#f9edd7"
+        ]
+      },
+      "ground": {
+        "role": "neutral",
+        "displayName": "Ground",
+        "canonical": "oklch(100.0% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "canonical": "oklch(95.7% 0.012 80)",
+        "tonalRamp": [
+          "#0e0b06",
+          "#28241f",
+          "#45413b",
+          "#65615a",
+          "#86827a",
+          "#a9a49d",
+          "#cdc8c1",
+          "#f3eee6"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "canonical": "oklch(24.8% 0.008 85)",
+        "tonalRamp": [
+          "#0d0b08",
+          "#272521",
+          "#44423d",
+          "#63615c",
+          "#84827d",
+          "#a7a59f",
+          "#cbc9c3",
+          "#f1eee9"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft",
+        "canonical": "oklch(47.7% 0.014 80)",
+        "tonalRamp": [
+          "#0e0b05",
+          "#29241d",
+          "#46413a",
+          "#666058",
+          "#878279",
+          "#aaa49b",
+          "#cec8bf",
+          "#f4eee4"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "canonical": "oklch(87.4% 0.013 87)",
+        "tonalRamp": [
+          "#0e0b06",
+          "#28251e",
+          "#45423a",
+          "#646159",
+          "#86827a",
+          "#a8a59c",
+          "#cdc9c0",
+          "#f2eee5"
+        ]
+      },
+      "rail": {
+        "role": "neutral",
+        "displayName": "Rail",
+        "canonical": "oklch(90.7% 0.013 87)",
+        "tonalRamp": [
+          "#0d0b06",
+          "#28251e",
+          "#45423a",
+          "#646159",
+          "#86827a",
+          "#a8a59c",
+          "#cdc9c0",
+          "#f2eee5"
+        ]
+      },
+      "edge": {
+        "role": "neutral",
+        "displayName": "Edge",
+        "canonical": "oklch(61.8% 0.016 85)",
+        "tonalRamp": [
+          "#0e0b05",
+          "#29251c",
+          "#464139",
+          "#656157",
+          "#878278",
+          "#aaa49a",
+          "#cec9be",
+          "#f3eee3"
+        ]
+      },
+      "green-dark": {
+        "role": "primary",
+        "displayName": "Dragon Green (dark theme)",
+        "canonical": "oklch(75.0% 0.120 159)",
+        "tonalRamp": [
+          "#001005",
+          "#002e1a",
+          "#005030",
+          "#007449",
+          "#319867",
+          "#59bc89",
+          "#7fe1ad",
+          "#c4ffdc"
+        ]
+      },
+      "on-green-dark": {
+        "role": "primary",
+        "displayName": "On Green (dark theme)",
+        "canonical": "oklch(22.0% 0.031 158)",
+        "tonalRamp": [
+          "#010f06",
+          "#182a1f",
+          "#34473c",
+          "#53675b",
+          "#73887b",
+          "#95ab9e",
+          "#b9d0c2",
+          "#def5e7"
+        ]
+      },
+      "green-tint-dark": {
+        "role": "primary",
+        "displayName": "Green Tint (dark theme)",
+        "canonical": "oklch(27.3% 0.025 156)",
+        "tonalRamp": [
+          "#030e07",
+          "#1b2920",
+          "#37463c",
+          "#56665b",
+          "#77877c",
+          "#99aa9e",
+          "#bdcec2",
+          "#e2f4e8"
+        ]
+      },
+      "red-dark": {
+        "role": "tertiary",
+        "displayName": "Dragon Red (dark theme)",
+        "canonical": "oklch(71.5% 0.141 27)",
+        "tonalRamp": [
+          "#200000",
+          "#4d0003",
+          "#7c1112",
+          "#a23932",
+          "#c95c53",
+          "#f07f74",
+          "#feb3aa",
+          "#ffe9e6"
+        ]
+      },
+      "blue-dark": {
+        "role": "secondary",
+        "displayName": "Status Blue (dark theme)",
+        "canonical": "oklch(77.7% 0.093 259)",
+        "tonalRamp": [
+          "#00072a",
+          "#042251",
+          "#224172",
+          "#406196",
+          "#6083ba",
+          "#82a6df",
+          "#aacbfe",
+          "#e6effe"
+        ]
+      },
+      "blue-tint-dark": {
+        "role": "secondary",
+        "displayName": "Status Blue Tint (dark theme)",
+        "canonical": "oklch(28.1% 0.046 261)",
+        "tonalRamp": [
+          "#020a1e",
+          "#18253c",
+          "#34425b",
+          "#53627c",
+          "#73839f",
+          "#95a6c3",
+          "#b9cae8",
+          "#e6effe"
+        ]
+      },
+      "amber-dark": {
+        "role": "secondary",
+        "displayName": "Status Amber (dark theme)",
+        "canonical": "oklch(77.8% 0.128 76)",
+        "tonalRamp": [
+          "#140800",
+          "#352000",
+          "#5a3b00",
+          "#825800",
+          "#ad7600",
+          "#d2993b",
+          "#f8bd62",
+          "#ffebd0"
+        ]
+      },
+      "amber-tint-dark": {
+        "role": "secondary",
+        "displayName": "Status Amber Tint (dark theme)",
+        "canonical": "oklch(28.1% 0.042 83)",
+        "tonalRamp": [
+          "#130900",
+          "#2f230b",
+          "#4d4028",
+          "#6d5f46",
+          "#8f8066",
+          "#b2a388",
+          "#d7c7ab",
+          "#fcedd0"
+        ]
+      },
+      "ground-dark": {
+        "role": "neutral",
+        "displayName": "Ground (dark theme)",
+        "canonical": "oklch(19.7% 0.007 78)",
+        "tonalRamp": [
+          "#0d0b08",
+          "#272521",
+          "#44423e",
+          "#63615d",
+          "#84827e",
+          "#a7a5a0",
+          "#cbc9c4",
+          "#f1eeea"
+        ]
+      },
+      "paper-dark": {
+        "role": "neutral",
+        "displayName": "Paper (dark theme)",
+        "canonical": "oklch(24.1% 0.010 81)",
+        "tonalRamp": [
+          "#0d0b07",
+          "#28251f",
+          "#45413c",
+          "#64615b",
+          "#86827c",
+          "#a8a49e",
+          "#cdc9c2",
+          "#f2eee7"
+        ]
+      },
+      "ink-dark": {
+        "role": "neutral",
+        "displayName": "Ink (dark theme)",
+        "canonical": "oklch(94.7% 0.013 87)",
+        "tonalRamp": [
+          "#0d0b06",
+          "#28251e",
+          "#45423a",
+          "#646159",
+          "#86827a",
+          "#a8a59c",
+          "#cdc9c0",
+          "#f2eee5"
+        ]
+      },
+      "soft-dark": {
+        "role": "neutral",
+        "displayName": "Soft (dark theme)",
+        "canonical": "oklch(74.2% 0.018 88)",
+        "tonalRamp": [
+          "#0e0b04",
+          "#29251b",
+          "#464237",
+          "#656156",
+          "#878276",
+          "#aaa599",
+          "#cec9bc",
+          "#f3eee1"
+        ]
+      },
+      "line-dark": {
+        "role": "neutral",
+        "displayName": "Line (dark theme)",
+        "canonical": "oklch(33.5% 0.015 80)",
+        "tonalRamp": [
+          "#0f0a05",
+          "#29241d",
+          "#464139",
+          "#666058",
+          "#878178",
+          "#aaa49b",
+          "#cec8be",
+          "#f4eee3"
+        ]
+      },
+      "rail-dark": {
+        "role": "neutral",
+        "displayName": "Rail (dark theme)",
+        "canonical": "oklch(28.7% 0.012 78)",
+        "tonalRamp": [
+          "#0e0b06",
+          "#28241f",
+          "#46413b",
+          "#65605a",
+          "#86827a",
+          "#a9a49d",
+          "#cec8c1",
+          "#f3eee6"
+        ]
+      },
+      "edge-dark": {
+        "role": "neutral",
+        "displayName": "Edge (dark theme)",
+        "canonical": "oklch(62.9% 0.019 81)",
+        "tonalRamp": [
+          "#0f0a03",
+          "#2a241a",
+          "#474136",
+          "#676055",
+          "#888175",
+          "#aba498",
+          "#d0c8bb",
+          "#f5ede0"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "figure": {
+        "displayName": "Figure",
+        "purpose": "The credit total on the Overview. One per screen."
+      },
+      "display": {
+        "displayName": "Display",
+        "purpose": "The one prompt or title per screen."
+      },
+      "display-setup-wide": {
+        "displayName": "Display, setup from 720px",
+        "purpose": "Setup prompts on wider screens."
+      },
+      "display-portal": {
+        "displayName": "Display, portal",
+        "purpose": "Portal section titles."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Group headings inside a screen."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Choice row names and the transcript panel title."
+      },
+      "title-row": {
+        "displayName": "Row title",
+        "purpose": "Ranked picks and collapsible requirement sections."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "One or two soft sentences under the display line, max 44ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Default text. Prose capped at 62ch."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Primary and secondary button labels."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Tabs, header name, legends, requirement group names."
+      },
+      "control": {
+        "displayName": "Control",
+        "purpose": "Chips, toggles, grade bands, status words."
+      },
+      "meta": {
+        "displayName": "Meta",
+        "purpose": "The soft second line of any row."
+      },
+      "fine": {
+        "displayName": "Fine print",
+        "purpose": "The privacy line and table column heads."
+      }
+    },
+    "shadows": [
+      {
+        "name": "open-ring",
+        "value": "inset 0 0 0 2.5px var(--amber)",
+        "purpose": "Draws the amber outline of an open meter segment. Not a shadow. The system has no drop shadows."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "The single easing curve for arrival and control state changes."
+      },
+      {
+        "name": "arrive",
+        "value": "0.3s, opacity 0 to 1 with an 8px rise",
+        "purpose": "Runs once when a setup screen or portal section arrives."
+      },
+      {
+        "name": "control",
+        "value": "0.15s to 0.18s",
+        "purpose": "Border, background, and text color changes on controls."
+      },
+      {
+        "name": "press",
+        "value": "scale(0.985) over 0.18s",
+        "purpose": "Active state of primary and secondary buttons."
+      },
+      {
+        "name": "step",
+        "value": "0.4s background-color",
+        "purpose": "Setup progress segments turning green."
+      },
+      {
+        "name": "disclosure",
+        "value": "0.2s transform",
+        "purpose": "Chevron rotation on collapsible sections."
+      },
+      {
+        "name": "breathe",
+        "value": "1.4s ease-in-out infinite alternate, opacity to 0.5",
+        "purpose": "Loading placeholders."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none; transition: none",
+        "purpose": "Everything is switched off under prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "pair",
+        "value": "560px"
+      },
+      {
+        "name": "table",
+        "value": "700px"
+      },
+      {
+        "name": "setup-wide",
+        "value": "720px"
+      },
+      {
+        "name": "sidebar",
+        "value": "960px"
+      },
+      {
+        "name": "two-column",
+        "value": "1180px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one green block on a screen: Continue, Open my portal, Choose a file.",
+      "html": "<button class=\"ds-go\" type=\"button\">Continue</button> <button class=\"ds-go\" type=\"button\" disabled>Continue</button>",
+      "css": ".ds-go { font-family: var(--font); min-height: 56px; border: 0; border-radius: 16px; background: var(--green); color: var(--on-green); font-weight: 800; font-size: 1.05rem; padding: 0.2rem 1.4rem 0; cursor: pointer; transition: background-color 0.18s var(--ease), transform 0.18s var(--ease); } .ds-go:active:not(:disabled) { transform: scale(0.985); } .ds-go:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; } .ds-go:disabled { background: var(--rail); color: var(--soft); cursor: default; }"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Back, Discard, Start over, and Continue without a transcript.",
+      "html": "<button class=\"ds-back\" type=\"button\">Back</button>",
+      "css": ".ds-back { font-family: var(--font); min-height: 56px; border: 2px solid var(--line); border-radius: 16px; background: var(--ground); color: var(--ink); font-weight: 700; font-size: 1.05rem; padding: 0.2rem 1.4rem 0; cursor: pointer; transition: background-color 0.18s var(--ease), transform 0.18s var(--ease); } .ds-back:hover { border-color: var(--soft); } .ds-back:active { transform: scale(0.985); } .ds-back:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }"
+    },
+    {
+      "name": "Link Action",
+      "kind": "button",
+      "refersTo": "link-action",
+      "description": "Green underlined text button that moves between portal sections.",
+      "html": "<button class=\"ds-line\" type=\"button\">See every requirement</button>",
+      "css": ".ds-line { font-family: var(--font); background: none; border: 0; padding: 0.3rem 0; min-height: 44px; font-size: 0.95rem; font-weight: 700; color: var(--green); text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 4px; border-radius: 10px; cursor: pointer; } .ds-line:hover { color: var(--ink); } .ds-line:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }"
+    },
+    {
+      "name": "Chip and Toggle",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Filter chips, Completed and Planned toggles, and grade bands. Selected is an ink fill.",
+      "html": "<div class=\"ds-chips\"><button class=\"ds-chip\" type=\"button\" aria-pressed=\"true\">Completed</button><button class=\"ds-chip\" type=\"button\" aria-pressed=\"false\">Planned</button></div>",
+      "css": ".ds-chips { display: flex; flex-wrap: wrap; gap: 0.45rem; } .ds-chip { font-family: var(--font); min-height: 44px; padding: 0.15rem 1rem 0; border-radius: 99px; border: 2px solid var(--line); background: var(--ground); color: var(--ink); font-weight: 700; font-size: 0.88rem; cursor: pointer; transition: border-color 0.15s var(--ease), background-color 0.15s var(--ease), color 0.15s var(--ease); } .ds-chip:hover { border-color: var(--soft); } .ds-chip:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; } .ds-chip[aria-pressed=\"true\"] { background: var(--ink); border-color: var(--ink); color: var(--ground); }"
+    },
+    {
+      "name": "Score Button",
+      "kind": "chip",
+      "refersTo": "score-button",
+      "description": "Circular 1 to 5 score picker for an AP exam. Same ink selected state as chips.",
+      "html": "<div class=\"ds-scores\" role=\"group\" aria-label=\"Score\"><button class=\"ds-score\" type=\"button\" aria-pressed=\"false\">3</button><button class=\"ds-score\" type=\"button\" aria-pressed=\"true\">4</button><button class=\"ds-score\" type=\"button\" aria-pressed=\"false\">5</button></div>",
+      "css": ".ds-scores { display: flex; gap: 0.45rem; } .ds-score { font-family: var(--font); width: 44px; height: 44px; border-radius: 50%; border: 2px solid var(--line); background: var(--ground); color: var(--ink); font-weight: 800; font-variant-numeric: tabular-nums; padding: 0.15rem 0 0; cursor: pointer; transition: border-color 0.15s var(--ease), background-color 0.15s var(--ease); } .ds-score:hover { border-color: var(--soft); } .ds-score:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; } .ds-score[aria-pressed=\"true\"] { background: var(--ink); border-color: var(--ink); color: var(--ground); }"
+    },
+    {
+      "name": "Choice Row",
+      "kind": "input",
+      "refersTo": "choice-row",
+      "description": "A full-width radio row for campus, class year, university, and major.",
+      "html": "<div class=\"ds-choices\"><label class=\"ds-choice ds-is-on\"><input type=\"radio\" name=\"ds-choice\" checked /><i aria-hidden=\"true\"></i><span><b>First option</b><small>A short detail</small></span></label><label class=\"ds-choice\"><input type=\"radio\" name=\"ds-choice\" /><i aria-hidden=\"true\"></i><span><b>Second option</b><small>A short detail</small></span></label></div>",
+      "css": ".ds-choices { display: grid; gap: 0.75rem; font-family: var(--font); color: var(--ink); } .ds-choice { position: relative; display: flex; align-items: center; gap: 1rem; padding: 1.05rem 1.1rem; border: 2px solid var(--line); border-radius: 18px; cursor: pointer; transition: border-color 0.18s var(--ease), background-color 0.18s var(--ease); } .ds-choice:hover { border-color: var(--soft); } .ds-choice input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; } .ds-choice i { flex: none; width: 24px; height: 24px; border-radius: 50%; border: 5px solid var(--edge); } .ds-choice.ds-is-on { border-color: var(--green); background: var(--green-tint); } .ds-choice.ds-is-on i { border-color: var(--green); background: radial-gradient(circle, var(--green) 0 42%, var(--ground) 46%); } .ds-choice:has(:focus-visible) { outline: 3px solid var(--blue); outline-offset: 3px; } .ds-choice b { display: block; font-size: 1.35rem; font-weight: 800; letter-spacing: -0.02em; line-height: 1.15; } .ds-choice small { display: block; color: var(--soft); font-size: 0.9rem; margin-top: 0.1rem; }"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Labeled text input for the course and major search.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-search\">Search by course code or name</label><input id=\"ds-search\" type=\"search\" placeholder=\"Code or name\" /></div>",
+      "css": ".ds-field { display: grid; gap: 0.4rem; font-family: var(--font); } .ds-field label { font-size: 0.9rem; font-weight: 600; color: var(--soft); } .ds-field input { width: 100%; min-height: 54px; padding: 0 1rem; border: 2px solid var(--edge); border-radius: 14px; background: var(--ground); color: var(--ink); font: inherit; font-size: 1.05rem; } .ds-field input::placeholder { color: var(--soft); opacity: 1; } .ds-field input:focus-visible { border-color: var(--green); outline: 3px solid var(--blue); outline-offset: 3px; }"
+    },
+    {
+      "name": "Section Tabs",
+      "kind": "nav",
+      "refersTo": "tab",
+      "description": "Portal sections. A row on a phone, a sidebar from 960px. Current is green on green tint.",
+      "html": "<nav class=\"ds-side\" aria-label=\"Sections\"><ul><li><button class=\"ds-tab\" type=\"button\" aria-current=\"page\">Overview</button></li><li><button class=\"ds-tab\" type=\"button\">Credits</button></li><li><button class=\"ds-tab\" type=\"button\">Major</button></li><li><button class=\"ds-tab\" type=\"button\">Next</button></li></ul></nav>",
+      "css": ".ds-side ul { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 0.25rem; } .ds-tab { font-family: var(--font); width: 100%; min-height: 44px; padding: 0.15rem 0.5rem 0; border: 0; border-radius: 12px; background: none; font-weight: 700; font-size: 0.95rem; color: var(--soft); white-space: nowrap; cursor: pointer; transition: background-color 0.15s var(--ease), color 0.15s var(--ease); } .ds-tab:hover { color: var(--ink); } .ds-tab:focus-visible { outline: 3px solid var(--blue); outline-offset: -3px; } .ds-tab[aria-current=\"page\"] { background: var(--green-tint); color: var(--green); }"
+    },
+    {
+      "name": "Requirement Ledger",
+      "kind": "custom",
+      "refersTo": "",
+      "description": "A ruled list under a 2px ink rule. Each row has a status shape, a label, and a status word.",
+      "html": "<ul class=\"ds-reqs\"><li class=\"ds-req ds-covered\"><i aria-hidden=\"true\"></i><div><b>Requirement name</b><small>3 hours</small></div><em>Covered</em></li><li class=\"ds-req ds-planned\"><i aria-hidden=\"true\"></i><div><b>Requirement name</b><small>3 hours</small></div><em>Planned</em></li><li class=\"ds-req ds-open\"><i aria-hidden=\"true\"></i><div><b>Requirement name</b><small>3 hours</small></div><em>Open</em></li><li class=\"ds-req ds-college\"><i aria-hidden=\"true\"></i><div><b>Requirement name</b><small>3 hours</small></div><em>Take at college</em></li></ul>",
+      "css": ".ds-reqs { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--ink); font-family: var(--font); color: var(--ink); } .ds-req { display: grid; grid-template-columns: 16px minmax(0, 1fr) auto; gap: 0.2rem 0.9rem; align-items: start; padding: 0.7rem 0; border-bottom: 1px solid var(--line); } .ds-req i { width: 16px; height: 16px; margin-top: 0.2rem; } .ds-req b { display: block; font-weight: 700; line-height: 1.3; } .ds-req small { display: block; color: var(--soft); font-size: 0.85rem; font-variant-numeric: tabular-nums; } .ds-req em { font-style: normal; font-weight: 800; font-size: 0.82rem; white-space: nowrap; padding-top: 0.15rem; } .ds-covered i { border-radius: 50%; background: var(--blue); } .ds-planned i { border-radius: 50%; border: 2px solid var(--blue); background: linear-gradient(90deg, var(--blue) 50%, var(--ground) 50%); } .ds-open i { border-radius: 50%; border: 3.5px solid var(--amber); background: var(--ground); } .ds-college i { border-radius: 2px; background: var(--ink); } .ds-covered em, .ds-planned em { color: var(--blue); } .ds-open em { color: var(--amber); }"
+    },
+    {
+      "name": "Earned and Planned Bar",
+      "kind": "custom",
+      "refersTo": "",
+      "description": "The Overview bar: solid blue for earned, hatched blue for planned, with a worded legend.",
+      "html": "<div class=\"ds-meter\"><div class=\"ds-split\" role=\"img\" aria-label=\"Earned and planned hours\"><i class=\"ds-earned\" style=\"flex-grow:3\"></i><i class=\"ds-plan\" style=\"flex-grow:1\"></i></div><p class=\"ds-legend\"><span><i class=\"ds-dot ds-dot-earned\" aria-hidden=\"true\"></i>Hours earned</span><span><i class=\"ds-dot ds-dot-plan\" aria-hidden=\"true\"></i>Hours planned</span></p></div>",
+      "css": ".ds-meter { font-family: var(--font); color: var(--ink); } .ds-split { display: flex; height: 16px; border: 2px solid var(--blue); border-radius: 99px; overflow: hidden; } .ds-split i { flex: 0 0 0; } .ds-earned { background: var(--blue); } .ds-plan { background: repeating-linear-gradient(135deg, var(--blue) 0 2px, var(--blue-tint) 2px 7px); } .ds-legend { display: flex; justify-content: space-between; margin: 0.5rem 0 0; font-weight: 700; font-size: 0.95rem; font-variant-numeric: tabular-nums; } .ds-dot { display: inline-block; width: 16px; height: 16px; margin-right: 0.4rem; vertical-align: -2px; border-radius: 50%; } .ds-dot-earned { background: var(--blue); } .ds-dot-plan { border: 2px solid var(--blue); background: linear-gradient(90deg, var(--blue) 50%, var(--ground) 50%); }"
+    },
+    {
+      "name": "Transcript Panel",
+      "kind": "custom",
+      "refersTo": "transcript-panel",
+      "description": "The one dashed paper panel, where a transcript is dropped, read, and confirmed.",
+      "html": "<div class=\"ds-import\"><p class=\"ds-import-title\">Add your transcript</p><p class=\"ds-import-hint\">Choose the PDF, or drop it here. It is read in this tab and never uploaded.</p><button class=\"ds-import-go\" type=\"button\">Choose a file</button></div>",
+      "css": ".ds-import { font-family: var(--font); padding: 1.4rem; border: 2px dashed var(--line); border-radius: 18px; background: var(--paper); color: var(--ink); } .ds-import-title { margin: 0; font-size: 1.3rem; font-weight: 800; letter-spacing: -0.02em; } .ds-import-hint { margin: 0.4rem 0 1.25rem; color: var(--soft); font-size: 0.9rem; max-width: 62ch; } .ds-import-go { font: inherit; min-height: 56px; border: 0; border-radius: 16px; background: var(--green); color: var(--on-green); font-weight: 800; font-size: 1.05rem; padding: 0.2rem 1.4rem 0; cursor: pointer; transition: transform 0.18s var(--ease); } .ds-import-go:active { transform: scale(0.985); } .ds-import-go:focus-visible { outline: 3px solid var(--blue); outline-offset: 3px; }"
+    },
+    {
+      "name": "Notices",
+      "kind": "card",
+      "refersTo": "notice-warning",
+      "description": "Paper block for the unofficial estimate line, amber tint block for warnings and flagged rows.",
+      "html": "<p class=\"ds-note\"><b>Unofficial estimate.</b> Confirm with your counselor.</p><p class=\"ds-warn\"><b>This major needs review.</b> The checklist may be incomplete.</p>",
+      "css": ".ds-note, .ds-warn { font-family: var(--font); margin: 0 0 1rem; border-radius: 14px; font-size: 0.92rem; color: var(--ink); } .ds-note { padding: 0.85rem 1rem; background: var(--paper); } .ds-warn { padding: 0.9rem 1rem; background: var(--amber-tint); } .ds-warn b { color: var(--amber); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Paper Ledger",
+    "overview": "Dragon Credit Map looks like a clean ruled ledger a student keeps for themselves: white ground, one warm paper tone for the places where something is handed over or stated, warm near-black ink, and a single green that says \"this is the tool, and this is the next step\". Results are not boxed. They sit in ruled lists that open under a 2px ink rule and separate with 1px hairlines, so a long checklist reads as one page of a ledger, not a wall of tiles.\n\nThe voice is large, plain, and short. Each setup screen opens with one very heavy full-sentence prompt, and the portal Overview opens with one very large number. Everything below those is quiet: soft grey supporting text, small bold labels, tabular figures wherever hours or counts appear. Meaning that matters (earned, planned, open, take at college) is carried three ways at once: a text label, a shape, and a blue or amber color.\n\nBoth themes are designed. The light theme is white and paper; the dark theme is a warm near-black with the same roles, re-tuned so every text pair keeps its contrast. The line map direction that was built first and replaced is the confirmed anti-reference: no route rails, no interchange capsules.",
+    "keyCharacteristics": [
+      "White ground, warm paper second surface, warm ink. No cool greys.",
+      "One green for theme and action. Blue and amber for status. Red only on the dragon mark.",
+      "Ruled lists under a 2px ink rule in place of result cards.",
+      "One heavy sans family, Overpass, from weight 400 to 900, self-hosted.",
+      "Status is a label plus a shape plus a color, never a color alone.",
+      "Flat. No drop shadows anywhere.",
+      "Phone first. Every control is at least 44px tall."
+    ],
+    "rules": [
+      {
+        "name": "The Blue And Amber Rule",
+        "body": "Status never relies on red against green. Good or counted is blue, needs attention is amber, and every status also carries a text label and a shape.",
+        "section": "colors"
+      },
+      {
+        "name": "The Green Is Not A Verdict Rule",
+        "body": "Green is the theme and the action color. It never means passed, earned, covered, or correct. If a state needs a verdict, it gets blue or amber.",
+        "section": "colors"
+      },
+      {
+        "name": "The One Red Rule",
+        "body": "Red appears on the dragon mark only. It is never an error color; errors and warnings are amber.",
+        "section": "colors"
+      },
+      {
+        "name": "The Counting Figures Rule",
+        "body": "Any number a student might compare (hours, counts, course codes, scores, ranks) is set in tabular figures.",
+        "section": "typography"
+      },
+      {
+        "name": "The Sentence Rule",
+        "body": "Every heading and label is sentence case. There are no uppercase labels and no letter-spaced small caps anywhere in the build.",
+        "section": "typography"
+      },
+      {
+        "name": "The Plain Words Rule",
+        "body": "Copy is plain and short, and interface text contains no em dashes. Use a period, a comma, or a colon.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Page Rule",
+        "body": "Nothing lifts off the page. If something needs separating, rule it or put it on paper.",
+        "section": "elevation"
+      },
+      {
+        "name": "The Shape Carries It Rule",
+        "body": "A status mark must be readable in one color. Circle, half circle, ring, and square are never swapped or reused for anything else.",
+        "section": "shapes"
+      }
+    ],
+    "dos": [
+      "Do give every status a text label, a shape, and blue or amber. Check each new status in greyscale.",
+      "Do use the ink fill as the single selected treatment for toggles, grade bands, score buttons, and filter chips.",
+      "Do open result lists with a 2px ink rule and divide rows with 1px lines.",
+      "Do keep one display line or one figure per screen, at weight 900, with a soft lede under it.",
+      "Do set hours, counts, codes, scores, and ranks in tabular figures.",
+      "Do design every new surface in both themes, using the token pairs; never a raw hex in a component.",
+      "Do keep every tap target at least 44px tall and keep the visible 3px focus outline.",
+      "Do self-host every asset. The page loads nothing from another origin.",
+      "Do write copy as short plain sentences in sentence case.",
+      "Do park all motion under `prefers-reduced-motion`."
+    ],
+    "donts": [
+      "Don't let red against green carry meaning anywhere.",
+      "Don't use green for a verdict (earned, covered, passed). Green is theme and action only.",
+      "Don't use red outside the dragon mark, including for errors.",
+      "Don't add a second selected style for a pressed control.",
+      "Don't put results in a grid of identical stat cards, and don't box ledger rows.",
+      "Don't bring back the line map: no route rails, no interchange capsules.",
+      "Don't add drop shadows.",
+      "Don't use an em dash in interface text.",
+      "Don't add comments to any code file. Explain design decisions here, not in the source.",
+      "Don't use NCSSM, UNC, or NC State logos, colors, wordmarks, or mascots. Name them in plain text.",
+      "Don't store anything or call another origin to achieve a visual effect."
+    ]
+  }
+}

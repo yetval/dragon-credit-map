@@ -1,0 +1,311 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-information-science-major-bs",
+ "university": "unc",
+ "name": "Information Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/information-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "INLS 560 Introduction to Programming 3 or COMP 110 Introduction to Programming or COMP 116 Introduction to Scientific Programming",
+     "options": [
+      [
+       "INLS 560"
+      ],
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "INLS 560 Introduction to Programming 3 or COMP 110 Introduction to Programming or COMP 116 Introduction to Scientific Programming",
+     "id": "unc-information-science-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "INLS 382 Information Systems Analysis and Design 3",
+     "options": [
+      [
+       "INLS 382"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "INLS 382 Information Systems Analysis and Design 3",
+     "id": "unc-information-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "INLS 385 Information Use for Organizational Effectiveness 3",
+     "options": [
+      [
+       "INLS 385"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "INLS 385 Information Use for Organizational Effectiveness 3",
+     "id": "unc-information-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "INLS 523 Introduction to Database Concepts and Applications 3",
+     "options": [
+      [
+       "INLS 523"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "INLS 523 Introduction to Database Concepts and Applications 3",
+     "id": "unc-information-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "INLS 697 Information Science Capstone (taken in the senior year) 3",
+     "options": [
+      [
+       "INLS 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "INLS 697 Information Science Capstone (taken in the senior year) 3",
+     "id": "unc-information-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "A coherent set of five or more electives, selected from the list below, equaling 15 credit hours",
+     "options": [
+      [
+       "APPL 101"
+      ],
+      [
+       "BIOS 511"
+      ],
+      [
+       "BUSI 410"
+      ],
+      [
+       "BUSI 520"
+      ],
+      [
+       "COMM 140"
+      ],
+      [
+       "COMM 150"
+      ],
+      [
+       "COMM 431"
+      ],
+      [
+       "COMM 450"
+      ],
+      [
+       "COMM 636"
+      ],
+      [
+       "COMP 126"
+      ],
+      [
+       "COMP 210"
+      ],
+      [
+       "COMP 211"
+      ],
+      [
+       "COMP 283"
+      ],
+      [
+       "COMP 301"
+      ],
+      [
+       "COMP 311"
+      ],
+      [
+       "COMP 380"
+      ],
+      [
+       "COMP 426"
+      ],
+      [
+       "COMP 431"
+      ],
+      [
+       "ECON 400"
+      ],
+      [
+       "ECON 470"
+      ],
+      [
+       "ENGL 117"
+      ],
+      [
+       "ENGL 482"
+      ],
+      [
+       "GEOG 215"
+      ],
+      [
+       "GEOG 370"
+      ],
+      [
+       "GEOG 477"
+      ],
+      [
+       "GEOG 491"
+      ],
+      [
+       "GEOG 591"
+      ],
+      [
+       "MATH 381"
+      ],
+      [
+       "MEJO 182"
+      ],
+      [
+       "MEJO 187"
+      ],
+      [
+       "MEJO 433"
+      ],
+      [
+       "MEJO 445"
+      ],
+      [
+       "MEJO 482"
+      ],
+      [
+       "MEJO 484"
+      ],
+      [
+       "MEJO 487"
+      ],
+      [
+       "MEJO 581"
+      ],
+      [
+       "MEJO 582"
+      ],
+      [
+       "MEJO 583"
+      ],
+      [
+       "MEJO 585"
+      ],
+      [
+       "MUSC 239"
+      ],
+      [
+       "PHIL 143"
+      ],
+      [
+       "PHYS 633"
+      ],
+      [
+       "PLCY 460"
+      ],
+      [
+       "POLI 281"
+      ],
+      [
+       "PSYC 180"
+      ],
+      [
+       "PSYC 210"
+      ],
+      [
+       "PSYC 230"
+      ],
+      [
+       "PSYC 330"
+      ],
+      [
+       "SOCI 318"
+      ],
+      [
+       "STOR 120"
+      ],
+      [
+       "STOR 151"
+      ],
+      [
+       "STOR 155"
+      ],
+      [
+       "STOR 215"
+      ],
+      [
+       "STOR 305"
+      ],
+      [
+       "STOR 320"
+      ],
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 455"
+      ],
+      [
+       "STOR 565"
+      ]
+     ],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "A coherent set of five or more electives, selected from the list below, equaling 15 credit hours 15",
+     "id": "unc-information-science-major-bs-s6",
+     "pick": {
+      "hours": 15
+     }
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Approved Electives\" has a row that is not a course and was not read: \"INLS --- Any INLS course above level 200 that is not a core requirement or prerequisite\"",
+  "Linked \"A coherent set of five or more electives, selected from the list below, equaling 15 credit hours\" to the list \"Approved Electives\" by its position on the page"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/information-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

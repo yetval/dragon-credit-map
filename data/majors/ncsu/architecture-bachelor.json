@@ -1,0 +1,184 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-architecture-bachelor",
+ "university": "ncsu",
+ "name": "Architecture",
+ "degree": "Bachelor",
+ "url": "https://catalog.ncsu.edu/undergraduate/design/architecture/architecture-bachelor/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Studios",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 501 Professional Architecture Studio I 6",
+     "options": [
+      [
+       "ARC 501"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 501 Professional Architecture Studio I 6",
+     "id": "ncsu-architecture-bachelor-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 502 Professional Architecture Studio II 6",
+     "options": [
+      [
+       "ARC 502"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 502 Professional Architecture Studio II 6",
+     "id": "ncsu-architecture-bachelor-s2"
+    }
+   ]
+  },
+  {
+   "title": "Support Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 561 The Practice of Architecture 3",
+     "options": [
+      [
+       "ARC 561"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 561 The Practice of Architecture 3",
+     "id": "ncsu-architecture-bachelor-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 581 Project Preparation Seminar 3",
+     "options": [
+      [
+       "ARC 581"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 581 Project Preparation Seminar 3",
+     "id": "ncsu-architecture-bachelor-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 564 Architectural Design Development 3",
+     "options": [
+      [
+       "ARC 564"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 564 Architectural Design Development 3",
+     "id": "ncsu-architecture-bachelor-s5"
+    }
+   ]
+  },
+  {
+   "title": "Architecture Elective",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Architecture Elective",
+     "options": [
+      [
+       "ADN 414"
+      ],
+      [
+       "ARC 414"
+      ],
+      [
+       "ARC 441"
+      ],
+      [
+       "ARC 442"
+      ],
+      [
+       "ARC 492"
+      ],
+      [
+       "ARC 495"
+      ],
+      [
+       "ARC 543"
+      ],
+      [
+       "ARC 544"
+      ],
+      [
+       "ARC 546"
+      ],
+      [
+       "ARC 561"
+      ],
+      [
+       "ARC 570"
+      ],
+      [
+       "ARC 571"
+      ],
+      [
+       "ARC 574"
+      ],
+      [
+       "ARC 581"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Architecture Elective 9",
+     "id": "ncsu-architecture-bachelor-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/design/architecture/architecture-bachelor/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "One-Year Professional Degree",
+ "college": "College of Design"
+}

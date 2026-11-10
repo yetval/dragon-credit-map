@@ -1,0 +1,737 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-psychology-major-ba",
+ "university": "unc",
+ "name": "Psychology",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/psychology-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 40,
+  "max": 41
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 101 General Psychology (with a grade of C or better) 3",
+     "options": [
+      [
+       "PSYC 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 101 General Psychology (with a grade of C or better) 3",
+     "id": "unc-psychology-major-ba-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 210 Statistical Principles of Psychological Research 3",
+     "options": [
+      [
+       "PSYC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 210 Statistical Principles of Psychological Research 3",
+     "id": "unc-psychology-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 270 Research Methods in Psychology 3",
+     "options": [
+      [
+       "PSYC 270"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 270 Research Methods in Psychology 3",
+     "id": "unc-psychology-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course below 400 from four of the five following psychology program areas:",
+     "options": [
+      [
+       "NSCI 221"
+      ],
+      [
+       "NSCI 222"
+      ],
+      [
+       "NSCI 225"
+      ],
+      [
+       "PSYC 220"
+      ],
+      [
+       "PSYC 242"
+      ],
+      [
+       "PSYC 245"
+      ],
+      [
+       "NSCI 225"
+      ],
+      [
+       "PSYC 230"
+      ],
+      [
+       "PSYC 250"
+      ],
+      [
+       "PSYC 260"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "One course below 400 from four of the five following psychology program areas: 12",
+     "id": "unc-psychology-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC 493 or NSCI 493",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "PSYC",
+       "NSCI"
+      ],
+      "minLevel": 395,
+      "maxLevel": 699,
+      "except": [
+       "PSYC 493",
+       "NSCI 493"
+      ]
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two additional PSYC and/or NSCI courses numbered between 395 and 699; may not include PSYC 493 or NSCI 493 6",
+     "id": "unc-psychology-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "One additional PSYC and/or NSCI course above 101; may not include PSYC 190 or NSCI 190.",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "PSYC",
+       "NSCI"
+      ],
+      "minLevel": 102,
+      "except": [
+       "PSYC 190",
+       "NSCI 190"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One additional PSYC and/or NSCI course above 101; may not include PSYC 190 or NSCI 190. 3",
+     "id": "unc-psychology-major-ba-s6"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-psychology-major-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below)",
+     "options": [
+      [
+       "ANTH 143"
+      ],
+      [
+       "ANTH 148"
+      ],
+      [
+       "ANTH 217"
+      ],
+      [
+       "ANTH 298"
+      ],
+      [
+       "ANTH 315"
+      ],
+      [
+       "ANTH 318"
+      ],
+      [
+       "ANTH 412"
+      ],
+      [
+       "ANTH 413"
+      ],
+      [
+       "ANTH 414"
+      ],
+      [
+       "ANTH 415"
+      ],
+      [
+       "ANTH 416"
+      ],
+      [
+       "ANTH 423"
+      ],
+      [
+       "ANTH 437"
+      ],
+      [
+       "ANTH 471"
+      ],
+      [
+       "BIOC 107"
+      ],
+      [
+       "BIOC 108"
+      ],
+      [
+       "BMME 150"
+      ],
+      [
+       "BMME 207"
+      ],
+      [
+       "BMME 301"
+      ],
+      [
+       "BMME 315"
+      ],
+      [
+       "BMME 335"
+      ],
+      [
+       "BMME 385"
+      ],
+      [
+       "BMME 405"
+      ],
+      [
+       "BMME 420"
+      ],
+      [
+       "BMME 435"
+      ],
+      [
+       "BMME 445"
+      ],
+      [
+       "BMME 455"
+      ],
+      [
+       "BMME 470"
+      ],
+      [
+       "BMME 485"
+      ],
+      [
+       "BMME 505"
+      ],
+      [
+       "ENEC 108"
+      ],
+      [
+       "ENEC 202"
+      ],
+      [
+       "ENEC 220"
+      ],
+      [
+       "ENEC 222"
+      ],
+      [
+       "ENEC 256"
+      ],
+      [
+       "ENEC 304"
+      ],
+      [
+       "ENEC 324"
+      ],
+      [
+       "ENEC 352"
+      ],
+      [
+       "ENEC 403"
+      ],
+      [
+       "ENEC 406"
+      ],
+      [
+       "ENEC 410"
+      ],
+      [
+       "ENEC 411"
+      ],
+      [
+       "ENEC 415"
+      ],
+      [
+       "ENEC 416"
+      ],
+      [
+       "ENEC 431"
+      ],
+      [
+       "ENEC 450"
+      ],
+      [
+       "ENEC 462"
+      ],
+      [
+       "ENEC 471"
+      ],
+      [
+       "ENEC 479"
+      ],
+      [
+       "ENEC 489"
+      ],
+      [
+       "ENEC 530"
+      ],
+      [
+       "ENEC 562"
+      ],
+      [
+       "ENEC 567"
+      ],
+      [
+       "ENVR 205"
+      ],
+      [
+       "ENVR 403"
+      ],
+      [
+       "ENVR 411"
+      ],
+      [
+       "ENVR 412"
+      ],
+      [
+       "ENVR 413"
+      ],
+      [
+       "ENVR 416"
+      ],
+      [
+       "ENVR 419"
+      ],
+      [
+       "ENVR 421"
+      ],
+      [
+       "ENVR 425"
+      ],
+      [
+       "ENVR 430"
+      ],
+      [
+       "ENVR 442"
+      ],
+      [
+       "ENVR 451"
+      ],
+      [
+       "ENVR 453"
+      ],
+      [
+       "ENVR 468"
+      ],
+      [
+       "ENVR 470"
+      ],
+      [
+       "ENVR 472"
+      ],
+      [
+       "ENVR 514"
+      ],
+      [
+       "ENVR 575"
+      ],
+      [
+       "ENVR 630"
+      ],
+      [
+       "ENVR 661"
+      ],
+      [
+       "ENVR 662"
+      ],
+      [
+       "ENVR 666"
+      ],
+      [
+       "ENVR 668"
+      ],
+      [
+       "ENVR 669"
+      ],
+      [
+       "ENVR 671"
+      ],
+      [
+       "ENVR 672"
+      ],
+      [
+       "ENVR 675"
+      ],
+      [
+       "EXSS 175"
+      ],
+      [
+       "EXSS 175",
+       "EXSS 275L"
+      ],
+      [
+       "EXSS 276"
+      ],
+      [
+       "EXSS 376"
+      ],
+      [
+       "EXSS 380"
+      ],
+      [
+       "EXSS 385"
+      ],
+      [
+       "EXSS 475"
+      ],
+      [
+       "EXSS 576"
+      ],
+      [
+       "EXSS 580"
+      ],
+      [
+       "GEOG 110"
+      ],
+      [
+       "GEOG 111"
+      ],
+      [
+       "GEOG 212"
+      ],
+      [
+       "GEOG 253"
+      ],
+      [
+       "GEOG 391"
+      ],
+      [
+       "GEOG 412"
+      ],
+      [
+       "GEOG 414"
+      ],
+      [
+       "GEOG 416"
+      ],
+      [
+       "GEOG 440"
+      ],
+      [
+       "GEOG 441"
+      ],
+      [
+       "GEOG 442"
+      ],
+      [
+       "NUTR 240"
+      ],
+      [
+       "NUTR 400"
+      ],
+      [
+       "NUTR 600"
+      ],
+      [
+       "NUTR 620"
+      ],
+      [
+       "PHIL 155"
+      ],
+      [
+       "PHIL 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below) 3",
+     "id": "unc-psychology-major-ba-s8",
+     "pick": {
+      "hours": 3
+     },
+     "wildcards": [
+      {
+       "subjects": [
+        "ASTR"
+       ],
+       "minLevel": 100,
+       "except": [
+        "ASTR 390"
+       ]
+      },
+      {
+       "subjects": [
+        "BIOL"
+       ],
+       "minLevel": 102,
+       "except": [
+        "BIOL 195",
+        "BIOL 290",
+        "BIOL 291",
+        "BIOL 292",
+        "BIOL 293",
+        "BIOL 294",
+        "BIOL 295",
+        "BIOL 296",
+        "BIOL 395",
+        "BIOL 410",
+        "BIOL 490",
+        "BIOL 495"
+       ]
+      },
+      {
+       "subjects": [
+        "BIOS"
+       ],
+       "minLevel": 501,
+       "except": [
+        "BIOS 540",
+        "BIOS 543",
+        "BIOS 690",
+        "BIOS 691",
+        "BIOS 693H",
+        "BIOS 694H"
+       ]
+      },
+      {
+       "subjects": [
+        "CHEM"
+       ],
+       "minLevel": 102,
+       "except": [
+        "CHEM 190",
+        "CHEM 291",
+        "CHEM 395",
+        "CHEM 396",
+        "CHEM 397",
+        "CHEM 410",
+        "CHEM 692H"
+       ]
+      },
+      {
+       "subjects": [
+        "COMP"
+       ],
+       "minLevel": 117,
+       "except": [
+        "COMP 185",
+        "COMP 190",
+        "COMP 380",
+        "COMP 390",
+        "COMP 393"
+       ]
+      },
+      {
+       "subjects": [
+        "GEOL"
+       ],
+       "minLevel": 101,
+       "except": [
+        "GEOL 190",
+        "GEOL 390",
+        "GEOL 395",
+        "GEOL 396",
+        "GEOL 412",
+        "GEOL 480",
+        "GEOL 590",
+        "GEOL 601",
+        "GEOL 602",
+        "GEOL 691H",
+        "GEOL 692H",
+        "GEOL 695"
+       ]
+      },
+      {
+       "subjects": [
+        "MASC"
+       ],
+       "minLevel": 101,
+       "except": [
+        "MASC 190",
+        "MASC 390",
+        "MASC 395",
+        "MASC 396",
+        "MASC 490"
+       ]
+      },
+      {
+       "subjects": [
+        "EMES"
+       ],
+       "minLevel": 101,
+       "except": [
+        "EMES 190",
+        "EMES 220",
+        "EMES 390",
+        "EMES 395",
+        "EMES 396",
+        "EMES 412",
+        "EMES 490",
+        "EMES 590",
+        "EMES 691H",
+        "EMES 692H"
+       ]
+      },
+      {
+       "subjects": [
+        "MATH"
+       ],
+       "minLevel": 231,
+       "except": [
+        "MATH 290",
+        "MATH 296",
+        "MATH 396",
+        "MATH 410",
+        "MATH 411",
+        "MATH 418",
+        "MATH 515",
+        "MATH 691H",
+        "MATH 692H"
+       ]
+      },
+      {
+       "subjects": [
+        "MCRO"
+       ],
+       "minLevel": 101,
+       "except": [
+        "MCRO 690"
+       ]
+      },
+      {
+       "subjects": [
+        "PHYS"
+       ],
+       "minLevel": 100,
+       "except": [
+        "PHYS 132",
+        "PHYS 295",
+        "PHYS 391",
+        "PHYS 395",
+        "PHYS 410",
+        "PHYS 671L",
+        "PHYS 672L",
+        "PHYS 691H",
+        "PHYS 692H"
+       ]
+      },
+      {
+       "subjects": [
+        "STOR"
+       ],
+       "minLevel": 101,
+       "except": [
+        "STOR 151",
+        "STOR 155"
+       ]
+      }
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major.",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One additional non-Psychology and Neuroscience Department quantitative reasoning course (FC-QUANT) not used to fulfill the FC-QUANT Gen Ed requirement or any other requirement in the psychology major. 3-4",
+     "id": "unc-psychology-major-ba-s9"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"One course below 400 from four of the five following psychology program areas:\"",
+  "Group \"One course below 400 from four of the five following psychology program areas:\" has a nested heading or list reference: \"Behavioral and Integrative Neuroscience:\"",
+  "Group \"One course below 400 from four of the five following psychology program areas:\" has a nested heading or list reference: \"Clinical:\"",
+  "Group \"One course below 400 from four of the five following psychology program areas:\" has a nested heading or list reference: \"Cognitive:\"",
+  "Group \"One course below 400 from four of the five following psychology program areas:\" has a nested heading or list reference: \"Developmental:\"",
+  "Group \"One course below 400 from four of the five following psychology program areas:\" has a nested heading or list reference: \"Social:\""
+ ],
+ "parseNotes": [
+  "List \"Allied Science Electives\" has codes with no catalog link: BMME 405, BMME 420, BMME 445, BMME 455, BMME 470, BMME 485, BMME 505, ENEC 202, ENVR 442",
+  "Linked \"One non-Psychology and Neuroscience Department course which comes from the Allied Science list (see below)\" to the list \"Allied Science Electives\" by its position on the page",
+  "Codes in choice lists not found in the course catalog: BMME 405, BMME 420, BMME 445, BMME 455, BMME 470, BMME 485, BMME 505, ENEC 202, ENVR 442"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/psychology-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

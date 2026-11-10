@@ -1,0 +1,502 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-chinese-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-chinese-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 28,
+  "max": 28
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least four language courses above CHIN 204, chosen from:",
+     "options": [
+      [
+       "CHIN 305"
+      ],
+      [
+       "CHIN 306"
+      ],
+      [
+       "CHIN 407"
+      ],
+      [
+       "CHIN 408"
+      ],
+      [
+       "CHIN 441"
+      ],
+      [
+       "CHIN 443"
+      ],
+      [
+       "CHIN 445"
+      ],
+      [
+       "CHIN 490"
+      ],
+      [
+       "CHIN 510"
+      ],
+      [
+       "CHIN 520"
+      ],
+      [
+       "CHIN 521"
+      ],
+      [
+       "CHIN 525"
+      ],
+      [
+       "CHIN 590"
+      ],
+      [
+       "CHIN 624"
+      ],
+      [
+       "CHIN 631"
+      ]
+     ],
+     "pick": {
+      "count": 4
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "At least four language courses above CHIN 204, chosen from: 12",
+     "id": "unc-asian-studies-major-ba-chinese-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least two culture courses (chosen from list below)",
+     "options": [
+      [
+       "ASIA 52"
+      ],
+      [
+       "ASIA 55"
+      ],
+      [
+       "ASIA 56"
+      ],
+      [
+       "WGST 56"
+      ],
+      [
+       "ASIA 65"
+      ],
+      [
+       "ASIA 75"
+      ],
+      [
+       "ASIA 76"
+      ],
+      [
+       "CHIN 150"
+      ],
+      [
+       "CHIN 238"
+      ],
+      [
+       "CMPL 238"
+      ],
+      [
+       "CHIN 242"
+      ],
+      [
+       "CHIN 244"
+      ],
+      [
+       "CHIN 247"
+      ],
+      [
+       "CMPL 247"
+      ],
+      [
+       "CHIN 252"
+      ],
+      [
+       "CHIN 253"
+      ],
+      [
+       "CHIN 255"
+      ],
+      [
+       "CHIN 265"
+      ],
+      [
+       "HIST 265"
+      ],
+      [
+       "CHIN 332"
+      ],
+      [
+       "CHIN 333"
+      ],
+      [
+       "CHIN 346"
+      ],
+      [
+       "CHIN 356"
+      ],
+      [
+       "CHIN 361"
+      ],
+      [
+       "CHIN 367"
+      ],
+      [
+       "ASIA 418"
+      ],
+      [
+       "HIST 418"
+      ],
+      [
+       "WGST 418"
+      ],
+      [
+       "CHIN 439"
+      ],
+      [
+       "HIST 439"
+      ],
+      [
+       "ASIA 453"
+      ],
+      [
+       "CHIN 463"
+      ],
+      [
+       "CHIN 464"
+      ],
+      [
+       "CHIN 475"
+      ],
+      [
+       "CHIN 476"
+      ],
+      [
+       "CHIN 480"
+      ],
+      [
+       "CMPL 480"
+      ],
+      [
+       "WGST 480"
+      ],
+      [
+       "CHIN 545"
+      ],
+      [
+       "CMPL 545"
+      ],
+      [
+       "CHIN 551"
+      ],
+      [
+       "CHIN 552"
+      ],
+      [
+       "CHIN 562"
+      ],
+      [
+       "ASIA 692H"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "At least two culture courses (chosen from list below) 6",
+     "id": "unc-asian-studies-major-ba-chinese-concentration-s2",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      7,
+      8,
+      9,
+      10,
+      10,
+      11,
+      12,
+      13,
+      14,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      21,
+      21,
+      22,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two more courses that may be from either the language list or the culture list",
+     "options": [
+      [
+       "ASIA 52"
+      ],
+      [
+       "ASIA 55"
+      ],
+      [
+       "ASIA 56"
+      ],
+      [
+       "WGST 56"
+      ],
+      [
+       "ASIA 65"
+      ],
+      [
+       "ASIA 75"
+      ],
+      [
+       "ASIA 76"
+      ],
+      [
+       "CHIN 150"
+      ],
+      [
+       "CHIN 238"
+      ],
+      [
+       "CMPL 238"
+      ],
+      [
+       "CHIN 242"
+      ],
+      [
+       "CHIN 244"
+      ],
+      [
+       "CHIN 247"
+      ],
+      [
+       "CMPL 247"
+      ],
+      [
+       "CHIN 252"
+      ],
+      [
+       "CHIN 253"
+      ],
+      [
+       "CHIN 255"
+      ],
+      [
+       "CHIN 265"
+      ],
+      [
+       "HIST 265"
+      ],
+      [
+       "CHIN 332"
+      ],
+      [
+       "CHIN 333"
+      ],
+      [
+       "CHIN 346"
+      ],
+      [
+       "CHIN 356"
+      ],
+      [
+       "CHIN 361"
+      ],
+      [
+       "CHIN 367"
+      ],
+      [
+       "ASIA 418"
+      ],
+      [
+       "HIST 418"
+      ],
+      [
+       "WGST 418"
+      ],
+      [
+       "CHIN 439"
+      ],
+      [
+       "HIST 439"
+      ],
+      [
+       "ASIA 453"
+      ],
+      [
+       "CHIN 463"
+      ],
+      [
+       "CHIN 464"
+      ],
+      [
+       "CHIN 475"
+      ],
+      [
+       "CHIN 476"
+      ],
+      [
+       "CHIN 480"
+      ],
+      [
+       "CMPL 480"
+      ],
+      [
+       "WGST 480"
+      ],
+      [
+       "CHIN 545"
+      ],
+      [
+       "CMPL 545"
+      ],
+      [
+       "CHIN 551"
+      ],
+      [
+       "CHIN 552"
+      ],
+      [
+       "CHIN 562"
+      ],
+      [
+       "ASIA 692H"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two more courses that may be from either the language list or the culture list 6",
+     "id": "unc-asian-studies-major-ba-chinese-concentration-s3",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      7,
+      8,
+      9,
+      10,
+      10,
+      11,
+      12,
+      13,
+      14,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      21,
+      21,
+      22,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      28,
+      28,
+      29,
+      29,
+      30,
+      31,
+      32,
+      33
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Chinese through level 4",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Chinese through level 4 4",
+     "id": "unc-asian-studies-major-ba-chinese-concentration-s4"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Track B\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-chinese-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Chinese Concentration"
+}

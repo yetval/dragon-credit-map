@@ -1,0 +1,93 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-religious-studies-major-ba",
+ "university": "unc",
+ "name": "Religious Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/religious-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Six RELI courses, including courses cross-listed with other units",
+     "options": [],
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Six RELI courses, including courses cross-listed with other units 18",
+     "id": "unc-religious-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Two RELI courses numbered 400 or above, including courses cross-listed with other units",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "RELI"
+      ],
+      "minLevel": 400
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two RELI courses numbered 400 or above, including courses cross-listed with other units 6",
+     "id": "unc-religious-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "RELI 697 Capstone: Undergraduate Seminar 3",
+     "options": [
+      [
+       "RELI 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "RELI 697 Capstone: Undergraduate Seminar 3",
+     "id": "unc-religious-studies-major-ba-s3"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Of the nine courses required in the major, students must take at least one course in three of the department’s five subfields listed below.",
+     "options": [],
+     "hours": null,
+     "raw": "Of the nine courses required in the major, students must take at least one course in three of the department’s five subfields listed below.",
+     "id": "unc-religious-studies-major-ba-s4"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/religious-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

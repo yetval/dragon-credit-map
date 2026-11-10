@@ -1,0 +1,136 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-sociology-major-ba",
+ "university": "unc",
+ "name": "Sociology",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/sociology-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SOCI 101 Introduction to Sociology (with a grade of C or better) 3",
+     "options": [
+      [
+       "SOCI 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOCI 101 Introduction to Sociology (with a grade of C or better) 3",
+     "id": "unc-sociology-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SOCI 250 Sociological Theory 3",
+     "options": [
+      [
+       "SOCI 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOCI 250 Sociological Theory 3",
+     "id": "unc-sociology-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SOCI 251 Research Methods 3",
+     "options": [
+      [
+       "SOCI 251"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOCI 251 Research Methods 3",
+     "id": "unc-sociology-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SOCI 252 Data Analysis (taken during the junior year, if possible) 3",
+     "options": [
+      [
+       "SOCI 252"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOCI 252 Data Analysis (taken during the junior year, if possible) 3",
+     "id": "unc-sociology-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Three SOCI electives numbered above 400 (upper-level). With permission of the director of undergraduate studies, one of the following courses may count as a 400-level elective:",
+     "options": [
+      [
+       "SOCI 290"
+      ],
+      [
+       "SOCI 396"
+      ],
+      [
+       "SOCI 691H"
+      ],
+      [
+       "SOCI 692H"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three SOCI electives numbered above 400 (upper-level). With permission of the director of undergraduate studies, one of the following courses may count as a 400-level elective: 9",
+     "id": "unc-sociology-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two additional three-hour SOCI courses (six hours)",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two additional three-hour SOCI courses (six hours) 6",
+     "id": "unc-sociology-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/sociology-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

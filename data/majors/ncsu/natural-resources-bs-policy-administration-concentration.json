@@ -1,0 +1,991 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-natural-resources-bs-policy-administration-concentration",
+ "university": "ncsu",
+ "name": "Natural Resources",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/natural-resources-bs-policy-administration-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 100 Student Success in Environmental First Year 1",
+     "options": [
+      [
+       "ENV 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ENV 100 Student Success in Environmental First Year 1",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 101 Exploring the Environment 2",
+     "options": [
+      [
+       "ENV 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ENV 101 Exploring the Environment 2",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math Electives",
+     "options": [
+      [
+       "MA 114"
+      ],
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ],
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Math Electives 6",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FOR 150 Critical Thinking and Data Analysis 2",
+     "options": [
+      [
+       "FOR 150"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "FOR 150 Critical Thinking and Data Analysis 2",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "FLE 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 or COM 112 Public Speaking or Interpersonal Communication 3",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 or COM 112 Public Speaking or Interpersonal Communication 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Physics Elective",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Physics Elective 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FOR 252 Introduction to Forest Science 3",
+     "options": [
+      [
+       "FOR 252"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FOR 252 Introduction to Forest Science 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "options": [
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FOR 401 Dendrology 4",
+     "options": [
+      [
+       "FOR 401"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FOR 401 Dendrology 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PS 201 or PS 202 American Politics and Government or State and Local Government 3",
+     "options": [
+      [
+       "PS 201"
+      ],
+      [
+       "PS 202"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PS 201 or PS 202 American Politics and Government or State and Local Government 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 333 Communication for Science and Research 3",
+     "options": [
+      [
+       "ENG 333"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 333 Communication for Science and Research 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "PB 360"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 300 Natural Resource Measurements 4",
+     "options": [
+      [
+       "NR 300"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NR 300 Natural Resource Measurements 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 301 Practicum for Professional Development I 1",
+     "options": [
+      [
+       "NR 301"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NR 301 Practicum for Professional Development I 1",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Spatial Technology Elective",
+     "options": [
+      [
+       "GIS 280"
+      ],
+      [
+       "FOR 353"
+      ],
+      [
+       "GIS 510"
+      ],
+      [
+       "SSC 440"
+      ],
+      [
+       "SSC 540"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Spatial Technology Elective 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARE 336 Introduction to Resource and Environmental Economics 3",
+     "options": [
+      [
+       "ARE 336"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 336 Introduction to Resource and Environmental Economics 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 360 Internship Experience 3",
+     "options": [
+      [
+       "NR 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NR 360 Internship Experience 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 400 Natural Resource Management 4",
+     "options": [
+      [
+       "NR 400"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NR 400 Natural Resource Management 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 460 Renewable Natural Resource Management and Policy 3",
+     "options": [
+      [
+       "NR 460"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NR 460 Renewable Natural Resource Management and Policy 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 484 Environmental Impact Assessment 4",
+     "options": [
+      [
+       "NR 484"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NR 484 Environmental Impact Assessment 4",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "FW 333"
+      ],
+      [
+       "FW 353"
+      ],
+      [
+       "FW 404"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s26"
+    }
+   ]
+  },
+  {
+   "title": "Technical Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Management Sciences",
+     "options": [
+      [
+       "ACC 200"
+      ],
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 280"
+      ],
+      [
+       "FOR 248"
+      ],
+      [
+       "FW 221"
+      ],
+      [
+       "FW 333"
+      ],
+      [
+       "GIS 295"
+      ],
+      [
+       "HI 381"
+      ],
+      [
+       "LAR 430"
+      ],
+      [
+       "NR 350"
+      ],
+      [
+       "PRT 350"
+      ],
+      [
+       "PRT 451"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 348"
+      ],
+      [
+       "EC 410"
+      ],
+      [
+       "FOR 319"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "FOR 414"
+      ],
+      [
+       "FW 411"
+      ],
+      [
+       "FW 511"
+      ],
+      [
+       "MIE 305"
+      ],
+      [
+       "NR 406"
+      ],
+      [
+       "PS 201"
+      ],
+      [
+       "PS 202"
+      ],
+      [
+       "PS 312"
+      ],
+      [
+       "PS 320"
+      ],
+      [
+       "PS 336"
+      ],
+      [
+       "PS 401"
+      ]
+     ],
+     "pick": {
+      "hours": 15
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Management Sciences 15",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Resource Sciences",
+     "options": [
+      [
+       "CS 414"
+      ],
+      [
+       "FOR 204"
+      ],
+      [
+       "FOR 261"
+      ],
+      [
+       "FOR 265"
+      ],
+      [
+       "FOR 273"
+      ],
+      [
+       "FOR 303"
+      ],
+      [
+       "FOR 318"
+      ],
+      [
+       "FOR 330"
+      ],
+      [
+       "FOR 411"
+      ],
+      [
+       "PB 220"
+      ],
+      [
+       "PB 345"
+      ],
+      [
+       "PB 400"
+      ],
+      [
+       "PB 403"
+      ],
+      [
+       "PB 421"
+      ],
+      [
+       "PB 464"
+      ],
+      [
+       "PB 503"
+      ],
+      [
+       "PB 564"
+      ],
+      [
+       "PP 318"
+      ],
+      [
+       "AEC 419"
+      ],
+      [
+       "AEC 420"
+      ],
+      [
+       "AEC 423"
+      ],
+      [
+       "AEC 441"
+      ],
+      [
+       "AEC 442"
+      ],
+      [
+       "AEC 460"
+      ],
+      [
+       "AEC 501"
+      ],
+      [
+       "AEC 509"
+      ],
+      [
+       "AEC 519"
+      ],
+      [
+       "AEC 586"
+      ],
+      [
+       "ENT 402"
+      ],
+      [
+       "ENT 425"
+      ],
+      [
+       "ENT 509"
+      ],
+      [
+       "FOR 264"
+      ],
+      [
+       "FOR 402"
+      ],
+      [
+       "FOR 430"
+      ],
+      [
+       "FW 311"
+      ],
+      [
+       "FW 312"
+      ],
+      [
+       "FW 313"
+      ],
+      [
+       "FW 314"
+      ],
+      [
+       "FW 353"
+      ],
+      [
+       "FW 373"
+      ],
+      [
+       "FW 403"
+      ],
+      [
+       "FW 404"
+      ],
+      [
+       "FW 405"
+      ],
+      [
+       "FW 444"
+      ],
+      [
+       "FW 544"
+      ],
+      [
+       "FW 586"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "ZO 333"
+      ],
+      [
+       "AEC 380"
+      ],
+      [
+       "ES 150"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "FOR 420"
+      ],
+      [
+       "FOR 520"
+      ],
+      [
+       "GEO 200"
+      ],
+      [
+       "MEA 200"
+      ],
+      [
+       "MEA 210"
+      ],
+      [
+       "MEA 250"
+      ],
+      [
+       "MEA 251"
+      ],
+      [
+       "MEA 300"
+      ],
+      [
+       "NR 420"
+      ],
+      [
+       "NR 421"
+      ],
+      [
+       "NR 520"
+      ],
+      [
+       "NR 521"
+      ],
+      [
+       "SSC 421"
+      ],
+      [
+       "SSC 442"
+      ],
+      [
+       "SSC 452"
+      ],
+      [
+       "SSC 455"
+      ],
+      [
+       "SSC 461"
+      ],
+      [
+       "SSC 470"
+      ],
+      [
+       "SSC 570"
+      ]
+     ],
+     "pick": {
+      "hours": 7
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "Resource Sciences 7",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s32"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-natural-resources-bs-policy-administration-concentration-s35"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place",
+  "List \"Management Science Electives\" has a rule that cannot be checked automatically: \"At least one course from each category:\""
+ ],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"Acad Writing Research\" has codes with no catalog link: FLE 101",
+  "List \"Management Science Electives\" has codes with no catalog link: HI 381",
+  "List \"Resource Science Electives\" has codes with no catalog link: AEC 586, FW 586, SSC 421",
+  "Codes in choice lists not found in the course catalog: AEC 586, ENT 509, FOR 303, FW 586, HI 381, PRT 350, SSC 421"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/natural-resources-bs-policy-administration-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Policy and Administration Concentration",
+ "college": "College of Natural Resources"
+}

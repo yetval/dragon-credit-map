@@ -1,0 +1,434 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-biostatistics-major-bsph",
+ "university": "unc",
+ "name": "Biostatistics",
+ "degree": "B.S.P.H.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/biostatistics-major-bsph/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 61,
+  "max": 67
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Public Health Core Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Public Health Core Courses:",
+     "id": "unc-biostatistics-major-bsph-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 351 Foundations of Public Health 3",
+     "options": [
+      [
+       "SPHG 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPHG 351 Foundations of Public Health 3",
+     "id": "unc-biostatistics-major-bsph-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 352 Public Health Systems and Solutions 4",
+     "options": [
+      [
+       "SPHG 352"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SPHG 352 Public Health Systems and Solutions 4",
+     "id": "unc-biostatistics-major-bsph-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "options": [
+      [
+       "EPID 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "id": "unc-biostatistics-major-bsph-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Biostatistics Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Biostatistics Courses:",
+     "id": "unc-biostatistics-major-bsph-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 500H Introduction to Biostatistics 3",
+     "options": [
+      [
+       "BIOS 500H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 500H Introduction to Biostatistics 3",
+     "id": "unc-biostatistics-major-bsph-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 511 Introduction to Statistical Computing and Data Management 4",
+     "options": [
+      [
+       "BIOS 511"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOS 511 Introduction to Statistical Computing and Data Management 4",
+     "id": "unc-biostatistics-major-bsph-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 512 Data Science Basics 3",
+     "options": [
+      [
+       "BIOS 512"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 512 Data Science Basics 3",
+     "id": "unc-biostatistics-major-bsph-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 645 Principles of Experimental Analysis 3",
+     "options": [
+      [
+       "BIOS 645"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 645 Principles of Experimental Analysis 3",
+     "id": "unc-biostatistics-major-bsph-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 650 Basic Elements of Probability and Statistical Inference I 3",
+     "options": [
+      [
+       "BIOS 650"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 650 Basic Elements of Probability and Statistical Inference I 3",
+     "id": "unc-biostatistics-major-bsph-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOS 691 Field Observations in Biostatistics 1",
+     "options": [
+      [
+       "BIOS 691"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "BIOS 691 Field Observations in Biostatistics 1",
+     "id": "unc-biostatistics-major-bsph-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following Additional Biostatistics Course options:",
+     "options": [
+      [
+       "BIOS 635"
+      ],
+      [
+       "BIOS 664"
+      ],
+      [
+       "BIOS 668"
+      ],
+      [
+       "BIOS 669"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One of the following Additional Biostatistics Course options: 3-4",
+     "id": "unc-biostatistics-major-bsph-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following Capstone Course options:",
+     "options": [
+      [
+       "BIOS 392"
+      ],
+      [
+       "BIOS 540"
+      ],
+      [
+       "BIOS 664"
+      ],
+      [
+       "BIOS 693H"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 0,
+      "max": 4
+     },
+     "raw": "One of the following Capstone Course options: 0-4",
+     "id": "unc-biostatistics-major-bsph-s13"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-biostatistics-major-bsph-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "id": "unc-biostatistics-major-bsph-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-biostatistics-major-bsph-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-biostatistics-major-bsph-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4",
+     "options": [
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4",
+     "id": "unc-biostatistics-major-bsph-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOL 103 How Cells Function 3 or BIOL 104 Biodiversity",
+     "options": [
+      [
+       "BIOL 103"
+      ],
+      [
+       "BIOL 104"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 103 How Cells Function 3 or BIOL 104 Biodiversity",
+     "id": "unc-biostatistics-major-bsph-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 347 Linear Algebra for Applications 3",
+     "options": [
+      [
+       "MATH 347"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 347 Linear Algebra for Applications 3",
+     "id": "unc-biostatistics-major-bsph-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following to fulfill the Discrete Math requirement:",
+     "options": [
+      [
+       "MATH 381"
+      ],
+      [
+       "STOR 215"
+      ],
+      [
+       "STOR 315"
+      ],
+      [
+       "COMP 283"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Select one of the following to fulfill the Discrete Math requirement: 3-4",
+     "id": "unc-biostatistics-major-bsph-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Additional Math options:",
+     "options": [
+      [
+       "MATH 521"
+      ],
+      [
+       "MATH 528"
+      ],
+      [
+       "MATH 535"
+      ],
+      [
+       "MATH 548"
+      ],
+      [
+       "MATH 577"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Additional Math options: 3",
+     "id": "unc-biostatistics-major-bsph-s22"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/biostatistics-major-bsph/",
+  "fetchedAt": "2026-11-09"
+ }
+}

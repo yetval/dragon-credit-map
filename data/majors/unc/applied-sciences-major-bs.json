@@ -1,0 +1,387 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-applied-sciences-major-bs",
+ "university": "unc",
+ "name": "Applied Sciences",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/applied-sciences-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 79,
+  "max": 79
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "APPL 101 Exploring Engineering 3",
+     "options": [
+      [
+       "APPL 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "APPL 101 Exploring Engineering 3",
+     "id": "unc-applied-sciences-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "APPL 110 Design and Making for Engineers: Developing Your Personal Design Potential 3",
+     "options": [
+      [
+       "APPL 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "APPL 110 Design and Making for Engineers: Developing Your Personal Design Potential 3",
+     "id": "unc-applied-sciences-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "id": "unc-applied-sciences-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "APPL 240 Electronics from Sensors to Indicators: Circuits that Interact with the Physical World 4",
+     "options": [
+      [
+       "APPL 240"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "APPL 240 Electronics from Sensors to Indicators: Circuits that Interact with the Physical World 4",
+     "id": "unc-applied-sciences-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "APPL 260 Materials Science and Engineering: Living in a Material World 4",
+     "options": [
+      [
+       "APPL 260"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "APPL 260 Materials Science and Engineering: Living in a Material World 4",
+     "id": "unc-applied-sciences-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "APPL 285 Engineering Fundamentals of Force, Motion, and Energy 4",
+     "options": [
+      [
+       "APPL 285"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "APPL 285 Engineering Fundamentals of Force, Motion, and Energy 4",
+     "id": "unc-applied-sciences-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "APPL 385 Thermodynamics for Engineers 4",
+     "options": [
+      [
+       "APPL 385"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "APPL 385 Thermodynamics for Engineers 4",
+     "id": "unc-applied-sciences-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following tracks:",
+     "options": [
+      [
+       "ENVR 205",
+       "ENVR 205L"
+      ],
+      [
+       "ENVR 419"
+      ],
+      [
+       "ENVR 421"
+      ],
+      [
+       "ENVR 548"
+      ],
+      [
+       "ENVR 675"
+      ],
+      [
+       "ENVR 451"
+      ],
+      [
+       "ENVR 453"
+      ],
+      [
+       "ENVR 468"
+      ],
+      [
+       "ENVR 635"
+      ],
+      [
+       "ENVR 730"
+      ],
+      [
+       "ENVR 656"
+      ],
+      [
+       "ENVR 710"
+      ],
+      [
+       "ENVR 755"
+      ],
+      [
+       "APPL 462"
+      ],
+      [
+       "APPL 472"
+      ],
+      [
+       "APPL 430"
+      ],
+      [
+       "APPL 463"
+      ],
+      [
+       "APPL 465"
+      ],
+      [
+       "APPL 467"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 16,
+      "max": 16
+     },
+     "raw": "Select one of the following tracks: 16",
+     "id": "unc-applied-sciences-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "APPL 697 Capstone Design I (pending approval)",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "APPL 697 Capstone Design I (pending approval) 3",
+     "id": "unc-applied-sciences-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "APPL 698 Capstone Design II (pending approval)",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "APPL 698 Capstone Design II (pending approval) 3",
+     "id": "unc-applied-sciences-major-bs-s10"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-applied-sciences-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-applied-sciences-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-applied-sciences-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-applied-sciences-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4",
+     "options": [
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4",
+     "id": "unc-applied-sciences-major-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 & 383L First Course in Differential Equations and First Course in Differential Equations Laboratory 4",
+     "options": [
+      [
+       "MATH 383",
+       "MATH 383L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 383 & 383L First Course in Differential Equations and First Course in Differential Equations Laboratory 4",
+     "id": "unc-applied-sciences-major-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "options": [
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "id": "unc-applied-sciences-major-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "options": [
+      [
+       "PHYS 119"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "id": "unc-applied-sciences-major-bs-s18"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Environmental Engineering Track\" has a row that is not a course and was not read: \"Choose one foundational environmental engineering course:\"",
+  "List \"Environmental Engineering Track\" has a row that is not a course and was not read: \"Choose one modelling course:\"",
+  "List \"Environmental Engineering Track\" has a row that is not a course and was not read: \"Choose two process engineering courses:\"",
+  "List \"Materials Engineering Track\" has a row that is not a course and was not read: \"Choose three advanced materials engineering courses. These courses can come from a combination of one or both categories:\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/applied-sciences-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,870 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration",
+ "university": "ncsu",
+ "name": "Fisheries, Wildlife, and Conservation Biology",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 100 Student Success in Environmental First Year 1",
+     "options": [
+      [
+       "ENV 100"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ENV 100 Student Success in Environmental First Year 1",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENV 101 Exploring the Environment 2",
+     "options": [
+      [
+       "ENV 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ENV 101 Exploring the Environment 2",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3",
+     "options": [
+      [
+       "MA 131"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "FLE 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 221 Conservation of Natural Resources 3",
+     "options": [
+      [
+       "FW 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 221 Conservation of Natural Resources 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FOR 172 Forest System Mapping and Mensuration I 2",
+     "options": [
+      [
+       "FOR 172"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "FOR 172 Forest System Mapping and Mensuration I 2",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 or COM 112 Public Speaking or Interpersonal Communication 3",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 or COM 112 Public Speaking or Interpersonal Communication 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 131 Conceptual Physics 4",
+     "options": [
+      [
+       "PY 131"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 131 Conceptual Physics 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PB 200 or PB 250 Plant Life or Plant Biology 4",
+     "options": [
+      [
+       "PB 200"
+      ],
+      [
+       "PB 250"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PB 200 or PB 250 Plant Life or Plant Biology 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEC 360 or PB 360 Ecology or Ecology 4",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "PB 360"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "AEC 360 or PB 360 Ecology or Ecology 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Communication Elective",
+     "options": [
+      [
+       "COM 201"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 226"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "COM 301"
+      ],
+      [
+       "EMS 350"
+      ],
+      [
+       "ENG 214"
+      ],
+      [
+       "ENG 216"
+      ],
+      [
+       "ENG 316"
+      ],
+      [
+       "PRT 485"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Communication Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Quantitative Elective",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ],
+      [
+       "NR 300"
+      ],
+      [
+       "ST 312"
+      ],
+      [
+       "MA 107"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Quantitative Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics Elective",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ],
+      [
+       "NR 219"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Economics Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Experiential Learning",
+     "options": [
+      [
+       "FW 311"
+      ],
+      [
+       "FW 312"
+      ],
+      [
+       "FW 313"
+      ],
+      [
+       "FW 314"
+      ],
+      [
+       "FW 492"
+      ],
+      [
+       "FW 405"
+      ],
+      [
+       "FW 445"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Experiential Learning 6",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 353 Wildlife Management 3",
+     "options": [
+      [
+       "FW 353"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 353 Wildlife Management 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 373 Vertebrate Natural History 3",
+     "options": [
+      [
+       "FW 373"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 373 Vertebrate Natural History 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 411 Human Dimensions of Wildlife and Fisheries 3",
+     "options": [
+      [
+       "FW 411"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 411 Human Dimensions of Wildlife and Fisheries 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FOR 401 Dendrology 4",
+     "options": [
+      [
+       "FOR 401"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FOR 401 Dendrology 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 333 Communication for Science and Research 3",
+     "options": [
+      [
+       "ENG 333"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 333 Communication for Science and Research 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Genetics courses:",
+     "options": [
+      [
+       "FW 402"
+      ],
+      [
+       "GN 301"
+      ],
+      [
+       "GN 311"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Genetics courses: 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Organic Chemistry combinations:",
+     "options": [
+      [
+       "CH 220",
+       "CH 222"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Organic Chemistry combinations: 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 404 Wildlife Habitat Management 3",
+     "options": [
+      [
+       "FW 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "FW 404 Wildlife Habitat Management 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 415 Professional Development in Fisheries, Wildlife, and Conservation Biology 1",
+     "options": [
+      [
+       "FW 415"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "FW 415 Professional Development in Fisheries, Wildlife, and Conservation Biology 1",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "FW 453 Principles of Wildlife Science 4",
+     "options": [
+      [
+       "FW 453"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "FW 453 Principles of Wildlife Science 4",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GIS 280 Introduction to GIS 3",
+     "options": [
+      [
+       "GIS 280"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GIS 280 Introduction to GIS 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEC 420 Introduction to Fisheries Science 3",
+     "options": [
+      [
+       "AEC 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEC 420 Introduction to Fisheries Science 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENT 201 Insects and People 3",
+     "options": [
+      [
+       "ENT 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENT 201 Insects and People 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Policy Elective",
+     "options": [
+      [
+       "ARE 309"
+      ],
+      [
+       "NR 460"
+      ],
+      [
+       "PS 320"
+      ],
+      [
+       "PS 336"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Policy Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Physical Science Elective",
+     "options": [
+      [
+       "CH 201"
+      ],
+      [
+       "CH 202"
+      ],
+      [
+       "CH 223"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "ES 300"
+      ],
+      [
+       "MEA 100"
+      ],
+      [
+       "MEA 130"
+      ],
+      [
+       "MEA 200"
+      ],
+      [
+       "MEA 210"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "MEA 250"
+      ],
+      [
+       "MEA 323"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Physical Science Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Wildlife Elective",
+     "options": [
+      [
+       "FW 402"
+      ],
+      [
+       "FW 403"
+      ],
+      [
+       "FW 405"
+      ],
+      [
+       "FW 413"
+      ],
+      [
+       "FW 444"
+      ],
+      [
+       "AEC 501"
+      ],
+      [
+       "ZO 250"
+      ],
+      [
+       "ZO 410"
+      ],
+      [
+       "MEA 252"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Wildlife Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s34"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration-s40"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"Experiential Learning\" has a row that is not a course and was not read: \"Summer Camp\"",
+  "List \"Experiential Learning\" has a row that is not a course and was not read: \"Internship\"",
+  "List \"Experiential Learning\" has a row that is not a course and was not read: \"Study Abroad\"",
+  "Codes in choice lists not found in the course catalog: COM 301, EMS 350"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forestry-environmental-resources/fisheries-wildlife-conservation-biology-bs-wildlife-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Wildlife Science Concentration",
+ "college": "College of Natural Resources"
+}

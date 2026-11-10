@@ -1,0 +1,4852 @@
+{
+ "schemaVersion": 1,
+ "records": [
+  {
+   "id": "unc-african-american-studies-all-3",
+   "university": "unc",
+   "exams": [
+    "african-american-studies"
+   ],
+   "examMode": "all",
+   "rawExam": "African American Studies",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "AAAD General Elective",
+     "rawCode": "AAAD General Elective",
+     "generic": {
+      "subject": "AAAD",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "AAAD General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-african-american-studies-all-4",
+   "university": "unc",
+   "exams": [
+    "african-american-studies"
+   ],
+   "examMode": "all",
+   "rawExam": "African American Studies",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "AAAD 231",
+     "rawCode": "AAAD 231",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "AAAD 231",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-2d-all-4",
+   "university": "unc",
+   "exams": [
+    "art-2d"
+   ],
+   "examMode": "all",
+   "rawExam": "Art 2D",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ARTS 102",
+     "rawCode": "ARTS 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ARTS 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-2d-all-3",
+   "university": "unc",
+   "exams": [
+    "art-2d"
+   ],
+   "examMode": "all",
+   "rawExam": "Art 2D",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Studio Art General Elective",
+     "rawCode": "Studio Art General Elective",
+     "generic": {
+      "subject": "ARTS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Studio Art General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-3d-all-4",
+   "university": "unc",
+   "exams": [
+    "art-3d"
+   ],
+   "examMode": "all",
+   "rawExam": "Art 3D",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ARTS 103",
+     "rawCode": "ARTS 103",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ARTS 103",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-3d-all-3",
+   "university": "unc",
+   "exams": [
+    "art-3d"
+   ],
+   "examMode": "all",
+   "rawExam": "Art 3D",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Studio Art General Elective",
+     "rawCode": "Studio Art General Elective",
+     "generic": {
+      "subject": "ARTS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Studio Art General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-history-all-3",
+   "university": "unc",
+   "exams": [
+    "art-history"
+   ],
+   "examMode": "all",
+   "rawExam": "Art History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ARTH 152",
+     "rawCode": "ARTH 152",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ARTH 152",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-drawing-all-3",
+   "university": "unc",
+   "exams": [
+    "art-drawing"
+   ],
+   "examMode": "all",
+   "rawExam": "Art Studio Drawing",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Studio Art General Elective",
+     "rawCode": "Studio Art General Elective",
+     "generic": {
+      "subject": "ARTS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Studio Art General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-art-drawing-all-4",
+   "university": "unc",
+   "exams": [
+    "art-drawing"
+   ],
+   "examMode": "all",
+   "rawExam": "Art Studio Drawing",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ARTS 104",
+     "rawCode": "ARTS 104",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ARTS 104",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-biology-all-3",
+   "university": "unc",
+   "exams": [
+    "biology"
+   ],
+   "examMode": "all",
+   "rawExam": "Biology",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "BIOL 101",
+     "rawCode": "BIOL 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "BIOL 101L",
+     "rawCode": "BIOL 101L",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "BIOL 101, BIOL 101L",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-calculus-ab-all-2",
+   "university": "unc",
+   "exams": [
+    "calculus-ab"
+   ],
+   "examMode": "all",
+   "rawExam": "Calculus AB",
+   "minScore": 2,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P",
+   "rawHours": "0",
+   "awardMode": "all",
+   "placementOnly": true,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-calculus-ab-all-3",
+   "university": "unc",
+   "exams": [
+    "calculus-ab"
+   ],
+   "examMode": "all",
+   "rawExam": "Calculus AB",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 231",
+     "rawCode": "MATH 231",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P, MATH 231",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-calculus-ab-subscore-all-2",
+   "university": "unc",
+   "exams": [
+    "calculus-ab-subscore"
+   ],
+   "examMode": "all",
+   "rawExam": "Calculus AB Subscore",
+   "minScore": 2,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P",
+   "rawHours": "0",
+   "awardMode": "all",
+   "placementOnly": true,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-calculus-ab-subscore-all-3",
+   "university": "unc",
+   "exams": [
+    "calculus-ab-subscore"
+   ],
+   "examMode": "all",
+   "rawExam": "Calculus AB Subscore",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 231",
+     "rawCode": "MATH 231",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P, MATH 231",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-calculus-bc-all-2",
+   "university": "unc",
+   "exams": [
+    "calculus-bc"
+   ],
+   "examMode": "all",
+   "rawExam": "Calculus BC",
+   "minScore": 2,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P",
+   "rawHours": "0",
+   "awardMode": "all",
+   "placementOnly": true,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-calculus-bc-all-3",
+   "university": "unc",
+   "exams": [
+    "calculus-bc"
+   ],
+   "examMode": "all",
+   "rawExam": "Calculus BC",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 231",
+     "rawCode": "MATH 231",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 232",
+     "rawCode": "MATH 232",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P, MATH 231, MATH 232",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-chemistry-all-3",
+   "university": "unc",
+   "exams": [
+    "chemistry"
+   ],
+   "examMode": "all",
+   "rawExam": "Chemistry",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "CHEM 101",
+     "rawCode": "CHEM 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CHEM 101L",
+     "rawCode": "CHEM 101L",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CHEM 101, CHEM 101L",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-chemistry-all-5",
+   "university": "unc",
+   "exams": [
+    "chemistry"
+   ],
+   "examMode": "all",
+   "rawExam": "Chemistry",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "CHEM 101",
+     "rawCode": "CHEM 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CHEM 101L",
+     "rawCode": "CHEM 101L",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CHEM 102",
+     "rawCode": "CHEM 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CHEM 102L",
+     "rawCode": "CHEM 102L",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CHEM 101, CHEM 101L, CHEM 102, CHEM 102L",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-chinese-all-3",
+   "university": "unc",
+   "exams": [
+    "chinese"
+   ],
+   "examMode": "all",
+   "rawExam": "Chinese",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "CHIN 203",
+     "rawCode": "CHIN 203",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CHIN 203 *",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "see-footnote"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Students who wish to continue Chinese, German, or Japanese at UNC must take a departmental placement exam."
+  },
+  {
+   "id": "unc-comparative-government-all-3",
+   "university": "unc",
+   "exams": [
+    "comparative-government"
+   ],
+   "examMode": "all",
+   "rawExam": "Comparative Government and Politics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Political Science General Elective",
+     "rawCode": "Political Science General Elective",
+     "generic": {
+      "subject": "POLI",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Political Science General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-comparative-government-all-4",
+   "university": "unc",
+   "exams": [
+    "comparative-government"
+   ],
+   "examMode": "all",
+   "rawExam": "Comparative Government and Politics",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "POLI 130",
+     "rawCode": "POLI 130",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "POLI 130",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-computer-science-a-all-3",
+   "university": "unc",
+   "exams": [
+    "computer-science-a"
+   ],
+   "examMode": "all",
+   "rawExam": "Computer Science A",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "COMP 101",
+     "rawCode": "COMP 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "COMP 101",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "award-code-unresolved"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-computer-science-a-all-5",
+   "university": "unc",
+   "exams": [
+    "computer-science-a"
+   ],
+   "examMode": "all",
+   "rawExam": "Computer Science A",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "COMP 110",
+     "rawCode": "COMP 110",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "COMP 110",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-microeconomics+macroeconomics-any-3",
+   "university": "unc",
+   "exams": [
+    "microeconomics",
+    "macroeconomics"
+   ],
+   "examMode": "any",
+   "rawExam": "Economics - Either Micro or Macro",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Economics General Elective",
+     "rawCode": "Economics General Elective",
+     "generic": {
+      "subject": "ECON",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Economics General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-microeconomics+macroeconomics-any-4",
+   "university": "unc",
+   "exams": [
+    "microeconomics",
+    "macroeconomics"
+   ],
+   "examMode": "any",
+   "rawExam": "Economics - Either Micro or Macro",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ECON 100",
+     "rawCode": "ECON 100",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ECON 100",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-microeconomics+macroeconomics-all-4",
+   "university": "unc",
+   "exams": [
+    "microeconomics",
+    "macroeconomics"
+   ],
+   "examMode": "all",
+   "rawExam": "Economics - Both Micro and Macro",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ECON 100",
+     "rawCode": "ECON 100",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "ECON 101",
+     "rawCode": "ECON 101",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ECON 100, ECON 101",
+   "rawHours": "7",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-english-language-all-3",
+   "university": "unc",
+   "exams": [
+    "english-language"
+   ],
+   "examMode": "all",
+   "rawExam": "English Language and Composition",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "English General Elective",
+     "rawCode": "English General Elective",
+     "generic": {
+      "subject": "ENGL",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "English General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-english-language-all-4",
+   "university": "unc",
+   "exams": [
+    "english-language"
+   ],
+   "examMode": "all",
+   "rawExam": "English Language and Composition",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "English General Elective",
+     "rawCode": "English General Elective",
+     "generic": {
+      "subject": "ENGL",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "English General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-english-literature-all-3",
+   "university": "unc",
+   "exams": [
+    "english-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "English Literature",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "English General Elective",
+     "rawCode": "English General Elective",
+     "generic": {
+      "subject": "ENGL",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "English General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-english-literature-all-5",
+   "university": "unc",
+   "exams": [
+    "english-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "English Literature",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "ENGL 190",
+     "rawCode": "ENGL 190",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ENGL 190",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-environmental-science-all-3",
+   "university": "unc",
+   "exams": [
+    "environmental-science"
+   ],
+   "examMode": "all",
+   "rawExam": "Environmental Science",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Environmental Studies General Elective",
+     "rawCode": "Environmental Studies General Elective",
+     "generic": {
+      "subject": "ENEC",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Environmental Studies General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-environmental-science-all-4",
+   "university": "unc",
+   "exams": [
+    "environmental-science"
+   ],
+   "examMode": "all",
+   "rawExam": "Environmental Science",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ENEC 202",
+     "rawCode": "ENEC 202",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ENEC 202",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "award-code-unresolved"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-european-history-all-3",
+   "university": "unc",
+   "exams": [
+    "european-history"
+   ],
+   "examMode": "all",
+   "rawExam": "European History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HIST 104",
+     "rawCode": "HIST 104",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HIST 104",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-french-language-all-3",
+   "university": "unc",
+   "exams": [
+    "french-language"
+   ],
+   "examMode": "all",
+   "rawExam": "French Language and Culture",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "French General Elective",
+     "rawCode": "French General Elective",
+     "generic": {
+      "subject": "FREN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "French General Elective and placement into FREN 203",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into FREN 203"
+  },
+  {
+   "id": "unc-french-language-all-4",
+   "university": "unc",
+   "exams": [
+    "french-language"
+   ],
+   "examMode": "all",
+   "rawExam": "French Language and Culture",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "French General Elective",
+     "rawCode": "French General Elective",
+     "generic": {
+      "subject": "FREN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "FREN 203",
+     "rawCode": "FREN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "French General Elective, FREN 203, and placement into FREN 204",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into FREN 204"
+  },
+  {
+   "id": "unc-french-language-all-5",
+   "university": "unc",
+   "exams": [
+    "french-language"
+   ],
+   "examMode": "all",
+   "rawExam": "French Language and Culture",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "French General Elective",
+     "rawCode": "French General Elective",
+     "generic": {
+      "subject": "FREN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "FREN 203",
+     "rawCode": "FREN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "FREN 204",
+     "rawCode": "FREN 204",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "French General Elective, FREN 203, FREN 204, and placement into FREN 255, FREN 260, or FREN 262",
+   "rawHours": "9",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into FREN 255, FREN 260, or FREN 262"
+  },
+  {
+   "id": "unc-human-geography-all-3",
+   "university": "unc",
+   "exams": [
+    "human-geography"
+   ],
+   "examMode": "all",
+   "rawExam": "Geography (Human)",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "GEOG 120",
+     "rawCode": "GEOG 120",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "GEOG 120",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-german-all-3",
+   "university": "unc",
+   "exams": [
+    "german"
+   ],
+   "examMode": "all",
+   "rawExam": "German Language",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "German General Elective",
+     "rawCode": "German General Elective",
+     "generic": {
+      "subject": "GERM",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "German General Elective and placement into GERM 203 *",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "see-footnote"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into GERM 203 Students who wish to continue Chinese, German, or Japanese at UNC must take a departmental placement exam."
+  },
+  {
+   "id": "unc-german-all-4",
+   "university": "unc",
+   "exams": [
+    "german"
+   ],
+   "examMode": "all",
+   "rawExam": "German Language",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "German General Elective",
+     "rawCode": "German General Elective",
+     "generic": {
+      "subject": "GERM",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "GERM 203",
+     "rawCode": "GERM 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "German General Elective, GERM 203, and placement into GERM 204 *",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "see-footnote"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into GERM 204 Students who wish to continue Chinese, German, or Japanese at UNC must take a departmental placement exam."
+  },
+  {
+   "id": "unc-german-all-5",
+   "university": "unc",
+   "exams": [
+    "german"
+   ],
+   "examMode": "all",
+   "rawExam": "German Language",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "German General Elective",
+     "rawCode": "German General Elective",
+     "generic": {
+      "subject": "GERM",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "GERM 203",
+     "rawCode": "GERM 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "GERM 204",
+     "rawCode": "GERM 204",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "German General Elective, GERM 203, GERM 204, and placement into GERM 301 or GERM 302 *",
+   "rawHours": "9",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "see-footnote"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into GERM 301 or GERM 302 Students who wish to continue Chinese, German, or Japanese at UNC must take a departmental placement exam."
+  },
+  {
+   "id": "unc-italian-all-3",
+   "university": "unc",
+   "exams": [
+    "italian"
+   ],
+   "examMode": "all",
+   "rawExam": "Italian Language and Culture",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Italian General Elective",
+     "rawCode": "Italian General Elective",
+     "generic": {
+      "subject": "ITAL",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Italian General Elective and placement into ITAL 203",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into ITAL 203"
+  },
+  {
+   "id": "unc-italian-all-4",
+   "university": "unc",
+   "exams": [
+    "italian"
+   ],
+   "examMode": "all",
+   "rawExam": "Italian Language and Culture",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "Italian General Elective",
+     "rawCode": "Italian General Elective",
+     "generic": {
+      "subject": "ITAL",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "ITAL 203",
+     "rawCode": "ITAL 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Italian General Elective, ITAL 203, and placement into ITAL 204",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into ITAL 204"
+  },
+  {
+   "id": "unc-italian-all-5",
+   "university": "unc",
+   "exams": [
+    "italian"
+   ],
+   "examMode": "all",
+   "rawExam": "Italian Language and Culture",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "Italian General Elective",
+     "rawCode": "Italian General Elective",
+     "generic": {
+      "subject": "ITAL",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "ITAL 203",
+     "rawCode": "ITAL 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "ITAL 204",
+     "rawCode": "ITAL 204",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Italian General Elective, ITAL 203, ITAL 204, and placement into ITAL 300",
+   "rawHours": "9",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into ITAL 300"
+  },
+  {
+   "id": "unc-japanese-all-3",
+   "university": "unc",
+   "exams": [
+    "japanese"
+   ],
+   "examMode": "all",
+   "rawExam": "Japanese",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Japanese General Elective",
+     "rawCode": "Japanese General Elective",
+     "generic": {
+      "subject": "JAPN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Japanese General Elective *",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "see-footnote"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Students who wish to continue Chinese, German, or Japanese at UNC must take a departmental placement exam."
+  },
+  {
+   "id": "unc-japanese-all-4",
+   "university": "unc",
+   "exams": [
+    "japanese"
+   ],
+   "examMode": "all",
+   "rawExam": "Japanese",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "JAPN 203",
+     "rawCode": "JAPN 203",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "JAPN 203 *",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "see-footnote"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Students who wish to continue Chinese, German, or Japanese at UNC must take a departmental placement exam."
+  },
+  {
+   "id": "unc-latin-all-3",
+   "university": "unc",
+   "exams": [
+    "latin"
+   ],
+   "examMode": "all",
+   "rawExam": "Latin",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Latin General Elective",
+     "rawCode": "Latin General Elective",
+     "generic": {
+      "subject": "LATN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Latin General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-latin-all-4",
+   "university": "unc",
+   "exams": [
+    "latin"
+   ],
+   "examMode": "all",
+   "rawExam": "Latin",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "LATN 203",
+     "rawCode": "LATN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "LATN 203",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-latin-all-5",
+   "university": "unc",
+   "exams": [
+    "latin"
+   ],
+   "examMode": "all",
+   "rawExam": "Latin",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "LATN 203",
+     "rawCode": "LATN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "LATN 204",
+     "rawCode": "LATN 204",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "LATN 203, LATN 204",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-music-theory-all-3",
+   "university": "unc",
+   "exams": [
+    "music-theory"
+   ],
+   "examMode": "all",
+   "rawExam": "Music Theory",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MUSC 121",
+     "rawCode": "MUSC 121",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MUSC 121",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-music-theory-all-5",
+   "university": "unc",
+   "exams": [
+    "music-theory"
+   ],
+   "examMode": "all",
+   "rawExam": "Music Theory",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "MUSC 121",
+     "rawCode": "MUSC 121",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MUSC 130",
+     "rawCode": "MUSC 130",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MUSC 131",
+     "rawCode": "MUSC 131",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MUSC 121, MUSC 130, MUSC 131",
+   "rawHours": "7",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-1-all-3",
+   "university": "unc",
+   "exams": [
+    "physics-1"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 1",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Physics General Elective",
+     "rawCode": "Physics General Elective",
+     "generic": {
+      "subject": "PHYS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Physics General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-1-all-4",
+   "university": "unc",
+   "exams": [
+    "physics-1"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 1",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PHYS 114",
+     "rawCode": "PHYS 114",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PHYS 114",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-2-all-3",
+   "university": "unc",
+   "exams": [
+    "physics-2"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 2",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Physics General Elective",
+     "rawCode": "Physics General Elective",
+     "generic": {
+      "subject": "PHYS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Physics General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-2-all-4",
+   "university": "unc",
+   "exams": [
+    "physics-2"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 2",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PHYS 115",
+     "rawCode": "PHYS 115",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PHYS 115",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-b-all-3",
+   "university": "unc",
+   "exams": [
+    "physics-b"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics B",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Physics General Elective",
+     "rawCode": "Physics General Elective",
+     "generic": {
+      "subject": "PHYS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Physics General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-b-all-5",
+   "university": "unc",
+   "exams": [
+    "physics-b"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics B",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "PHYS 114",
+     "rawCode": "PHYS 114",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "PHYS 115",
+     "rawCode": "PHYS 115",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PHYS 114, PHYS 115",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-c-em-all-3",
+   "university": "unc",
+   "exams": [
+    "physics-c-em"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C E&M",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Physics General Elective",
+     "rawCode": "Physics General Elective",
+     "generic": {
+      "subject": "PHYS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Physics General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-c-em-all-4",
+   "university": "unc",
+   "exams": [
+    "physics-c-em"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C E&M",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PHYS 115",
+     "rawCode": "PHYS 115",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PHYS 115",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-c-mechanics-all-3",
+   "university": "unc",
+   "exams": [
+    "physics-c-mechanics"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C Meachnics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Physics General Elective",
+     "rawCode": "Physics General Elective",
+     "generic": {
+      "subject": "PHYS",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Physics General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "typo-suspect"
+   ],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-physics-c-mechanics-all-4",
+   "university": "unc",
+   "exams": [
+    "physics-c-mechanics"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C Mechanics",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PHYS 114",
+     "rawCode": "PHYS 114",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PHYS 114",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-precalculus-all-3",
+   "university": "unc",
+   "exams": [
+    "precalculus"
+   ],
+   "examMode": "all",
+   "rawExam": "Pre-Calculus",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MATH 110P",
+     "rawCode": "MATH 110P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MATH 129P",
+     "rawCode": "MATH 129P",
+     "generic": null,
+     "hours": 0,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MATH 110P, MATH 129P",
+   "rawHours": "0",
+   "awardMode": "all",
+   "placementOnly": true,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-psychology-all-3",
+   "university": "unc",
+   "exams": [
+    "psychology"
+   ],
+   "examMode": "all",
+   "rawExam": "Psychology",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Psychology General Elective",
+     "rawCode": "Psychology General Elective",
+     "generic": {
+      "subject": "PSYC",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Psychology General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-psychology-all-4",
+   "university": "unc",
+   "exams": [
+    "psychology"
+   ],
+   "examMode": "all",
+   "rawExam": "Psychology",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PSYC 101",
+     "rawCode": "PSYC 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PSYC 101",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-spanish-language-all-3",
+   "university": "unc",
+   "exams": [
+    "spanish-language"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Language and Culture",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Spanish General Elective",
+     "rawCode": "Spanish General Elective",
+     "generic": {
+      "subject": "SPAN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Spanish General Elective and placement into SPAN 203",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into SPAN 203"
+  },
+  {
+   "id": "unc-spanish-language-all-4",
+   "university": "unc",
+   "exams": [
+    "spanish-language"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Language and Culture",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "Spanish General Elective",
+     "rawCode": "Spanish General Elective",
+     "generic": {
+      "subject": "SPAN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 203",
+     "rawCode": "SPAN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Spanish General Elective, SPAN 203, and placement into SPAN 204",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into SPAN 204"
+  },
+  {
+   "id": "unc-spanish-language-all-5",
+   "university": "unc",
+   "exams": [
+    "spanish-language"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Language and Culture",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "Spanish General Elective",
+     "rawCode": "Spanish General Elective",
+     "generic": {
+      "subject": "SPAN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 203",
+     "rawCode": "SPAN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 204",
+     "rawCode": "SPAN 204",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Spanish General Elective, SPAN 203, SPAN 204, and placement into SPAN 261",
+   "rawHours": "9",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into SPAN 261"
+  },
+  {
+   "id": "unc-spanish-literature-all-3",
+   "university": "unc",
+   "exams": [
+    "spanish-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Literature and Culture",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Spanish General Elective",
+     "rawCode": "Spanish General Elective",
+     "generic": {
+      "subject": "SPAN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Spanish General Elective and placement into SPAN 203",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into SPAN 203"
+  },
+  {
+   "id": "unc-spanish-literature-all-4",
+   "university": "unc",
+   "exams": [
+    "spanish-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Literature and Culture",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "Spanish General Elective",
+     "rawCode": "Spanish General Elective",
+     "generic": {
+      "subject": "SPAN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 203",
+     "rawCode": "SPAN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Spanish General Elective, SPAN 203, and placement into SPAN 204",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   },
+   "note": "Placement into SPAN 204"
+  },
+  {
+   "id": "unc-spanish-literature-all-5",
+   "university": "unc",
+   "exams": [
+    "spanish-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Literature and Culture",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "Spanish General Elective",
+     "rawCode": "Spanish General Elective",
+     "generic": {
+      "subject": "SPAN",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 203",
+     "rawCode": "SPAN 203",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 204",
+     "rawCode": "SPAN 204",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "SPAN 261",
+     "rawCode": "SPAN 261",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Spanish General Elective, SPAN 203, SPAN 204, SPAN 261",
+   "rawHours": "12",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-statistics-all-3",
+   "university": "unc",
+   "exams": [
+    "statistics"
+   ],
+   "examMode": "all",
+   "rawExam": "Statistics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "STOR 151",
+     "rawCode": "STOR 151",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "STOR 151",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-statistics-all-4",
+   "university": "unc",
+   "exams": [
+    "statistics"
+   ],
+   "examMode": "all",
+   "rawExam": "Statistics",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "STOR 155",
+     "rawCode": "STOR 155",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "STOR 155",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-us-government-all-3",
+   "university": "unc",
+   "exams": [
+    "us-government"
+   ],
+   "examMode": "all",
+   "rawExam": "US Government and Politics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Political Science General Elective",
+     "rawCode": "Political Science General Elective",
+     "generic": {
+      "subject": "POLI",
+      "level": null,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Political Science General Elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-us-government-all-4",
+   "university": "unc",
+   "exams": [
+    "us-government"
+   ],
+   "examMode": "all",
+   "rawExam": "US Government and Politics",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "POLI 100",
+     "rawCode": "POLI 100",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "POLI 100",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-us-history-all-3",
+   "university": "unc",
+   "exams": [
+    "us-history"
+   ],
+   "examMode": "all",
+   "rawExam": "US History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HIST 102",
+     "rawCode": "HIST 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HIST 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "unc-world-history-all-3",
+   "university": "unc",
+   "exams": [
+    "world-history"
+   ],
+   "examMode": "all",
+   "rawExam": "World History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HIST 103",
+     "rawCode": "HIST 103",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HIST 103",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://catalog.unc.edu/policies-procedures/credit-evaluation/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-african-american-studies-all-3",
+   "university": "ncsu",
+   "exams": [
+    "african-american-studies"
+   ],
+   "examMode": "all",
+   "rawExam": "African American Studies",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "AFS 2GEP",
+     "rawCode": "AFS 200-level GEP",
+     "generic": {
+      "subject": "AFS",
+      "level": 200,
+      "gep": true
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "AFS 200-level GEP",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-african-american-studies-all-5",
+   "university": "ncsu",
+   "exams": [
+    "african-american-studies"
+   ],
+   "examMode": "all",
+   "rawExam": "African American Studies",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "AFS 241",
+     "rawCode": "AFS 241",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "AFS 241",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-art-drawing-all-3",
+   "university": "ncsu",
+   "exams": [
+    "art-drawing"
+   ],
+   "examMode": "all",
+   "rawExam": "Art: Studio Art – Drawing Portfolio",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ADN 1**",
+     "rawCode": "ADN 100-level elective",
+     "generic": {
+      "subject": "ADN",
+      "level": 100,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ADN 100-level elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-art-2d-all-3",
+   "university": "ncsu",
+   "exams": [
+    "art-2d"
+   ],
+   "examMode": "all",
+   "rawExam": "Art: Studio Art: 2-D Design",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ADN 111",
+     "rawCode": "ADN 111",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ADN 111",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-art-3d-all-3",
+   "university": "ncsu",
+   "exams": [
+    "art-3d"
+   ],
+   "examMode": "all",
+   "rawExam": "Art: Studio Art: 3-D Design",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ADN 112",
+     "rawCode": "ADN 112",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ADN 112",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-biology-all-3",
+   "university": "ncsu",
+   "exams": [
+    "biology"
+   ],
+   "examMode": "all",
+   "rawExam": "Biology",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "BIO 105",
+     "rawCode": "BIO 105",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "BIO 106",
+     "rawCode": "BIO 106",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "BIO 105 and BIO 106",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-biology-all-4",
+   "university": "ncsu",
+   "exams": [
+    "biology"
+   ],
+   "examMode": "all",
+   "rawExam": "Biology",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "BIO 181",
+     "rawCode": "BIO 181",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "BIO 183",
+     "rawCode": "BIO 183",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "BIO 181, BIO 181 Lab, BIO 183 and BIO 183 Lab",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "lab-listed-separately"
+   ],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-chemistry-all-3",
+   "university": "ncsu",
+   "exams": [
+    "chemistry"
+   ],
+   "examMode": "all",
+   "rawExam": "Chemistry",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "CH 101",
+     "rawCode": "CH 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CH 102",
+     "rawCode": "CH 102",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CH 101 and CH 102",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-chemistry-all-4",
+   "university": "ncsu",
+   "exams": [
+    "chemistry"
+   ],
+   "examMode": "all",
+   "rawExam": "Chemistry",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "CH 101",
+     "rawCode": "CH 101",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CH 102",
+     "rawCode": "CH 102",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CH 201",
+     "rawCode": "CH 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "CH 202",
+     "rawCode": "CH 202",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CH 101, CH 102, CH 201 and CH 202",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-chinese-all-3",
+   "university": "ncsu",
+   "exams": [
+    "chinese"
+   ],
+   "examMode": "all",
+   "rawExam": "Chinese",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLCH 102",
+     "rawCode": "WLCH 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLCH 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-chinese-all-4",
+   "university": "ncsu",
+   "exams": [
+    "chinese"
+   ],
+   "examMode": "all",
+   "rawExam": "Chinese",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLCH 201",
+     "rawCode": "WLCH 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLCH 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-chinese-all-5",
+   "university": "ncsu",
+   "exams": [
+    "chinese"
+   ],
+   "examMode": "all",
+   "rawExam": "Chinese",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLCH 201",
+     "rawCode": "WLCH 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLCH 202",
+     "rawCode": "WLCH 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLCH 201 and WLCH 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-computer-science-a-all-3",
+   "university": "ncsu",
+   "exams": [
+    "computer-science-a"
+   ],
+   "examMode": "all",
+   "rawExam": "Computer Science A",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "CSC 110",
+     "rawCode": "CSC 110",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CSC 110",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-computer-science-a-all-4",
+   "university": "ncsu",
+   "exams": [
+    "computer-science-a"
+   ],
+   "examMode": "all",
+   "rawExam": "Computer Science A",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "CSC 116",
+     "rawCode": "CSC 116",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CSC 116",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-computer-science-ab-all-3",
+   "university": "ncsu",
+   "exams": [
+    "computer-science-ab"
+   ],
+   "examMode": "all",
+   "rawExam": "Computer Science AB",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "CSC 116",
+     "rawCode": "CSC 116",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CSC 116",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-computer-science-principles-all-3",
+   "university": "ncsu",
+   "exams": [
+    "computer-science-principles"
+   ],
+   "examMode": "all",
+   "rawExam": "Computer Science Principles",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "CSC 110",
+     "rawCode": "CSC 110",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "CSC 110",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-macroeconomics-all-3",
+   "university": "ncsu",
+   "exams": [
+    "macroeconomics"
+   ],
+   "examMode": "all",
+   "rawExam": "Economics: Macroeconomics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "EC 202",
+     "rawCode": "EC 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "EC 202",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-microeconomics-all-3",
+   "university": "ncsu",
+   "exams": [
+    "microeconomics"
+   ],
+   "examMode": "all",
+   "rawExam": "Economics: Microeconomics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "EC 201",
+     "rawCode": "EC 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "EC 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-english-language-all-3",
+   "university": "ncsu",
+   "exams": [
+    "english-language"
+   ],
+   "examMode": "all",
+   "rawExam": "English Language & Composition",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ENG 100",
+     "rawCode": "ENG 100",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ENG 100",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-english-language-all-5",
+   "university": "ncsu",
+   "exams": [
+    "english-language"
+   ],
+   "examMode": "all",
+   "rawExam": "English Language & Composition",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "ENG 101",
+     "rawCode": "ENG 101",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ENG 101",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-english-literature-all-3",
+   "university": "ncsu",
+   "exams": [
+    "english-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "English Literature & Composition",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ENG 208",
+     "rawCode": "ENG 208",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ENG 208",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-environmental-science-all-3",
+   "university": "ncsu",
+   "exams": [
+    "environmental-science"
+   ],
+   "examMode": "all",
+   "rawExam": "Environmental Science",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MEA 100",
+     "rawCode": "MEA 100",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MEA 100",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-environmental-science-all-4",
+   "university": "ncsu",
+   "exams": [
+    "environmental-science"
+   ],
+   "examMode": "all",
+   "rawExam": "Environmental Science",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "ES 100",
+     "rawCode": "ES 100",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MEA 100",
+     "rawCode": "MEA 100",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ES 100 or MEA 100, depending on major",
+   "rawHours": "3 for ES 100 or 4 for MEA 100",
+   "awardMode": "one-of",
+   "placementOnly": false,
+   "flags": [
+    "hours-not-a-number"
+   ],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-european-history-all-3",
+   "university": "ncsu",
+   "exams": [
+    "european-history"
+   ],
+   "examMode": "all",
+   "rawExam": "European History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HI 209",
+     "rawCode": "HI 209",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HI 209",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-european-history-all-5",
+   "university": "ncsu",
+   "exams": [
+    "european-history"
+   ],
+   "examMode": "all",
+   "rawExam": "European History",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "HI 209",
+     "rawCode": "HI 209",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "HI 210",
+     "rawCode": "HI 210",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HI 209 and HI 210",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-french-language-all-3",
+   "university": "ncsu",
+   "exams": [
+    "french-language"
+   ],
+   "examMode": "all",
+   "rawExam": "French Language",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLFR 102",
+     "rawCode": "WLFR 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLFR 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-french-language-all-4",
+   "university": "ncsu",
+   "exams": [
+    "french-language"
+   ],
+   "examMode": "all",
+   "rawExam": "French Language",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLFR 201",
+     "rawCode": "WLFR 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLFR 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-french-language-all-5",
+   "university": "ncsu",
+   "exams": [
+    "french-language"
+   ],
+   "examMode": "all",
+   "rawExam": "French Language",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLFR 201",
+     "rawCode": "WLFR 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLFR 202",
+     "rawCode": "WLFR 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLFR 201 and WLFR 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-french-literature-all-3",
+   "university": "ncsu",
+   "exams": [
+    "french-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "French Literature",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLFR 102",
+     "rawCode": "WLFR 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLFR 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-french-literature-all-4",
+   "university": "ncsu",
+   "exams": [
+    "french-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "French Literature",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLFR 201",
+     "rawCode": "WLFR 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLFR 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-french-literature-all-5",
+   "university": "ncsu",
+   "exams": [
+    "french-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "French Literature",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLFR 201",
+     "rawCode": "WLFR 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLFR 202",
+     "rawCode": "WLFR 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLFR 201 and WLFR 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-german-all-3",
+   "university": "ncsu",
+   "exams": [
+    "german"
+   ],
+   "examMode": "all",
+   "rawExam": "German Language",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLGE 102",
+     "rawCode": "WLGE 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLGE 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-german-all-4",
+   "university": "ncsu",
+   "exams": [
+    "german"
+   ],
+   "examMode": "all",
+   "rawExam": "German Language",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLGE 201",
+     "rawCode": "WLGE 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLGE 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-german-all-5",
+   "university": "ncsu",
+   "exams": [
+    "german"
+   ],
+   "examMode": "all",
+   "rawExam": "German Language",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLGE 201",
+     "rawCode": "WLGE 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLGE 202",
+     "rawCode": "WLGE 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLGE 201 and WLGE 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-comparative-government-all-3",
+   "university": "ncsu",
+   "exams": [
+    "comparative-government"
+   ],
+   "examMode": "all",
+   "rawExam": "Government & Politics: Comparative",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PS 2**",
+     "rawCode": "PS 200-level elective",
+     "generic": {
+      "subject": "PS",
+      "level": 200,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PS 200-level elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-comparative-government-all-4",
+   "university": "ncsu",
+   "exams": [
+    "comparative-government"
+   ],
+   "examMode": "all",
+   "rawExam": "Government & Politics: Comparative",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PS 241",
+     "rawCode": "PS 241",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PS 241",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-us-government-all-3",
+   "university": "ncsu",
+   "exams": [
+    "us-government"
+   ],
+   "examMode": "all",
+   "rawExam": "Government & Politics: United States",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PS 2**",
+     "rawCode": "PS 200-level elective",
+     "generic": {
+      "subject": "PS",
+      "level": 200,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PS 200-level elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-us-government-all-4",
+   "university": "ncsu",
+   "exams": [
+    "us-government"
+   ],
+   "examMode": "all",
+   "rawExam": "Government & Politics: United States",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PS 201",
+     "rawCode": "PS 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PS 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-art-history-all-3",
+   "university": "ncsu",
+   "exams": [
+    "art-history"
+   ],
+   "examMode": "all",
+   "rawExam": "History of Art",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HA 2**",
+     "rawCode": "HA 200-level elective",
+     "generic": {
+      "subject": "HA",
+      "level": 200,
+      "gep": false
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HA 200-level elective",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-human-geography-all-3",
+   "university": "ncsu",
+   "exams": [
+    "human-geography"
+   ],
+   "examMode": "all",
+   "rawExam": "Human Geography",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "Social Sciences 200-level GEP",
+     "rawCode": "Social Sciences 200-level GEP",
+     "generic": {
+      "subject": "",
+      "level": 200,
+      "gep": true
+     },
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "Social Sciences 200-level GEP",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-japanese-all-3",
+   "university": "ncsu",
+   "exams": [
+    "japanese"
+   ],
+   "examMode": "all",
+   "rawExam": "Japanese Language & Culture",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLJA 102",
+     "rawCode": "WLJA 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLJA 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-japanese-all-4",
+   "university": "ncsu",
+   "exams": [
+    "japanese"
+   ],
+   "examMode": "all",
+   "rawExam": "Japanese Language & Culture",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLJA 201",
+     "rawCode": "WLJA 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLJA 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-japanese-all-5",
+   "university": "ncsu",
+   "exams": [
+    "japanese"
+   ],
+   "examMode": "all",
+   "rawExam": "Japanese Language & Culture",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLJA 201",
+     "rawCode": "WLJA 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLJA 202",
+     "rawCode": "WLJA 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLJA 201 and WLJA 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-latin-all-3",
+   "university": "ncsu",
+   "exams": [
+    "latin"
+   ],
+   "examMode": "all",
+   "rawExam": "Latin",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "LAT 102",
+     "rawCode": "LAT 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "LAT 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-latin-all-4",
+   "university": "ncsu",
+   "exams": [
+    "latin"
+   ],
+   "examMode": "all",
+   "rawExam": "Latin",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "LAT 201",
+     "rawCode": "LAT 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "LAT 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-latin-all-5",
+   "university": "ncsu",
+   "exams": [
+    "latin"
+   ],
+   "examMode": "all",
+   "rawExam": "Latin",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "LAT 201",
+     "rawCode": "LAT 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "LAT 202",
+     "rawCode": "LAT 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "LAT 201 and LAT 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-calculus-ab-all-3",
+   "university": "ncsu",
+   "exams": [
+    "calculus-ab"
+   ],
+   "examMode": "all",
+   "rawExam": "Math: Calculus AB",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MA 121",
+     "rawCode": "MA 121",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MA 121",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-calculus-ab-all-4",
+   "university": "ncsu",
+   "exams": [
+    "calculus-ab"
+   ],
+   "examMode": "all",
+   "rawExam": "Math: Calculus AB",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "MA 141",
+     "rawCode": "MA 141",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MA 141",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-calculus-bc-all-3",
+   "university": "ncsu",
+   "exams": [
+    "calculus-bc"
+   ],
+   "examMode": "all",
+   "rawExam": "Math: Calculus BC",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MA 141",
+     "rawCode": "MA 141",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MA 141",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-calculus-bc-all-4",
+   "university": "ncsu",
+   "exams": [
+    "calculus-bc"
+   ],
+   "examMode": "all",
+   "rawExam": "Math: Calculus BC",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "MA 141",
+     "rawCode": "MA 141",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "MA 241",
+     "rawCode": "MA 241",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MA 141 and MA 241",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-music-theory-all-3",
+   "university": "ncsu",
+   "exams": [
+    "music-theory"
+   ],
+   "examMode": "all",
+   "rawExam": "Music Theory",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MUS 120",
+     "rawCode": "MUS 120",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MUS 120",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-music-theory-aural-all-4",
+   "university": "ncsu",
+   "exams": [
+    "music-theory-aural"
+   ],
+   "examMode": "all",
+   "rawExam": "Music Theory: Aural Sub-Score",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "MUS 104",
+     "rawCode": "MUS 104",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MUS 104",
+   "rawHours": "1",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-music-theory-nonaural-all-4",
+   "university": "ncsu",
+   "exams": [
+    "music-theory-nonaural"
+   ],
+   "examMode": "all",
+   "rawExam": "Music Theory: Non-Aural Sub-Score",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "MUS 103",
+     "rawCode": "MUS 103",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MUS 103",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-1-all-3",
+   "university": "ncsu",
+   "exams": [
+    "physics-1"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 1",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PY 131",
+     "rawCode": "PY 131",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 131",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-1-all-4",
+   "university": "ncsu",
+   "exams": [
+    "physics-1"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 1",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PY 211",
+     "rawCode": "PY 211",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 211",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-2-all-3",
+   "university": "ncsu",
+   "exams": [
+    "physics-2"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 2",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PY 131",
+     "rawCode": "PY 131",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 131",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-2-all-4",
+   "university": "ncsu",
+   "exams": [
+    "physics-2"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics 2",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PY 212",
+     "rawCode": "PY 212",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 212",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-b-all-3",
+   "university": "ncsu",
+   "exams": [
+    "physics-b"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics B",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PY 131",
+     "rawCode": "PY 131",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 131",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-b-all-4",
+   "university": "ncsu",
+   "exams": [
+    "physics-b"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics B",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PY 211",
+     "rawCode": "PY 211",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "PY 212",
+     "rawCode": "PY 212",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 211 and PY 212",
+   "rawHours": "8",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-c-em-all-3",
+   "university": "ncsu",
+   "exams": [
+    "physics-c-em"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C: Electricity & Magnetism",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PY 131",
+     "rawCode": "PY 131",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 131",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-c-em-all-4",
+   "university": "ncsu",
+   "exams": [
+    "physics-c-em"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C: Electricity & Magnetism",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PY 208",
+     "rawCode": "PY 208",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "PY 209",
+     "rawCode": "PY 209",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 208 and PY 209",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "hours-mismatch"
+   ],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-c-mechanics-all-3",
+   "university": "ncsu",
+   "exams": [
+    "physics-c-mechanics"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C: Mechanics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PY 131",
+     "rawCode": "PY 131",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 131",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-physics-c-mechanics-all-4",
+   "university": "ncsu",
+   "exams": [
+    "physics-c-mechanics"
+   ],
+   "examMode": "all",
+   "rawExam": "Physics C: Mechanics",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "PY 205",
+     "rawCode": "PY 205",
+     "generic": null,
+     "hours": 4,
+     "hoursEstimated": false
+    },
+    {
+     "code": "PY 206",
+     "rawCode": "PY 206",
+     "generic": null,
+     "hours": 1,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PY 205 and PY 206",
+   "rawHours": "4",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [
+    "hours-mismatch"
+   ],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-precalculus-all-3",
+   "university": "ncsu",
+   "exams": [
+    "precalculus"
+   ],
+   "examMode": "all",
+   "rawExam": "Precalculus",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "MA 111",
+     "rawCode": "MA 111",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "MA 111",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-psychology-all-3",
+   "university": "ncsu",
+   "exams": [
+    "psychology"
+   ],
+   "examMode": "all",
+   "rawExam": "Psychology",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "PSY 200",
+     "rawCode": "PSY 200",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "PSY 200",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-spanish-language-all-3",
+   "university": "ncsu",
+   "exams": [
+    "spanish-language"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Language",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLSP 102",
+     "rawCode": "WLSP 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLSP 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-spanish-language-all-4",
+   "university": "ncsu",
+   "exams": [
+    "spanish-language"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Language",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLSP 201",
+     "rawCode": "WLSP 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLSP 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-spanish-language-all-5",
+   "university": "ncsu",
+   "exams": [
+    "spanish-language"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Language",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLSP 201",
+     "rawCode": "WLSP 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLSP 202",
+     "rawCode": "WLSP 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLSP 201 and WLSP 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-spanish-literature-all-3",
+   "university": "ncsu",
+   "exams": [
+    "spanish-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Literature",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "WLSP 102",
+     "rawCode": "WLSP 102",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLSP 102",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-spanish-literature-all-4",
+   "university": "ncsu",
+   "exams": [
+    "spanish-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Literature",
+   "minScore": 4,
+   "awards": [
+    {
+     "code": "WLSP 201",
+     "rawCode": "WLSP 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLSP 201",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-spanish-literature-all-5",
+   "university": "ncsu",
+   "exams": [
+    "spanish-literature"
+   ],
+   "examMode": "all",
+   "rawExam": "Spanish Literature",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "WLSP 201",
+     "rawCode": "WLSP 201",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "WLSP 202",
+     "rawCode": "WLSP 202",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "WLSP 201 and WLSP 202",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-statistics-all-3",
+   "university": "ncsu",
+   "exams": [
+    "statistics"
+   ],
+   "examMode": "all",
+   "rawExam": "Statistics",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "ST 311",
+     "rawCode": "ST 311",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "ST 311",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-us-history-all-3",
+   "university": "ncsu",
+   "exams": [
+    "us-history"
+   ],
+   "examMode": "all",
+   "rawExam": "US History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HI 253",
+     "rawCode": "HI 253",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HI 253",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-us-history-all-5",
+   "university": "ncsu",
+   "exams": [
+    "us-history"
+   ],
+   "examMode": "all",
+   "rawExam": "US History",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "HI 253",
+     "rawCode": "HI 253",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "HI 254",
+     "rawCode": "HI 254",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HI 253 and HI 254",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-world-history-all-3",
+   "university": "ncsu",
+   "exams": [
+    "world-history"
+   ],
+   "examMode": "all",
+   "rawExam": "World History",
+   "minScore": 3,
+   "awards": [
+    {
+     "code": "HI 233",
+     "rawCode": "HI 233",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HI 233",
+   "rawHours": "3",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  },
+  {
+   "id": "ncsu-world-history-all-5",
+   "university": "ncsu",
+   "exams": [
+    "world-history"
+   ],
+   "examMode": "all",
+   "rawExam": "World History",
+   "minScore": 5,
+   "awards": [
+    {
+     "code": "HI 232",
+     "rawCode": "HI 232",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    },
+    {
+     "code": "HI 233",
+     "rawCode": "HI 233",
+     "generic": null,
+     "hours": 3,
+     "hoursEstimated": false
+    }
+   ],
+   "rawCredit": "HI 232 and HI 233",
+   "rawHours": "6",
+   "awardMode": "all",
+   "placementOnly": false,
+   "flags": [],
+   "source": {
+    "url": "https://admissions.ncsu.edu/apply/credit-opportunities/advanced-placement-ap/",
+    "fetchedAt": "2026-11-09"
+   }
+  }
+ ]
+}

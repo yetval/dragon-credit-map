@@ -1,0 +1,729 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-art-design-bachelor",
+ "university": "ncsu",
+ "name": "Media Arts, Design and Technology",
+ "degree": "Bachelor",
+ "url": "https://catalog.ncsu.edu/undergraduate/design/art-design/art-design-bachelor/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-art-design-bachelor-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advanced Writing",
+     "options": [
+      [
+       "ENG 287"
+      ],
+      [
+       "ENG 281"
+      ],
+      [
+       "ENG 288"
+      ],
+      [
+       "ENG 292"
+      ],
+      [
+       "ENG 316"
+      ],
+      [
+       "ENG 323"
+      ],
+      [
+       "ENG 325"
+      ],
+      [
+       "ENG 330"
+      ],
+      [
+       "ENG 388"
+      ],
+      [
+       "ENG 492"
+      ],
+      [
+       "ENG 499"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Writing 3",
+     "id": "ncsu-art-design-bachelor-s2"
+    }
+   ]
+  },
+  {
+   "title": "Design Studios",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 100 Design Inquiry I: Methods and Processes 3",
+     "options": [
+      [
+       "D 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "D 100 Design Inquiry I: Methods and Processes 3",
+     "id": "ncsu-art-design-bachelor-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 104 First Year Studio I 6",
+     "options": [
+      [
+       "D 104"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "D 104 First Year Studio I 6",
+     "id": "ncsu-art-design-bachelor-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 105 First Year Studio II 6",
+     "options": [
+      [
+       "D 105"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "D 105 First Year Studio II 6",
+     "id": "ncsu-art-design-bachelor-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 260 Media Arts, Design and Technology Fundamentals Studio 6",
+     "options": [
+      [
+       "ADN 260"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ADN 260 Media Arts, Design and Technology Fundamentals Studio 6",
+     "id": "ncsu-art-design-bachelor-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 280 Media Arts, Design and Technology in Context 6",
+     "options": [
+      [
+       "ADN 280"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ADN 280 Media Arts, Design and Technology in Context 6",
+     "id": "ncsu-art-design-bachelor-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Creative Technology Studio I-IV",
+     "options": [
+      [
+       "ADN 360"
+      ],
+      [
+       "ADN 380"
+      ],
+      [
+       "ADN 460"
+      ],
+      [
+       "ADN 480"
+      ],
+      [
+       "ADN 470"
+      ],
+      [
+       "ADN 490"
+      ],
+      [
+       "GD 201"
+      ],
+      [
+       "GD 202"
+      ],
+      [
+       "ID 201"
+      ],
+      [
+       "LAR 400"
+      ]
+     ],
+     "pick": {
+      "hours": 18
+     },
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Creative Technology Studio I-IV 18",
+     "id": "ncsu-art-design-bachelor-s8"
+    }
+   ]
+  },
+  {
+   "title": "Design Cores",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 219 Digital Imaging I 3",
+     "options": [
+      [
+       "ADN 219"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ADN 219 Digital Imaging I 3",
+     "id": "ncsu-art-design-bachelor-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 281 Drawing I 3",
+     "options": [
+      [
+       "ADN 281"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ADN 281 Drawing I 3",
+     "id": "ncsu-art-design-bachelor-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Digital Media Elective",
+     "options": [
+      [
+       "ADN 220"
+      ],
+      [
+       "ADN 221"
+      ],
+      [
+       "ADN 223"
+      ],
+      [
+       "ADN 224"
+      ],
+      [
+       "ADN 226"
+      ],
+      [
+       "ADN 311"
+      ],
+      [
+       "ADN 319"
+      ],
+      [
+       "ADN 411"
+      ],
+      [
+       "ADN 415"
+      ],
+      [
+       "ADN 419"
+      ],
+      [
+       "ADN 423"
+      ],
+      [
+       "ADN 492"
+      ],
+      [
+       "ADN 592"
+      ],
+      [
+       "ARC 251"
+      ],
+      [
+       "FTM 271"
+      ],
+      [
+       "ID 110"
+      ],
+      [
+       "ID 210"
+      ],
+      [
+       "ID 310"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Digital Media Elective 3",
+     "id": "ncsu-art-design-bachelor-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ADN 481"
+      ],
+      [
+       "ADN 220"
+      ],
+      [
+       "ADN 226"
+      ],
+      [
+       "ADN 411"
+      ],
+      [
+       "ADN 415"
+      ],
+      [
+       "ADN 481"
+      ],
+      [
+       "ADN 492"
+      ],
+      [
+       "ARC 251"
+      ],
+      [
+       "ID 216"
+      ],
+      [
+       "ID 316"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-art-design-bachelor-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Art History or Design History",
+     "options": [
+      [
+       "ADN 475"
+      ],
+      [
+       "ADN 492"
+      ],
+      [
+       "ADN 575"
+      ],
+      [
+       "ARC 141"
+      ],
+      [
+       "ARC 241"
+      ],
+      [
+       "ARC 242"
+      ],
+      [
+       "ARC 441"
+      ],
+      [
+       "ARC 442"
+      ],
+      [
+       "GD 203"
+      ],
+      [
+       "HA 201"
+      ],
+      [
+       "HA 202"
+      ],
+      [
+       "HA 203"
+      ],
+      [
+       "HA 240"
+      ],
+      [
+       "HA 395"
+      ],
+      [
+       "HA 401"
+      ],
+      [
+       "HA 404"
+      ],
+      [
+       "HA 410"
+      ],
+      [
+       "HA 298"
+      ],
+      [
+       "ID 244"
+      ],
+      [
+       "ID 444"
+      ],
+      [
+       "LAR 444"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Art History or Design History 3",
+     "id": "ncsu-art-design-bachelor-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 418 Contemporary Issues in Art and Design 3",
+     "options": [
+      [
+       "ADN 418"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ADN 418 Contemporary Issues in Art and Design 3",
+     "id": "ncsu-art-design-bachelor-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ADN 493 Art and Design Senior Lecture 3",
+     "options": [
+      [
+       "ADN 493"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ADN 493 Art and Design Senior Lecture 3",
+     "id": "ncsu-art-design-bachelor-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Design Advised Core",
+     "options": [
+      [
+       "ADN 223"
+      ],
+      [
+       "ADN 224"
+      ],
+      [
+       "ADN 226"
+      ],
+      [
+       "ADN 273"
+      ],
+      [
+       "ADN 276"
+      ],
+      [
+       "ADN 319"
+      ],
+      [
+       "ADN 414"
+      ],
+      [
+       "ADN 423"
+      ]
+     ],
+     "pick": {
+      "hours": 15
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Design Advised Core 15",
+     "id": "ncsu-art-design-bachelor-s16"
+    }
+   ]
+  },
+  {
+   "title": "International Experience",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "International Experience (S Allowed Verify Requirement)",
+     "options": [],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "International Experience (S Allowed Verify Requirement) 0",
+     "id": "ncsu-art-design-bachelor-s17"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-art-design-bachelor-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-art-design-bachelor-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Mathematical Sciences 6",
+     "id": "ncsu-art-design-bachelor-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-art-design-bachelor-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-art-design-bachelor-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-art-design-bachelor-s23"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives (Covered in Requirments)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": null,
+     "raw": "GEP Interdisciplinary Perspectives (Covered in Requirments)",
+     "id": "ncsu-art-design-bachelor-s24"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-art-design-bachelor-s25"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-art-design-bachelor-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-art-design-bachelor-s27"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 2",
+     "id": "ncsu-art-design-bachelor-s28"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Sophomore Studio V-VIII\" has a row that is not a course and was not read: \"Select a maximum of 6 units:\"",
+  "Codes in choice lists not found in the course catalog: ADN 419, ID 444"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/design/art-design/art-design-bachelor/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Design"
+}

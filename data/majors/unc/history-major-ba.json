@@ -1,0 +1,254 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-history-major-ba",
+ "university": "unc",
+ "name": "History",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/history-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "A total of 10 HIST courses",
+     "options": [],
+     "hours": null,
+     "raw": "A total of 10 HIST courses",
+     "id": "unc-history-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four to six courses in a field of concentration (geographical or thematic). See lists below.",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 18
+     },
+     "raw": "Four to six courses in a field of concentration (geographical or thematic). See lists below. 12-18",
+     "id": "unc-history-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four to six courses outside the field of concentration",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 18
+     },
+     "raw": "Four to six courses outside the field of concentration 12-18",
+     "id": "unc-history-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HIST 398 Undergraduate Seminar in History (This seminar can be in the field of concentration or outside it.) 3",
+     "options": [
+      [
+       "HIST 398"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HIST 398 Undergraduate Seminar in History (This seminar can be in the field of concentration or outside it.) 3",
+     "id": "unc-history-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One course in Latin America or Africa, Asia, and Middle East history",
+     "options": [
+      [
+       "HIST 52"
+      ],
+      [
+       "HIST 62"
+      ],
+      [
+       "HIST 63"
+      ],
+      [
+       "HIST 74"
+      ],
+      [
+       "HIST 83"
+      ],
+      [
+       "HIST 130"
+      ],
+      [
+       "HIST 131"
+      ],
+      [
+       "HIST 133"
+      ],
+      [
+       "HIST 134"
+      ],
+      [
+       "HIST 135"
+      ],
+      [
+       "HIST 136"
+      ],
+      [
+       "HIST 137"
+      ],
+      [
+       "HIST 138"
+      ],
+      [
+       "HIST 139"
+      ],
+      [
+       "HIST 163"
+      ],
+      [
+       "HIST 166"
+      ],
+      [
+       "HIST 174H"
+      ],
+      [
+       "HIST 203"
+      ],
+      [
+       "HIST 243"
+      ],
+      [
+       "HIST 271"
+      ],
+      [
+       "HIST 272"
+      ],
+      [
+       "HIST 274"
+      ],
+      [
+       "HIST 276"
+      ],
+      [
+       "HIST 277"
+      ],
+      [
+       "HIST 278"
+      ],
+      [
+       "HIST 279"
+      ],
+      [
+       "HIST 281"
+      ],
+      [
+       "HIST 282"
+      ],
+      [
+       "HIST 284"
+      ],
+      [
+       "HIST 285"
+      ],
+      [
+       "HIST 288"
+      ],
+      [
+       "HIST 312"
+      ],
+      [
+       "HIST 331"
+      ],
+      [
+       "HIST 340"
+      ],
+      [
+       "HIST 440"
+      ],
+      [
+       "HIST 442"
+      ],
+      [
+       "HIST 483"
+      ],
+      [
+       "HIST 484"
+      ],
+      [
+       "HIST 511"
+      ],
+      [
+       "HIST 534"
+      ],
+      [
+       "HIST 535"
+      ],
+      [
+       "HIST 536"
+      ],
+      [
+       "HIST 537"
+      ],
+      [
+       "HIST 538"
+      ],
+      [
+       "HIST 539"
+      ],
+      [
+       "HIST 550"
+      ],
+      [
+       "HIST 557"
+      ],
+      [
+       "HIST 570"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in Latin America or Africa, Asia, and Middle East history 3",
+     "id": "unc-history-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "At least six courses numbered 200 or above",
+     "options": [],
+     "hours": null,
+     "raw": "At least six courses numbered 200 or above",
+     "id": "unc-history-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Row points to a list that could not be linked: \"Four to six courses in a field of concentration (geographical or thematic). See lists below.\""
+ ],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"At least six courses numbered 200 or above\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/history-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

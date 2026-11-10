@@ -1,0 +1,856 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-neuroscience-major-bs",
+ "university": "unc",
+ "name": "Neuroscience",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/neuroscience-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 78,
+  "max": 79
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NSCI 175 Introduction to Neuroscience (with a grade of C or better) 3",
+     "options": [
+      [
+       "NSCI 175"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NSCI 175 Introduction to Neuroscience (with a grade of C or better) 3",
+     "id": "unc-neuroscience-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one statistics course:",
+     "options": [
+      [
+       "PSYC 210"
+      ],
+      [
+       "STOR 120"
+      ],
+      [
+       "STOR 155"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "Select one statistics course: 3-4",
+     "id": "unc-neuroscience-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one research methods course (Neuroscience research method courses NSCI 27* should be prioritized over PSYC 270):",
+     "options": [
+      [
+       "NSCI 270"
+      ],
+      [
+       "NSCI 271"
+      ],
+      [
+       "NSCI 272"
+      ],
+      [
+       "NSCI 273"
+      ],
+      [
+       "NSCI 274"
+      ],
+      [
+       "NSCI 275"
+      ],
+      [
+       "NSCI 277"
+      ],
+      [
+       "NSCI 278"
+      ],
+      [
+       "NSCI 279"
+      ],
+      [
+       "PSYC 270"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one research methods course (Neuroscience research method courses NSCI 27* should be prioritized over PSYC 270): 3",
+     "id": "unc-neuroscience-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two courses:",
+     "options": [
+      [
+       "NSCI 221"
+      ],
+      [
+       "NSCI 222"
+      ],
+      [
+       "NSCI 225"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two courses: 6",
+     "id": "unc-neuroscience-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Knowledge Electives (select at least six credit hours from list below)",
+     "options": [
+      [
+       "BIOL 205"
+      ],
+      [
+       "BIOL 240"
+      ],
+      [
+       "BIOL 425"
+      ],
+      [
+       "BIOL 431"
+      ],
+      [
+       "BIOL 433"
+      ],
+      [
+       "BIOL 440"
+      ],
+      [
+       "BIOL 450"
+      ],
+      [
+       "BIOL 453"
+      ],
+      [
+       "BIOL 455"
+      ],
+      [
+       "BIOL 523"
+      ],
+      [
+       "BIOL 542"
+      ],
+      [
+       "BIOL 544L"
+      ],
+      [
+       "BIOL 545"
+      ],
+      [
+       "BIOL 547"
+      ],
+      [
+       "BIOL 552"
+      ],
+      [
+       "BIOL 635"
+      ],
+      [
+       "CHEM 430"
+      ],
+      [
+       "COMP 210"
+      ],
+      [
+       "COMP 211"
+      ],
+      [
+       "COMP 301"
+      ],
+      [
+       "COMP 311"
+      ],
+      [
+       "COMP 555"
+      ],
+      [
+       "COMP 560"
+      ],
+      [
+       "COMP 562"
+      ],
+      [
+       "COMP 576"
+      ],
+      [
+       "COMP 581"
+      ],
+      [
+       "COMP 631"
+      ],
+      [
+       "COMP 633"
+      ],
+      [
+       "COMP 651"
+      ],
+      [
+       "EXSS 155"
+      ],
+      [
+       "EXSS 175"
+      ],
+      [
+       "EXSS 256"
+      ],
+      [
+       "EXSS 275L"
+      ],
+      [
+       "EXSS 276"
+      ],
+      [
+       "EXSS 380"
+      ],
+      [
+       "EXSS 580"
+      ],
+      [
+       "EXSS 581"
+      ],
+      [
+       "NDSS 401"
+      ],
+      [
+       "NDSS 420"
+      ],
+      [
+       "PHYS 405"
+      ],
+      [
+       "PHYS 461"
+      ],
+      [
+       "PSYC 245"
+      ],
+      [
+       "PSYC 404"
+      ],
+      [
+       "PSYC 469"
+      ],
+      [
+       "PSYC 517"
+      ],
+      [
+       "PSYC 559"
+      ],
+      [
+       "PSYC 602"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Knowledge Electives (select at least six credit hours from list below) 6",
+     "id": "unc-neuroscience-major-bs-s5",
+     "wildcards": [
+      {
+       "subjects": [
+        "NSCI"
+       ],
+       "minLevel": 300,
+       "maxLevel": 699
+      }
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Mathematics, Methods, Statistics Electives (select at least six credit hours from list below)",
+     "options": [
+      [
+       "APPL 101"
+      ],
+      [
+       "APPL 240"
+      ],
+      [
+       "APPL 430"
+      ],
+      [
+       "BIOL 224H"
+      ],
+      [
+       "BIOL 224L"
+      ],
+      [
+       "BIOL 226"
+      ],
+      [
+       "BIOL 226L"
+      ],
+      [
+       "BIOL 553"
+      ],
+      [
+       "BIOL 554"
+      ],
+      [
+       "BMME 207"
+      ],
+      [
+       "BMME 301"
+      ],
+      [
+       "BMME 550"
+      ],
+      [
+       "COMP 283"
+      ],
+      [
+       "MATH 210"
+      ],
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 235"
+      ],
+      [
+       "STOR 235"
+      ],
+      [
+       "MATH 347"
+      ],
+      [
+       "MATH 381"
+      ],
+      [
+       "MATH 383"
+      ],
+      [
+       "MATH 383L"
+      ],
+      [
+       "MATH 523"
+      ],
+      [
+       "MATH 528"
+      ],
+      [
+       "MATH 528L"
+      ],
+      [
+       "MATH 529"
+      ],
+      [
+       "MATH 529L"
+      ],
+      [
+       "MATH 535"
+      ],
+      [
+       "MATH 555"
+      ],
+      [
+       "MATH 560"
+      ],
+      [
+       "MATH 564"
+      ],
+      [
+       "MATH 566"
+      ],
+      [
+       "MATH 577"
+      ],
+      [
+       "MATH 594"
+      ],
+      [
+       "MATH 661"
+      ],
+      [
+       "MATH 662"
+      ],
+      [
+       "MATH 668"
+      ],
+      [
+       "MATH 669"
+      ],
+      [
+       "NDSS 410"
+      ],
+      [
+       "NDSS 430"
+      ],
+      [
+       "NSCI 395"
+      ],
+      [
+       "NSCI 405"
+      ],
+      [
+       "NSCI 418"
+      ],
+      [
+       "NSCI 419"
+      ],
+      [
+       "NSCI 423"
+      ],
+      [
+       "NSCI 426"
+      ],
+      [
+       "NSCI 439"
+      ],
+      [
+       "NSCI 440"
+      ],
+      [
+       "NSCI 493"
+      ],
+      [
+       "NSCI 693H"
+      ],
+      [
+       "NSCI 694H"
+      ],
+      [
+       "PSYC 533"
+      ],
+      [
+       "STOR 215"
+      ],
+      [
+       "STOR 320"
+      ],
+      [
+       "STOR 415"
+      ],
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 445"
+      ],
+      [
+       "STOR 455"
+      ],
+      [
+       "STOR 535"
+      ],
+      [
+       "STOR 555"
+      ],
+      [
+       "STOR 556"
+      ],
+      [
+       "STOR 565"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Mathematics, Methods, Statistics Electives (select at least six credit hours from list below) 6",
+     "id": "unc-neuroscience-major-bs-s6",
+     "pick": {
+      "hours": 6
+     },
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements (complete with a grade of C or better)",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-neuroscience-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 103 How Cells Function 3",
+     "options": [
+      [
+       "BIOL 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 103 How Cells Function 3",
+     "id": "unc-neuroscience-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 220 Molecular Genetics 3",
+     "options": [
+      [
+       "BIOL 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 220 Molecular Genetics 3",
+     "id": "unc-neuroscience-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-neuroscience-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-neuroscience-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "options": [
+      [
+       "CHEM 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "id": "unc-neuroscience-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1",
+     "options": [
+      [
+       "CHEM 241L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1",
+     "id": "unc-neuroscience-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "options": [
+      [
+       "CHEM 261"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "id": "unc-neuroscience-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 262 Introduction to Organic Chemistry II 3",
+     "options": [
+      [
+       "CHEM 262"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 262 Introduction to Organic Chemistry II 3",
+     "id": "unc-neuroscience-major-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 262L Laboratory in Organic Chemistry 1",
+     "options": [
+      [
+       "CHEM 262L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 262L Laboratory in Organic Chemistry 1",
+     "id": "unc-neuroscience-major-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "id": "unc-neuroscience-major-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-neuroscience-major-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-neuroscience-major-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one course:",
+     "options": [
+      [
+       "PHYS 114"
+      ],
+      [
+       "PHYS 118"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one course: 4",
+     "id": "unc-neuroscience-major-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one course:",
+     "options": [
+      [
+       "PHYS 115"
+      ],
+      [
+       "PHYS 119"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one course: 4",
+     "id": "unc-neuroscience-major-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSYC 101 General Psychology 3",
+     "options": [
+      [
+       "PSYC 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSYC 101 General Psychology 3",
+     "id": "unc-neuroscience-major-bs-s22"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "List \"Knowledge Electives (6 Credit Hours)\" has an open-ended row with exceptions that could not be read: \"Any course between NSCI 300 - 699, with some exceptions (see footnote)\""
+ ],
+ "parseNotes": [
+  "Linked \"Mathematics, Methods, Statistics Electives (select at least six credit hours from list below)\" to the list \"Mathematics, Methods, and Statistics Electives (6 Credit Hours)\" by its position on the page"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/neuroscience-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,1150 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-mathematics-bs",
+ "university": "ncsu",
+ "name": "Mathematics",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/mathematics/mathematics-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation (Verify Requirement)",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COS 100 Science of Change 0 or E 115 Introduction to Computing Environments",
+     "options": [
+      [
+       "COS 100"
+      ],
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COS 100 Science of Change 0 or E 115 Introduction to Computing Environments",
+     "id": "ncsu-mathematics-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communications and Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-mathematics-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Communications courses (Verify Requirement):",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 289"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "Select one of the following Communications courses (Verify Requirement): 0",
+     "id": "ncsu-mathematics-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Advanced Writing courses:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 425"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Advanced Writing courses: 3",
+     "id": "ncsu-mathematics-bs-s4"
+    }
+   ]
+  },
+  {
+   "title": "Basic Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-mathematics-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-mathematics-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-mathematics-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 225 Foundations of Advanced Mathematics 3",
+     "options": [
+      [
+       "MA 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 225 Foundations of Advanced Mathematics 3",
+     "id": "ncsu-mathematics-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 305 Introduction to Linear Algebra and Matrices 3",
+     "options": [
+      [
+       "MA 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 305 Introduction to Linear Algebra and Matrices 3",
+     "id": "ncsu-mathematics-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-mathematics-bs-s10"
+    }
+   ]
+  },
+  {
+   "title": "Basic Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Courses must be taken from two different disciplines",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "CH 103",
+       "CH 104"
+      ],
+      [
+       "PY 201"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Courses must be taken from two different disciplines 8",
+     "id": "ncsu-mathematics-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional Basic Science",
+     "options": [
+      [
+       "BIO 105"
+      ],
+      [
+       "BIO 106"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ],
+      [
+       "BIT 200"
+      ],
+      [
+       "CH 101"
+      ],
+      [
+       "CH 102"
+      ],
+      [
+       "CH 103"
+      ],
+      [
+       "CH 104"
+      ],
+      [
+       "CH 201"
+      ],
+      [
+       "CH 202"
+      ],
+      [
+       "CH 203"
+      ],
+      [
+       "CH 204"
+      ],
+      [
+       "MEA 101"
+      ],
+      [
+       "MEA 110"
+      ],
+      [
+       "MEA 130"
+      ],
+      [
+       "MEA 135"
+      ],
+      [
+       "MEA 150"
+      ],
+      [
+       "MEA 210"
+      ],
+      [
+       "MEA 211"
+      ],
+      [
+       "NE 290"
+      ],
+      [
+       "NE 291"
+      ],
+      [
+       "PB 200"
+      ],
+      [
+       "PY 131"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 208"
+      ],
+      [
+       "PY 211"
+      ],
+      [
+       "PY 212"
+      ],
+      [
+       "SSC 200"
+      ],
+      [
+       "SSC 201"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Additional Basic Science 4",
+     "id": "ncsu-mathematics-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Statistics courses:",
+     "options": [
+      [
+       "ST 370"
+      ],
+      [
+       "ST 371"
+      ],
+      [
+       "ST 372"
+      ],
+      [
+       "ST 421"
+      ],
+      [
+       "ST 422"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Statistics courses: 3",
+     "id": "ncsu-mathematics-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following introductory Programming courses:",
+     "options": [
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 112"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "ST 114"
+      ],
+      [
+       "MA 116"
+      ],
+      [
+       "CSC 116"
+      ],
+      [
+       "PY 251"
+      ],
+      [
+       "ISE 135"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following introductory Programming courses: 3",
+     "id": "ncsu-mathematics-bs-s14"
+    }
+   ]
+  },
+  {
+   "title": "Advanced Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 405 Advanced Linear Algebra 3",
+     "options": [
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 405 Advanced Linear Algebra 3",
+     "id": "ncsu-mathematics-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Note: Students in the Math Honors Program or those planning to pursue the Accelerated Bachelors/Master’s (ABM) degree program may be permitted to substitute MA 520 in place of MA 405.",
+     "options": [],
+     "hours": null,
+     "raw": "Note: Students in the Math Honors Program or those planning to pursue the Accelerated Bachelors/Master’s (ABM) degree program may be permitted to substitute MA 520 in place of MA 405.",
+     "id": "ncsu-mathematics-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "options": [
+      [
+       "MA 407"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "id": "ncsu-mathematics-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 425 Mathematical Analysis I 3",
+     "options": [
+      [
+       "MA 425"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 425 Mathematical Analysis I 3",
+     "id": "ncsu-mathematics-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math Electives",
+     "options": [
+      [
+       "MA 325"
+      ],
+      [
+       "MA 326"
+      ],
+      [
+       "MA 335"
+      ],
+      [
+       "LOG 335"
+      ],
+      [
+       "MA 341"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 408"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 412"
+      ],
+      [
+       "ST 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "ST 413"
+      ],
+      [
+       "MA 414"
+      ],
+      [
+       "CSC 414"
+      ],
+      [
+       "MA 416"
+      ],
+      [
+       "CSC 416"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 427"
+      ],
+      [
+       "CSC 427"
+      ],
+      [
+       "MA 428"
+      ],
+      [
+       "CSC 428"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "MA 437"
+      ],
+      [
+       "MA 450"
+      ],
+      [
+       "MA 451"
+      ],
+      [
+       "MA 491"
+      ],
+      [
+       "MA 501"
+      ],
+      [
+       "MA 504"
+      ],
+      [
+       "OR 504"
+      ],
+      [
+       "MA 505"
+      ],
+      [
+       "ISE 505"
+      ],
+      [
+       "OR 505"
+      ],
+      [
+       "MA 513"
+      ],
+      [
+       "MA 512"
+      ],
+      [
+       "MA 514"
+      ],
+      [
+       "CSC 514"
+      ],
+      [
+       "MA 515"
+      ],
+      [
+       "MA 518"
+      ],
+      [
+       "MA 520"
+      ],
+      [
+       "MA 521"
+      ],
+      [
+       "MA 522"
+      ],
+      [
+       "MA 523"
+      ],
+      [
+       "MA 524"
+      ],
+      [
+       "MA 528"
+      ],
+      [
+       "FIM 528"
+      ],
+      [
+       "ECG 528"
+      ],
+      [
+       "MBA 528"
+      ],
+      [
+       "MA 531"
+      ],
+      [
+       "E 531"
+      ],
+      [
+       "OR 531"
+      ],
+      [
+       "MA 532"
+      ],
+      [
+       "MA 534"
+      ],
+      [
+       "MA 537"
+      ],
+      [
+       "MA 540"
+      ],
+      [
+       "MA 544"
+      ],
+      [
+       "MA 546"
+      ],
+      [
+       "ST 546"
+      ],
+      [
+       "MA 547"
+      ],
+      [
+       "MA 548"
+      ],
+      [
+       "FIM 548"
+      ],
+      [
+       "MA 549"
+      ],
+      [
+       "FIM 549"
+      ],
+      [
+       "MA 551"
+      ],
+      [
+       "MA 555"
+      ],
+      [
+       "MA 561"
+      ],
+      [
+       "MA 565"
+      ],
+      [
+       "CSC 565"
+      ],
+      [
+       "OR 565"
+      ],
+      [
+       "MA 573"
+      ],
+      [
+       "BMA 573"
+      ],
+      [
+       "MA 574"
+      ],
+      [
+       "BMA 574"
+      ],
+      [
+       "MA 580"
+      ],
+      [
+       "CSC 580"
+      ],
+      [
+       "MA 583"
+      ],
+      [
+       "CSC 583"
+      ],
+      [
+       "MA 584"
+      ],
+      [
+       "MA 587"
+      ],
+      [
+       "MA 591"
+      ]
+     ],
+     "pick": {
+      "hours": 18
+     },
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Math Electives 18",
+     "id": "ncsu-mathematics-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following three options for the Major Paper Requirement",
+     "options": [
+      [
+       "MA 494"
+      ],
+      [
+       "MA 491"
+      ],
+      [
+       "MA 499"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "Select one of the following three options for the Major Paper Requirement 1",
+     "id": "ncsu-mathematics-bs-s20"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "In-Depth Co-Requiremenmt (Verify Requirement)",
+     "options": [
+      [
+       "MA 325",
+       "MA 341"
+      ],
+      [
+       "MA 326",
+       "MA 402"
+      ],
+      [
+       "MA 341",
+       "MA 401"
+      ],
+      [
+       "MA 501"
+      ],
+      [
+       "MA 341",
+       "MA 432"
+      ],
+      [
+       "MA 401",
+       "MA 450"
+      ],
+      [
+       "MA 451"
+      ],
+      [
+       "MA 407",
+       "MA 437"
+      ],
+      [
+       "MA 521"
+      ],
+      [
+       "MA 405",
+       "MA 520"
+      ],
+      [
+       "MA 523"
+      ],
+      [
+       "MA 407",
+       "MA 414"
+      ],
+      [
+       "CSC 414"
+      ],
+      [
+       "MA 407",
+       "MA 521"
+      ],
+      [
+       "MA 407",
+       "MA 514"
+      ],
+      [
+       "CSC 514"
+      ],
+      [
+       "MA 408",
+       "MA 518"
+      ],
+      [
+       "MA 410",
+       "MA 416"
+      ],
+      [
+       "MA 412",
+       "MA 413"
+      ],
+      [
+       "MA 416",
+       "MA 524"
+      ],
+      [
+       "MA 421",
+       "MA 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "MA 425",
+       "MA 426"
+      ],
+      [
+       "MA 512"
+      ],
+      [
+       "MA 425",
+       "MA 513"
+      ],
+      [
+       "MA 515"
+      ],
+      [
+       "MA 427",
+       "MA 428"
+      ],
+      [
+       "MA 450",
+       "MA 451"
+      ],
+      [
+       "MA 515",
+       "MA 551"
+      ],
+      [
+       "MA 532",
+       "MA 534"
+      ],
+      [
+       "MA 546",
+       "MA 547"
+      ],
+      [
+       "MA 548",
+       "MA 549"
+      ],
+      [
+       "MA 573",
+       "MA 574"
+      ],
+      [
+       "MA 580",
+       "MA 583"
+      ],
+      [
+       "MA 584",
+       "MA 587"
+      ]
+     ],
+     "hours": null,
+     "raw": "In-Depth Co-Requiremenmt (Verify Requirement)",
+     "id": "ncsu-mathematics-bs-s21",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      8,
+      9,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      14,
+      15,
+      15,
+      16,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Major Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Science/Engineering/Business/Statistics Electives",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Science/Engineering/Business/Statistics Electives 12",
+     "id": "ncsu-mathematics-bs-s22"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-mathematics-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-mathematics-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-mathematics-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-mathematics-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-mathematics-bs-s27"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-mathematics-bs-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-mathematics-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-mathematics-bs-s30"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives (Max 12 Hr S/U)",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (Max 12 Hr S/U)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Free Electives (Max 12 Hr S/U) 12",
+     "id": "ncsu-mathematics-bs-s31"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"Courses must be taken from two different disciplines\"",
+  "List \"In-Depth Co-Requiremenmt (Verify Requirement)\" has no stated amount to take"
+ ],
+ "parseNotes": [
+  "Group \"Select one of the following Statistics courses:\" carries a note or open-ended option: \"Students considering graduate school are strongly encouraged to select (MA 421 or ST 421) with ST 422\"",
+  "Group \"Science/Engineering/Business/Statistics Electives\" carries a note or open-ended option: \"Students are advised to utilize their Major and Free Electives credits to explore a minor or a second major. Please be aware that several courses listed as Major Electives may have prerequisites or specific restrictions.\"",
+  "Group \"Science/Engineering/Business/Statistics Electives\" carries a note or open-ended option: \"Science/Engineering/Business/Statistics courses must be selected from the following list: ≥ BAE 200, ≥ BAET 200, ≥ BCH 300, ≥ BIO 181, BMA ***, BME ***, BBS ***, ≥ BIT 200, ≥ BUS 300, CE ***, CH 101, CH 102, CH 103, CH 104 , ≥ CH 201, CHE ***, ≥ CSC 111, DSC ***, ≥ E 304 , EC ***, ≥ ECE 200, ECI 305, ECI 416, EMS 470, EMS 480, EMS 490, ≥ ENT 300, ≥ ES 200, FIM ***, FS ***, FW ***, GN ***, GIS ***, ISE ***, ≥ LOG 400, ≥ MA 300, MAE ***, MB ***, ≥ MEA 130, MES ***, MSE ***, NE ***, ≥ NTR 300, OR ***, ≥ PSE 300, ≥ PY 200, ≥ PB 220, ≥ ST 114 , TOX 4**, ≥ ZO 250. Note: The following courses can’t be used as major electives: CSC 226 ECE 220\"",
+  "Group \"Free Electives (Max 12 Hr S/U)\" carries a note or open-ended option: \"Students are encouraged to use Free Electives credits to pursue a minor or second major. Free electives courses cannot be CH 100, CH 111, CSC 226, ECE 220, MA 101, MA 107, MA 108, MA 111, MA 121, MA 131, MA 231, PY 131, PY 211, PY 212, ENG 100. 100-level World Language Courses (WL*) can be used if not satisfying the language proficiency requirement.\"",
+  "Codes in choice lists not found in the course catalog: MBA 528"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/mathematics/mathematics-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Sciences"
+}

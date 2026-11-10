@@ -1,0 +1,1133 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-public-policy-major-ba",
+ "university": "unc",
+ "name": "Public Policy",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/public-policy-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 32,
+  "max": 33
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PLCY 210 Policy Innovation and Analysis 3",
+     "options": [
+      [
+       "PLCY 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PLCY 210 Policy Innovation and Analysis 3",
+     "id": "unc-public-policy-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PLCY 220 The Politics of Public Policy 3",
+     "options": [
+      [
+       "PLCY 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PLCY 220 The Politics of Public Policy 3",
+     "id": "unc-public-policy-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PLCY 340 Justice in Public Policy 3",
+     "options": [
+      [
+       "PLCY 340"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PLCY 340 Justice in Public Policy 3",
+     "id": "unc-public-policy-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PLCY 310 Microeconomic Foundations of Public Policy (formerly PLCY 410) 3 or ECON 410 Intermediate Microeconomics",
+     "options": [
+      [
+       "PLCY 310"
+      ],
+      [
+       "ECON 410"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PLCY 310 Microeconomic Foundations of Public Policy (formerly PLCY 410) 3 or ECON 410 Intermediate Microeconomics",
+     "id": "unc-public-policy-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PLCY 460 Quantitative Analysis for Public Policy 4",
+     "options": [
+      [
+       "PLCY 460"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PLCY 460 Quantitative Analysis for Public Policy 4",
+     "id": "unc-public-policy-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PLCY 581 Research Design for Public Policy 3",
+     "options": [
+      [
+       "PLCY 581"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PLCY 581 Research Design for Public Policy 3",
+     "id": "unc-public-policy-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PLCY 698 Senior Capstone in Public Policy 3-4 or PLCY 692H Honors in Public Policy",
+     "options": [
+      [
+       "PLCY 698"
+      ],
+      [
+       "PLCY 692H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "PLCY 698 Senior Capstone in Public Policy 3-4 or PLCY 692H Honors in Public Policy",
+     "id": "unc-public-policy-major-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "At least six credit hours of approved public policy electives.",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "At least six credit hours of approved public policy electives. 6",
+     "id": "unc-public-policy-major-ba-s8"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics 4",
+     "id": "unc-public-policy-major-ba-s9"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Policy Field (optional), see list below",
+     "options": [
+      [
+       "AAAD 307"
+      ],
+      [
+       "AAAD 333"
+      ],
+      [
+       "POLI 333"
+      ],
+      [
+       "AAAD 488"
+      ],
+      [
+       "AAAD 485"
+      ],
+      [
+       "AMST 390"
+      ],
+      [
+       "AMST 486"
+      ],
+      [
+       "ANTH 312"
+      ],
+      [
+       "ANTH 318"
+      ],
+      [
+       "ANTH 319"
+      ],
+      [
+       "ANTH 350"
+      ],
+      [
+       "ANTH 355"
+      ],
+      [
+       "ANTH 360"
+      ],
+      [
+       "ANTH 377"
+      ],
+      [
+       "ANTH 380"
+      ],
+      [
+       "ANTH 422"
+      ],
+      [
+       "ANTH 429"
+      ],
+      [
+       "ANTH 439"
+      ],
+      [
+       "ANTH 441"
+      ],
+      [
+       "ANTH 460"
+      ],
+      [
+       "ANTH 470"
+      ],
+      [
+       "ANTH 502"
+      ],
+      [
+       "ANTH 537"
+      ],
+      [
+       "ANTH 585"
+      ],
+      [
+       "BUSI 404"
+      ],
+      [
+       "BUSI 405"
+      ],
+      [
+       "BUSI 500"
+      ],
+      [
+       "BUSI 503"
+      ],
+      [
+       "BUSI 504"
+      ],
+      [
+       "BUSI 506"
+      ],
+      [
+       "BUSI 512"
+      ],
+      [
+       "BUSI 610"
+      ],
+      [
+       "BUSI 611"
+      ],
+      [
+       "COMM 312"
+      ],
+      [
+       "COMM 325"
+      ],
+      [
+       "COMM 372"
+      ],
+      [
+       "COMM 375"
+      ],
+      [
+       "COMM 470"
+      ],
+      [
+       "COMM 521"
+      ],
+      [
+       "COMM 524"
+      ],
+      [
+       "COMM 525"
+      ],
+      [
+       "COMM 571"
+      ],
+      [
+       "COMM 572"
+      ],
+      [
+       "COMM 574"
+      ],
+      [
+       "COMM 575"
+      ],
+      [
+       "COMM 576"
+      ],
+      [
+       "COMM 624"
+      ],
+      [
+       "COMM 625"
+      ],
+      [
+       "COMM 652"
+      ],
+      [
+       "ECON 320"
+      ],
+      [
+       "ECON 325"
+      ],
+      [
+       "ECON 345"
+      ],
+      [
+       "ECON 380"
+      ],
+      [
+       "ECON 423"
+      ],
+      [
+       "ECON 440"
+      ],
+      [
+       "ECON 445"
+      ],
+      [
+       "ECON 450"
+      ],
+      [
+       "ECON 455"
+      ],
+      [
+       "ECON 460"
+      ],
+      [
+       "ECON 465"
+      ],
+      [
+       "ECON 480"
+      ],
+      [
+       "ECON 511"
+      ],
+      [
+       "EDUC 401"
+      ],
+      [
+       "EDUC 506"
+      ],
+      [
+       "EDUC 521"
+      ],
+      [
+       "EDUC 533"
+      ],
+      [
+       "EDUC 535"
+      ],
+      [
+       "EMES 314"
+      ],
+      [
+       "ENGL 164"
+      ],
+      [
+       "ENGL 279"
+      ],
+      [
+       "ENEC 463"
+      ],
+      [
+       "ENEC 307"
+      ],
+      [
+       "ENEC 308"
+      ],
+      [
+       "ENEC 309"
+      ],
+      [
+       "ENEC 330"
+      ],
+      [
+       "ENEC 350"
+      ],
+      [
+       "ENEC 351"
+      ],
+      [
+       "ENEC 352"
+      ],
+      [
+       "ENEC 370"
+      ],
+      [
+       "ENEC 462"
+      ],
+      [
+       "ENEC 474"
+      ],
+      [
+       "ENEC 586"
+      ],
+      [
+       "ENEC 685"
+      ],
+      [
+       "ENEC 698"
+      ],
+      [
+       "ENEC 470"
+      ],
+      [
+       "ENVR 470"
+      ],
+      [
+       "ENEC 368"
+      ],
+      [
+       "PHIL 368"
+      ],
+      [
+       "ENVR 600"
+      ],
+      [
+       "GEOG 281"
+      ],
+      [
+       "GEOG 370"
+      ],
+      [
+       "GEOG 391"
+      ],
+      [
+       "GEOG 414"
+      ],
+      [
+       "GEOG 416"
+      ],
+      [
+       "GEOG 423"
+      ],
+      [
+       "GEOG 428"
+      ],
+      [
+       "GEOG 430"
+      ],
+      [
+       "GEOG 435"
+      ],
+      [
+       "GEOG 446"
+      ],
+      [
+       "GEOG 447"
+      ],
+      [
+       "GEOG 448"
+      ],
+      [
+       "GEOG 451"
+      ],
+      [
+       "ENEC 451"
+      ],
+      [
+       "GEOG 457"
+      ],
+      [
+       "GEOG 458"
+      ],
+      [
+       "GEOG 460"
+      ],
+      [
+       "GEOG 470"
+      ],
+      [
+       "GEOG 480"
+      ],
+      [
+       "GEOG 491"
+      ],
+      [
+       "GEOG 541"
+      ],
+      [
+       "GEOG 542"
+      ],
+      [
+       "GLBL 382"
+      ],
+      [
+       "GLBL 390"
+      ],
+      [
+       "HIST 238"
+      ],
+      [
+       "HIST 365"
+      ],
+      [
+       "HIST 385"
+      ],
+      [
+       "HIST 510"
+      ],
+      [
+       "HIST 566"
+      ],
+      [
+       "HIST 568"
+      ],
+      [
+       "HIST 577"
+      ],
+      [
+       "HIST 584"
+      ],
+      [
+       "HIST 589"
+      ],
+      [
+       "HPM 310"
+      ],
+      [
+       "HPM 330"
+      ],
+      [
+       "HPM 340"
+      ],
+      [
+       "HPM 350"
+      ],
+      [
+       "HPM 351"
+      ],
+      [
+       "HPM 352"
+      ],
+      [
+       "INLS 382"
+      ],
+      [
+       "INLS 515"
+      ],
+      [
+       "MEJO 340"
+      ],
+      [
+       "MEJO 441"
+      ],
+      [
+       "MEJO 442"
+      ],
+      [
+       "MEJO 443"
+      ],
+      [
+       "MEJO 445"
+      ],
+      [
+       "MEJO 446"
+      ],
+      [
+       "MEJO 458"
+      ],
+      [
+       "MEJO 541"
+      ],
+      [
+       "MEJO 560"
+      ],
+      [
+       "MEJO 652"
+      ],
+      [
+       "MNGT 345"
+      ],
+      [
+       "MNGT 365"
+      ],
+      [
+       "MNGT 380"
+      ],
+      [
+       "MNGT 410"
+      ],
+      [
+       "MNGT 412"
+      ],
+      [
+       "MNGT 415"
+      ],
+      [
+       "MNGT 427"
+      ],
+      [
+       "PHIL 364"
+      ],
+      [
+       "PHIL 370"
+      ],
+      [
+       "PHIL 384"
+      ],
+      [
+       "PHIL 473"
+      ],
+      [
+       "PHIL 480"
+      ],
+      [
+       "PHIL 698"
+      ],
+      [
+       "PLAN 330"
+      ],
+      [
+       "PLAN 574"
+      ],
+      [
+       "PLAN 636"
+      ],
+      [
+       "PLAN 637"
+      ],
+      [
+       "PLAN 641"
+      ],
+      [
+       "PLAN 651"
+      ],
+      [
+       "PLAN 685"
+      ],
+      [
+       "POLI 400"
+      ],
+      [
+       "POLI 401"
+      ],
+      [
+       "POLI 406"
+      ],
+      [
+       "POLI 410"
+      ],
+      [
+       "POLI 411"
+      ],
+      [
+       "POLI 412"
+      ],
+      [
+       "POLI 416"
+      ],
+      [
+       "POLI 418"
+      ],
+      [
+       "POLI 419H"
+      ],
+      [
+       "POLI 420"
+      ],
+      [
+       "POLI 431"
+      ],
+      [
+       "POLI 433"
+      ],
+      [
+       "POLI 434"
+      ],
+      [
+       "POLI 438"
+      ],
+      [
+       "POLI 442"
+      ],
+      [
+       "POLI 443"
+      ],
+      [
+       "POLI 444"
+      ],
+      [
+       "POLI 457"
+      ],
+      [
+       "POLI 470"
+      ],
+      [
+       "POLI 472"
+      ],
+      [
+       "PSYC 467"
+      ],
+      [
+       "PSYC 469"
+      ],
+      [
+       "PSYC 471"
+      ],
+      [
+       "PSYC 500"
+      ],
+      [
+       "PSYC 502"
+      ],
+      [
+       "PSYC 504"
+      ],
+      [
+       "PSYC 514"
+      ],
+      [
+       "PSYC 530"
+      ],
+      [
+       "PSYC 531"
+      ],
+      [
+       "PSYC 532"
+      ],
+      [
+       "PSYC 565"
+      ],
+      [
+       "PSYC 601"
+      ],
+      [
+       "PWAD 250"
+      ],
+      [
+       "PWAD 368"
+      ],
+      [
+       "PWAD 416"
+      ],
+      [
+       "PWAD 443"
+      ],
+      [
+       "PWAD 444"
+      ],
+      [
+       "PWAD 453"
+      ],
+      [
+       "PWAD 460"
+      ],
+      [
+       "PWAD 469"
+      ],
+      [
+       "PWAD 574"
+      ],
+      [
+       "PWAD 575"
+      ],
+      [
+       "PWAD 577"
+      ],
+      [
+       "RELI 423"
+      ],
+      [
+       "RELI 443"
+      ],
+      [
+       "STOR 305"
+      ],
+      [
+       "STOR 358"
+      ],
+      [
+       "STOR 415"
+      ],
+      [
+       "STOR 455"
+      ],
+      [
+       "SOCI 410"
+      ],
+      [
+       "SOCI 412"
+      ],
+      [
+       "SOCI 415"
+      ],
+      [
+       "SOCI 418"
+      ],
+      [
+       "SOCI 420"
+      ],
+      [
+       "SOCI 422"
+      ],
+      [
+       "SOCI 423"
+      ],
+      [
+       "SOCI 424"
+      ],
+      [
+       "SOCI 425"
+      ],
+      [
+       "SOCI 426"
+      ],
+      [
+       "SOCI 427"
+      ],
+      [
+       "SOCI 431"
+      ],
+      [
+       "SOCI 444"
+      ],
+      [
+       "SOCI 468"
+      ],
+      [
+       "SOCI 469"
+      ],
+      [
+       "SPHG 350H"
+      ],
+      [
+       "WGST 368"
+      ],
+      [
+       "WGST 388"
+      ],
+      [
+       "WGST 410"
+      ],
+      [
+       "WGST 662"
+      ]
+     ],
+     "hours": null,
+     "raw": "Policy Field (optional), see list below",
+     "id": "unc-public-policy-major-ba-s10",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      83,
+      84,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      138,
+      139,
+      140,
+      141,
+      142,
+      143,
+      144,
+      145,
+      146,
+      147,
+      148,
+      149,
+      150,
+      151,
+      152,
+      153,
+      154,
+      155,
+      156,
+      157,
+      158,
+      159,
+      160,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175,
+      176,
+      177,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211,
+      212,
+      213,
+      214,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      223,
+      224
+     ],
+     "wildcards": [
+      {
+       "subjects": [
+        "PLCY"
+       ],
+       "minLevel": 100,
+       "except": [
+        "PLCY 130",
+        "PLCY 291",
+        "PLCY 293",
+        "PLCY 393",
+        "PLCY 394"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "List \"Policy Field (optional), see list below\" has no stated amount to take"
+ ],
+ "parseNotes": [
+  "List \"Public Policy Elective Course List\" has codes with no catalog link: ANTH 312, ANTH 377, ANTH 380, ANTH 502, GEOG 447, HPM 310, HPM 330, HPM 340, HPM 350, HPM 351, HPM 352",
+  "Linked \"Policy Field (optional), see list below\" to the list \"Public Policy Elective Course List\" by its position on the page",
+  "Codes in choice lists not found in the course catalog: ANTH 312, ANTH 377, ANTH 380, ANTH 502, GEOG 447, HPM 310, HPM 330, HPM 340, HPM 350, HPM 351, HPM 352, POLI 419H"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/public-policy-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-asian-studies-major-ba-japanese-concentration",
+ "university": "unc",
+ "name": "Asian Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-japanese-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 28,
+  "max": 28
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JAPN 305 Advanced Japanese I 3",
+     "options": [
+      [
+       "JAPN 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JAPN 305 Advanced Japanese I 3",
+     "id": "unc-asian-studies-major-ba-japanese-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "JAPN 306 Advanced Japanese II 3",
+     "options": [
+      [
+       "JAPN 306"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "JAPN 306 Advanced Japanese II 3",
+     "id": "unc-asian-studies-major-ba-japanese-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least three advanced Japanese courses from the list below",
+     "options": [
+      [
+       "JAPN 401"
+      ],
+      [
+       "JAPN 408"
+      ],
+      [
+       "JAPN 410"
+      ],
+      [
+       "JAPN 411"
+      ],
+      [
+       "JAPN 412"
+      ],
+      [
+       "JAPN 414"
+      ],
+      [
+       "JAPN 415"
+      ],
+      [
+       "JAPN 416"
+      ],
+      [
+       "JAPN 417"
+      ],
+      [
+       "JAPN 418"
+      ],
+      [
+       "JAPN 490"
+      ],
+      [
+       "JAPN 590"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "At least three advanced Japanese courses from the list below 9",
+     "id": "unc-asian-studies-major-ba-japanese-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "At least two culture courses from the list below",
+     "options": [
+      [
+       "ASIA 50"
+      ],
+      [
+       "JAPN 160"
+      ],
+      [
+       "JAPN 162"
+      ],
+      [
+       "ASIA 233"
+      ],
+      [
+       "JAPN 246"
+      ],
+      [
+       "HIST 247"
+      ],
+      [
+       "HIST 271"
+      ],
+      [
+       "JAPN 231"
+      ],
+      [
+       "JAPN 277"
+      ],
+      [
+       "JAPN 288"
+      ],
+      [
+       "COMM 288"
+      ],
+      [
+       "ASIA 342"
+      ],
+      [
+       "JAPN 375"
+      ],
+      [
+       "ASIA 379"
+      ],
+      [
+       "CMPL 379"
+      ],
+      [
+       "ASIA 380"
+      ],
+      [
+       "CMPL 380"
+      ],
+      [
+       "WGST 380"
+      ],
+      [
+       "JAPN 444"
+      ],
+      [
+       "JAPN 482"
+      ],
+      [
+       "ASIA 483"
+      ],
+      [
+       "CMPL 483"
+      ],
+      [
+       "JAPN 489"
+      ],
+      [
+       "WGST 489"
+      ],
+      [
+       "JAPN 563"
+      ],
+      [
+       "LING 563"
+      ],
+      [
+       "ASIA 692H"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "At least two culture courses from the list below 6",
+     "id": "unc-asian-studies-major-ba-japanese-concentration-s4",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6,
+      7,
+      7,
+      8,
+      9,
+      10,
+      10,
+      11,
+      11,
+      11,
+      12,
+      13,
+      14,
+      14,
+      15,
+      15,
+      16,
+      16,
+      17
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One more course that may be from either the advanced Japanese list or the culture list",
+     "options": [
+      [
+       "JAPN 401"
+      ],
+      [
+       "JAPN 408"
+      ],
+      [
+       "JAPN 410"
+      ],
+      [
+       "JAPN 411"
+      ],
+      [
+       "JAPN 412"
+      ],
+      [
+       "JAPN 414"
+      ],
+      [
+       "JAPN 415"
+      ],
+      [
+       "JAPN 416"
+      ],
+      [
+       "JAPN 417"
+      ],
+      [
+       "JAPN 418"
+      ],
+      [
+       "JAPN 490"
+      ],
+      [
+       "JAPN 590"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One more course that may be from either the advanced Japanese list or the culture list 3",
+     "id": "unc-asian-studies-major-ba-japanese-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Japanese through level 4",
+     "options": [],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Japanese through level 4 4",
+     "id": "unc-asian-studies-major-ba-japanese-concentration-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/asian-studies-major-ba-japanese-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Japanese Concentration"
+}

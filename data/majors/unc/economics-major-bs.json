@@ -1,0 +1,246 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-economics-major-bs",
+ "university": "unc",
+ "name": "Economics",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/economics-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 51,
+  "max": 51
+ },
+ "sections": [
+  {
+   "title": "Gateway Requirement",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics (with a grade of C or better) 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics (with a grade of C or better) 4",
+     "id": "unc-economics-major-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 400 Introduction to Data Science and Econometrics (with a grade of C or better) 4",
+     "options": [
+      [
+       "ECON 400"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 400 Introduction to Data Science and Econometrics (with a grade of C or better) 4",
+     "id": "unc-economics-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 410 Intermediate Microeconomics (with a grade of C or better) 4",
+     "options": [
+      [
+       "ECON 410"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 410 Intermediate Microeconomics (with a grade of C or better) 4",
+     "id": "unc-economics-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 420 Intermediate Macroeconomics 3",
+     "options": [
+      [
+       "ECON 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECON 420 Intermediate Macroeconomics 3",
+     "id": "unc-economics-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 470 Econometrics 3",
+     "options": [
+      [
+       "ECON 470"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECON 470 Econometrics 3",
+     "id": "unc-economics-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "ECON"
+      ],
+      "minLevel": 400,
+      "maxLevel": 699
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher 15",
+     "id": "unc-economics-major-bs-s6"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-economics-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-economics-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 235"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "id": "unc-economics-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two of the following:",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ],
+      [
+       "MATH 347"
+      ],
+      [
+       "MATH 381"
+      ],
+      [
+       "COMP 283"
+      ],
+      [
+       "STOR 415"
+      ],
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 535"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two of the following: 6",
+     "id": "unc-economics-major-bs-s10",
+     "altGroups": [
+      0,
+      0,
+      1,
+      2,
+      2,
+      3,
+      4,
+      4
+     ]
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Row has a further condition that is not checked: \"Five ECON courses at the 400, 500, or 600 level, with at least two numbered 500 or higher\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/economics-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

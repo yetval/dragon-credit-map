@@ -1,0 +1,412 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-chemistry-major-bs",
+ "university": "unc",
+ "name": "Chemistry",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/chemistry-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 72,
+  "max": 72
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-chemistry-major-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 102 General Descriptive Chemistry II 3 or CHEM 102H General Descriptive Chemistry II",
+     "options": [
+      [
+       "CHEM 102"
+      ],
+      [
+       "CHEM 102H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 102 General Descriptive Chemistry II 3 or CHEM 102H General Descriptive Chemistry II",
+     "id": "unc-chemistry-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102L Quantitative Chemistry Laboratory II 1",
+     "options": [
+      [
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 102L Quantitative Chemistry Laboratory II 1",
+     "id": "unc-chemistry-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "options": [
+      [
+       "CHEM 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "id": "unc-chemistry-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1 or CHEM 245L Honors Laboratory in Separations and Analytical Characterization of Organic and Biological Compound",
+     "options": [
+      [
+       "CHEM 241L"
+      ],
+      [
+       "CHEM 245L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1 or CHEM 245L Honors Laboratory in Separations and Analytical Characterization of Organic and Biological Compound",
+     "id": "unc-chemistry-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 251 Introduction to Inorganic Chemistry 3",
+     "options": [
+      [
+       "CHEM 251"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 251 Introduction to Inorganic Chemistry 3",
+     "id": "unc-chemistry-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 433 Introduction to Biochemistry for Majors 3",
+     "options": [
+      [
+       "CHEM 433"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 433 Introduction to Biochemistry for Majors 3",
+     "id": "unc-chemistry-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 481 Physical Chemistry I 3",
+     "options": [
+      [
+       "CHEM 481"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 481 Physical Chemistry I 3",
+     "id": "unc-chemistry-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CHEM 481L Physical Chemistry Laboratory I 2 or CHEM 482L Physical Chemistry Laboratory II",
+     "options": [
+      [
+       "CHEM 481L"
+      ],
+      [
+       "CHEM 482L"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "CHEM 481L Physical Chemistry Laboratory I 2 or CHEM 482L Physical Chemistry Laboratory II",
+     "id": "unc-chemistry-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 482 Physical Chemistry II 3",
+     "options": [
+      [
+       "CHEM 482"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 482 Physical Chemistry II 3",
+     "id": "unc-chemistry-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "options": [
+      [
+       "CHEM 261"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 261 Introduction to Organic Chemistry I 3",
+     "id": "unc-chemistry-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 262 Introduction to Organic Chemistry II 3",
+     "options": [
+      [
+       "CHEM 262"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 262 Introduction to Organic Chemistry II 3",
+     "id": "unc-chemistry-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 262L Laboratory in Organic Chemistry 1",
+     "options": [
+      [
+       "CHEM 262L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 262L Laboratory in Organic Chemistry 1",
+     "id": "unc-chemistry-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Fifteen hours of advanced chemistry elective courses (one laboratory course is required) from the following list:",
+     "options": [
+      [
+       "CHEM 395"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Fifteen hours of advanced chemistry elective courses (one laboratory course is required) from the following list: 15",
+     "id": "unc-chemistry-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One capstone laboratory course is required from the following list",
+     "options": [
+      [
+       "CHEM 520L"
+      ],
+      [
+       "CHEM 530L"
+      ],
+      [
+       "CHEM 541L"
+      ],
+      [
+       "CHEM 550L"
+      ],
+      [
+       "CHEM 551L"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "One capstone laboratory course is required from the following list 2",
+     "id": "unc-chemistry-major-bs-s15"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 Principles of Biology 3",
+     "options": [
+      [
+       "BIOL 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOL 101 Principles of Biology 3",
+     "id": "unc-chemistry-major-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-chemistry-major-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4",
+     "options": [
+      [
+       "MATH 233"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4",
+     "id": "unc-chemistry-major-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 First Course in Differential Equations 3",
+     "options": [
+      [
+       "MATH 383"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 383 First Course in Differential Equations 3",
+     "id": "unc-chemistry-major-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "options": [
+      [
+       "PHYS 118"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 118 Introductory Calculus-based Mechanics and Relativity 4",
+     "id": "unc-chemistry-major-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "options": [
+      [
+       "PHYS 119"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PHYS 119 Introductory Calculus-based Electromagnetism and Quanta 4",
+     "id": "unc-chemistry-major-bs-s21"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: CHEM 102H"
+ ],
+ "parseNotes": [
+  "Group \"Fifteen hours of advanced chemistry elective courses (one laboratory course is required) from the following list:\" carries a note or open-ended option: \"Any course numbered CHEM 420 or higher (excluding CHEM 692H)\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/chemistry-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

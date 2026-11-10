@@ -1,0 +1,154 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-clinical-laboratory-science-major-bs",
+ "university": "unc",
+ "name": "Clinical Laboratory Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/clinical-laboratory-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 22,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-clinical-laboratory-science-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "A second biology course (BIOL 202 or BIOL 103 is highly recommended)",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "A second biology course (BIOL 202 or BIOL 103 is highly recommended) 3-4",
+     "id": "unc-clinical-laboratory-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "options": [
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 101 & 101L General Descriptive Chemistry I and Quantitative Chemistry Laboratory I 4",
+     "id": "unc-clinical-laboratory-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "options": [
+      [
+       "CHEM 102",
+       "CHEM 102L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHEM 102 & 102L General Descriptive Chemistry II and Quantitative Chemistry Laboratory II 4",
+     "id": "unc-clinical-laboratory-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "options": [
+      [
+       "CHEM 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CHEM 241 Modern Analytical Methods for Separation and Characterization 3",
+     "id": "unc-clinical-laboratory-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1",
+     "options": [
+      [
+       "CHEM 241L"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CHEM 241L Laboratory in Separations and Analytical Characterization of Organic and Biological Compounds 1",
+     "id": "unc-clinical-laboratory-science-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "MATH 130"
+      ],
+      [
+       "MATH 231"
+      ],
+      [
+       "STOR 151"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One of the following: 3-4",
+     "id": "unc-clinical-laboratory-science-major-bs-s7"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Core Requirements\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/clinical-laboratory-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

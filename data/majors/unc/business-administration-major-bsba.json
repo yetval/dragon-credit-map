@@ -1,0 +1,257 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-business-administration-major-bsba",
+ "university": "unc",
+ "name": "Business Administration",
+ "degree": "B.S.B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/business-administration-major-bsba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 61.5,
+  "max": 61.5
+ },
+ "sections": [
+  {
+   "title": "Core Business Courses",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 401 Management and Corporate Communication 3",
+     "options": [
+      [
+       "BUSI 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 401 Management and Corporate Communication 3",
+     "id": "unc-business-administration-major-bsba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BUSI 402 Applied Microeconomics for Business 1.5 or ECON 410 Intermediate Microeconomics",
+     "options": [
+      [
+       "BUSI 402"
+      ],
+      [
+       "ECON 410"
+      ]
+     ],
+     "hours": {
+      "min": 1.5,
+      "max": 1.5
+     },
+     "raw": "BUSI 402 Applied Microeconomics for Business 1.5 or ECON 410 Intermediate Microeconomics",
+     "id": "unc-business-administration-major-bsba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 403 Operations Management 3",
+     "options": [
+      [
+       "BUSI 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 403 Operations Management 3",
+     "id": "unc-business-administration-major-bsba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 404 Business Ethics 1.5",
+     "options": [
+      [
+       "BUSI 404"
+      ]
+     ],
+     "hours": {
+      "min": 1.5,
+      "max": 1.5
+     },
+     "raw": "BUSI 404 Business Ethics 1.5",
+     "id": "unc-business-administration-major-bsba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 405 Leading and Managing: An Introduction to Organizational Behavior 3",
+     "options": [
+      [
+       "BUSI 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 405 Leading and Managing: An Introduction to Organizational Behavior 3",
+     "id": "unc-business-administration-major-bsba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 406 Marketing (prerequisite for marketing electives) 3",
+     "options": [
+      [
+       "BUSI 406"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 406 Marketing (prerequisite for marketing electives) 3",
+     "id": "unc-business-administration-major-bsba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 407 Financial Accounting and Analysis 3",
+     "options": [
+      [
+       "BUSI 407"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 407 Financial Accounting and Analysis 3",
+     "id": "unc-business-administration-major-bsba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 408 Corporate Finance (prerequisite for finance electives) 3",
+     "options": [
+      [
+       "BUSI 408"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 408 Corporate Finance (prerequisite for finance electives) 3",
+     "id": "unc-business-administration-major-bsba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 410 Business Analytics 3",
+     "options": [
+      [
+       "BUSI 410"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BUSI 410 Business Analytics 3",
+     "id": "unc-business-administration-major-bsba-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 411 Strategy I: Competitive Strategy 1.5",
+     "options": [
+      [
+       "BUSI 411"
+      ]
+     ],
+     "hours": {
+      "min": 1.5,
+      "max": 1.5
+     },
+     "raw": "BUSI 411 Strategy I: Competitive Strategy 1.5",
+     "id": "unc-business-administration-major-bsba-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BUSI 412 Strategy II: Global Corporate Strategy 1.5",
+     "options": [
+      [
+       "BUSI 412"
+      ]
+     ],
+     "hours": {
+      "min": 1.5,
+      "max": 1.5
+     },
+     "raw": "BUSI 412 Strategy II: Global Corporate Strategy 1.5",
+     "id": "unc-business-administration-major-bsba-s11"
+    }
+   ]
+  },
+  {
+   "title": "Business Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "19.5 credit hours of business electives",
+     "options": [],
+     "hours": {
+      "min": 19.5,
+      "max": 19.5
+     },
+     "raw": "19.5 credit hours of business electives 19.5",
+     "id": "unc-business-administration-major-bsba-s12"
+    }
+   ]
+  },
+  {
+   "title": "Courses Outside the Kenan-Flagler Business School",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Students must complete at least 15 hours in coursework taken outside the Kenan–Flagler Business School. General Education courses (IDEAs in Action) are specifically excluded from counting toward these 15 hours. Additional coursework may be taken as needed to reach the 120‑hour requirement.",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Students must complete at least 15 hours in coursework taken outside the Kenan–Flagler Business School. General Education courses (IDEAs in Action) are specifically excluded from counting toward these 15 hours. Additional coursework may be taken as needed to reach the 120‑hour requirement. 15",
+     "id": "unc-business-administration-major-bsba-s13"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Business of Health\") that is not included",
+  "The page has another requirement table with its own total (\"Consulting\") that is not included",
+  "The page has another requirement table with its own total (\"Entrepreneurship\") that is not included",
+  "The page has another requirement table with its own total (\"Finance\") that is not included",
+  "The page has another requirement table with its own total (\"Managing People and Organizations\") that is not included",
+  "The page has another requirement table with its own total (\"Marketing\") that is not included",
+  "The page has another requirement table with its own total (\"Operations Management\") that is not included",
+  "The page has another requirement table with its own total (\"Real Estate\") that is not included",
+  "The page has another requirement table with its own total (\"Sustainability\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/business-administration-major-bsba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,509 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-communication-studies-major-ba",
+ "university": "unc",
+ "name": "Communication Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/communication-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMM 100 Communication and Social Process 3",
+     "options": [
+      [
+       "COMM 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMM 100 Communication and Social Process 3",
+     "id": "unc-communication-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three COMM courses at the 050-300 level within a chosen pathway (including a minimum of 2 starting point courses)",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three COMM courses at the 050-300 level within a chosen pathway (including a minimum of 2 starting point courses) 9",
+     "id": "unc-communication-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three COMM courses at the 400-600 level within a chosen pathway",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three COMM courses at the 400-600 level within a chosen pathway 9",
+     "id": "unc-communication-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three COMM electives (at any level and within any pathway)",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three COMM electives (at any level and within any pathway) 9",
+     "id": "unc-communication-studies-major-ba-s4"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "The 10 courses (30 hours) should also be apportioned in the following ways:",
+     "options": [
+      [
+       "COMM 53"
+      ],
+      [
+       "COMM 73"
+      ],
+      [
+       "COMM 75"
+      ],
+      [
+       "COMM 84"
+      ],
+      [
+       "COMM 89"
+      ],
+      [
+       "COMM 130"
+      ],
+      [
+       "COMM 150"
+      ],
+      [
+       "COMM 224"
+      ],
+      [
+       "COMM 230"
+      ],
+      [
+       "COMM 262"
+      ],
+      [
+       "COMM 263"
+      ],
+      [
+       "COMM 318"
+      ],
+      [
+       "COMM 345"
+      ],
+      [
+       "COMM 348"
+      ],
+      [
+       "COMM 349"
+      ],
+      [
+       "COMM 350"
+      ],
+      [
+       "COMM 355"
+      ],
+      [
+       "COMM 360"
+      ],
+      [
+       "COMM 390"
+      ],
+      [
+       "COMM 422"
+      ],
+      [
+       "COMM 431"
+      ],
+      [
+       "COMM 432"
+      ],
+      [
+       "COMM 464"
+      ],
+      [
+       "COMM 455"
+      ],
+      [
+       "COMM 471"
+      ],
+      [
+       "COMM 472"
+      ],
+      [
+       "COMM 490"
+      ],
+      [
+       "COMM 500"
+      ],
+      [
+       "COMM 620"
+      ],
+      [
+       "COMM 635"
+      ],
+      [
+       "COMM 638"
+      ],
+      [
+       "COMM 660"
+      ],
+      [
+       "COMM 666"
+      ],
+      [
+       "COMM 690"
+      ],
+      [
+       "COMM 695"
+      ],
+      [
+       "COMM 61"
+      ],
+      [
+       "COMM 62"
+      ],
+      [
+       "COMM 82"
+      ],
+      [
+       "COMM 83"
+      ],
+      [
+       "COMM 86"
+      ],
+      [
+       "COMM 89"
+      ],
+      [
+       "COMM 224"
+      ],
+      [
+       "COMM 260"
+      ],
+      [
+       "COMM 318"
+      ],
+      [
+       "COMM 345"
+      ],
+      [
+       "COMM 348"
+      ],
+      [
+       "COMM 349"
+      ],
+      [
+       "COMM 350"
+      ],
+      [
+       "COMM 360"
+      ],
+      [
+       "COMM 372"
+      ],
+      [
+       "COMM 378"
+      ],
+      [
+       "COMM 390"
+      ],
+      [
+       "COMM 423"
+      ],
+      [
+       "COMM 432"
+      ],
+      [
+       "COMM 437"
+      ],
+      [
+       "COMM 454"
+      ],
+      [
+       "COMM 463"
+      ],
+      [
+       "COMM 471"
+      ],
+      [
+       "COMM 490"
+      ],
+      [
+       "COMM 524"
+      ],
+      [
+       "COMM 526"
+      ],
+      [
+       "COMM 534"
+      ],
+      [
+       "COMM 549"
+      ],
+      [
+       "COMM 561"
+      ],
+      [
+       "COMM 562"
+      ],
+      [
+       "COMM 576"
+      ],
+      [
+       "COMM 577"
+      ],
+      [
+       "COMM 624"
+      ],
+      [
+       "COMM 635"
+      ],
+      [
+       "COMM 644"
+      ],
+      [
+       "COMM 650"
+      ],
+      [
+       "COMM 658"
+      ],
+      [
+       "COMM 661"
+      ],
+      [
+       "COMM 662"
+      ],
+      [
+       "COMM 665"
+      ],
+      [
+       "COMM 667"
+      ],
+      [
+       "COMM 690"
+      ],
+      [
+       "COMM 327"
+      ],
+      [
+       "COMM 378"
+      ],
+      [
+       "COMM 393"
+      ],
+      [
+       "COMM 396"
+      ],
+      [
+       "COMM 426"
+      ],
+      [
+       "COMM 473"
+      ],
+      [
+       "COMM 475"
+      ],
+      [
+       "COMM 537"
+      ],
+      [
+       "COMM 596"
+      ],
+      [
+       "COMM 625"
+      ],
+      [
+       "COMM 644"
+      ],
+      [
+       "COMM 647"
+      ],
+      [
+       "COMM 693H"
+      ],
+      [
+       "COMM 694H"
+      ],
+      [
+       "COMM 695"
+      ],
+      [
+       "COMM 660"
+      ]
+     ],
+     "pick": {
+      "hours": 30
+     },
+     "hours": null,
+     "raw": "The 10 courses (30 hours) should also be apportioned in the following ways:",
+     "id": "unc-communication-studies-major-ba-s5",
+     "altGroups": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+     ]
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "A minimum of 10 COMM courses, except for those students pursuing the new media option described below.",
+     "options": [
+      [
+       "COMM 100"
+      ],
+      [
+       "COMM 150"
+      ],
+      [
+       "COMM 250"
+      ],
+      [
+       "COMP 110"
+      ]
+     ],
+     "pick": {
+      "count": 10
+     },
+     "hours": null,
+     "raw": "A minimum of 10 COMM courses, except for those students pursuing the new media option described below.",
+     "id": "unc-communication-studies-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "List \"New Media\" has a rule that cannot be checked automatically: \"Select four (4) courses from one of the two pathway lists below.\""
+ ],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Three COMM courses at the 050-300 level within a chosen pathway (including a minimum of 2 starting point courses)\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Three COMM courses at the 400-600 level within a chosen pathway\"",
+  "Group \"The 10 courses (30 hours) should also be apportioned in the following ways:\" carries a note or open-ended option: \"At least six courses from a single Pathway.\"",
+  "List \"New Media\" has a row that is not a course and was not read: \"Select two (2) additional courses outside the Department of Communication (see list below)\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/communication-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

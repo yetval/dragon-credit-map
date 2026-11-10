@@ -1,0 +1,385 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-health-policy-management-major-bsph",
+ "university": "unc",
+ "name": "Health Policy and Management",
+ "degree": "B.S.P.H.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/health-policy-management-major-bsph/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 57,
+  "max": 59
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Public Health Core Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Public Health Core Courses:",
+     "id": "unc-health-policy-management-major-bsph-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIOS 600 Principles of Statistical Inference 3 or ECON 400 Introduction to Data Science and Econometrics",
+     "options": [
+      [
+       "BIOS 600"
+      ],
+      [
+       "ECON 400"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIOS 600 Principles of Statistical Inference 3 or ECON 400 Introduction to Data Science and Econometrics",
+     "id": "unc-health-policy-management-major-bsph-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "options": [
+      [
+       "EPID 600"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EPID 600 Principles of Epidemiology for Public Health 3",
+     "id": "unc-health-policy-management-major-bsph-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 351 Foundations of Public Health 3",
+     "options": [
+      [
+       "SPHG 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPHG 351 Foundations of Public Health 3",
+     "id": "unc-health-policy-management-major-bsph-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPHG 352 Public Health Systems and Solutions 4",
+     "options": [
+      [
+       "SPHG 352"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SPHG 352 Public Health Systems and Solutions 4",
+     "id": "unc-health-policy-management-major-bsph-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Health Policy Management Courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Health Policy Management Courses:",
+     "id": "unc-health-policy-management-major-bsph-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 501 HPM BSPH Professional Development Seminar 1",
+     "options": [
+      [
+       "HPM 501"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "HPM 501 HPM BSPH Professional Development Seminar 1",
+     "id": "unc-health-policy-management-major-bsph-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 502 Introduction to the U.S. Health System I 3",
+     "options": [
+      [
+       "HPM 502"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 502 Introduction to the U.S. Health System I 3",
+     "id": "unc-health-policy-management-major-bsph-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 503 Introduction to the U.S. Health System II 3",
+     "options": [
+      [
+       "HPM 503"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 503 Introduction to the U.S. Health System II 3",
+     "id": "unc-health-policy-management-major-bsph-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 510 Introduction to Health Law and Ethics 3",
+     "options": [
+      [
+       "HPM 510"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 510 Introduction to Health Law and Ethics 3",
+     "id": "unc-health-policy-management-major-bsph-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 520 Introduction to Strategic Planning and Marketing in Health Care 3",
+     "options": [
+      [
+       "HPM 520"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 520 Introduction to Strategic Planning and Marketing in Health Care 3",
+     "id": "unc-health-policy-management-major-bsph-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 530 Introduction to Health Organization Leadership, Management, and Behavior 3",
+     "options": [
+      [
+       "HPM 530"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 530 Introduction to Health Organization Leadership, Management, and Behavior 3",
+     "id": "unc-health-policy-management-major-bsph-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 540 Foundations of Health Care Financial Management 3",
+     "options": [
+      [
+       "HPM 540"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 540 Foundations of Health Care Financial Management 3",
+     "id": "unc-health-policy-management-major-bsph-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 541 Analytics in Health Systems 3",
+     "options": [
+      [
+       "HPM 541"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 541 Analytics in Health Systems 3",
+     "id": "unc-health-policy-management-major-bsph-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 570 Politics, Public Health, and Health Policy 3",
+     "options": [
+      [
+       "HPM 570"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 570 Politics, Public Health, and Health Policy 3",
+     "id": "unc-health-policy-management-major-bsph-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 593 Internship in Health Policy and Management (requires a $400.00 field training fee) 2",
+     "options": [
+      [
+       "HPM 593"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "HPM 593 Internship in Health Policy and Management (requires a $400.00 field training fee) 2",
+     "id": "unc-health-policy-management-major-bsph-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HPM 697 Health Policy and Management BSPH Capstone 3",
+     "options": [
+      [
+       "HPM 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HPM 697 Health Policy and Management BSPH Capstone 3",
+     "id": "unc-health-policy-management-major-bsph-s17"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-health-policy-management-major-bsph-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics 4",
+     "id": "unc-health-policy-management-major-bsph-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 120 Foundations of Statistics and Data Science 3-4 or STOR 155 Introduction to Data Models and Inference",
+     "options": [
+      [
+       "STOR 120"
+      ],
+      [
+       "STOR 155"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "STOR 120 Foundations of Statistics and Data Science 3-4 or STOR 155 Introduction to Data Models and Inference",
+     "id": "unc-health-policy-management-major-bsph-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following courses:",
+     "options": [
+      [
+       "MATH 130"
+      ],
+      [
+       "MATH 152"
+      ],
+      [
+       "MATH 231"
+      ],
+      [
+       "MATH 232"
+      ],
+      [
+       "MATH 233"
+      ],
+      [
+       "STOR 113"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One of the following courses: 3-4",
+     "id": "unc-health-policy-management-major-bsph-s21"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/health-policy-management-major-bsph/",
+  "fetchedAt": "2026-11-09"
+ }
+}

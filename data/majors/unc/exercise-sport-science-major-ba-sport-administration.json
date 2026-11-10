@@ -1,0 +1,192 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-exercise-sport-science-major-ba-sport-administration",
+ "university": "unc",
+ "name": "Exercise and Sport Science",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-ba-sport-administration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 34,
+  "max": 34
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 221 Introduction to Sport Administration 3",
+     "options": [
+      [
+       "EXSS 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 221 Introduction to Sport Administration 3",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 322 Fundamentals of Sport Marketing 3",
+     "options": [
+      [
+       "EXSS 322"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 322 Fundamentals of Sport Marketing 3",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 323 Sport Facility and Event Management 3",
+     "options": [
+      [
+       "EXSS 323"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 323 Sport Facility and Event Management 3",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 324 Finance and Economics of Sport 3",
+     "options": [
+      [
+       "EXSS 324"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 324 Finance and Economics of Sport 3",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 326 Legal Aspects of Sport 3",
+     "options": [
+      [
+       "EXSS 326"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 326 Legal Aspects of Sport 3",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 424 Sport Sales and Revenue Production Seminar 3",
+     "options": [
+      [
+       "EXSS 424"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 424 Sport Sales and Revenue Production Seminar 3",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Nine (9) additional credits must be earned in EXSS courses (at least one course, 3 hours, must be at the 200 level or above).",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "EXSS"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Nine (9) additional credits must be earned in EXSS courses (at least one course, 3 hours, must be at the 200 level or above). 9",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s7"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics (prerequisite for EXSS 324) 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics (prerequisite for EXSS 324) 4",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 151 Introduction to Data Analysis 3 or STOR 155 Introduction to Data Models and Inference or PSYC 210 Statistical Principles of Psychological Research",
+     "options": [
+      [
+       "STOR 151"
+      ],
+      [
+       "STOR 155"
+      ],
+      [
+       "PSYC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 151 Introduction to Data Analysis 3 or STOR 155 Introduction to Data Models and Inference or PSYC 210 Statistical Principles of Psychological Research",
+     "id": "unc-exercise-sport-science-major-ba-sport-administration-s9"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Row has a further condition that is not checked: \"Nine (9) additional credits must be earned in EXSS courses (at least one course, 3 hours, must be at the 200 level or above).\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-ba-sport-administration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Sport Administration"
+}

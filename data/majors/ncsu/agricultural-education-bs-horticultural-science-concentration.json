@@ -1,0 +1,895 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-agricultural-education-bs-horticultural-science-concentration",
+ "university": "ncsu",
+ "name": "Agricultural Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-education-bs-horticultural-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "AEE 103"
+      ],
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 103 Fundamentals of Agricultural and Extension Education 1 or ALS 103 First-year Success in Agriculture and Life Sciences or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing and Speaking",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 110 Public Speaking 3",
+     "options": [
+      [
+       "COM 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Agricultural Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 101 Introduction to Career and Technical Education 1",
+     "options": [
+      [
+       "AEE 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 101 Introduction to Career and Technical Education 1",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 206 Introduction to Teaching Agriculture 3",
+     "options": [
+      [
+       "AEE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 206 Introduction to Teaching Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "options": [
+      [
+       "AEE 226"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 226 Computer Applications and Information Technology in Agricultural & Extension Ed 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 303 Administration and Supervision of Student Organizations 3",
+     "options": [
+      [
+       "AEE 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 303 Administration and Supervision of Student Organizations 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 322 Experiential Learning in Agriculture 3",
+     "options": [
+      [
+       "AEE 322"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 322 Experiential Learning in Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 326 Teaching Diverse Learners in AED 3",
+     "options": [
+      [
+       "AEE 326"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 326 Teaching Diverse Learners in AED 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 327 Conducting Summer Programs in Agricultural Education 1",
+     "options": [
+      [
+       "AEE 327"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 327 Conducting Summer Programs in Agricultural Education 1",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 424 Planning Agricultural Educational Programs 3",
+     "options": [
+      [
+       "AEE 424"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 424 Planning Agricultural Educational Programs 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 426 Methods of Teaching Agriculture 3",
+     "options": [
+      [
+       "AEE 426"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEE 426 Methods of Teaching Agriculture 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 427 Student Teaching in Agriculture 8",
+     "options": [
+      [
+       "AEE 427"
+      ]
+     ],
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "AEE 427 Student Teaching in Agriculture 8",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEE 491 Seminar in Agricultural Education 1",
+     "options": [
+      [
+       "AEE 491"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "AEE 491 Seminar in Agricultural Education 1",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s16"
+    }
+   ]
+  },
+  {
+   "title": "Other Professional Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 Classroom Assessment Principles and Practices 2",
+     "options": [
+      [
+       "ED 311"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 311 Classroom Assessment Principles and Practices 2",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "options": [
+      [
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ED 312 Classroom Assessment Principles and Practices Professional Learning Lab 1",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s20"
+    }
+   ]
+  },
+  {
+   "title": "Teaching Content Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BAET 201 Shop Processes and Management 3 or TDE 110 Materials & Processes Technology",
+     "options": [
+      [
+       "BAET 201"
+      ],
+      [
+       "TDE 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BAET 201 Shop Processes and Management 3 or TDE 110 Materials & Processes Technology",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 150 & ANS 151 Introduction to Animal Science and Introduction to Animal Science Lab 4",
+     "options": [
+      [
+       "ANS 150",
+       "ANS 151"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ANS 150 & ANS 151 Introduction to Animal Science and Introduction to Animal Science Lab 4",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "options": [
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics Electives:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics Electives: 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "Horticulture Science Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 201 The World of Horticulture: Principles and Practices 3",
+     "options": [
+      [
+       "HS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 201 The World of Horticulture: Principles and Practices 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "HS 203 Home Plant Propagation 3 or HS 301 Plant Propagation",
+     "options": [
+      [
+       "HS 203"
+      ],
+      [
+       "HS 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 203 Home Plant Propagation 3 or HS 301 Plant Propagation",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CS 211 Plant Genetics 3 or HS 215 Agricultural Genetics",
+     "options": [
+      [
+       "CS 211"
+      ],
+      [
+       "HS 215"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CS 211 Plant Genetics 3 or HS 215 Agricultural Genetics",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "HS 411 Nursery Management 3 or HS 440 Greenhouse Management",
+     "options": [
+      [
+       "HS 411"
+      ],
+      [
+       "HS 440"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 411 Nursery Management 3 or HS 440 Greenhouse Management",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "HS 421"
+      ],
+      [
+       "HS 422"
+      ],
+      [
+       "HS 431"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Horticulture Science Elective",
+     "options": [
+      [
+       "ANS 215"
+      ],
+      [
+       "CS 410"
+      ],
+      [
+       "CS 480"
+      ],
+      [
+       "FS 462"
+      ],
+      [
+       "HS 200"
+      ],
+      [
+       "HS 201"
+      ],
+      [
+       "HS 202"
+      ],
+      [
+       "HS 203"
+      ],
+      [
+       "HS 204"
+      ],
+      [
+       "HS 205"
+      ],
+      [
+       "HS 215"
+      ],
+      [
+       "HS 242"
+      ],
+      [
+       "HS 250"
+      ],
+      [
+       "HS 252"
+      ],
+      [
+       "HS 272"
+      ],
+      [
+       "HS 275"
+      ],
+      [
+       "HS 280"
+      ],
+      [
+       "HS 301"
+      ],
+      [
+       "HS 302"
+      ],
+      [
+       "HS 303"
+      ],
+      [
+       "HS 304"
+      ],
+      [
+       "HS 357"
+      ],
+      [
+       "HS 400"
+      ],
+      [
+       "HS 410"
+      ],
+      [
+       "HS 411"
+      ],
+      [
+       "HS 416"
+      ],
+      [
+       "HS 418"
+      ],
+      [
+       "HS 420"
+      ],
+      [
+       "HS 421"
+      ],
+      [
+       "HS 422"
+      ],
+      [
+       "HS 428"
+      ],
+      [
+       "HS 431"
+      ],
+      [
+       "HS 432"
+      ],
+      [
+       "HS 433"
+      ],
+      [
+       "HS 440"
+      ],
+      [
+       "HS 442"
+      ],
+      [
+       "HS 451"
+      ],
+      [
+       "HS 462"
+      ],
+      [
+       "HS 471"
+      ],
+      [
+       "HS 476"
+      ],
+      [
+       "HS 480"
+      ],
+      [
+       "HS 491"
+      ],
+      [
+       "HS 492"
+      ],
+      [
+       "HS 493"
+      ],
+      [
+       "HS 494"
+      ],
+      [
+       "HS 495"
+      ],
+      [
+       "SSC 428"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Horticulture Science Elective 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s30"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses In The Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Mathematical Sciences 6",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s37"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s39"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Select 5 hours of Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Select 5 hours of Free Electives 5",
+     "id": "ncsu-agricultural-education-bs-horticultural-science-concentration-s40"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Select 5 hours of Free Electives\" carries a note or open-ended option: \"Total hours of free electives vary in order to allow the minimum hours required for the degree to equal 120 hours.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/agricultural-human-sciences/agricultural-education-bs-horticultural-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Horticultural Science Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

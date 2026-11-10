@@ -1,0 +1,340 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-nursing-major-bsn",
+ "university": "unc",
+ "name": "Nursing",
+ "degree": "B.S.N.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/nursing-major-bsn/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 60,
+  "max": 60
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 301 Building Effective Relationships in Healthcare: Carolina Core I 3",
+     "options": [
+      [
+       "NURS 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NURS 301 Building Effective Relationships in Healthcare: Carolina Core I 3",
+     "id": "unc-nursing-major-bsn-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 302 Research, Ethics, and Innovation: Carolina Core II 3",
+     "options": [
+      [
+       "NURS 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NURS 302 Research, Ethics, and Innovation: Carolina Core II 3",
+     "id": "unc-nursing-major-bsn-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 310 Clinical Nursing Skills and Health Assessment I: On Campus Clinical I 2",
+     "options": [
+      [
+       "NURS 310"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "NURS 310 Clinical Nursing Skills and Health Assessment I: On Campus Clinical I 2",
+     "id": "unc-nursing-major-bsn-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 311 Clinical Nursing Skills and Health Assessment II: On Campus Clinical II 1",
+     "options": [
+      [
+       "NURS 311"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NURS 311 Clinical Nursing Skills and Health Assessment II: On Campus Clinical II 1",
+     "id": "unc-nursing-major-bsn-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 330 Nursing Care of Adults I 4",
+     "options": [
+      [
+       "NURS 330"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NURS 330 Nursing Care of Adults I 4",
+     "id": "unc-nursing-major-bsn-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 351 Pathophysiology/Pharmacology Across the Lifespan I 3",
+     "options": [
+      [
+       "NURS 351"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NURS 351 Pathophysiology/Pharmacology Across the Lifespan I 3",
+     "id": "unc-nursing-major-bsn-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 352 Pathophysiology/Pharmacology Across the Lifespan II 3",
+     "options": [
+      [
+       "NURS 352"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NURS 352 Pathophysiology/Pharmacology Across the Lifespan II 3",
+     "id": "unc-nursing-major-bsn-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 384 Family Focused Genomic Health Care 1",
+     "options": [
+      [
+       "NURS 384"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NURS 384 Family Focused Genomic Health Care 1",
+     "id": "unc-nursing-major-bsn-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 401 Integrating Principles of Leadership, Quality and Safety, and Informatics into Nursing Practice 3",
+     "options": [
+      [
+       "NURS 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NURS 401 Integrating Principles of Leadership, Quality and Safety, and Informatics into Nursing Practice 3",
+     "id": "unc-nursing-major-bsn-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 402 Foundations of Population Health and Global Health: Carolina Core IV 2",
+     "options": [
+      [
+       "NURS 402"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "NURS 402 Foundations of Population Health and Global Health: Carolina Core IV 2",
+     "id": "unc-nursing-major-bsn-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 410 Clinical Nursing Skills and Health Assessment III: On Campus Clinical III 1",
+     "options": [
+      [
+       "NURS 410"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NURS 410 Clinical Nursing Skills and Health Assessment III: On Campus Clinical III 1",
+     "id": "unc-nursing-major-bsn-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 411 Clinical Nursing Skills and Health Assessment IV: On Campus Clinical IV 1",
+     "options": [
+      [
+       "NURS 411"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NURS 411 Clinical Nursing Skills and Health Assessment IV: On Campus Clinical IV 1",
+     "id": "unc-nursing-major-bsn-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 430 Nursing Care of Adults II 5",
+     "options": [
+      [
+       "NURS 430"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "NURS 430 Nursing Care of Adults II 5",
+     "id": "unc-nursing-major-bsn-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 481 Mental Health Promotion and Psychiatric Care Across Populations and Settings 5",
+     "options": [
+      [
+       "NURS 481"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "NURS 481 Mental Health Promotion and Psychiatric Care Across Populations and Settings 5",
+     "id": "unc-nursing-major-bsn-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 482 Reproductive Health and Nursing Care of the Childbearing Family 5",
+     "options": [
+      [
+       "NURS 482"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "NURS 482 Reproductive Health and Nursing Care of the Childbearing Family 5",
+     "id": "unc-nursing-major-bsn-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 483 Family-Centered Nursing Care from Birth through Adolescence 5",
+     "options": [
+      [
+       "NURS 483"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "NURS 483 Family-Centered Nursing Care from Birth through Adolescence 5",
+     "id": "unc-nursing-major-bsn-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 484 Public Health Nursing in Community Settings 4",
+     "options": [
+      [
+       "NURS 484"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NURS 484 Public Health Nursing in Community Settings 4",
+     "id": "unc-nursing-major-bsn-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NURS 697 Capstone: Transitions in Care and Practice 6",
+     "options": [
+      [
+       "NURS 697"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "NURS 697 Capstone: Transitions in Care and Practice 6",
+     "id": "unc-nursing-major-bsn-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "NURS--- Required NURS elective",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "NURS"
+      ]
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NURS--- Required NURS elective 3",
+     "id": "unc-nursing-major-bsn-s19"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"B.S.N. Option Plan of Study (Five Semesters)\") that is not included",
+  "The page has another requirement table with its own total (\"A.B.S. N. Option Plan of Study (Four Semesters)\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": true,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/nursing-major-bsn/",
+  "fetchedAt": "2026-11-09"
+ }
+}

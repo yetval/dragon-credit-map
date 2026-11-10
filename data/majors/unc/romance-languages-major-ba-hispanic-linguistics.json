@@ -1,0 +1,169 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-romance-languages-major-ba-hispanic-linguistics",
+ "university": "unc",
+ "name": "Romance Languages",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-hispanic-linguistics/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 24,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SPAN 300 Grammar and Structure of Spanish 3",
+     "options": [
+      [
+       "SPAN 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPAN 300 Grammar and Structure of Spanish 3",
+     "id": "unc-romance-languages-major-ba-hispanic-linguistics-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two introductory Hispanic linguistics courses:",
+     "options": [
+      [
+       "SPAN 360"
+      ],
+      [
+       "SPAN 376"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two introductory Hispanic linguistics courses: 6",
+     "id": "unc-romance-languages-major-ba-hispanic-linguistics-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course in a language relevant to Spanish chosen from:",
+     "options": [
+      [
+       "PORT 401"
+      ],
+      [
+       "SPAN 414"
+      ],
+      [
+       "SPAN 416"
+      ],
+      [
+       "ROML 461"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in a language relevant to Spanish chosen from: 3",
+     "id": "unc-romance-languages-major-ba-hispanic-linguistics-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Four additional courses chosen from the following:",
+     "options": [
+      [
+       "PORT 402"
+      ],
+      [
+       "SPAN 375"
+      ],
+      [
+       "SPAN 378"
+      ],
+      [
+       "SPAN 397"
+      ],
+      [
+       "SPAN 415"
+      ],
+      [
+       "SPAN 417"
+      ],
+      [
+       "ROML 462"
+      ],
+      [
+       "ROML 578"
+      ],
+      [
+       "SPAN 621"
+      ],
+      [
+       "SPAN 676"
+      ],
+      [
+       "SPAN 677"
+      ],
+      [
+       "SPAN 678"
+      ],
+      [
+       "SPAN 679"
+      ],
+      [
+       "SPAN 680"
+      ],
+      [
+       "SPAN 681"
+      ],
+      [
+       "SPAN 682"
+      ],
+      [
+       "SPAN 683"
+      ],
+      [
+       "SPAN 684"
+      ]
+     ],
+     "pick": {
+      "count": 4
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four additional courses chosen from the following: 12",
+     "id": "unc-romance-languages-major-ba-hispanic-linguistics-s4"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-hispanic-linguistics/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Hispanic Linguistics"
+}

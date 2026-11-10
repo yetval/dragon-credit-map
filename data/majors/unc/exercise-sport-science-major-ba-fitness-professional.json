@@ -1,0 +1,235 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-exercise-sport-science-major-ba-fitness-professional",
+ "university": "unc",
+ "name": "Exercise and Sport Science",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-ba-fitness-professional/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 43,
+  "max": 43
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 155 & EXSS 256 Human Anatomy and Physiology I and Human Anatomy and Physiology II 6",
+     "options": [
+      [
+       "EXSS 155",
+       "EXSS 256"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "EXSS 155 & EXSS 256 Human Anatomy and Physiology I and Human Anatomy and Physiology II 6",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 220 Fitness Management 3",
+     "options": [
+      [
+       "EXSS 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 220 Fitness Management 3",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 360 Sports Nutrition 3",
+     "options": [
+      [
+       "EXSS 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 360 Sports Nutrition 3",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 376 Physiological Basis of Human Performance 4",
+     "options": [
+      [
+       "EXSS 376"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "EXSS 376 Physiological Basis of Human Performance 4",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EXSS 380 Neuromuscular Control and Learning 3 or EXSS 385 Biomechanics of Sport",
+     "options": [
+      [
+       "EXSS 380"
+      ],
+      [
+       "EXSS 385"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 380 Neuromuscular Control and Learning 3 or EXSS 385 Biomechanics of Sport",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EXSS 408 Theory and Application of Strength Training and Conditioning for Fitness Professionals 3 or EXSS 478 Sports Performance Training",
+     "options": [
+      [
+       "EXSS 408"
+      ],
+      [
+       "EXSS 478"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 408 Theory and Application of Strength Training and Conditioning for Fitness Professionals 3 or EXSS 478 Sports Performance Training",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 410 Exercise Testing and Prescription 4",
+     "options": [
+      [
+       "EXSS 410"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "EXSS 410 Exercise Testing and Prescription 4",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EXSS 593 Practicum in Physical Fitness and Wellness 3",
+     "options": [
+      [
+       "EXSS 593"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EXSS 593 Practicum in Physical Fitness and Wellness 3",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two courses from the following options:",
+     "options": [
+      [
+       "EXSS 593"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two courses from the following options: 6",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s9"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one:",
+     "options": [
+      [
+       "BIOC 107"
+      ],
+      [
+       "CHEM 101",
+       "CHEM 101L"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one: 4",
+     "id": "unc-exercise-sport-science-major-ba-fitness-professional-s11"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Select two courses from the following options:\" carries a note or open-ended option: \"Additional EXSS elective course(s) excluding first-year seminars\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/exercise-sport-science-major-ba-fitness-professional/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Fitness Professional"
+}

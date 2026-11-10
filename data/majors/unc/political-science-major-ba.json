@@ -1,0 +1,235 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-political-science-major-ba",
+ "university": "unc",
+ "name": "Political Science",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/political-science-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 27
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:",
+     "options": [],
+     "hours": null,
+     "raw": "Nine courses, including the following courses and including at least one 400-level political science (POLI) course:",
+     "id": "unc-political-science-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "POLI 100 American Democracy in Changing Times 3",
+     "options": [
+      [
+       "POLI 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "POLI 100 American Democracy in Changing Times 3",
+     "id": "unc-political-science-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "POLI 150 International Relations and Global Politics 3",
+     "options": [
+      [
+       "POLI 150"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "POLI 150 International Relations and Global Politics 3",
+     "id": "unc-political-science-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course in comparative politics chosen from:",
+     "options": [
+      [
+       "POLI 130"
+      ],
+      [
+       "POLI 232"
+      ],
+      [
+       "POLI 233"
+      ],
+      [
+       "POLI 234"
+      ],
+      [
+       "POLI 235"
+      ],
+      [
+       "POLI 236"
+      ],
+      [
+       "POLI 237"
+      ],
+      [
+       "POLI 238"
+      ],
+      [
+       "POLI 239"
+      ],
+      [
+       "POLI 241"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in comparative politics chosen from: 3",
+     "id": "unc-political-science-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course in political theory chosen from:",
+     "options": [
+      [
+       "POLI 265"
+      ],
+      [
+       "POLI 270"
+      ],
+      [
+       "POLI 271"
+      ],
+      [
+       "POLI 272"
+      ],
+      [
+       "POLI 275"
+      ],
+      [
+       "POLI 276"
+      ],
+      [
+       "POLI 280"
+      ],
+      [
+       "POLI 470"
+      ],
+      [
+       "POLI 471"
+      ],
+      [
+       "POLI 472"
+      ],
+      [
+       "POLI 475"
+      ],
+      [
+       "POLI 476"
+      ],
+      [
+       "POLI 478"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in political theory chosen from: 3",
+     "id": "unc-political-science-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course in research methods chosen from:",
+     "options": [
+      [
+       "POLI 209"
+      ],
+      [
+       "POLI 281"
+      ],
+      [
+       "POLI 285"
+      ],
+      [
+       "POLI 287"
+      ],
+      [
+       "POLI 288"
+      ],
+      [
+       "POLI 381"
+      ],
+      [
+       "POLI 417"
+      ],
+      [
+       "POLI 487"
+      ],
+      [
+       "POLI 488"
+      ],
+      [
+       "POLI 691H"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in research methods chosen from: 3",
+     "id": "unc-political-science-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four political science (POLI) electives at the 100 level or above",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four political science (POLI) electives at the 100 level or above 12",
+     "id": "unc-political-science-major-ba-s7"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Nine courses, including the following courses and including at least one 400-level political science (POLI) course:\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Four political science (POLI) electives at the 100 level or above\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/political-science-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

@@ -1,0 +1,840 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-music-technology-bs",
+ "university": "ncsu",
+ "name": "Music Technology",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/university-college/music/music-technology-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Musicianship Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 103 Theory and Musicianship I 3",
+     "options": [
+      [
+       "MUS 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUS 103 Theory and Musicianship I 3",
+     "id": "ncsu-music-technology-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 104 Theory and Musicianship Lab I 1",
+     "options": [
+      [
+       "MUS 104"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUS 104 Theory and Musicianship Lab I 1",
+     "id": "ncsu-music-technology-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 107 Keyboard Skills I 1",
+     "options": [
+      [
+       "MUS 107"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUS 107 Keyboard Skills I 1",
+     "id": "ncsu-music-technology-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 153 Theory and Musicianship II 3",
+     "options": [
+      [
+       "MUS 153"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUS 153 Theory and Musicianship II 3",
+     "id": "ncsu-music-technology-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 154 Theory and Musicianship Lab II 1",
+     "options": [
+      [
+       "MUS 154"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUS 154 Theory and Musicianship Lab II 1",
+     "id": "ncsu-music-technology-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 200 Understanding Music: Global Perspectives 3",
+     "options": [
+      [
+       "MUS 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUS 200 Understanding Music: Global Perspectives 3",
+     "id": "ncsu-music-technology-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 203 Theory and Musicianship III 3",
+     "options": [
+      [
+       "MUS 203"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUS 203 Theory and Musicianship III 3",
+     "id": "ncsu-music-technology-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 204 Theory and Musicianship Lab III 1",
+     "options": [
+      [
+       "MUS 204"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUS 204 Theory and Musicianship Lab III 1",
+     "id": "ncsu-music-technology-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 207 Keyboard Skills II 1",
+     "options": [
+      [
+       "MUS 207"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUS 207 Keyboard Skills II 1",
+     "id": "ncsu-music-technology-bs-s9"
+    }
+   ]
+  },
+  {
+   "title": "Applied Study",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 193 Applied Music Lessons I (2 Semesters) 2",
+     "options": [
+      [
+       "MUS 193"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MUS 193 Applied Music Lessons I (2 Semesters) 2",
+     "id": "ncsu-music-technology-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 293 Applied Music Lessons II (2 Semesters) 2",
+     "options": [
+      [
+       "MUS 293"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MUS 293 Applied Music Lessons II (2 Semesters) 2",
+     "id": "ncsu-music-technology-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 393 Recital 1",
+     "options": [
+      [
+       "MUS 393"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUS 393 Recital 1",
+     "id": "ncsu-music-technology-bs-s12"
+    }
+   ]
+  },
+  {
+   "title": "Ensemble Study",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Four Semesters of approved ensemble from:",
+     "options": [
+      [
+       "MUS 111"
+      ],
+      [
+       "MUS 112"
+      ],
+      [
+       "MUS 113"
+      ],
+      [
+       "MUS 115"
+      ],
+      [
+       "MUS 121"
+      ],
+      [
+       "MUS 122"
+      ],
+      [
+       "MUS 134"
+      ],
+      [
+       "MUS 135"
+      ],
+      [
+       "MUS 136"
+      ],
+      [
+       "MUS 141"
+      ],
+      [
+       "MUS 142"
+      ],
+      [
+       "MUS 143"
+      ],
+      [
+       "MUS 144"
+      ]
+     ],
+     "pick": {
+      "count": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Four Semesters of approved ensemble from: 4",
+     "id": "ncsu-music-technology-bs-s13"
+    }
+   ]
+  },
+  {
+   "title": "Additional Study",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 240 Introduction to the Music Industry 3",
+     "options": [
+      [
+       "MUS 240"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUS 240 Introduction to the Music Industry 3",
+     "id": "ncsu-music-technology-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUS 340 From Wax Cylinders to AI: Music Technology in Modern History 3",
+     "options": [
+      [
+       "MUS 340"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUS 340 From Wax Cylinders to AI: Music Technology in Modern History 3",
+     "id": "ncsu-music-technology-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMA 370 Practical Arts Entrepreneurship 3",
+     "options": [
+      [
+       "EMA 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMA 370 Practical Arts Entrepreneurship 3",
+     "id": "ncsu-music-technology-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 100 Design Inquiry I: Methods and Processes 3",
+     "options": [
+      [
+       "D 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "D 100 Design Inquiry I: Methods and Processes 3",
+     "id": "ncsu-music-technology-bs-s17"
+    }
+   ]
+  },
+  {
+   "title": "Math and Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-music-technology-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-music-technology-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-music-technology-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-music-technology-bs-s21"
+    }
+   ]
+  },
+  {
+   "title": "Electrical & Computer Engineering Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 109 Introduction to Computer Systems 3",
+     "options": [
+      [
+       "ECE 109"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 109 Introduction to Computer Systems 3",
+     "id": "ncsu-music-technology-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 200 Introduction to Signals, Circuits and Systems 4",
+     "options": [
+      [
+       "ECE 200"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECE 200 Introduction to Signals, Circuits and Systems 4",
+     "id": "ncsu-music-technology-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 209 Computer Systems Programming 3",
+     "options": [
+      [
+       "ECE 209"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 209 Computer Systems Programming 3",
+     "id": "ncsu-music-technology-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 212 Fundamentals of Logic Design 3",
+     "options": [
+      [
+       "ECE 212"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 212 Fundamentals of Logic Design 3",
+     "id": "ncsu-music-technology-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 220 Analytical Foundations of Electrical and Computer Engineering 3",
+     "options": [
+      [
+       "ECE 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 220 Analytical Foundations of Electrical and Computer Engineering 3",
+     "id": "ncsu-music-technology-bs-s26"
+    }
+   ]
+  },
+  {
+   "title": "Music Technology Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 303 Introduction to Audio Technology I 3",
+     "options": [
+      [
+       "MUT 303"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 303 Introduction to Audio Technology I 3",
+     "id": "ncsu-music-technology-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 304 Introduction to Audio Technology II 3",
+     "options": [
+      [
+       "MUT 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 304 Introduction to Audio Technology II 3",
+     "id": "ncsu-music-technology-bs-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 315 Music Acoustics & Psychoacoustics 3",
+     "options": [
+      [
+       "MUT 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 315 Music Acoustics & Psychoacoustics 3",
+     "id": "ncsu-music-technology-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 316 Music Acoustics & Psychoacoustics Lab 1",
+     "options": [
+      [
+       "MUT 316"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MUT 316 Music Acoustics & Psychoacoustics Lab 1",
+     "id": "ncsu-music-technology-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 403 Music Recording & Mixing 3",
+     "options": [
+      [
+       "MUT 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 403 Music Recording & Mixing 3",
+     "id": "ncsu-music-technology-bs-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 431 Music Technology I 3",
+     "options": [
+      [
+       "MUT 431"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 431 Music Technology I 3",
+     "id": "ncsu-music-technology-bs-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 432 Music Technology II 3",
+     "options": [
+      [
+       "MUT 432"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 432 Music Technology II 3",
+     "id": "ncsu-music-technology-bs-s33"
+    }
+   ]
+  },
+  {
+   "title": "Capstone",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 461 Music Technology Senior Project I 3",
+     "options": [
+      [
+       "MUT 461"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 461 Music Technology Senior Project I 3",
+     "id": "ncsu-music-technology-bs-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MUT 462 Music Technology Senior Project II 3",
+     "options": [
+      [
+       "MUT 462"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MUT 462 Music Technology Senior Project II 3",
+     "id": "ncsu-music-technology-bs-s35"
+    }
+   ]
+  },
+  {
+   "title": "Electronics and Circuits Concentration",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Pick one of the following courses:",
+     "options": [
+      [
+       "ECE 301"
+      ],
+      [
+       "ECE 302"
+      ],
+      [
+       "ECE 306"
+      ],
+      [
+       "ECE 309"
+      ],
+      [
+       "ECE 310"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Pick one of the following courses: 3",
+     "id": "ncsu-music-technology-bs-s36"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-music-technology-bs-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-music-technology-bs-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-music-technology-bs-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-music-technology-bs-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-music-technology-bs-s41"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy",
+     "id": "ncsu-music-technology-bs-s42"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge",
+     "id": "ncsu-music-technology-bs-s43"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "Free Elective 1",
+     "id": "ncsu-music-technology-bs-s44"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/university-college/music/music-technology-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "University College"
+}

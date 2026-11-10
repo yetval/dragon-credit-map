@@ -1,0 +1,1151 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-animal-science-bs-industry-concentration",
+ "university": "ncsu",
+ "name": "Animal Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/animal-science/animal-science-bs-industry-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-animal-science-bs-industry-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematical & Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 107 Precalculus I 3",
+     "options": [
+      [
+       "MA 107"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 107 Precalculus I 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 311 Introduction to Statistics 3 or ST 350 Economics and Business Statistics",
+     "options": [
+      [
+       "ST 311"
+      ],
+      [
+       "ST 350"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3 or ST 350 Economics and Business Statistics",
+     "id": "ncsu-animal-science-bs-industry-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-animal-science-bs-industry-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-animal-science-bs-industry-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-animal-science-bs-industry-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ANS 215 Agricultural Genetics 3 or GN 311 Principles of Genetics",
+     "options": [
+      [
+       "ANS 215"
+      ],
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANS 215 Agricultural Genetics 3 or GN 311 Principles of Genetics",
+     "id": "ncsu-animal-science-bs-industry-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 150 Introduction to Animal Science 3",
+     "options": [
+      [
+       "ANS 150"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANS 150 Introduction to Animal Science 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 151 Introduction to Animal Science Lab 1",
+     "options": [
+      [
+       "ANS 151"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ANS 151 Introduction to Animal Science Lab 1",
+     "id": "ncsu-animal-science-bs-industry-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 205 Physiology of Domestic Animals 3",
+     "options": [
+      [
+       "ANS 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ANS 205 Physiology of Domestic Animals 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 206 Anatomy of Domestic Animals Lab 1",
+     "options": [
+      [
+       "ANS 206"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ANS 206 Anatomy of Domestic Animals Lab 1",
+     "id": "ncsu-animal-science-bs-industry-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 220 & ANS 221 Reproductive Physiology and Reproductive Physiology Lab 4",
+     "options": [
+      [
+       "ANS 220",
+       "ANS 221"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ANS 220 & ANS 221 Reproductive Physiology and Reproductive Physiology Lab 4",
+     "id": "ncsu-animal-science-bs-industry-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ANS 230 & ANS 231 Animal Nutrition and Animal Nutrition Lab 4",
+     "options": [
+      [
+       "ANS 230",
+       "ANS 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ANS 230 & ANS 231 Animal Nutrition and Animal Nutrition Lab 4",
+     "id": "ncsu-animal-science-bs-industry-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select two of the following Animal Management courses:",
+     "options": [
+      [
+       "ANS 400"
+      ],
+      [
+       "ANS 402"
+      ],
+      [
+       "ANS 403"
+      ],
+      [
+       "ANS 404"
+      ],
+      [
+       "ANS 407"
+      ],
+      [
+       "ANS 408"
+      ],
+      [
+       "ANS 410"
+      ],
+      [
+       "ANS 411"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select two of the following Animal Management courses: 6",
+     "id": "ncsu-animal-science-bs-industry-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Animal Science Discipline Elective",
+     "options": [
+      [
+       "ANS 415"
+      ],
+      [
+       "ANS 425"
+      ],
+      [
+       "ANS 435"
+      ],
+      [
+       "ANS 437"
+      ],
+      [
+       "ANS 439"
+      ],
+      [
+       "ANS 440"
+      ],
+      [
+       "ANS 452"
+      ],
+      [
+       "ANS 453"
+      ],
+      [
+       "ANS 454"
+      ],
+      [
+       "ANS 515"
+      ],
+      [
+       "ANS 525"
+      ],
+      [
+       "ANS 540"
+      ],
+      [
+       "ANS 550"
+      ],
+      [
+       "ANS 552"
+      ],
+      [
+       "ANS 553"
+      ],
+      [
+       "ANS 554"
+      ],
+      [
+       "ANS 561"
+      ],
+      [
+       "ANS 571"
+      ],
+      [
+       "ANS 590"
+      ],
+      [
+       "BCH 571"
+      ],
+      [
+       "FM 425"
+      ],
+      [
+       "FM 525"
+      ],
+      [
+       "NTR 415"
+      ],
+      [
+       "NTR 419"
+      ],
+      [
+       "NTR 425"
+      ],
+      [
+       "NTR 454"
+      ],
+      [
+       "NTR 515"
+      ],
+      [
+       "NTR 525"
+      ],
+      [
+       "NTR 550"
+      ],
+      [
+       "NTR 561"
+      ],
+      [
+       "PHY 452"
+      ],
+      [
+       "PHY 552"
+      ],
+      [
+       "PO 415"
+      ],
+      [
+       "PO 425"
+      ],
+      [
+       "PO 515"
+      ],
+      [
+       "PO 525"
+      ],
+      [
+       "VMP 420"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Animal Science Discipline Elective 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Animal Science Electives",
+     "options": [
+      [
+       "ANS 243A"
+      ],
+      [
+       "VMP 420"
+      ],
+      [
+       "AEE 208"
+      ],
+      [
+       "ANS 105"
+      ],
+      [
+       "ANS 110"
+      ],
+      [
+       "ANS 150"
+      ],
+      [
+       "ANS 151"
+      ],
+      [
+       "ANS 201"
+      ],
+      [
+       "ANS 205"
+      ],
+      [
+       "ANS 206"
+      ],
+      [
+       "ANS 208"
+      ],
+      [
+       "ANS 215"
+      ],
+      [
+       "ANS 220"
+      ],
+      [
+       "ANS 221"
+      ],
+      [
+       "ANS 230"
+      ],
+      [
+       "ANS 231"
+      ],
+      [
+       "ANS 240"
+      ],
+      [
+       "ANS 240A"
+      ],
+      [
+       "ANS 241"
+      ],
+      [
+       "ANS 241A"
+      ],
+      [
+       "ANS 242"
+      ],
+      [
+       "ANS 242A"
+      ],
+      [
+       "ANS 243"
+      ],
+      [
+       "ANS 260"
+      ],
+      [
+       "ANS 261"
+      ],
+      [
+       "ANS 262"
+      ],
+      [
+       "ANS 263"
+      ],
+      [
+       "ANS 264"
+      ],
+      [
+       "ANS 265"
+      ],
+      [
+       "ANS 266"
+      ],
+      [
+       "ANS 267"
+      ],
+      [
+       "ANS 268"
+      ],
+      [
+       "ANS 269"
+      ],
+      [
+       "ANS 270"
+      ],
+      [
+       "ANS 271"
+      ],
+      [
+       "ANS 281"
+      ],
+      [
+       "ANS 290"
+      ],
+      [
+       "ANS 303"
+      ],
+      [
+       "ANS 304"
+      ],
+      [
+       "ANS 309"
+      ],
+      [
+       "ANS 322"
+      ],
+      [
+       "ANS 324"
+      ],
+      [
+       "ANS 330"
+      ],
+      [
+       "ANS 395"
+      ],
+      [
+       "ANS 400"
+      ],
+      [
+       "ANS 402"
+      ],
+      [
+       "ANS 403"
+      ],
+      [
+       "ANS 404"
+      ],
+      [
+       "ANS 408"
+      ],
+      [
+       "ANS 410"
+      ],
+      [
+       "ANS 411"
+      ],
+      [
+       "ANS 415"
+      ],
+      [
+       "ANS 425"
+      ],
+      [
+       "ANS 440"
+      ],
+      [
+       "ANS 452"
+      ],
+      [
+       "ANS 453"
+      ],
+      [
+       "ANS 454"
+      ],
+      [
+       "ANS 495"
+      ],
+      [
+       "ANS 515"
+      ],
+      [
+       "ANS 525"
+      ],
+      [
+       "ANS 540"
+      ],
+      [
+       "ANS 550"
+      ],
+      [
+       "ANS 552"
+      ],
+      [
+       "ANS 553"
+      ],
+      [
+       "ANS 554"
+      ],
+      [
+       "ANS 561"
+      ],
+      [
+       "ANS 571"
+      ],
+      [
+       "ANS 590"
+      ],
+      [
+       "BCH 571"
+      ],
+      [
+       "FM 425"
+      ],
+      [
+       "FM 525"
+      ],
+      [
+       "FS 322"
+      ],
+      [
+       "FS 324"
+      ],
+      [
+       "FS 435"
+      ],
+      [
+       "FS 535"
+      ],
+      [
+       "HS 215"
+      ],
+      [
+       "NTR 415"
+      ],
+      [
+       "NTR 419"
+      ],
+      [
+       "NTR 425"
+      ],
+      [
+       "NTR 454"
+      ],
+      [
+       "NTR 515"
+      ],
+      [
+       "NTR 525"
+      ],
+      [
+       "NTR 550"
+      ],
+      [
+       "NTR 561"
+      ],
+      [
+       "PB 208"
+      ],
+      [
+       "PHY 452"
+      ],
+      [
+       "PHY 552"
+      ],
+      [
+       "PO 322"
+      ],
+      [
+       "PO 415"
+      ],
+      [
+       "PO 425"
+      ],
+      [
+       "PO 515"
+      ],
+      [
+       "PO 525"
+      ]
+     ],
+     "pick": {
+      "hours": 5
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Animal Science Electives 5",
+     "id": "ncsu-animal-science-bs-industry-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics Courses:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 202"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics Courses: 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s19"
+    }
+   ]
+  },
+  {
+   "title": "Industry Option Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "MA 114"
+      ],
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ],
+      [
+       "CH 220",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-animal-science-bs-industry-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 131 Conceptual Physics 4 or PY 211 College Physics I",
+     "options": [
+      [
+       "PY 131"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 131 Conceptual Physics 4 or PY 211 College Physics I",
+     "id": "ncsu-animal-science-bs-industry-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following BUS Management or Marketing Elective Courses:",
+     "options": [
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following BUS Management or Marketing Elective Courses: 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics or BUS Electives",
+     "options": [
+      [
+       "ACC 210"
+      ],
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 280"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 303"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 311"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 332"
+      ],
+      [
+       "BUS 320"
+      ],
+      [
+       "BUS 360"
+      ],
+      [
+       "MIE 310"
+      ],
+      [
+       "MIE 330"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Economics or BUS Electives 6",
+     "id": "ncsu-animal-science-bs-industry-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-animal-science-bs-industry-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-animal-science-bs-industry-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-animal-science-bs-industry-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-animal-science-bs-industry-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-animal-science-bs-industry-concentration-s30"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-animal-science-bs-industry-concentration-s31"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-animal-science-bs-industry-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-animal-science-bs-industry-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "CALS Group A, B, or C",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "CALS Group A, B, or C",
+     "options": [],
+     "hours": {
+      "min": 11,
+      "max": 11
+     },
+     "raw": "CALS Group A, B, or C 11",
+     "id": "ncsu-animal-science-bs-industry-concentration-s34"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 8",
+     "id": "ncsu-animal-science-bs-industry-concentration-s35"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Animal Science Discipline Elective\" has codes with no catalog link: PHY 452",
+  "List \"Animal Science Electives\" has codes with no catalog link: PHY 452",
+  "Group \"CALS Group A, B, or C\" carries a note or open-ended option: \"Courses for the Minor in Agricultural Business Management fulfill this requirement.\"",
+  "Codes in choice lists not found in the course catalog: PHY 452, PHY 552"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/animal-science/animal-science-bs-industry-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Industry Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

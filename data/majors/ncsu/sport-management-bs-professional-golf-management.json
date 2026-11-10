@@ -1,0 +1,803 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-sport-management-bs-professional-golf-management",
+ "university": "ncsu",
+ "name": "Sport Management",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/parks-recreation-tourism-management/sport-management-bs-professional-golf-management/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 150 Recreation, Sport, Tourism, and Event Management Orientation 1",
+     "options": [
+      [
+       "PRT 150"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PRT 150 Recreation, Sport, Tourism, and Event Management Orientation 1",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 156 Professional Golf Management Orientation 3",
+     "options": [
+      [
+       "PRT 156"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 156 Professional Golf Management Orientation 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 266 Introduction to Sport Management 3",
+     "options": [
+      [
+       "PRT 266"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 266 Introduction to Sport Management 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Mathematics Elective",
+     "options": [
+      [
+       "MA 105"
+      ],
+      [
+       "MA 107"
+      ],
+      [
+       "MA 111"
+      ],
+      [
+       "MA 114"
+      ],
+      [
+       "MA 121"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Mathematics Elective 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "FLE 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 210 Golf Management I 1",
+     "options": [
+      [
+       "PRT 210"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PRT 210 Golf Management I 1",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COM 110 Public Speaking 3",
+     "options": [
+      [
+       "COM 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 250 Facilities Management in Parks, Recreation, Tourism and Event Management 3",
+     "options": [
+      [
+       "PRT 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 250 Facilities Management in Parks, Recreation, Tourism and Event Management 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics courses:",
+     "options": [
+      [
+       "EC 205"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "ARE 201"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics courses: 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 238 Principles of Community Engagement 3",
+     "options": [
+      [
+       "PRT 238"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 238 Principles of Community Engagement 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COP 100 Co-Op Work lst Alt 0",
+     "options": [
+      [
+       "COP 100"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COP 100 Co-Op Work lst Alt 0",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 211 Golf Management II 1",
+     "options": [
+      [
+       "PRT 211"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PRT 211 Golf Management II 1",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 201 Introduction to Business 3",
+     "options": [
+      [
+       "MIE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 201 Introduction to Business 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 286 Writing and Speaking in Sports Organizations 3",
+     "options": [
+      [
+       "PRT 286"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 286 Writing and Speaking in Sports Organizations 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 375 Professional Development and Internship Orientation 2",
+     "options": [
+      [
+       "PRT 375"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PRT 375 Professional Development and Internship Orientation 2",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 212 Golf Instructor Development 2",
+     "options": [
+      [
+       "PRT 212"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PRT 212 Golf Instructor Development 2",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 277 Sport in a Changing Society 3",
+     "options": [
+      [
+       "PRT 277"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 277 Sport in a Changing Society 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COP 200 Co-Op Work 2nd Alt 0",
+     "options": [
+      [
+       "COP 200"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COP 200 Co-Op Work 2nd Alt 0",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COP 300 Co-Op Work 3rd Alt 0",
+     "options": [
+      [
+       "COP 300"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COP 300 Co-Op Work 3rd Alt 0",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 312 Golf Management III 1",
+     "options": [
+      [
+       "PRT 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PRT 312 Golf Management III 1",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 380 Evidence-based decision making in Recreation, Sport, Tourism, and Event Management 3",
+     "options": [
+      [
+       "PRT 380"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 380 Evidence-based decision making in Recreation, Sport, Tourism, and Event Management 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 376 Leadership in Sport Administration 3",
+     "options": [
+      [
+       "PRT 376"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 376 Leadership in Sport Administration 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 476 Sport Marketing 3",
+     "options": [
+      [
+       "PRT 476"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 476 Sport Marketing 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 413 Golf Management IV 1",
+     "options": [
+      [
+       "PRT 413"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PRT 413 Golf Management IV 1",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ACC 280 or ACC 210 Survey of Financial and Managerial Accounting or Concepts of Financial Reporting 3",
+     "options": [
+      [
+       "ACC 280"
+      ],
+      [
+       "ACC 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ACC 280 or ACC 210 Survey of Financial and Managerial Accounting or Concepts of Financial Reporting 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COP 400 Co-Op Work 4th Alt 0",
+     "options": [
+      [
+       "COP 400"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COP 400 Co-Op Work 4th Alt 0",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COP 500 Co-Op Work Graduate Alt 0",
+     "options": [
+      [
+       "COP 500"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COP 500 Co-Op Work Graduate Alt 0",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 411 Club Management 3",
+     "options": [
+      [
+       "PRT 411"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 411 Club Management 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 414 PGA Apprentice Program Completion 0",
+     "options": [
+      [
+       "PRT 414"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "PRT 414 PGA Apprentice Program Completion 0",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 406 Sports Law 3",
+     "options": [
+      [
+       "PRT 406"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 406 Sports Law 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 366 Sport Programming 3",
+     "options": [
+      [
+       "PRT 366"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 366 Sport Programming 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 478 Sustainable Sport Facility Management 3",
+     "options": [
+      [
+       "PRT 478"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 478 Sustainable Sport Facility Management 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 458 Special Events Planning 3",
+     "options": [
+      [
+       "PRT 458"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 458 Special Events Planning 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PRT 466 Sport Finance and Economics 3",
+     "options": [
+      [
+       "PRT 466"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PRT 466 Sport Finance and Economics 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s35"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 7,
+      "max": 7
+     },
+     "raw": "GEP Natural Sciences 7",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s41"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s42"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s43"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s44"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Free Electives",
+     "options": [],
+     "pick": {
+      "hours": 21
+     },
+     "hours": {
+      "min": 21,
+      "max": 21
+     },
+     "raw": "Free Electives 21",
+     "id": "ncsu-sport-management-bs-professional-golf-management-s45"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place",
+  "Required course codes not found in the course catalog: PRT 238, PRT 266, PRT 277, PRT 366, PRT 376, PRT 406, PRT 466, PRT 476, PRT 478"
+ ],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Natural Sciences\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Humanities\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Social Sciences\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Health and Exercise Studies\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Elective\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Interdisciplinary Perspectives\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Global Knowledge (verify requirement)\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"GEP Foundations of American Democracy (verify requirement)\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"World Language Proficiency (verify requirement)\"",
+  "List \"Free Electives\" has a row that is not a course and was not read: \"Free Electives\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/parks-recreation-tourism-management/sport-management-bs-professional-golf-management/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Professional Golf Management Concentration",
+ "college": "College of Natural Resources"
+}

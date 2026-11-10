@@ -1,0 +1,622 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-data-science-major-bs",
+ "university": "unc",
+ "name": "Data Science",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/data-science-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 60,
+  "max": 61
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DATA 110 Introduction to Data Science 3",
+     "options": [
+      [
+       "DATA 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DATA 110 Introduction to Data Science 3",
+     "id": "unc-data-science-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DATA 120 Ethics of AI and Societal Decision Making 3",
+     "options": [
+      [
+       "DATA 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DATA 120 Ethics of AI and Societal Decision Making 3",
+     "id": "unc-data-science-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DATA 150 Communication for Data Scientists",
+     "options": [
+      [
+       "DATA 150"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DATA 150 Communication for Data Scientists",
+     "id": "unc-data-science-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Mathematical and Statistical Foundations (2 courses):",
+     "options": [
+      [
+       "DATA 441"
+      ],
+      [
+       "BIOS 650"
+      ],
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 535"
+      ],
+      [
+       "STOR 634"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Mathematical and Statistical Foundations (2 courses): 6",
+     "id": "unc-data-science-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Optimization (select one):",
+     "options": [
+      [
+       "MATH 560"
+      ],
+      [
+       "STOR 415"
+      ],
+      [
+       "STOR 612"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Optimization (select one): 3",
+     "id": "unc-data-science-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Machine Learning and AI (select one):",
+     "options": [
+      [
+       "BIOS 635"
+      ],
+      [
+       "COMP 560"
+      ],
+      [
+       "COMP 562"
+      ],
+      [
+       "DATA 521"
+      ],
+      [
+       "DATA 522"
+      ],
+      [
+       "STOR 565"
+      ],
+      [
+       "STOR 566"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Machine Learning and AI (select one): 3",
+     "id": "unc-data-science-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Computational Thinking (2 courses):",
+     "options": [
+      [
+       "DATA 215"
+      ],
+      [
+       "BIOS 511"
+      ],
+      [
+       "DATA 440"
+      ],
+      [
+       "MATH 566"
+      ],
+      [
+       "STOR 520"
+      ],
+      [
+       "STOR 572"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Computational Thinking (2 courses): 6",
+     "id": "unc-data-science-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Choose four upper-division electives (see list below) OR a four-course concentration.",
+     "options": [
+      [
+       "BIOS 645"
+      ],
+      [
+       "BIOS 664"
+      ],
+      [
+       "COMP 421"
+      ],
+      [
+       "COMP 488"
+      ],
+      [
+       "COMP 550"
+      ],
+      [
+       "COMP 560"
+      ],
+      [
+       "COMP 562"
+      ],
+      [
+       "COMP 586"
+      ],
+      [
+       "COMP 664"
+      ],
+      [
+       "COMP 683"
+      ],
+      [
+       "DATA 440"
+      ],
+      [
+       "DATA 441"
+      ],
+      [
+       "DATA 442"
+      ],
+      [
+       "DATA 481"
+      ],
+      [
+       "DATA 493"
+      ],
+      [
+       "DATA 495"
+      ],
+      [
+       "DATA 496"
+      ],
+      [
+       "DATA 510"
+      ],
+      [
+       "DATA 543"
+      ],
+      [
+       "DATA 520"
+      ],
+      [
+       "DATA 521"
+      ],
+      [
+       "DATA 522"
+      ],
+      [
+       "DATA 523"
+      ],
+      [
+       "DATA 590"
+      ],
+      [
+       "DATA 593"
+      ],
+      [
+       "DATA 693H"
+      ],
+      [
+       "DATA 694H"
+      ],
+      [
+       "DATA 890"
+      ],
+      [
+       "ENGL 411"
+      ],
+      [
+       "GEOG 415"
+      ],
+      [
+       "INLS 541"
+      ],
+      [
+       "MATH 521"
+      ],
+      [
+       "MATH 522"
+      ],
+      [
+       "MATH 524"
+      ],
+      [
+       "MATH 528"
+      ],
+      [
+       "MATH 529"
+      ],
+      [
+       "MATH 550"
+      ],
+      [
+       "MATH 560"
+      ],
+      [
+       "MATH 566"
+      ],
+      [
+       "MATH 577"
+      ],
+      [
+       "MATH 590"
+      ],
+      [
+       "MATH 594"
+      ],
+      [
+       "MATH 661"
+      ],
+      [
+       "MATH 662"
+      ],
+      [
+       "STOR 415"
+      ],
+      [
+       "STOR 435"
+      ],
+      [
+       "MATH 535"
+      ],
+      [
+       "STOR 445"
+      ],
+      [
+       "STOR 455"
+      ],
+      [
+       "STOR 512"
+      ],
+      [
+       "STOR 520"
+      ],
+      [
+       "STOR 535"
+      ],
+      [
+       "STOR 538"
+      ],
+      [
+       "STOR 543"
+      ],
+      [
+       "STOR 545"
+      ],
+      [
+       "STOR 555"
+      ],
+      [
+       "STOR 556"
+      ],
+      [
+       "STOR 557"
+      ],
+      [
+       "STOR 565"
+      ],
+      [
+       "STOR 566"
+      ],
+      [
+       "STOR 572"
+      ],
+      [
+       "STOR 590"
+      ],
+      [
+       "STOR 612"
+      ],
+      [
+       "STOR 634"
+      ],
+      [
+       "STOR 712"
+      ],
+      [
+       "STOR 893"
+      ]
+     ],
+     "pick": {
+      "hours": 12
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Choose four upper-division electives (see list below) OR a four-course concentration. 12",
+     "id": "unc-data-science-major-bs-s8",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-data-science-major-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-data-science-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 235"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "id": "unc-data-science-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 347 Linear Algebra for Applications 3",
+     "options": [
+      [
+       "MATH 347"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 347 Linear Algebra for Applications 3",
+     "id": "unc-data-science-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 381 Discrete Mathematics 3 or STOR 315 Discrete Mathematics for Data Science or COMP 283 Discrete Structures",
+     "options": [
+      [
+       "MATH 381"
+      ],
+      [
+       "STOR 315"
+      ],
+      [
+       "COMP 283"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 381 Discrete Mathematics 3 or STOR 315 Discrete Mathematics for Data Science or COMP 283 Discrete Structures",
+     "id": "unc-data-science-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 120 Foundations of Statistics and Data Science 3-4 or COMP 110 Introduction to Programming or COMP 116 Introduction to Scientific Programming",
+     "options": [
+      [
+       "STOR 120"
+      ],
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "STOR 120 Foundations of Statistics and Data Science 3-4 or COMP 110 Introduction to Programming or COMP 116 Introduction to Scientific Programming",
+     "id": "unc-data-science-major-bs-s14"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Mathematical and Statistical Foundations (2 courses):\" has a nested heading or list reference: \"And select one from the following:\"",
+  "The page has another requirement table with its own total (\"Economic Analysis Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Data Science in Politics Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Urban Analytics Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Sports Analytics Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Quantitative Language Science Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Operations Research Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Mathematical Foundations Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Decision Analytics Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Statistical Learning and Data Analysis Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Advanced Artificial Intelligence and Machine Learning Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Health Informatics Concentration\") that is not included",
+  "The page has another requirement table with its own total (\"Computational Sociology and Data Science\") that is not included"
+ ],
+ "parseNotes": [
+  "Group \"Computational Thinking (2 courses):\" carries a note or open-ended option: \"And select one of the following\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/data-science-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

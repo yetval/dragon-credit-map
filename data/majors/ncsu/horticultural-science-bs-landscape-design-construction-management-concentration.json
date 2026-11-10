@@ -1,0 +1,850 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration",
+ "university": "ncsu",
+ "name": "Horticultural Science",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/horticultural-science/horticultural-science-bs-landscape-design-construction-management-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 122
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "options": [
+      [
+       "ALS 103"
+      ],
+      [
+       "ALS 303"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "ALS 103 First-year Success in Agriculture and Life Sciences 1 or ALS 303 Transfer Success in Agriculture and Life Sciences",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COM 110 Public Speaking or COM 112 Interpersonal Communication or COM 202 Small Group Communication",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 202"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COM 110 Public Speaking or COM 112 Interpersonal Communication or COM 202 Small Group Communication",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics & Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 107 Precalculus I 3",
+     "options": [
+      [
+       "MA 107"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 107 Precalculus I 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 114 Introduction to Finite Mathematics with Applications 3 or MA 121 Elements of Calculus or MA 131 Calculus for Life and Management Sciences A or ST 311 Introduction to Statistics",
+     "options": [
+      [
+       "MA 114"
+      ],
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 114 Introduction to Finite Mathematics with Applications 3 or MA 121 Elements of Calculus or MA 131 Calculus for Life and Management Sciences A or ST 311 Introduction to Statistics",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4 or PB 200 Plant Life",
+     "options": [
+      [
+       "BIO 183"
+      ],
+      [
+       "PB 200"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4 or PB 200 Plant Life",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE 201 Introduction to Agricultural & Resource Economics 3 or EC 201 Principles of Microeconomics or EC 205 Fundamentals of Economics",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 201 Introduction to Agricultural & Resource Economics 3 or EC 201 Principles of Microeconomics or EC 205 Fundamentals of Economics",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s9"
+    }
+   ]
+  },
+  {
+   "title": "Foundational Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 201 The World of Horticulture: Principles and Practices 3",
+     "options": [
+      [
+       "HS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 201 The World of Horticulture: Principles and Practices 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 242 Landscape Design Introduction 3",
+     "options": [
+      [
+       "HS 242"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "HS 242 Landscape Design Introduction 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 272 Landscape Design/Build 4",
+     "options": [
+      [
+       "HS 272"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HS 272 Landscape Design/Build 4",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 290 Horticulture: Careers and Opportunities 1",
+     "options": [
+      [
+       "HS 290"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "HS 290 Horticulture: Careers and Opportunities 1",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "HS 301 Plant Propagation 3-4 or HS 203 Home Plant Propagation",
+     "options": [
+      [
+       "HS 301"
+      ],
+      [
+       "HS 203"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "HS 301 Plant Propagation 3-4 or HS 203 Home Plant Propagation",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 303 Ornamental Plant Identification I 4",
+     "options": [
+      [
+       "HS 303"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HS 303 Ornamental Plant Identification I 4",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 304 Ornamental Plant Identification II 4",
+     "options": [
+      [
+       "HS 304"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HS 304 Ornamental Plant Identification II 4",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HS 471 Landscape Ecosystem Management 4",
+     "options": [
+      [
+       "HS 471"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "HS 471 Landscape Ecosystem Management 4",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 Soil Science 3",
+     "options": [
+      [
+       "SSC 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SSC 200 Soil Science 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 201 Soil Science Laboratory 1",
+     "options": [
+      [
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "SSC 201 Soil Science Laboratory 1",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PB 321 Introduction to Whole Plant Physiology 3",
+     "options": [
+      [
+       "PB 321"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PB 321 Introduction to Whole Plant Physiology 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEC 360 Ecology 4 or PB 360 Ecology",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "PB 360"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "AEC 360 Ecology 4 or PB 360 Ecology",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Career Experience courses:",
+     "options": [
+      [
+       "HS 492"
+      ],
+      [
+       "HS 493"
+      ],
+      [
+       "HS 494"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Career Experience courses: 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s22"
+    }
+   ]
+  },
+  {
+   "title": "Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Environmental Electives",
+     "options": [
+      [
+       "AEC 380"
+      ],
+      [
+       "ES 200"
+      ],
+      [
+       "NR 303"
+      ],
+      [
+       "IDS 201"
+      ],
+      [
+       "IDS 203"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Environmental Electives 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Plant Protective Electives",
+     "options": [
+      [
+       "CS 414"
+      ],
+      [
+       "CS 415"
+      ],
+      [
+       "ENT 425"
+      ],
+      [
+       "FOR 402"
+      ],
+      [
+       "FOR 318"
+      ],
+      [
+       "PP 315"
+      ],
+      [
+       "PP 318"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Plant Protective Electives 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s24",
+     "altGroups": [
+      0,
+      1,
+      2,
+      2,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Business Elective",
+     "options": [
+      [
+       "ACC 280"
+      ],
+      [
+       "ARE 215"
+      ],
+      [
+       "ARE 304"
+      ],
+      [
+       "ARE 306"
+      ],
+      [
+       "ARE 309"
+      ],
+      [
+       "ARE 312"
+      ],
+      [
+       "ARE 321"
+      ],
+      [
+       "ARE 323"
+      ],
+      [
+       "ARE 332"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Business Elective 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Broad-Scope Elective",
+     "options": [
+      [
+       "HS 252"
+      ],
+      [
+       "HS 357"
+      ],
+      [
+       "HS 400"
+      ],
+      [
+       "HS 416"
+      ],
+      [
+       "HS 418"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "HS 428"
+      ],
+      [
+       "HS 433"
+      ],
+      [
+       "HS 533"
+      ],
+      [
+       "NPS 340"
+      ],
+      [
+       "PS 203"
+      ],
+      [
+       "SMT 202"
+      ],
+      [
+       "SMT 203"
+      ],
+      [
+       "SSC 428"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Broad-Scope Elective 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advised Electives",
+     "options": [
+      [
+       "HS 252"
+      ],
+      [
+       "HS 357"
+      ],
+      [
+       "HS 400"
+      ],
+      [
+       "HS 416"
+      ],
+      [
+       "HS 418"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "HS 428"
+      ],
+      [
+       "HS 433"
+      ],
+      [
+       "HS 533"
+      ],
+      [
+       "NPS 340"
+      ],
+      [
+       "PS 203"
+      ],
+      [
+       "SMT 202"
+      ],
+      [
+       "SMT 203"
+      ],
+      [
+       "SSC 428"
+      ]
+     ],
+     "pick": {
+      "hours": 16
+     },
+     "hours": {
+      "min": 16,
+      "max": 16
+     },
+     "raw": "Advised Electives 16",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s36"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 7,
+      "max": 8
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 7-8",
+     "id": "ncsu-horticultural-science-bs-landscape-design-construction-management-concentration-s37"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: NR 303"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/agriculture-life-sciences/horticultural-science/horticultural-science-bs-landscape-design-construction-management-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Landscape Design, Construction, and Management Concentration",
+ "college": "College of Agriculture and Life Sciences"
+}

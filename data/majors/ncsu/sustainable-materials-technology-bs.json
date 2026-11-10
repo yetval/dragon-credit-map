@@ -1,0 +1,607 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-sustainable-materials-technology-bs",
+ "university": "ncsu",
+ "name": "Sustainable Materials and Technology",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forest-biomaterials/sustainable-materials-technology-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Departmental Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ENV 100",
+       "ENV 101"
+      ],
+      [
+       "ES 100"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 200 Introduction to Sustainable Materials and Technology 3",
+     "options": [
+      [
+       "SMT 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 200 Introduction to Sustainable Materials and Technology 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 203 Physical Properties of Sustainable Materials 4",
+     "options": [
+      [
+       "SMT 203"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SMT 203 Physical Properties of Sustainable Materials 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 207 Principles of Sustainable Product Development Lecture 2",
+     "options": [
+      [
+       "SMT 207"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "SMT 207 Principles of Sustainable Product Development Lecture 2",
+     "id": "ncsu-sustainable-materials-technology-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 210 Sustainable Materials Internship 1",
+     "options": [
+      [
+       "SMT 210"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "SMT 210 Sustainable Materials Internship 1",
+     "id": "ncsu-sustainable-materials-technology-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 217 Principles of Sustainable Product Development Laboratory 1",
+     "options": [
+      [
+       "SMT 217"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "SMT 217 Principles of Sustainable Product Development Laboratory 1",
+     "id": "ncsu-sustainable-materials-technology-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 301 Chemistry of Sustainable Materials 3",
+     "options": [
+      [
+       "SMT 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 301 Chemistry of Sustainable Materials 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 302 Processing of Biomaterials 4",
+     "options": [
+      [
+       "SMT 302"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SMT 302 Processing of Biomaterials 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 307 Product Visualization 3",
+     "options": [
+      [
+       "SMT 307"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 307 Product Visualization 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 320 Industrial Chemical Pollutants 2",
+     "options": [
+      [
+       "SMT 320"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "SMT 320 Industrial Chemical Pollutants 2",
+     "id": "ncsu-sustainable-materials-technology-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 441 Mechanical Properties of Sustainable Materials 4",
+     "options": [
+      [
+       "SMT 441"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SMT 441 Mechanical Properties of Sustainable Materials 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 444 Sustainable Composites and Biopolymers 3",
+     "options": [
+      [
+       "SMT 444"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 444 Sustainable Composites and Biopolymers 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SMT 483 Capstone in Sustainable Materials and Technology 3",
+     "options": [
+      [
+       "SMT 483"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SMT 483 Capstone in Sustainable Materials and Technology 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 476 Environmental Life Cycle Analysis 3",
+     "options": [
+      [
+       "PSE 476"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 476 Environmental Life Cycle Analysis 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MIE 201 Introduction to Business 3",
+     "options": [
+      [
+       "MIE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MIE 201 Introduction to Business 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EC 205 Fundamentals of Economics 3",
+     "options": [
+      [
+       "EC 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 205 Fundamentals of Economics 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ISE 311 Engineering Economic Analysis 3",
+     "options": [
+      [
+       "ISE 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ISE 311 Engineering Economic Analysis 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PS 320"
+      ],
+      [
+       "PS 336"
+      ],
+      [
+       "ARE 309"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "IDS 201 Environmental Ethics 3",
+     "options": [
+      [
+       "IDS 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "IDS 201 Environmental Ethics 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s19"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics & Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Calculus courses:",
+     "options": [
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Calculus courses: 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 220 & CH 222 Introductory Organic Chemistry and Organic Chemistry I Lab 4",
+     "options": [
+      [
+       "CH 220",
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 220 & CH 222 Introductory Organic Chemistry and Organic Chemistry I Lab 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Physics courses:",
+     "options": [
+      [
+       "PY 205"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Physics courses: 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s25"
+    }
+   ]
+  },
+  {
+   "title": "Concentration Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Technical Electives",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Technical Electives 15",
+     "id": "ncsu-sustainable-materials-technology-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Electives",
+     "options": [],
+     "hours": {
+      "min": 14,
+      "max": 14
+     },
+     "raw": "Advised Electives 14",
+     "id": "ncsu-sustainable-materials-technology-bs-s27"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-sustainable-materials-technology-bs-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-sustainable-materials-technology-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-sustainable-materials-technology-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-sustainable-materials-technology-bs-s31"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (Verify Requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (Verify Requirement)",
+     "id": "ncsu-sustainable-materials-technology-bs-s32"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-sustainable-materials-technology-bs-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (Verify Requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (Verify Requirement)",
+     "id": "ncsu-sustainable-materials-technology-bs-s34"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forest-biomaterials/sustainable-materials-technology-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Natural Resources"
+}

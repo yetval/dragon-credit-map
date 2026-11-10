@@ -1,0 +1,16 @@
+{
+ "schemaVersion": 1,
+ "dataAsOf": "2026-11-09",
+ "editions": {
+  "unc": "2026-2027",
+  "ncsu": "2026-2027",
+  "ncssm": "not stated on the source"
+ },
+ "counts": {
+  "ncssmCourses": 394,
+  "articulationRules": 241,
+  "apRules": 151,
+  "majors": 355,
+  "majorsVerified": 152
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-geography-major-ba",
+ "university": "unc",
+ "name": "Geography and Environment",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/geography-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 30
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "GEOG 110 The Blue Planet: An Introduction to Earth's Environmental Systems 3 or GEOG 111 Weather and Climate",
+     "options": [
+      [
+       "GEOG 110"
+      ],
+      [
+       "GEOG 111"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 110 The Blue Planet: An Introduction to Earth's Environmental Systems 3 or GEOG 111 Weather and Climate",
+     "id": "unc-geography-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "GEOG 120"
+      ],
+      [
+       "GEOG 121"
+      ],
+      [
+       "GEOG 130"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following: 3",
+     "id": "unc-geography-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 370 Geographic Information Science 3",
+     "options": [
+      [
+       "GEOG 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 370 Geographic Information Science 3",
+     "id": "unc-geography-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 391 Quantitative Methods in Geography 3",
+     "options": [
+      [
+       "GEOG 391"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 391 Quantitative Methods in Geography 3",
+     "id": "unc-geography-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 392 Research Methods in Geography 3",
+     "options": [
+      [
+       "GEOG 392"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 392 Research Methods in Geography 3",
+     "id": "unc-geography-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GEOG 697 Capstone Seminar in Geographic Research 3",
+     "options": [
+      [
+       "GEOG 697"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEOG 697 Capstone Seminar in Geographic Research 3",
+     "id": "unc-geography-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Four GEOG elective courses, at least two of which must be at the 400-level or above.",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "GEOG"
+      ]
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four GEOG elective courses, at least two of which must be at the 400-level or above. 12",
+     "id": "unc-geography-major-ba-s7"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Row has a further condition that is not checked: \"Four GEOG elective courses, at least two of which must be at the 400-level or above.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/geography-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

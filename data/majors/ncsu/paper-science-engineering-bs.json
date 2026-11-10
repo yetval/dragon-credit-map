@@ -1,0 +1,1152 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-paper-science-engineering-bs",
+ "university": "ncsu",
+ "name": "Paper Science and Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forest-biomaterials/paper-science-engineering-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 128,
+  "max": 128
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-paper-science-engineering-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-paper-science-engineering-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-paper-science-engineering-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 103",
+       "CH 104"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 201 & CH 202 Chemistry - A Quantitative Science and Quantitative Chemistry Laboratory 4",
+     "id": "ncsu-paper-science-engineering-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 203",
+       "CH 204"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-paper-science-engineering-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-paper-science-engineering-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-paper-science-engineering-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 201 Pulping and Papermaking Technology 3",
+     "options": [
+      [
+       "PSE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 201 Pulping and Papermaking Technology 3",
+     "id": "ncsu-paper-science-engineering-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "FLE 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-paper-science-engineering-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics Elective",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Economics Elective 3",
+     "id": "ncsu-paper-science-engineering-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "options": [
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 221 & CH 222 Organic Chemistry I and Organic Chemistry I Lab 4",
+     "id": "ncsu-paper-science-engineering-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 225",
+       "CH 226"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "options": [
+      [
+       "CH 223",
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 223 & CH 224 Organic Chemistry II and Organic Chemistry II Lab 4",
+     "id": "ncsu-paper-science-engineering-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 227 & CH 228 Organic Chemistry II for Students in Chemical Sciences and Organic Chemistry Laboratory II for Students in Chemical Sciences",
+     "options": [
+      [
+       "CH 227",
+       "CH 228"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 227 & CH 228 Organic Chemistry II for Students in Chemical Sciences and Organic Chemistry Laboratory II for Students in Chemical Sciences",
+     "id": "ncsu-paper-science-engineering-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-paper-science-engineering-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-paper-science-engineering-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CHE 205 Chemical Process Principles 4",
+     "options": [
+      [
+       "CHE 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CHE 205 Chemical Process Principles 4",
+     "id": "ncsu-paper-science-engineering-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 212 Paper Properties 4",
+     "options": [
+      [
+       "PSE 212"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PSE 212 Paper Properties 4",
+     "id": "ncsu-paper-science-engineering-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 371 Pulping Process Analysis 3",
+     "options": [
+      [
+       "PSE 371"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 371 Pulping Process Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advised Electives",
+     "options": [
+      [
+       "ACC 200"
+      ],
+      [
+       "ACC 210"
+      ],
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 280"
+      ],
+      [
+       "ACC 310"
+      ],
+      [
+       "ACC 311"
+      ],
+      [
+       "ACC 340"
+      ],
+      [
+       "ACC 411"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "BAE 425"
+      ],
+      [
+       "BAE 525"
+      ],
+      [
+       "BCH 451"
+      ],
+      [
+       "BUS 320"
+      ],
+      [
+       "CH 315"
+      ],
+      [
+       "CH 331"
+      ],
+      [
+       "CH 401"
+      ],
+      [
+       "CH 431"
+      ],
+      [
+       "CH 437"
+      ],
+      [
+       "CHE 225"
+      ],
+      [
+       "CHE 311"
+      ],
+      [
+       "CHE 312"
+      ],
+      [
+       "CHE 315"
+      ],
+      [
+       "CHE 316"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "ET 310"
+      ],
+      [
+       "ISE 311"
+      ],
+      [
+       "MA 225"
+      ],
+      [
+       "MA 303"
+      ],
+      [
+       "MA 305"
+      ],
+      [
+       "MA 325"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 403"
+      ],
+      [
+       "MA 407"
+      ],
+      [
+       "MA 408"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 425"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MIE 201"
+      ],
+      [
+       "MIE 305"
+      ],
+      [
+       "MIE 330"
+      ],
+      [
+       "MIE 335"
+      ],
+      [
+       "MSE 201"
+      ],
+      [
+       "ST 311"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "ST 371"
+      ],
+      [
+       "ST 431"
+      ],
+      [
+       "ST 435"
+      ],
+      [
+       "ST 535"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advised Electives 3",
+     "id": "ncsu-paper-science-engineering-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 201 Thermal-Fluid Sciences 3",
+     "options": [
+      [
+       "MAE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 201 Thermal-Fluid Sciences 3",
+     "id": "ncsu-paper-science-engineering-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 322 Wet End and Polymer Chemistry 4",
+     "options": [
+      [
+       "PSE 322"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PSE 322 Wet End and Polymer Chemistry 4",
+     "id": "ncsu-paper-science-engineering-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 332 Wood and Pulping Chemistry 3",
+     "options": [
+      [
+       "PSE 332"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 332 Wood and Pulping Chemistry 3",
+     "id": "ncsu-paper-science-engineering-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 355 Pulp and Paper Unit Processes I 3",
+     "options": [
+      [
+       "PSE 355"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 355 Pulp and Paper Unit Processes I 3",
+     "id": "ncsu-paper-science-engineering-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 360 Pulp and Paper Unit Processes II 3",
+     "options": [
+      [
+       "PSE 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 360 Pulp and Paper Unit Processes II 3",
+     "id": "ncsu-paper-science-engineering-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 370 Pulp and Paper Products and Markets 3",
+     "options": [
+      [
+       "PSE 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 370 Pulp and Paper Products and Markets 3",
+     "id": "ncsu-paper-science-engineering-bs-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 211 Pulp and Paper Internship 1",
+     "options": [
+      [
+       "PSE 211"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PSE 211 Pulp and Paper Internship 1",
+     "id": "ncsu-paper-science-engineering-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Engineering Elective",
+     "options": [
+      [
+       "BAET 411"
+      ],
+      [
+       "CE 214"
+      ],
+      [
+       "CHE 225"
+      ],
+      [
+       "ECE 331"
+      ],
+      [
+       "MAE 206"
+      ],
+      [
+       "MSE 201"
+      ],
+      [
+       "TE 200"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Engineering Elective 3",
+     "id": "ncsu-paper-science-engineering-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 415 Paper Industry Strategic Project Analysis 3",
+     "options": [
+      [
+       "PSE 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 415 Paper Industry Strategic Project Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 416 Process Design and Analysis 3",
+     "options": [
+      [
+       "PSE 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 416 Process Design and Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 417 Modeling & Simulation of Pulp & Paper Processes 3",
+     "options": [
+      [
+       "PSE 417"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 417 Modeling & Simulation of Pulp & Paper Processes 3",
+     "id": "ncsu-paper-science-engineering-bs-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 465 Process Engineering 3",
+     "options": [
+      [
+       "PSE 465"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 465 Process Engineering 3",
+     "id": "ncsu-paper-science-engineering-bs-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 472 Paper Process Analysis 3",
+     "options": [
+      [
+       "PSE 472"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 472 Paper Process Analysis 3",
+     "id": "ncsu-paper-science-engineering-bs-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 475 Process Control in Pulp and Paper 3",
+     "options": [
+      [
+       "PSE 475"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 475 Process Control in Pulp and Paper 3",
+     "id": "ncsu-paper-science-engineering-bs-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PSE 425 Bioenergy & Biomaterials Engineering 3",
+     "options": [
+      [
+       "PSE 425"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PSE 425 Bioenergy & Biomaterials Engineering 3",
+     "id": "ncsu-paper-science-engineering-bs-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advised Electives",
+     "options": [
+      [
+       "ACC 200"
+      ],
+      [
+       "ACC 210"
+      ],
+      [
+       "ACC 220"
+      ],
+      [
+       "ACC 280"
+      ],
+      [
+       "ACC 310"
+      ],
+      [
+       "ACC 311"
+      ],
+      [
+       "ACC 340"
+      ],
+      [
+       "ACC 411"
+      ],
+      [
+       "ARE 301"
+      ],
+      [
+       "ARE 336"
+      ],
+      [
+       "BAE 425"
+      ],
+      [
+       "BAE 525"
+      ],
+      [
+       "BCH 451"
+      ],
+      [
+       "BUS 320"
+      ],
+      [
+       "CH 315"
+      ],
+      [
+       "CH 331"
+      ],
+      [
+       "CH 401"
+      ],
+      [
+       "CH 431"
+      ],
+      [
+       "CH 437"
+      ],
+      [
+       "CHE 225"
+      ],
+      [
+       "CHE 311"
+      ],
+      [
+       "CHE 312"
+      ],
+      [
+       "CHE 315"
+      ],
+      [
+       "CHE 316"
+      ],
+      [
+       "EC 301"
+      ],
+      [
+       "EC 302"
+      ],
+      [
+       "EC 336"
+      ],
+      [
+       "ET 310"
+      ],
+      [
+       "ISE 311"
+      ],
+      [
+       "MA 225"
+      ],
+      [
+       "MA 303"
+      ],
+      [
+       "MA 305"
+      ],
+      [
+       "MA 325"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 402"
+      ],
+      [
+       "MA 403"
+      ],
+      [
+       "MA 407"
+      ],
+      [
+       "MA 408"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 425"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 430"
+      ],
+      [
+       "MIE 201"
+      ],
+      [
+       "MIE 305"
+      ],
+      [
+       "MIE 330"
+      ],
+      [
+       "MIE 335"
+      ],
+      [
+       "MSE 201"
+      ],
+      [
+       "ST 311"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "ST 371"
+      ],
+      [
+       "ST 431"
+      ],
+      [
+       "ST 435"
+      ],
+      [
+       "ST 535"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advised Electives 3",
+     "id": "ncsu-paper-science-engineering-bs-s38"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-paper-science-engineering-bs-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-paper-science-engineering-bs-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-paper-science-engineering-bs-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-paper-science-engineering-bs-s42"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-paper-science-engineering-bs-s43"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-paper-science-engineering-bs-s44"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-paper-science-engineering-bs-s45"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-paper-science-engineering-bs-s46"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Indented row without a group heading: \"CH 103 & CH 104 General Chemistry I for Students in Chemical Sciences and General Chemistry Laboratory I for Students in Chemical Sciences\"",
+  "Indented row without a group heading: \"CH 203 & CH 204 General Chemistry II for Students in Chemical Sciences and General Chemistry Laboratory II for Students in Chemical Sciences\"",
+  "Indented row without a group heading: \"CH 225 & CH 226 Organic Chemistry I for Students in Chemical Sciences and Organic Chemistry Laboratory I for Students in Chemical Sciences\"",
+  "Indented row without a group heading: \"CH 227 & CH 228 Organic Chemistry II for Students in Chemical Sciences and Organic Chemistry Laboratory II for Students in Chemical Sciences\"",
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [
+  "Indented note: \"or\"",
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"Acad Writing Research\" has codes with no catalog link: FLE 101"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/natural-resources/forest-biomaterials/paper-science-engineering-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Natural Resources"
+}

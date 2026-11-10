@@ -1,0 +1,372 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-womens-gender-studies-major-ba",
+ "university": "unc",
+ "name": "Women’s and Gender Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/womens-gender-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 24,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four intellectual and theoretical foundations courses:",
+     "options": [],
+     "hours": null,
+     "raw": "Four intellectual and theoretical foundations courses:",
+     "id": "unc-womens-gender-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "WGST 101 Introducing Intersectionality: Gender, Race, Class, and Sexuality 3",
+     "options": [
+      [
+       "WGST 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "WGST 101 Introducing Intersectionality: Gender, Race, Class, and Sexuality 3",
+     "id": "unc-womens-gender-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "WGST 202 Introduction to Feminist Thought 3",
+     "options": [
+      [
+       "WGST 202"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "WGST 202 Introduction to Feminist Thought 3",
+     "id": "unc-womens-gender-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "WGST 695 Senior Seminar: Principles of Feminist Inquiry 3 or WGST 691H Honors in Women's Studies",
+     "options": [
+      [
+       "WGST 695"
+      ],
+      [
+       "WGST 691H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "WGST 695 Senior Seminar: Principles of Feminist Inquiry 3 or WGST 691H Honors in Women's Studies",
+     "id": "unc-womens-gender-studies-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One course on minority/Third World/non-Western women or gender (see list below).",
+     "options": [
+      [
+       "AAAD 200"
+      ],
+      [
+       "WGST 200"
+      ],
+      [
+       "AAAD 386"
+      ],
+      [
+       "WGST 386"
+      ],
+      [
+       "AAAD 232"
+      ],
+      [
+       "WGST 266"
+      ],
+      [
+       "AAAD 388"
+      ],
+      [
+       "ANTH 277"
+      ],
+      [
+       "WGST 277"
+      ],
+      [
+       "ASIA 127"
+      ],
+      [
+       "WGST 127"
+      ],
+      [
+       "ASIA 418"
+      ],
+      [
+       "WGST 418"
+      ],
+      [
+       "ASIA 447"
+      ],
+      [
+       "GEOG 447"
+      ],
+      [
+       "WGST 447"
+      ],
+      [
+       "ASIA 537"
+      ],
+      [
+       "HIST 537"
+      ],
+      [
+       "WGST 537"
+      ],
+      [
+       "COMM 561"
+      ],
+      [
+       "WGST 561"
+      ],
+      [
+       "ENGL 665"
+      ],
+      [
+       "WGST 665"
+      ],
+      [
+       "ENGL 666"
+      ],
+      [
+       "WGST 666"
+      ],
+      [
+       "HIST 280"
+      ],
+      [
+       "WGST 280"
+      ],
+      [
+       "HIST 385"
+      ],
+      [
+       "WGST 382"
+      ],
+      [
+       "HIST 576"
+      ],
+      [
+       "WGST 576"
+      ],
+      [
+       "MEJO 442"
+      ],
+      [
+       "WGST 442"
+      ],
+      [
+       "PLAN 662"
+      ],
+      [
+       "WGST 662"
+      ],
+      [
+       "SPAN 620"
+      ],
+      [
+       "WGST 620"
+      ],
+      [
+       "WGST 64"
+      ],
+      [
+       "WGST 211"
+      ],
+      [
+       "WGST 233"
+      ],
+      [
+       "WGST 281"
+      ],
+      [
+       "WGST 285"
+      ],
+      [
+       "WGST 313"
+      ],
+      [
+       "HIST 313"
+      ],
+      [
+       "WGST 337"
+      ],
+      [
+       "WGST 350"
+      ],
+      [
+       "WGST 352"
+      ],
+      [
+       "WGST 368"
+      ],
+      [
+       "WGST 388"
+      ],
+      [
+       "WGST 405"
+      ],
+      [
+       "WGST 410"
+      ],
+      [
+       "WGST 415"
+      ],
+      [
+       "WGST 465"
+      ],
+      [
+       "WGST 553"
+      ],
+      [
+       "WGST 583"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course on minority/Third World/non-Western women or gender (see list below). 3",
+     "id": "unc-womens-gender-studies-major-ba-s5",
+     "altGroups": [
+      0,
+      0,
+      1,
+      1,
+      2,
+      2,
+      3,
+      4,
+      4,
+      5,
+      5,
+      6,
+      6,
+      7,
+      7,
+      7,
+      8,
+      8,
+      8,
+      9,
+      9,
+      10,
+      10,
+      11,
+      11,
+      12,
+      12,
+      13,
+      13,
+      14,
+      14,
+      15,
+      15,
+      16,
+      16,
+      17,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three interdisciplinary perspectives courses chosen from at least two of the three categories (see lists below).",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three interdisciplinary perspectives courses chosen from at least two of the three categories (see lists below). 9",
+     "id": "unc-womens-gender-studies-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course in the theory and practice of women’s and gender studies from the following options:",
+     "options": [
+      [
+       "WGST 393"
+      ],
+      [
+       "WGST 692H"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in the theory and practice of women’s and gender studies from the following options: 3",
+     "id": "unc-womens-gender-studies-major-ba-s7"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"Three interdisciplinary perspectives courses chosen from at least two of the three categories (see lists below).\"",
+  "Rule cannot be checked automatically: \"A fourth course chosen from one of the three interdisciplinary perspectives categories\"",
+  "Row points to a list that could not be linked: \"Three interdisciplinary perspectives courses chosen from at least two of the three categories (see lists below).\""
+ ],
+ "parseNotes": [
+  "List \"Minority/Third World/Non-Western Women or Gender\" has codes with no catalog link: ASIA/GEOG/WGST 447",
+  "Group \"One course in the theory and practice of women’s and gender studies from the following options:\" carries a note or open-ended option: \"A fourth course chosen from one of the three interdisciplinary perspectives categories\"",
+  "Codes in choice lists not found in the course catalog: ASIA 447, GEOG 447, WGST 447"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/womens-gender-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

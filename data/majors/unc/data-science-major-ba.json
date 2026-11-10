@@ -1,0 +1,303 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-data-science-major-ba",
+ "university": "unc",
+ "name": "Data Science",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/data-science-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 44,
+  "max": 45
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Foundations of Data and Information (two courses):",
+     "options": [],
+     "hours": null,
+     "raw": "Foundations of Data and Information (two courses):",
+     "id": "unc-data-science-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DATA 110 Introduction to Data Science 3",
+     "options": [
+      [
+       "DATA 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DATA 110 Introduction to Data Science 3",
+     "id": "unc-data-science-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following options:",
+     "options": [
+      [
+       "DATA 130"
+      ],
+      [
+       "ENGL 480"
+      ],
+      [
+       "ENGL 482"
+      ],
+      [
+       "INLS 201"
+      ],
+      [
+       "SOCI 318"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following options: 3",
+     "id": "unc-data-science-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Responsible Data Science (one course):",
+     "options": [],
+     "hours": null,
+     "raw": "Responsible Data Science (one course):",
+     "id": "unc-data-science-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DATA 120 Ethics of AI and Societal Decision Making 3",
+     "options": [
+      [
+       "DATA 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DATA 120 Ethics of AI and Societal Decision Making 3",
+     "id": "unc-data-science-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Computational Thinking (two courses):",
+     "options": [],
+     "hours": null,
+     "raw": "Computational Thinking (two courses):",
+     "id": "unc-data-science-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3 or COMP 116 Introduction to Scientific Programming",
+     "id": "unc-data-science-major-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DATA 140 Introduction to Data Structures and Management 3",
+     "options": [
+      [
+       "DATA 140"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "DATA 140 Introduction to Data Structures and Management 3",
+     "id": "unc-data-science-major-ba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Mathematical and Statistical Foundations (four courses):",
+     "options": [],
+     "hours": null,
+     "raw": "Mathematical and Statistical Foundations (four courses):",
+     "id": "unc-data-science-major-ba-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 210 Mathematical Tools for Data Science 3 or MATH 347 Linear Algebra for Applications",
+     "options": [
+      [
+       "MATH 210"
+      ],
+      [
+       "MATH 347"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 210 Mathematical Tools for Data Science 3 or MATH 347 Linear Algebra for Applications",
+     "id": "unc-data-science-major-ba-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-data-science-major-ba-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "STOR 120 Foundations of Statistics and Data Science 4",
+     "options": [
+      [
+       "STOR 120"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "STOR 120 Foundations of Statistics and Data Science 4",
+     "id": "unc-data-science-major-ba-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 320 Methods and Models of Data Science 3-4 or STOR 455 Methods of Data Analysis",
+     "options": [
+      [
+       "STOR 320"
+      ],
+      [
+       "STOR 455"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "STOR 320 Methods and Models of Data Science 3-4 or STOR 455 Methods of Data Analysis",
+     "id": "unc-data-science-major-ba-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Communication (select one course from the following options):",
+     "options": [
+      [
+       "COMM 113"
+      ],
+      [
+       "COMM 171"
+      ],
+      [
+       "DATA 150"
+      ],
+      [
+       "ENGL 119"
+      ],
+      [
+       "ENGL 303"
+      ],
+      [
+       "ENGL 411"
+      ],
+      [
+       "GEOG 115"
+      ],
+      [
+       "GEOG 415"
+      ],
+      [
+       "INLS 541"
+      ],
+      [
+       "MEJO 102"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Communication (select one course from the following options): 3",
+     "id": "unc-data-science-major-ba-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four additional courses from a concentration area (see below)",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four additional courses from a concentration area (see below) 12",
+     "id": "unc-data-science-major-ba-s15"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Data Journalism\") that is not included",
+  "The page has another requirement table with its own total (\"Economic Analysis\") that is not included",
+  "The page has another requirement table with its own total (\"Quantitative Language Science\") that is not included",
+  "The page has another requirement table with its own total (\"Urban Data Analytics\") that is not included",
+  "The page has another requirement table with its own total (\"Sociology\") that is not included",
+  "The page has another requirement table with its own total (\"Data and Society\") that is not included",
+  "The page has another requirement table with its own total (\"Geographic Information Science\") that is not included",
+  "Row points to a list that could not be linked: \"Four additional courses from a concentration area (see below)\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/data-science-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

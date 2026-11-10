@@ -1,0 +1,739 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-chemistry-ba",
+ "university": "ncsu",
+ "name": "Chemistry",
+ "degree": "BA",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/chemistry/chemistry-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COS 100 Science of Change 2",
+     "options": [
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "COS 100 Science of Change 2",
+     "id": "ncsu-chemistry-ba-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing and Speaking",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-chemistry-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advanced Writing",
+     "options": [
+      [
+       "ENG 214"
+      ],
+      [
+       "ENG 281"
+      ],
+      [
+       "ENG 287"
+      ],
+      [
+       "ENG 288"
+      ],
+      [
+       "ENG 289"
+      ],
+      [
+       "ENG 316"
+      ],
+      [
+       "ENG 323"
+      ],
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 425"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Writing 3",
+     "id": "ncsu-chemistry-ba-s3"
+    }
+   ]
+  },
+  {
+   "title": "Communications",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Communications Requirement",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 201"
+      ],
+      [
+       "COM 202"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 289"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Communications Requirement 3",
+     "id": "ncsu-chemistry-ba-s4"
+    }
+   ]
+  },
+  {
+   "title": "Basic Math & Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Physics I courses:",
+     "options": [
+      [
+       "PY 205"
+      ],
+      [
+       "PY 211"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Physics I courses: 4",
+     "id": "ncsu-chemistry-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Physics II courses:",
+     "options": [
+      [
+       "PY 208"
+      ],
+      [
+       "PY 212"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Physics II courses: 4",
+     "id": "ncsu-chemistry-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3-4 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3-4 or MA 141 Calculus I",
+     "id": "ncsu-chemistry-ba-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3-4 or MA 241 Calculus II",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3-4 or MA 241 Calculus II",
+     "id": "ncsu-chemistry-ba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Statistics",
+     "options": [
+      [
+       "ST 311"
+      ],
+      [
+       "ST 350"
+      ],
+      [
+       "BUS 350"
+      ],
+      [
+       "ST 370"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Statistics 3",
+     "id": "ncsu-chemistry-ba-s9",
+     "altGroups": [
+      0,
+      1,
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Chemistry Core Courses",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 103 General Chemistry I for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 103"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 103 General Chemistry I for Students in Chemical Sciences 3",
+     "id": "ncsu-chemistry-ba-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 104 General Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 104"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 104 General Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "id": "ncsu-chemistry-ba-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 203 General Chemistry II for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 203"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 203 General Chemistry II for Students in Chemical Sciences 3",
+     "id": "ncsu-chemistry-ba-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 204 General Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 204"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 204 General Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "id": "ncsu-chemistry-ba-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 225 Organic Chemistry I for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 225 Organic Chemistry I for Students in Chemical Sciences 3",
+     "id": "ncsu-chemistry-ba-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 226 Organic Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 226"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 226 Organic Chemistry Laboratory I for Students in Chemical Sciences 1",
+     "id": "ncsu-chemistry-ba-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 227 Organic Chemistry II for Students in Chemical Sciences 3",
+     "options": [
+      [
+       "CH 227"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 227 Organic Chemistry II for Students in Chemical Sciences 3",
+     "id": "ncsu-chemistry-ba-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 228 Organic Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "options": [
+      [
+       "CH 228"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 228 Organic Chemistry Laboratory II for Students in Chemical Sciences 1",
+     "id": "ncsu-chemistry-ba-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 315 Quantitative Analysis 3",
+     "options": [
+      [
+       "CH 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 315 Quantitative Analysis 3",
+     "id": "ncsu-chemistry-ba-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 316 Quantitative Analysis Laboratory 1",
+     "options": [
+      [
+       "CH 316"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 316 Quantitative Analysis Laboratory 1",
+     "id": "ncsu-chemistry-ba-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 331 Introductory Physical Chemistry 4",
+     "options": [
+      [
+       "CH 331"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 331 Introductory Physical Chemistry 4",
+     "id": "ncsu-chemistry-ba-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 401 Systematic Inorganic Chemistry I 3",
+     "options": [
+      [
+       "CH 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 401 Systematic Inorganic Chemistry I 3",
+     "id": "ncsu-chemistry-ba-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Chemistry Advanced Elective",
+     "options": [
+      [
+       "CH 335"
+      ],
+      [
+       "CH 403"
+      ],
+      [
+       "CH 415"
+      ],
+      [
+       "CH 435"
+      ],
+      [
+       "CH 441"
+      ],
+      [
+       "CH 495"
+      ],
+      [
+       "CH 572"
+      ],
+      [
+       "CH 701"
+      ],
+      [
+       "CH 703"
+      ],
+      [
+       "CH 705"
+      ],
+      [
+       "CH 721"
+      ],
+      [
+       "CH 723"
+      ],
+      [
+       "CH 725"
+      ],
+      [
+       "CH 727"
+      ],
+      [
+       "CH 730"
+      ],
+      [
+       "CH 732"
+      ],
+      [
+       "CH 734"
+      ],
+      [
+       "CH 735"
+      ],
+      [
+       "CH 737"
+      ],
+      [
+       "CH 743"
+      ],
+      [
+       "CH 745"
+      ],
+      [
+       "CH 755"
+      ],
+      [
+       "CH 765"
+      ],
+      [
+       "CH 770"
+      ],
+      [
+       "CH 772"
+      ],
+      [
+       "CH 795"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Chemistry Advanced Elective 6",
+     "id": "ncsu-chemistry-ba-s22"
+    }
+   ]
+  },
+  {
+   "title": "Advised Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Electives",
+     "options": [],
+     "hours": {
+      "min": 24,
+      "max": 24
+     },
+     "raw": "Advised Electives 24",
+     "id": "ncsu-chemistry-ba-s23"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-chemistry-ba-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-chemistry-ba-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-chemistry-ba-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-chemistry-ba-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-chemistry-ba-s28"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-chemistry-ba-s29"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-chemistry-ba-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-chemistry-ba-s31"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 14,
+      "max": 14
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 14",
+     "id": "ncsu-chemistry-ba-s32"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Advised Electives\" carries a note or open-ended option: \"Advised Electives are designed to allow students to concentrate in areas related to their professional goals. Advised Electives will be planned by the student in consultation with their academic advisor. At least 15 credit hours must be at the 300 level or higher with remaining credit hours being fulfilled by courses at the 200 level or above (exceptions to the 200 level course restriction include BIO 181, BIO 183, and FL* 1** courses that are not in your language of proficiency). Courses used to meet GEP requirements cannot also be used to meet Advised Electives requirements.\"",
+  "Group \"Free Electives (12 Hr S/U Lmt)\" carries a note or open-ended option: \"Free Elective courses can NOT be CH 100, C 111, MA 100, MA 101, MA 103, MA 107, MA 108, MA 111, MA 121, MA 131, MA 231, PY 131, PY 211, PY 212, ENG 100. 100-level World Language Courses (WL*) can be used if not satisfying the language proficiency requirement.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/chemistry/chemistry-ba/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Sciences"
+}

@@ -1,0 +1,759 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-science-education-bs-physics-concentration",
+ "university": "ncsu",
+ "name": "Science Education",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/education/stem/science-education-bs-physics-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ED 100 Intro to Education 2 or ED 150/151 Students Advocating for Youth I",
+     "options": [
+      [
+       "ED 100"
+      ],
+      [
+       "ED 150"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 100 Intro to Education 2 or ED 150/151 Students Advocating for Youth I",
+     "id": "ncsu-science-education-bs-physics-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Communication/Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Communication/Advanced Writing",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 289"
+      ],
+      [
+       "ENG 232"
+      ],
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 425"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Communication/Advanced Writing 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "(Physics BA double major choose ENG 331 or ENG 333)",
+     "options": [],
+     "hours": null,
+     "raw": "(Physics BA double major choose ENG 331 or ENG 333)",
+     "id": "ncsu-science-education-bs-physics-concentration-s3"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s7"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Earth and Environmental Science Electives",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Earth and Environmental Science Electives 6",
+     "id": "ncsu-science-education-bs-physics-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4 or PY 201 University Physics I",
+     "options": [
+      [
+       "PY 205",
+       "PY 206"
+      ],
+      [
+       "PY 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 & PY 206 Physics for Engineers and Scientists I and Physics for Engineers and Scientists I Laboratory 4 or PY 201 University Physics I",
+     "id": "ncsu-science-education-bs-physics-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4 or PY 202 University Physics II",
+     "options": [
+      [
+       "PY 208",
+       "PY 209"
+      ],
+      [
+       "PY 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 & PY 209 Physics for Engineers and Scientists II and Physics for Engineers and Scientists II Laboratory 4 or PY 202 University Physics II",
+     "id": "ncsu-science-education-bs-physics-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Physics Electives 100/200 Level",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Physics Electives 100/200 Level 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Physics Electives 300/400 Level",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Physics Electives 300/400 Level 9",
+     "id": "ncsu-science-education-bs-physics-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Advised Science Electives",
+     "options": [
+      [
+       "ANS 150"
+      ],
+      [
+       "ANS 205"
+      ],
+      [
+       "ANS 206"
+      ],
+      [
+       "ANS 220"
+      ],
+      [
+       "ANS 221"
+      ],
+      [
+       "BIO 165"
+      ],
+      [
+       "CS 211"
+      ],
+      [
+       "ES 100"
+      ],
+      [
+       "ES 111"
+      ],
+      [
+       "ES 150"
+      ],
+      [
+       "FOR 252"
+      ],
+      [
+       "FOR 260"
+      ],
+      [
+       "FOR 261"
+      ],
+      [
+       "FOR 264"
+      ],
+      [
+       "FOR 339"
+      ],
+      [
+       "FW 353"
+      ],
+      [
+       "FW 404"
+      ],
+      [
+       "FW 405"
+      ],
+      [
+       "FW 444"
+      ],
+      [
+       "FW 453"
+      ],
+      [
+       "FW 460"
+      ],
+      [
+       "NR 303"
+      ],
+      [
+       "NR 406"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Advised Science Electives 6",
+     "id": "ncsu-science-education-bs-physics-concentration-s16"
+    }
+   ]
+  },
+  {
+   "title": "Science Education",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 205 Introduction to Teaching Science 2",
+     "options": [
+      [
+       "EMS 205"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 205 Introduction to Teaching Science 2",
+     "id": "ncsu-science-education-bs-physics-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 404 Design of Tools and Learning Environments in Science Education 3",
+     "options": [
+      [
+       "EMS 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 404 Design of Tools and Learning Environments in Science Education 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 405 Methods of Teaching Science I 3",
+     "options": [
+      [
+       "EMS 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 405 Methods of Teaching Science I 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 406 Methods of Teaching Science II 3",
+     "options": [
+      [
+       "EMS 406"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EMS 406 Methods of Teaching Science II 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 476 Student Teaching in Science 10",
+     "options": [
+      [
+       "EMS 476"
+      ]
+     ],
+     "hours": {
+      "min": 10,
+      "max": 10
+     },
+     "raw": "EMS 476 Student Teaching in Science 10",
+     "id": "ncsu-science-education-bs-physics-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "options": [
+      [
+       "EMS 495"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "EMS 495 Senior Seminar in Mathematics and Science Education 2",
+     "id": "ncsu-science-education-bs-physics-concentration-s22"
+    }
+   ]
+  },
+  {
+   "title": "General Education and Psychology",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "options": [
+      [
+       "ED 204"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "ED 204 Introduction to Teaching in Today's Schools 2",
+     "id": "ncsu-science-education-bs-physics-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "EDP 304 Educational Psychology 3",
+     "options": [
+      [
+       "EDP 304"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EDP 304 Educational Psychology 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ED 311 & ED 312 Classroom Assessment Principles and Practices and Classroom Assessment Principles and Practices Professional Learning Lab 3",
+     "options": [
+      [
+       "ED 311",
+       "ED 312"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ED 311 & ED 312 Classroom Assessment Principles and Practices and Classroom Assessment Principles and Practices Professional Learning Lab 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ELP 344 School and Society 3",
+     "options": [
+      [
+       "ELP 344"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ELP 344 School and Society 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "options": [
+      [
+       "ECI 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECI 416 Teaching Students with Disabilities in Inclusive Classrooms 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "History and Philosophy of Science Education Elective",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "History and Philosophy of Science Education Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "History and Philosophy of Science Education Elective 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 0,
+      "max": 4
+     },
+     "raw": "Free Electives 0-4",
+     "id": "ncsu-science-education-bs-physics-concentration-s29"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-science-education-bs-physics-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 0,
+      "max": 6
+     },
+     "raw": "GEP Humanities (verify requirement) 0-6",
+     "id": "ncsu-science-education-bs-physics-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 0,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences (verify requirement) 0-6",
+     "id": "ncsu-science-education-bs-physics-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-science-education-bs-physics-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-science-education-bs-physics-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-science-education-bs-physics-concentration-s35"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-science-education-bs-physics-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-science-education-bs-physics-concentration-s37"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Communication/Advanced Writing\" has a nested heading or list reference: \"Choose from:\"",
+  "Row points to a list that could not be linked: \"Earth and Environmental Science Electives\""
+ ],
+ "parseNotes": [
+  "Indented note: \"(Physics BA double major choose PY 201)\"",
+  "Indented note: \"(Physics BA double major choose PY 202)\"",
+  "Group \"Physics Electives 100/200 Level\" carries a note or open-ended option: \"(Physics BA double major choose PY 203)\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Physics Electives 100/200 Level\"",
+  "Group \"Physics Electives 300/400 Level\" carries a note or open-ended option: \"(Physics BA double major choose PY 401, PY 411, PY 413, and PY 414)\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Physics Electives 300/400 Level\"",
+  "List \"Advised Science Electives\" has a row that is not a course and was not read: \"ANY 200+ Level AEC, BIO, BCH, BSC, CH, ENT, ES, MB, MEA, PB, PY, ZO\"",
+  "List \"Advised Science Electives\" has a row that is not a course and was not read: \"ANY GEP Natural Sciences course (except BIO 105/106, CH 111)\"",
+  "List \"Advised Science Electives\" has codes with no catalog link: BIO 165, FOR 339",
+  "Codes in choice lists not found in the course catalog: BIO 165, FOR 339, NR 303"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/education/stem/science-education-bs-physics-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Physics Concentration",
+ "college": "College of Education"
+}

@@ -1,0 +1,1022 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration",
+ "university": "ncsu",
+ "name": "Applied Mathematics",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/mathematics/applied-mathematics-bs-mathematical-foundations-data-science-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation (verify requirement)",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Orientation (verify requirement)",
+     "options": [],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "Orientation (verify requirement) 0",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COS 100 Science of Change 0 or E 115 Introduction to Computing Environments",
+     "options": [
+      [
+       "COS 100"
+      ],
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "COS 100 Science of Change 0 or E 115 Introduction to Computing Environments",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Communication and Advanced Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Communications courses (Verify Requirement):",
+     "options": [
+      [
+       "COM 110"
+      ],
+      [
+       "COM 112"
+      ],
+      [
+       "COM 211"
+      ],
+      [
+       "COM 292"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "Select one of the following Communications courses (Verify Requirement): 0",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Advanced Writing courses:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ],
+      [
+       "ENG 425"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Advanced Writing courses: 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Basic Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 225 Foundations of Advanced Mathematics 3",
+     "options": [
+      [
+       "MA 225"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 225 Foundations of Advanced Mathematics 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s10"
+    }
+   ]
+  },
+  {
+   "title": "Basic Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Courses must be taken from two different disciplines",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ],
+      [
+       "CH 103",
+       "CH 104"
+      ],
+      [
+       "PY 205"
+      ],
+      [
+       "PY 201"
+      ],
+      [
+       "BIO 181"
+      ],
+      [
+       "BIO 183"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Courses must be taken from two different disciplines 8",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional Basic Science",
+     "options": [],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Additional Basic Science 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following three options for the Statistics requirement:",
+     "options": [
+      [
+       "ST 371",
+       "ST 372"
+      ],
+      [
+       "MA 421",
+       "ST 422"
+      ],
+      [
+       "ST 421",
+       "ST 422"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Select one of the following three options for the Statistics requirement: 6",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Introduction to Programming courses:",
+     "options": [
+      [
+       "CSC 111"
+      ],
+      [
+       "PY 251"
+      ],
+      [
+       "ST 114"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Introduction to Programming courses: 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s14"
+    }
+   ]
+  },
+  {
+   "title": "Advanced Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 405 Advanced Linear Algebra 3",
+     "options": [
+      [
+       "MA 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 405 Advanced Linear Algebra 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "options": [
+      [
+       "MA 407"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 407 Introduction to Modern Algebra for Mathematics Majors 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 425 Mathematical Analysis I 3",
+     "options": [
+      [
+       "MA 425"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 425 Mathematical Analysis I 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 326 Mathematical Foundations of Data Science I",
+     "options": [
+      [
+       "MA 326"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 326 Mathematical Foundations of Data Science I",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 402 Mathematics of Scientific Computing",
+     "options": [
+      [
+       "MA 402"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 402 Mathematics of Scientific Computing",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 404 Mathematical Foundations of Data Science II",
+     "options": [
+      [
+       "MA 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 404 Mathematical Foundations of Data Science II",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Math Electives",
+     "options": [
+      [
+       "MA 325"
+      ],
+      [
+       "MA 335"
+      ],
+      [
+       "LOG 335"
+      ],
+      [
+       "MA 351"
+      ],
+      [
+       "MA 401"
+      ],
+      [
+       "MA 408"
+      ],
+      [
+       "MA 410"
+      ],
+      [
+       "MA 412"
+      ],
+      [
+       "ST 412"
+      ],
+      [
+       "MA 413"
+      ],
+      [
+       "ST 413"
+      ],
+      [
+       "MA 414"
+      ],
+      [
+       "CSC 414"
+      ],
+      [
+       "MA 416"
+      ],
+      [
+       "CSC 416"
+      ],
+      [
+       "MA 421"
+      ],
+      [
+       "MA 426"
+      ],
+      [
+       "MA 427"
+      ],
+      [
+       "CSC 427"
+      ],
+      [
+       "MA 428"
+      ],
+      [
+       "CSC 428"
+      ],
+      [
+       "MA 432"
+      ],
+      [
+       "MA 437"
+      ],
+      [
+       "MA 450"
+      ],
+      [
+       "MA 451"
+      ],
+      [
+       "MA 491"
+      ],
+      [
+       "MA 501"
+      ],
+      [
+       "MA 504"
+      ],
+      [
+       "OR 504"
+      ],
+      [
+       "MA 505"
+      ],
+      [
+       "ISE 505"
+      ],
+      [
+       "OR 505"
+      ],
+      [
+       "MA 513"
+      ],
+      [
+       "MA 514"
+      ],
+      [
+       "CSC 514"
+      ],
+      [
+       "MA 515"
+      ],
+      [
+       "MA 518"
+      ],
+      [
+       "MA 520"
+      ],
+      [
+       "MA 521"
+      ],
+      [
+       "MA 522"
+      ],
+      [
+       "MA 523"
+      ],
+      [
+       "MA 524"
+      ],
+      [
+       "MA 526"
+      ],
+      [
+       "MA 528"
+      ],
+      [
+       "FIM 528"
+      ],
+      [
+       "ECG 528"
+      ],
+      [
+       "MBA 528"
+      ],
+      [
+       "MA 531"
+      ],
+      [
+       "E 531"
+      ],
+      [
+       "OR 531"
+      ],
+      [
+       "MA 532"
+      ],
+      [
+       "MA 534"
+      ],
+      [
+       "MA 537"
+      ],
+      [
+       "MA 540"
+      ],
+      [
+       "MA 542"
+      ],
+      [
+       "MA 544"
+      ],
+      [
+       "MA 546"
+      ],
+      [
+       "ST 546"
+      ],
+      [
+       "MA 547"
+      ],
+      [
+       "MA 548"
+      ],
+      [
+       "FIM 548"
+      ],
+      [
+       "MA 549"
+      ],
+      [
+       "FIM 549"
+      ],
+      [
+       "MA 551"
+      ],
+      [
+       "MA 555"
+      ],
+      [
+       "MA 561"
+      ],
+      [
+       "MA 565"
+      ],
+      [
+       "CSC 565"
+      ],
+      [
+       "OR 565"
+      ],
+      [
+       "MA 573"
+      ],
+      [
+       "BMA 573"
+      ],
+      [
+       "MA 574"
+      ],
+      [
+       "BMA 574"
+      ],
+      [
+       "MA 580"
+      ],
+      [
+       "CSC 580"
+      ],
+      [
+       "MA 583"
+      ],
+      [
+       "CSC 583"
+      ],
+      [
+       "MA 584"
+      ],
+      [
+       "MA 587"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Math Electives 9",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s21"
+    }
+   ]
+  },
+  {
+   "title": "Data Science Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Data Science Electives",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Data Science Electives 6",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s22"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Select two of the following courses:",
+     "options": [
+      [
+       "CSC 422"
+      ],
+      [
+       "CSC 522"
+      ],
+      [
+       "ST 442"
+      ],
+      [
+       "CSC 442"
+      ],
+      [
+       "ST 445"
+      ],
+      [
+       "ST 452"
+      ],
+      [
+       "ST 453"
+      ],
+      [
+       "MA 542"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": null,
+     "raw": "Select two of the following courses:",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s23",
+     "altGroups": [
+      0,
+      0,
+      1,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Concentration Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PHI 227 Data Ethics 3",
+     "options": [
+      [
+       "PHI 227"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHI 227 Data Ethics 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DSA 202 Introduction to Data Visualization 1",
+     "options": [
+      [
+       "DSA 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "DSA 202 Introduction to Data Visualization 1",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "DSA 405 Data Wrangling and Web Scraping 1",
+     "options": [
+      [
+       "DSA 405"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "DSA 405 Data Wrangling and Web Scraping 1",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "General Data Science Electives: Select 4 credits of DSA courses, at least 2 at the 400-level",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "DSA"
+      ]
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "General Data Science Electives: Select 4 credits of DSA courses, at least 2 at the 400-level 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "Advised Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Electives",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Advised Electives 9",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "A personalized plan for the 9 credits of Advised Electives will be developed in collaboration with the student’s academic advisor. These courses offer the opportunity for the student to explore areas of interest in greater depth, particularly in subjects related to data science. Students are also encouraged to use these electives to pursue a minor or a second major.",
+     "options": [],
+     "hours": null,
+     "raw": "A personalized plan for the 9 credits of Advised Electives will be developed in collaboration with the student’s academic advisor. These courses offer the opportunity for the student to explore areas of interest in greater depth, particularly in subjects related to data science. Students are also encouraged to use these electives to pursue a minor or a second major.",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s29"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Humanities 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Requirement",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Requirement"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Requirement 3",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s35"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s37"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Free Electives 4",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s38"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "Free Electives (4 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": null,
+     "raw": "Free Electives (4 Hr S/U Lmt)",
+     "id": "ncsu-applied-mathematics-bs-mathematical-foundations-data-science-concentration-s39"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Rule cannot be checked automatically: \"Courses must be taken from two different disciplines\""
+ ],
+ "parseNotes": [
+  "Group \"Select one of the following three options for the Statistics requirement:\" carries a note or open-ended option: \"Note: Students considering graduate school are strongly encouraged to select (MA 421 or ST 421) with ST 422\"",
+  "List \"Math Electives\" has codes with no catalog link: MA 526",
+  "Row has a further condition that is not checked: \"General Data Science Electives: Select 4 credits of DSA courses, at least 2 at the 400-level\"",
+  "Codes in choice lists not found in the course catalog: MA 526, MBA 528"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/mathematics/applied-mathematics-bs-mathematical-foundations-data-science-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Mathematical Foundations of Data Science Concentration",
+ "college": "College of Sciences"
+}

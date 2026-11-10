@@ -1,0 +1,166 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-romance-languages-major-ba-hispanic-literatures-cultures",
+ "university": "unc",
+ "name": "Romance Languages",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-hispanic-literatures-cultures/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 24,
+  "max": 24
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "SPAN 300 Grammar and Structure of Spanish 3 or SPAN 301 Introduction to Literary and Cultural Analysis or SPAN 302 Literary and Cultural Analysis for Heritage Learners",
+     "options": [
+      [
+       "SPAN 300"
+      ],
+      [
+       "SPAN 301"
+      ],
+      [
+       "SPAN 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SPAN 300 Grammar and Structure of Spanish 3 or SPAN 301 Introduction to Literary and Cultural Analysis or SPAN 302 Literary and Cultural Analysis for Heritage Learners",
+     "id": "unc-romance-languages-major-ba-hispanic-literatures-cultures-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Three courses from one of the following concentrations (see course lists below):",
+     "options": [
+      [
+       "SPAN 338"
+      ],
+      [
+       "SPAN 340"
+      ],
+      [
+       "SPAN 344"
+      ],
+      [
+       "SPAN 371"
+      ],
+      [
+       "SPAN 373"
+      ],
+      [
+       "SPAN 320",
+       "SPAN 325"
+      ],
+      [
+       "SPAN 321",
+       "SPAN 328"
+      ],
+      [
+       "SPAN 323",
+       "SPAN 324"
+      ],
+      [
+       "SPAN 329"
+      ],
+      [
+       "SPAN 351"
+      ],
+      [
+       "SPAN 352"
+      ],
+      [
+       "SPAN 369"
+      ],
+      [
+       "SPAN 370"
+      ],
+      [
+       "SPAN 360"
+      ],
+      [
+       "SPAN 376"
+      ],
+      [
+       "SPAN 375"
+      ],
+      [
+       "SPAN 378"
+      ],
+      [
+       "SPAN 397"
+      ]
+     ],
+     "pick": {
+      "count": 3
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three courses from one of the following concentrations (see course lists below): 9",
+     "id": "unc-romance-languages-major-ba-hispanic-literatures-cultures-s2",
+     "altGroups": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four elective courses numbered SPAN 330 or higher (except SPAN 401-SPAN 402, SPAN 404-405, SPAN 414-SPAN 417, SPAN 601, and SPAN 691H-692H)",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four elective courses numbered SPAN 330 or higher (except SPAN 401-SPAN 402, SPAN 404-405, SPAN 414-SPAN 417, SPAN 601, and SPAN 691H-692H) 12",
+     "id": "unc-romance-languages-major-ba-hispanic-literatures-cultures-s3"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Hispanic Literatures and Cultures\" has a row that is not a course and was not read: \"One course from the following list:\"",
+  "List \"Spanish for the Professions\" has a row that is not a course and was not read: \"Two courses from one of the following pairs:\"",
+  "List \"Translation and Interpreting\" has a row that is not a course and was not read: \"Three courses from the following list:\"",
+  "List \"Hispanic Linguistics\" has a row that is not a course and was not read: \"One course from the following list:\"",
+  "Level-based elective is kept as text, so credit cannot fill it automatically: \"Four elective courses numbered SPAN 330 or higher (except SPAN 401-SPAN 402, SPAN 404-405, SPAN 414-SPAN 417, SPAN 601, and SPAN 691H-692H)\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/romance-languages-major-ba-hispanic-literatures-cultures/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Hispanic Studies"
+}

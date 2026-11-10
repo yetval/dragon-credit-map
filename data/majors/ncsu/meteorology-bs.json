@@ -1,0 +1,798 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-meteorology-bs",
+ "university": "ncsu",
+ "name": "Meteorology",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/meteorology-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COS 100 Science of Change 2",
+     "options": [
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "COS 100 Science of Change 2",
+     "id": "ncsu-meteorology-bs-s1"
+    }
+   ]
+  },
+  {
+   "title": "English / Communication",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-meteorology-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Advanced Writing courses:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Advanced Writing courses: 3",
+     "id": "ncsu-meteorology-bs-s3"
+    }
+   ]
+  },
+  {
+   "title": "Math / Statistics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MEA 217 Introduction to Computing in the Geosciences 3 or MA 116 Introduction to Scientific Programming (Math) or PY 251 Introduction to Scientific Computing or CSC 113 Introduction to Computing - MATLAB",
+     "options": [
+      [
+       "MEA 217"
+      ],
+      [
+       "MA 116"
+      ],
+      [
+       "PY 251"
+      ],
+      [
+       "CSC 113"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 217 Introduction to Computing in the Geosciences 3 or MA 116 Introduction to Scientific Programming (Math) or PY 251 Introduction to Scientific Computing or CSC 113 Introduction to Computing - MATLAB",
+     "id": "ncsu-meteorology-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-meteorology-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-meteorology-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-meteorology-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-meteorology-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 311 Introduction to Statistics 3 or ST 370 Probability and Statistics for Engineers or ST 371 Introduction to Probability and Distribution Theory",
+     "options": [
+      [
+       "ST 311"
+      ],
+      [
+       "ST 370"
+      ],
+      [
+       "ST 371"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3 or ST 370 Probability and Statistics for Engineers or ST 371 Introduction to Probability and Distribution Theory",
+     "id": "ncsu-meteorology-bs-s9"
+    }
+   ]
+  },
+  {
+   "title": "Chemistry / Physics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-meteorology-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-meteorology-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Chemistry Option",
+     "options": [
+      [
+       "CH 201",
+       "CH 202"
+      ],
+      [
+       "CH 220",
+       "CH 222"
+      ],
+      [
+       "CH 221",
+       "CH 222"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Chemistry Option 4",
+     "id": "ncsu-meteorology-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-meteorology-bs-s13"
+    }
+   ]
+  },
+  {
+   "title": "Meteorology Core",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "options": [
+      [
+       "MEA 100"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "id": "ncsu-meteorology-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 215 Introduction to Atmospheric Sciences 4",
+     "options": [
+      [
+       "MEA 215"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 215 Introduction to Atmospheric Sciences 4",
+     "id": "ncsu-meteorology-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 218 Introduction to Weather Analysis and Prediction 2",
+     "options": [
+      [
+       "MEA 218"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MEA 218 Introduction to Weather Analysis and Prediction 2",
+     "id": "ncsu-meteorology-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 312 Atmospheric Thermodynamics 4",
+     "options": [
+      [
+       "MEA 312"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 312 Atmospheric Thermodynamics 4",
+     "id": "ncsu-meteorology-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 315 Mathematics Methods in Atmospheric Sciences 2",
+     "options": [
+      [
+       "MEA 315"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MEA 315 Mathematics Methods in Atmospheric Sciences 2",
+     "id": "ncsu-meteorology-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 321 Fundamentals of Air Quality and Climate Change 3",
+     "options": [
+      [
+       "MEA 321"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 321 Fundamentals of Air Quality and Climate Change 3",
+     "id": "ncsu-meteorology-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 412 Atmospheric Physics 3",
+     "options": [
+      [
+       "MEA 412"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 412 Atmospheric Physics 3",
+     "id": "ncsu-meteorology-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 421 Atmospheric Dynamics I 3",
+     "options": [
+      [
+       "MEA 421"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 421 Atmospheric Dynamics I 3",
+     "id": "ncsu-meteorology-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 422 Atmospheric Dynamics II 3",
+     "options": [
+      [
+       "MEA 422"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 422 Atmospheric Dynamics II 3",
+     "id": "ncsu-meteorology-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 443 Synoptic Meteorology 4",
+     "options": [
+      [
+       "MEA 443"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 443 Synoptic Meteorology 4",
+     "id": "ncsu-meteorology-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 495 Junior Seminar in the Marine, Earth, and Atmospheric Sciences 1",
+     "options": [
+      [
+       "MEA 495"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 495 Junior Seminar in the Marine, Earth, and Atmospheric Sciences 1",
+     "id": "ncsu-meteorology-bs-s24"
+    }
+   ]
+  },
+  {
+   "title": "Major Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Geophysical Science Option",
+     "options": [
+      [
+       "MEA 101",
+       "MEA 110"
+      ],
+      [
+       "MEA 200",
+       "MEA 210"
+      ],
+      [
+       "PY 123",
+       "PY 125"
+      ],
+      [
+       "PY 124",
+       "PY 125"
+      ],
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Geophysical Science Option 4",
+     "id": "ncsu-meteorology-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Approved Electives",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Approved Electives 12",
+     "id": "ncsu-meteorology-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Restricted Electives",
+     "options": [
+      [
+       "MEA 415"
+      ],
+      [
+       "MEA 418"
+      ],
+      [
+       "MEA 425"
+      ],
+      [
+       "MEA 444"
+      ],
+      [
+       "MEA 455"
+      ],
+      [
+       "MEA 458"
+      ],
+      [
+       "MEA 463"
+      ],
+      [
+       "MEA 467"
+      ],
+      [
+       "MEA 479"
+      ],
+      [
+       "CE 479"
+      ],
+      [
+       "MEA 488"
+      ],
+      [
+       "MEA 493"
+      ],
+      [
+       "MEA 498"
+      ],
+      [
+       "MEA 499"
+      ],
+      [
+       "MEA 510"
+      ],
+      [
+       "MEA 511"
+      ],
+      [
+       "MEA 514"
+      ],
+      [
+       "MEA 515"
+      ],
+      [
+       "MEA 517"
+      ],
+      [
+       "MEA 518"
+      ],
+      [
+       "MEA 519"
+      ],
+      [
+       "MEA 525"
+      ],
+      [
+       "MEA 579"
+      ],
+      [
+       "CE 579"
+      ],
+      [
+       "MEA 580"
+      ],
+      [
+       "MEA 581"
+      ],
+      [
+       "MEA 582"
+      ],
+      [
+       "GIS 582"
+      ],
+      [
+       "MEA 593"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Restricted Electives 9",
+     "id": "ncsu-meteorology-bs-s27",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      21,
+      22,
+      23,
+      24,
+      24,
+      25
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Professional or Research Experience Elective",
+     "options": [
+      [
+       "MEA 498"
+      ],
+      [
+       "MEA 499"
+      ],
+      [
+       "MEA 511"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Professional or Research Experience Elective 3",
+     "id": "ncsu-meteorology-bs-s28"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-meteorology-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-meteorology-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-meteorology-bs-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-meteorology-bs-s32"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-meteorology-bs-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-meteorology-bs-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-meteorology-bs-s35"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Approved Electives\" carries a note or open-ended option: \"Approved Electives constitute a minor field of emphasis consisting of at least 12 credit hours in a single discipline or related disciplines. These include, but are not limited to: biometeorology, chemistry, computer science, environmental quality, geology-geophysics, hydrology, mathematics, physics, physical oceanography, statistics, several areas of engineering, agriculture, forestry, science education, weather communication.\"",
+  "List \"Professional or Research Experience Elective\" has a row that is not a course and was not read: \"Student-initiated honors credit in a 400-level course.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/meteorology-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Sciences"
+}

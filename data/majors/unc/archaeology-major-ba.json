@@ -1,0 +1,400 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-archaeology-major-ba",
+ "university": "unc",
+ "name": "Archaeology",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/archaeology-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 27,
+  "max": 31
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course in archaeological method and theory:",
+     "options": [
+      [
+       "ANTH 220"
+      ],
+      [
+       "ANTH 291"
+      ],
+      [
+       "CLAR 411"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course in archaeological method and theory: 3",
+     "id": "unc-archaeology-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Two courses in archaeological practice.",
+     "options": [
+      [
+       "CLAR 270"
+      ],
+      [
+       "ANTH 409"
+      ],
+      [
+       "ANTH 410"
+      ],
+      [
+       "ANTH 411"
+      ],
+      [
+       "ANTH 413",
+       "ANTH 413L"
+      ],
+      [
+       "ANTH 414",
+       "ANTH 414L"
+      ],
+      [
+       "ANTH 415",
+       "ANTH 415L"
+      ],
+      [
+       "ANTH 416"
+      ],
+      [
+       "ANTH 417",
+       "ANTH 417L"
+      ],
+      [
+       "ANTH 418"
+      ],
+      [
+       "ANTH 425"
+      ],
+      [
+       "ANTH 451"
+      ],
+      [
+       "ANTH 453"
+      ],
+      [
+       "CLAR 650"
+      ]
+     ],
+     "pick": {
+      "count": 2
+     },
+     "hours": {
+      "min": 6,
+      "max": 10
+     },
+     "raw": "Two courses in archaeological practice. 6-10",
+     "id": "unc-archaeology-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Six courses from the list below; must include offerings from at least two departments",
+     "options": [
+      [
+       "ANTH 50"
+      ],
+      [
+       "ANTH 54"
+      ],
+      [
+       "ANTH 60"
+      ],
+      [
+       "ANTH 64"
+      ],
+      [
+       "ANTH 65"
+      ],
+      [
+       "ANTH 72"
+      ],
+      [
+       "ANTH 121"
+      ],
+      [
+       "ANTH 123"
+      ],
+      [
+       "ANTH 144"
+      ],
+      [
+       "ANTH 145"
+      ],
+      [
+       "ANTH 148"
+      ],
+      [
+       "ANTH 149"
+      ],
+      [
+       "ANTH 151"
+      ],
+      [
+       "ANTH 222"
+      ],
+      [
+       "ANTH 231"
+      ],
+      [
+       "ANTH 232"
+      ],
+      [
+       "ANTH 233"
+      ],
+      [
+       "ANTH 235"
+      ],
+      [
+       "ANTH 250"
+      ],
+      [
+       "ANTH 252"
+      ],
+      [
+       "ANTH 277"
+      ],
+      [
+       "ANTH 349"
+      ],
+      [
+       "ANTH 409"
+      ],
+      [
+       "ANTH 410"
+      ],
+      [
+       "ANTH 411"
+      ],
+      [
+       "ANTH 412"
+      ],
+      [
+       "ANTH 413",
+       "ANTH 413L"
+      ],
+      [
+       "ANTH 414",
+       "ANTH 414L"
+      ],
+      [
+       "ANTH 415",
+       "ANTH 415L"
+      ],
+      [
+       "ANTH 416"
+      ],
+      [
+       "ANTH 417",
+       "ANTH 417L"
+      ],
+      [
+       "ANTH 418"
+      ],
+      [
+       "ANTH 419"
+      ],
+      [
+       "ANTH 420"
+      ],
+      [
+       "ANTH 421"
+      ],
+      [
+       "ANTH 423"
+      ],
+      [
+       "ANTH 425"
+      ],
+      [
+       "ANTH 454"
+      ],
+      [
+       "ANTH 457"
+      ],
+      [
+       "ANTH 460"
+      ],
+      [
+       "ANTH 458"
+      ],
+      [
+       "ANTH 535"
+      ],
+      [
+       "ANTH 538"
+      ],
+      [
+       "ANTH 550"
+      ],
+      [
+       "ANTH 551"
+      ],
+      [
+       "ANTH 651"
+      ],
+      [
+       "ANTH 674"
+      ],
+      [
+       "ARCH 395"
+      ],
+      [
+       "ARCH 396"
+      ],
+      [
+       "CLAR 50"
+      ],
+      [
+       "CLAS 62"
+      ],
+      [
+       "CLAR 115"
+      ],
+      [
+       "CLAR 248"
+      ],
+      [
+       "CLAR 110"
+      ],
+      [
+       "CLAR 120"
+      ],
+      [
+       "CLAR 190"
+      ],
+      [
+       "CLAR 200"
+      ],
+      [
+       "CLAR 210"
+      ],
+      [
+       "CLAR 241"
+      ],
+      [
+       "CLAR 242"
+      ],
+      [
+       "CLAR 243"
+      ],
+      [
+       "CLAR 244"
+      ],
+      [
+       "CLAR 247"
+      ],
+      [
+       "CLAR 250"
+      ],
+      [
+       "CLAR 268"
+      ],
+      [
+       "CLAR 270"
+      ],
+      [
+       "CLAR 374"
+      ],
+      [
+       "CLAR 375"
+      ],
+      [
+       "CLAR 380"
+      ],
+      [
+       "CLAR 396"
+      ],
+      [
+       "ARTH 461"
+      ],
+      [
+       "CLAR 464"
+      ],
+      [
+       "CLAR 465"
+      ],
+      [
+       "CLAR 474"
+      ],
+      [
+       "CLAR 475"
+      ],
+      [
+       "CLAR 476"
+      ],
+      [
+       "CLAR 480"
+      ],
+      [
+       "CLAR 482"
+      ],
+      [
+       "CLAR 491"
+      ],
+      [
+       "CLAR 492"
+      ],
+      [
+       "CLAR 512"
+      ],
+      [
+       "HIST 106"
+      ],
+      [
+       "LING 558"
+      ],
+      [
+       "LING 560"
+      ],
+      [
+       "LING 561"
+      ],
+      [
+       "RELI 63"
+      ]
+     ],
+     "pick": {
+      "count": 6
+     },
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Six courses from the list below; must include offerings from at least two departments 18",
+     "id": "unc-archaeology-major-ba-s3"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group \"Two courses in archaeological practice.\" has a nested heading or list reference: \"One must be a laboratory course:\"",
+  "Group \"Two courses in archaeological practice.\" has a nested heading or list reference: \"One must be a field school (may be satisfied with a minimum of 3 hours of transfer credit):\""
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/archaeology-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

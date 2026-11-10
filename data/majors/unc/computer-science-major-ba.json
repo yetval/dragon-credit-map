@@ -1,0 +1,336 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-computer-science-major-ba",
+ "university": "unc",
+ "name": "Computer Science",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 43,
+  "max": 43
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 110 Introduction to Programming 3",
+     "options": [
+      [
+       "COMP 110"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 110 Introduction to Programming 3",
+     "id": "unc-computer-science-major-ba-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 210 Data Structures and Analysis 3",
+     "options": [
+      [
+       "COMP 210"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 210 Data Structures and Analysis 3",
+     "id": "unc-computer-science-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 211 Systems Fundamentals 3",
+     "options": [
+      [
+       "COMP 211"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 211 Systems Fundamentals 3",
+     "id": "unc-computer-science-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 301 Foundations of Programming 3",
+     "options": [
+      [
+       "COMP 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 301 Foundations of Programming 3",
+     "id": "unc-computer-science-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COMP 311 Computer Organization 3",
+     "options": [
+      [
+       "COMP 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 311 Computer Organization 3",
+     "id": "unc-computer-science-major-ba-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "COMP 283 Discrete Structures 3 or MATH 381 Discrete Mathematics or STOR 315 Discrete Mathematics for Data Science",
+     "options": [
+      [
+       "COMP 283"
+      ],
+      [
+       "MATH 381"
+      ],
+      [
+       "STOR 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "COMP 283 Discrete Structures 3 or MATH 381 Discrete Mathematics or STOR 315 Discrete Mathematics for Data Science",
+     "id": "unc-computer-science-major-ba-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Six additional elective courses chosen from the following, with no more than two courses from other departments:",
+     "options": [
+      [
+       "BIOL 525"
+      ],
+      [
+       "BIOL 553"
+      ],
+      [
+       "BIOL 554"
+      ],
+      [
+       "BIOS 512"
+      ],
+      [
+       "BIOS 611"
+      ],
+      [
+       "BIOS 635"
+      ],
+      [
+       "BMME 575"
+      ],
+      [
+       "COMM 638"
+      ],
+      [
+       "ECON 525"
+      ],
+      [
+       "ECON 573I"
+      ],
+      [
+       "GEOG 592"
+      ],
+      [
+       "INLS 318"
+      ],
+      [
+       "INLS 418"
+      ],
+      [
+       "INLS 509"
+      ],
+      [
+       "INLS 512"
+      ],
+      [
+       "INLS 523"
+      ],
+      [
+       "INLS 609"
+      ],
+      [
+       "INLS 613"
+      ],
+      [
+       "INLS 623"
+      ],
+      [
+       "INLS 641"
+      ],
+      [
+       "INLS 642"
+      ],
+      [
+       "INLS 718"
+      ],
+      [
+       "LING 401"
+      ],
+      [
+       "LING 460"
+      ],
+      [
+       "LING 540"
+      ],
+      [
+       "MATH 560"
+      ],
+      [
+       "MATH 566"
+      ],
+      [
+       "MATH 661"
+      ],
+      [
+       "MEJO 581"
+      ],
+      [
+       "PHYS 231"
+      ],
+      [
+       "PHYS 331"
+      ],
+      [
+       "PHYS 332"
+      ],
+      [
+       "PSYC 559"
+      ],
+      [
+       "STOR 512"
+      ],
+      [
+       "STOR 520"
+      ],
+      [
+       "STOR 565"
+      ],
+      [
+       "STOR 566"
+      ]
+     ],
+     "pick": {
+      "count": 6
+     },
+     "hours": {
+      "min": 18,
+      "max": 18
+     },
+     "raw": "Six additional elective courses chosen from the following, with no more than two courses from other departments: 18",
+     "id": "unc-computer-science-major-ba-s7"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I (A grade of C or better is required) 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I (A grade of C or better is required) 4",
+     "id": "unc-computer-science-major-ba-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 155 Introduction to Data Models and Inference 3 or STOR 120 Foundations of Statistics and Data Science or STOR 435 Introduction to Probability or STOR 535 Probability for Data Science or PSYC 210 Statistical Principles of Psychological Research or EMES 520 Data Analysis for Earth and Marine Sciences or BIOS 650 Basic Elements of Probability and Statistical Inference I",
+     "options": [
+      [
+       "STOR 155"
+      ],
+      [
+       "STOR 120"
+      ],
+      [
+       "STOR 435"
+      ],
+      [
+       "STOR 535"
+      ],
+      [
+       "PSYC 210"
+      ],
+      [
+       "EMES 520"
+      ],
+      [
+       "BIOS 650"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "STOR 155 Introduction to Data Models and Inference 3 or STOR 120 Foundations of Statistics and Data Science or STOR 435 Introduction to Probability or STOR 535 Probability for Data Science or PSYC 210 Statistical Principles of Psychological Research or EMES 520 Data Analysis for Earth and Marine Sciences or BIOS 650 Basic Elements of Probability and Statistical Inference I",
+     "id": "unc-computer-science-major-ba-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "B.A. majors in computer science must fulfill all General Education requirements, including the Supplemental General Education requirement.",
+     "options": [],
+     "hours": null,
+     "raw": "B.A. majors in computer science must fulfill all General Education requirements, including the Supplemental General Education requirement.",
+     "id": "unc-computer-science-major-ba-s10"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Six additional elective courses chosen from the following, with no more than two courses from other departments:\" carries a note or open-ended option: \"COMP courses numbered 420 - 599 (excluding COMP 496)\"",
+  "Group \"Six additional elective courses chosen from the following, with no more than two courses from other departments:\" carries a note or open-ended option: \"Graduate level courses (600 or higher) excluding COMP 692H and COMP 790\"",
+  "Group \"Six additional elective courses chosen from the following, with no more than two courses from other departments:\" carries a note or open-ended option: \"Other courses must be approved by the director of undergraduate studies and must have a significant computer or computing technology component.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/computer-science-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

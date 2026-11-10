@@ -1,0 +1,867 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration",
+ "university": "ncsu",
+ "name": "Polymer and Color Chemistry",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-engineering-chemistry-science/polymer-color-chemistry-bs-acs-certification-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "options": [
+      [
+       "T 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "T 101 Strategies for Success in the Wilson College of Textiles 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing & Speaking",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "WLEN 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Major Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 101 Introduction to Polymer and Color Chemistry 2",
+     "options": [
+      [
+       "PCC 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PCC 101 Introduction to Polymer and Color Chemistry 2",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 104 Introduction to Polymer and Color Chemistry Lab 1",
+     "options": [
+      [
+       "PCC 104"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PCC 104 Introduction to Polymer and Color Chemistry Lab 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 106 Chemistry of Colorants and Auxiliaries (Polymer Synth. Sustain. the Env.) 3",
+     "options": [
+      [
+       "PCC 106"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 106 Chemistry of Colorants and Auxiliaries (Polymer Synth. Sustain. the Env.) 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 200 Introduction to Polymer Science and Engineering 3",
+     "options": [
+      [
+       "TE 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "TE 200 Introduction to Polymer Science and Engineering 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TE 201 Fiber Science 4",
+     "options": [
+      [
+       "TE 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "TE 201 Fiber Science 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "TMS 212 Yarn and Fabric Formation and Properties 2",
+     "options": [
+      [
+       "TMS 212"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "TMS 212 Yarn and Fabric Formation and Properties 2",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 201 Impact of Industry on the Environment and Society 3",
+     "options": [
+      [
+       "PCC 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 201 Impact of Industry on the Environment and Society 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 301 Technology of Dyeing and Finishing 3",
+     "options": [
+      [
+       "PCC 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 301 Technology of Dyeing and Finishing 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 304 Technology of Dyeing & Finishing Laboratory 1",
+     "options": [
+      [
+       "PCC 304"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PCC 304 Technology of Dyeing & Finishing Laboratory 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 350 Introduction to Color Science and Its Applications 2",
+     "options": [
+      [
+       "PCC 350"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PCC 350 Introduction to Color Science and Its Applications 2",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 354 Intro to Color Science Laboratory 1",
+     "options": [
+      [
+       "PCC 354"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PCC 354 Intro to Color Science Laboratory 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 412 Textile Chemical Analysis 2",
+     "options": [
+      [
+       "PCC 412"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "PCC 412 Textile Chemical Analysis 2",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 414 Textile Chemistry Analysis Lab 1",
+     "options": [
+      [
+       "PCC 414"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PCC 414 Textile Chemistry Analysis Lab 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 442 Theory of Physico-Chemical Processes in Textiles II 3",
+     "options": [
+      [
+       "PCC 442"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 442 Theory of Physico-Chemical Processes in Textiles II 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 461 Chemistry of Polymeric Materials 3",
+     "options": [
+      [
+       "PCC 461"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 461 Chemistry of Polymeric Materials 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 462 Characterization and Physical Properties of Polymers 3",
+     "options": [
+      [
+       "PCC 462"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 462 Characterization and Physical Properties of Polymers 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 464 Chemistry of Polymeric Materials Laboratory 1",
+     "options": [
+      [
+       "PCC 464"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "PCC 464 Chemistry of Polymeric Materials Laboratory 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PCC 471 Chemistry of Biopolymers 3",
+     "options": [
+      [
+       "PCC 471"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PCC 471 Chemistry of Biopolymers 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s20"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s24"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 Chemistry - A Quantitative Science 3",
+     "options": [
+      [
+       "CH 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 201 Chemistry - A Quantitative Science 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 202 Quantitative Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 202 Quantitative Chemistry Laboratory 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 Organic Chemistry I 3",
+     "options": [
+      [
+       "CH 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 221 Organic Chemistry I 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 222 Organic Chemistry I Lab 1",
+     "options": [
+      [
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 222 Organic Chemistry I Lab 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 Organic Chemistry II 3",
+     "options": [
+      [
+       "CH 223"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 223 Organic Chemistry II 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 224 Organic Chemistry II Lab 1",
+     "options": [
+      [
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 224 Organic Chemistry II Lab 1",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 431 Physical Chemistry I 3",
+     "options": [
+      [
+       "CH 431"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 431 Physical Chemistry I 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 433 Physical Chemistry II 3",
+     "options": [
+      [
+       "CH 433"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 433 Physical Chemistry II 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 401 Systematic Inorganic Chemistry I 3",
+     "options": [
+      [
+       "CH 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 401 Systematic Inorganic Chemistry I 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 370 Probability and Statistics for Engineers 3",
+     "options": [
+      [
+       "ST 370"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 370 Probability and Statistics for Engineers 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s38"
+    }
+   ]
+  },
+  {
+   "title": "Major Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Economics Elective",
+     "options": [
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ],
+      [
+       "ARE 201"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Economics Elective 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "PCC Electives",
+     "options": [
+      [
+       "PCC 274"
+      ],
+      [
+       "PCC 404"
+      ],
+      [
+       "PCC 420"
+      ],
+      [
+       "PCC 466"
+      ],
+      [
+       "PCC 474"
+      ],
+      [
+       "PCC 490"
+      ],
+      [
+       "T 497"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PCC Electives 4",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s40"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s42"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s43"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s44"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Interdisciplinary Perspectives 2",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s45"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s46"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s47"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-polymer-color-chemistry-bs-acs-certification-concentration-s48"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"PCC Electives\" has a row that is not a course and was not read: \"Choose from the approved list or any 300 or 400-level CH course\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/textiles/textile-engineering-chemistry-science/polymer-color-chemistry-bs-acs-certification-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "ACS Certification Concentration",
+ "college": "Wilson College of Textiles"
+}

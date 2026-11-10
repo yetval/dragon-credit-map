@@ -1,0 +1,154 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-economics-major-ba",
+ "university": "unc",
+ "name": "Economics",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/economics-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 30,
+  "max": 31
+ },
+ "sections": [
+  {
+   "title": "Gateway Course",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics (with a grade of C or better) 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics (with a grade of C or better) 4",
+     "id": "unc-economics-major-ba-s1"
+    }
+   ]
+  },
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 400 Introduction to Data Science and Econometrics (with a grade of C or better) 4",
+     "options": [
+      [
+       "ECON 400"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 400 Introduction to Data Science and Econometrics (with a grade of C or better) 4",
+     "id": "unc-economics-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 410 Intermediate Microeconomics (with a grade of C or better) 4",
+     "options": [
+      [
+       "ECON 410"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 410 Intermediate Microeconomics (with a grade of C or better) 4",
+     "id": "unc-economics-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 420 Intermediate Macroeconomics 3",
+     "options": [
+      [
+       "ECON 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECON 420 Intermediate Macroeconomics 3",
+     "id": "unc-economics-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Four ECON courses at the 400, 500, or 600 level, with at least one course numbered ECON 500 or higher.",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "ECON"
+      ],
+      "minLevel": 400,
+      "maxLevel": 699
+     },
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four ECON courses at the 400, 500, or 600 level, with at least one course numbered ECON 500 or higher. 12",
+     "id": "unc-economics-major-ba-s5"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One calculus course chosen from:",
+     "options": [
+      [
+       "MATH 152"
+      ],
+      [
+       "MATH 231"
+      ],
+      [
+       "STOR 113"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One calculus course chosen from: 3-4",
+     "id": "unc-economics-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Row has a further condition that is not checked: \"Four ECON courses at the 400, 500, or 600 level, with at least one course numbered ECON 500 or higher.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/economics-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

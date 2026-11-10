@@ -1,0 +1,240 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-management-society-major-ba",
+ "university": "unc",
+ "name": "Management and Society",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/management-society-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 31,
+  "max": 32
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics 4",
+     "id": "unc-management-society-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SOCI 101 Introduction to Sociology 3",
+     "options": [
+      [
+       "SOCI 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOCI 101 Introduction to Sociology 3",
+     "id": "unc-management-society-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ECON/MNGT 310 Microeconomics: Theory and Applications 3-4 or PLCY 310 Microeconomic Foundations of Public Policy or ECON 410 Intermediate Microeconomics",
+     "options": [
+      [
+       "ECON 310"
+      ],
+      [
+       "PLCY 310"
+      ],
+      [
+       "ECON 410"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "ECON/MNGT 310 Microeconomics: Theory and Applications 3-4 or PLCY 310 Microeconomic Foundations of Public Policy or ECON 410 Intermediate Microeconomics",
+     "id": "unc-management-society-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "SOCI 252 Data Analysis 3 or SOCI 318 Computational Sociology or PSYC 210 Statistical Principles of Psychological Research or ECON 400 Introduction to Data Science and Econometrics",
+     "options": [
+      [
+       "SOCI 252"
+      ],
+      [
+       "SOCI 318"
+      ],
+      [
+       "PSYC 210"
+      ],
+      [
+       "ECON 400"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "SOCI 252 Data Analysis 3 or SOCI 318 Computational Sociology or PSYC 210 Statistical Principles of Psychological Research or ECON 400 Introduction to Data Science and Econometrics",
+     "id": "unc-management-society-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Five courses on the social and economic foundations of work.",
+     "options": [
+      [
+       "HIST 364"
+      ],
+      [
+       "HIST 365"
+      ],
+      [
+       "ECON 330"
+      ],
+      [
+       "ECON 345"
+      ],
+      [
+       "ECON 445"
+      ],
+      [
+       "ECON 380"
+      ],
+      [
+       "ECON 480"
+      ],
+      [
+       "ECON 440"
+      ],
+      [
+       "ECON 450"
+      ],
+      [
+       "MNGT 131"
+      ],
+      [
+       "MNGT 410"
+      ],
+      [
+       "MNGT 412"
+      ],
+      [
+       "MNGT 415"
+      ],
+      [
+       "MNGT 427"
+      ]
+     ],
+     "pick": {
+      "count": 5
+     },
+     "hours": {
+      "min": 15,
+      "max": 15
+     },
+     "raw": "Five courses on the social and economic foundations of work. 15",
+     "id": "unc-management-society-major-ba-s5",
+     "altGroups": [
+      0,
+      1,
+      2,
+      3,
+      3,
+      4,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One course on leadership and communication",
+     "options": [
+      [
+       "BUSI 405"
+      ],
+      [
+       "COMM 120"
+      ],
+      [
+       "COMM 325"
+      ],
+      [
+       "COMM 223"
+      ],
+      [
+       "EDUC 309"
+      ],
+      [
+       "EDUC 505"
+      ],
+      [
+       "ENGL 304"
+      ],
+      [
+       "HIST 340"
+      ],
+      [
+       "PHIL 164"
+      ],
+      [
+       "PHIL 364"
+      ],
+      [
+       "PLCY 450"
+      ],
+      [
+       "SOCI 112"
+      ],
+      [
+       "SOCI 474"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One course on leadership and communication 3",
+     "id": "unc-management-society-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/management-society-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

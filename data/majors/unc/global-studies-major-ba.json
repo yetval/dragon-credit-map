@@ -1,0 +1,239 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-global-studies-major-ba",
+ "university": "unc",
+ "name": "Global Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/global-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 39,
+  "max": 40
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GLBL 210I Global Issues and Globalization 3",
+     "options": [
+      [
+       "GLBL 210I"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GLBL 210I Global Issues and Globalization 3",
+     "id": "unc-global-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "One core methodology/methods course",
+     "options": [
+      [
+       "AMST 203"
+      ],
+      [
+       "FOLK 202"
+      ],
+      [
+       "GEOG 124"
+      ],
+      [
+       "GEOG 391"
+      ],
+      [
+       "GEOG 392"
+      ],
+      [
+       "HIST 395"
+      ],
+      [
+       "POLI 285"
+      ],
+      [
+       "POLI 350"
+      ],
+      [
+       "PLCY 310"
+      ],
+      [
+       "PLCY 435"
+      ],
+      [
+       "SOCI 251"
+      ],
+      [
+       "SOCI 252"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One core methodology/methods course 3",
+     "id": "unc-global-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional core course:",
+     "options": [
+      [
+       "ANTH 142"
+      ],
+      [
+       "ARTH 150"
+      ],
+      [
+       "ASIA 180"
+      ],
+      [
+       "ASIA 181"
+      ],
+      [
+       "COMM 82"
+      ],
+      [
+       "DRAM 117"
+      ],
+      [
+       "ECON 360"
+      ],
+      [
+       "ENEC 201"
+      ],
+      [
+       "ENGL 141"
+      ],
+      [
+       "FREN 150"
+      ],
+      [
+       "GEOG 121"
+      ],
+      [
+       "GEOG 123"
+      ],
+      [
+       "GEOG 130"
+      ],
+      [
+       "GEOG 212"
+      ],
+      [
+       "GEOG 232"
+      ],
+      [
+       "GEOG 120"
+      ],
+      [
+       "HIST 140"
+      ],
+      [
+       "MEJO 446"
+      ],
+      [
+       "MUSC 146"
+      ],
+      [
+       "PHIL 272"
+      ],
+      [
+       "PLCY 110"
+      ],
+      [
+       "POLI 130"
+      ],
+      [
+       "POLI 150"
+      ],
+      [
+       "SOCI 111"
+      ],
+      [
+       "SOCI 121"
+      ],
+      [
+       "SOCI 124"
+      ],
+      [
+       "WGST 281"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Additional core course: 3",
+     "id": "unc-global-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Four courses from one of the following thematic areas",
+     "options": [],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "Four courses from one of the following thematic areas 12",
+     "id": "unc-global-studies-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Three courses from one of the following world areas",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Three courses from one of the following world areas 9",
+     "id": "unc-global-studies-major-ba-s5"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Credit for six levels of modern language study.",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 10
+     },
+     "raw": "Credit for six levels of modern language study. 9-10",
+     "id": "unc-global-studies-major-ba-s6"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/global-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

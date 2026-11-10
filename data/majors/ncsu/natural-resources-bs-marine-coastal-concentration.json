@@ -1,0 +1,820 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-natural-resources-bs-marine-coastal-concentration",
+ "university": "ncsu",
+ "name": "Natural Resources",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/natural-resources-bs-marine-coastal-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Major Core Courses",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "options": [
+      [
+       "MEA 100"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MEA 100 Earth System Science: Exploring the Connections 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 101 Geology I: Physical 3",
+     "options": [
+      [
+       "MEA 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 101 Geology I: Physical 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 110 Geology I Laboratory 1",
+     "options": [
+      [
+       "MEA 110"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 110 Geology I Laboratory 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 130 Introduction to Weather and Climate 3",
+     "options": [
+      [
+       "MEA 130"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 130 Introduction to Weather and Climate 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 135 Introduction to Weather and Climate Laboratory 1",
+     "options": [
+      [
+       "MEA 135"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 135 Introduction to Weather and Climate Laboratory 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 200 Introduction to Oceanography 3",
+     "options": [
+      [
+       "MEA 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 200 Introduction to Oceanography 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 210 Oceanography Lab 1",
+     "options": [
+      [
+       "MEA 210"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 210 Oceanography Lab 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 220 Marine Biology 3",
+     "options": [
+      [
+       "MEA 220"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 220 Marine Biology 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 250 Introduction to Coastal Environments 3",
+     "options": [
+      [
+       "MEA 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 250 Introduction to Coastal Environments 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 251 Introduction to Coastal Environments Laboratory 1",
+     "options": [
+      [
+       "MEA 251"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MEA 251 Introduction to Coastal Environments Laboratory 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 459 Field Investigation of Coastal Processes 5",
+     "options": [
+      [
+       "MEA 459"
+      ]
+     ],
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "MEA 459 Field Investigation of Coastal Processes 5",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MEA 469 Ecology of Coastal Resources 3",
+     "options": [
+      [
+       "MEA 469"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MEA 469 Ecology of Coastal Resources 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GIS 280 Introduction to GIS 3",
+     "options": [
+      [
+       "GIS 280"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GIS 280 Introduction to GIS 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advised Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advised Elective 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Chemistry options:",
+     "options": [
+      [
+       "MEA 323"
+      ],
+      [
+       "MEA 473"
+      ],
+      [
+       "MEA 573"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Chemistry options: 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NR 400 Natural Resource Management 3",
+     "options": [
+      [
+       "NR 400"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NR 400 Natural Resource Management 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s16"
+    }
+   ]
+  },
+  {
+   "title": "Math/Statistics/Orientation",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3",
+     "options": [
+      [
+       "MA 131"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 231 Calculus for Life and Management Sciences B 3",
+     "options": [
+      [
+       "MA 231"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 231 Calculus for Life and Management Sciences B 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "COS 100 Science of Change 2",
+     "options": [
+      [
+       "COS 100"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "COS 100 Science of Change 2",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s20"
+    }
+   ]
+  },
+  {
+   "title": "Chemistry/Physics/Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ZO 350 Animal Phylogeny and Diversity 4",
+     "options": [
+      [
+       "ZO 350"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ZO 350 Animal Phylogeny and Diversity 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 Chemistry - A Quantitative Science 3",
+     "options": [
+      [
+       "CH 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 201 Chemistry - A Quantitative Science 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 202 Quantitative Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 202 Quantitative Chemistry Laboratory 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "AEC 360 Ecology 4 or PB 360 Ecology",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "PB 360"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "AEC 360 Ecology 4 or PB 360 Ecology",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Physics courses:",
+     "options": [
+      [
+       "PY 211"
+      ],
+      [
+       "PY 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Physics courses: 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Physics courses:",
+     "options": [
+      [
+       "PY 212"
+      ],
+      [
+       "PY 208"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following Physics courses: 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "options": [
+      [
+       "SSC 200",
+       "SSC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "SSC 200 & SSC 201 Soil Science and Soil Science Laboratory 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "AEC 420 Introduction to Fisheries Science 3",
+     "options": [
+      [
+       "AEC 420"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "AEC 420 Introduction to Fisheries Science 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s31"
+    }
+   ]
+  },
+  {
+   "title": "English/Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "ENG 331"
+      ],
+      [
+       "ENG 332"
+      ],
+      [
+       "ENG 333"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "Humanities/Social Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PS 201 American Politics and Government 3 or PS 202 State and Local Government",
+     "options": [
+      [
+       "PS 201"
+      ],
+      [
+       "PS 202"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PS 201 American Politics and Government 3 or PS 202 State and Local Government",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economics courses:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economics courses: 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ARE 336 Introduction to Resource and Environmental Economics 3 or EC 336 Introduction to Resource and Environmental Economics",
+     "options": [
+      [
+       "ARE 336"
+      ],
+      [
+       "EC 336"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARE 336 Introduction to Resource and Environmental Economics 3 or EC 336 Introduction to Resource and Environmental Economics",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PS 336 Global Environmental Politics 3",
+     "options": [
+      [
+       "PS 336"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PS 336 Global Environmental Politics 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s37"
+    }
+   ]
+  },
+  {
+   "title": "Health & Exercise Science",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "GEP Health and Exercise Studies 1",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "HESA 226 Skin and Scuba Diving I 1-2",
+     "options": [
+      [
+       "HESA 226"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 2
+     },
+     "raw": "HESA 226 Skin and Scuba Diving I 1-2",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "or HESO 253",
+     "options": [],
+     "hours": null,
+     "raw": "or HESO 253",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s40"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s42"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s43"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s44"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-natural-resources-bs-marine-coastal-concentration-s45"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [
+  "Group \"Advised Elective\" carries a note or open-ended option: \"Advised electives to be chosen with advisor and should be a science, math, engineering or GIS course at the 400 level or higher.\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/marine-earth-atmospheric-sciences/natural-resources-bs-marine-coastal-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Marine and Coastal Concentration",
+ "college": "College of Sciences"
+}

@@ -1,0 +1,1019 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration",
+ "university": "ncsu",
+ "name": "Biological Sciences",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/sciences/biological-sciences/biological-sciences-bs-integrative-physiology-neurobiology-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Exploring the Life Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LSC 103 Exploring Opportunities in the Life Sciences 1",
+     "options": [
+      [
+       "LSC 103"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "LSC 103 Exploring Opportunities in the Life Sciences 1",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s1"
+    }
+   ]
+  },
+  {
+   "title": "Writing",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Advanced Writing Requirement Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Advanced Writing Requirement Elective 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Biological Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "LSC 101 Critical and Creative Thinking in the Life Sciences 2",
+     "options": [
+      [
+       "LSC 101"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "LSC 101 Critical and Creative Thinking in the Life Sciences 2",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "options": [
+      [
+       "BIO 181"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 181 Introductory Biology: Ecology, Evolution, and Biodiversity 4",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "options": [
+      [
+       "BIO 183"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIO 183 Introductory Biology: Cellular and Molecular Biology 4",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BIO 414 Cell Biology 3 or BIO 416 Cancer Cell Biology or BIO 214 Cellular and Molecular Biology",
+     "options": [
+      [
+       "BIO 414"
+      ],
+      [
+       "BIO 416"
+      ],
+      [
+       "BIO 214"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIO 414 Cell Biology 3 or BIO 416 Cancer Cell Biology or BIO 214 Cellular and Molecular Biology",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 424 Endocrinology 3",
+     "options": [
+      [
+       "BIO 424"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIO 424 Endocrinology 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIO 488 Neurobiology 3",
+     "options": [
+      [
+       "BIO 488"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "BIO 488 Neurobiology 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "BCH 351 General Biochemistry 3-4 or BCH 451 Principles of Biochemistry",
+     "options": [
+      [
+       "BCH 351"
+      ],
+      [
+       "BCH 451"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "BCH 351 General Biochemistry 3-4 or BCH 451 Principles of Biochemistry",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 311 Principles of Genetics 4",
+     "options": [
+      [
+       "GN 311"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "GN 311 Principles of Genetics 4",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GN 312 Elementary Genetics Laboratory 1",
+     "options": [
+      [
+       "GN 312"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "GN 312 Elementary Genetics Laboratory 1",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select from the following Physiology courses:",
+     "options": [
+      [
+       "BIO 240"
+      ],
+      [
+       "BIO 245"
+      ],
+      [
+       "BIO 242"
+      ],
+      [
+       "ZO 250"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 5
+     },
+     "raw": "Select from the following Physiology courses: 4-5",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s12",
+     "altGroups": [
+      0,
+      0,
+      1,
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Physical & Mathematical Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 201 Chemistry - A Quantitative Science 3",
+     "options": [
+      [
+       "CH 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 201 Chemistry - A Quantitative Science 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 202 Quantitative Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 202"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 202 Quantitative Chemistry Laboratory 1",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 221 Organic Chemistry I 3",
+     "options": [
+      [
+       "CH 221"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 221 Organic Chemistry I 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 222 Organic Chemistry I Lab 1",
+     "options": [
+      [
+       "CH 222"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 222 Organic Chemistry I Lab 1",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 223 Organic Chemistry II 3",
+     "options": [
+      [
+       "CH 223"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 223 Organic Chemistry II 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 224 Organic Chemistry II Lab 1",
+     "options": [
+      [
+       "CH 224"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 224 Organic Chemistry II Lab 1",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PY 211"
+      ],
+      [
+       "PY 205",
+       "PY 206"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "PY 212"
+      ],
+      [
+       "PY 208",
+       "PY 209"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Select one of the following: 4",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ST 311 Introduction to Statistics 3",
+     "options": [
+      [
+       "ST 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 311 Introduction to Statistics 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "options": [
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 131 Calculus for Life and Management Sciences A 3 or MA 141 Calculus I",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Select from the following courses:",
+     "options": [
+      [
+       "MA 231"
+      ],
+      [
+       "MA 241"
+      ],
+      [
+       "BIO 310"
+      ],
+      [
+       "ST 312"
+      ],
+      [
+       "DSA 201"
+      ],
+      [
+       "DSA 202"
+      ],
+      [
+       "DSA 205"
+      ],
+      [
+       "DSA 240"
+      ],
+      [
+       "DSA 295"
+      ],
+      [
+       "DSA 405"
+      ],
+      [
+       "DSA 406"
+      ],
+      [
+       "DSA 410"
+      ],
+      [
+       "DSA 412"
+      ],
+      [
+       "DSA 495"
+      ],
+      [
+       "DSA 595"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select from the following courses: 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s25",
+     "altGroups": [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Major Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "IPN Electives",
+     "options": [
+      [
+       "AEC 515"
+      ],
+      [
+       "ANS 220"
+      ],
+      [
+       "ANS 221"
+      ],
+      [
+       "ANS 415"
+      ],
+      [
+       "ANS 452"
+      ],
+      [
+       "ANS 515"
+      ],
+      [
+       "ANS 552"
+      ],
+      [
+       "BIO 361"
+      ],
+      [
+       "BIO 418"
+      ],
+      [
+       "BIO 432"
+      ],
+      [
+       "BIO 434"
+      ],
+      [
+       "BIO 444"
+      ],
+      [
+       "BIO 483"
+      ],
+      [
+       "BIT 464"
+      ],
+      [
+       "BIT 466"
+      ],
+      [
+       "BIT 471"
+      ],
+      [
+       "BIT 564"
+      ],
+      [
+       "BIT 566"
+      ],
+      [
+       "BIT 571"
+      ],
+      [
+       "ENT 503"
+      ],
+      [
+       "FW 515"
+      ],
+      [
+       "GN 434"
+      ],
+      [
+       "GN 441"
+      ],
+      [
+       "GN 453"
+      ],
+      [
+       "GN 456"
+      ],
+      [
+       "GN 541"
+      ],
+      [
+       "MB 441"
+      ],
+      [
+       "NTR 415"
+      ],
+      [
+       "NTR 419"
+      ],
+      [
+       "NTR 515"
+      ],
+      [
+       "PHY 503"
+      ],
+      [
+       "PHY 504"
+      ],
+      [
+       "PHY 524"
+      ],
+      [
+       "PHY 552"
+      ],
+      [
+       "PO 415"
+      ],
+      [
+       "PO 466"
+      ],
+      [
+       "PO 515"
+      ],
+      [
+       "PO 524"
+      ],
+      [
+       "PSY 502"
+      ],
+      [
+       "TOX 401"
+      ],
+      [
+       "TOX 501"
+      ],
+      [
+       "PHI 347"
+      ],
+      [
+       "ANT 421"
+      ],
+      [
+       "BSC 492"
+      ],
+      [
+       "BSC 493"
+      ],
+      [
+       "BSC 494"
+      ],
+      [
+       "BSC 497"
+      ],
+      [
+       "BSC 498"
+      ]
+     ],
+     "pick": {
+      "hours": 9
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "IPN Electives 9",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Supraorganismal Elective",
+     "options": [
+      [
+       "AEC 360"
+      ],
+      [
+       "AEC 419"
+      ],
+      [
+       "AEC 441"
+      ],
+      [
+       "AEC 442"
+      ],
+      [
+       "AEC 460"
+      ],
+      [
+       "AEC 501"
+      ],
+      [
+       "AEC 519"
+      ],
+      [
+       "BIO 270"
+      ],
+      [
+       "BIO 330"
+      ],
+      [
+       "BIO 432"
+      ],
+      [
+       "BIO 440"
+      ],
+      [
+       "ENT 425"
+      ],
+      [
+       "FOR 565"
+      ],
+      [
+       "FW 353"
+      ],
+      [
+       "MEA 220"
+      ],
+      [
+       "NR 406"
+      ],
+      [
+       "PB 360"
+      ],
+      [
+       "PB 400"
+      ],
+      [
+       "PB 403"
+      ],
+      [
+       "PB 503"
+      ],
+      [
+       "PP 222"
+      ],
+      [
+       "ZO 317"
+      ],
+      [
+       "ZO 333"
+      ],
+      [
+       "ZO 350"
+      ],
+      [
+       "ZO 402"
+      ],
+      [
+       "ZO 410"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Supraorganismal Elective 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Additional Science & Math Electives",
+     "options": [
+      [
+       "ANS 225"
+      ],
+      [
+       "ANS 230"
+      ],
+      [
+       "ANT 251"
+      ],
+      [
+       "ANT 421"
+      ]
+     ],
+     "pick": {
+      "hours": 6
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Additional Science & Math Electives 6",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s28"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s34"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s36"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s37"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 9",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "These electives cannot be taken at an elementary level after you have taken comparable coursework at a more advanced level. Students interested in graduate school or professional school should check the courses required for admission to the programs to which they plan to apply.",
+     "options": [],
+     "hours": null,
+     "raw": "These electives cannot be taken at an elementary level after you have taken comparable coursework at a more advanced level. Students interested in graduate school or professional school should check the courses required for admission to the programs to which they plan to apply.",
+     "id": "ncsu-biological-sciences-bs-integrative-physiology-neurobiology-concentration-s39"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Required course codes not found in the course catalog: BIO 414"
+ ],
+ "parseNotes": [
+  "Group \"Advanced Writing Requirement Elective\" carries a note or open-ended option: \"Cannot be double-counted for a GEP requirement.\"",
+  "List \"IPN Electives\" has a row that is not a course and was not read: \"Students can use up to 3 hours of Experiential Learning (BSC 492, BSC 493, BSC 494, BSC 497, or BSC 498) toward IPN Electives.\"",
+  "List \"Additional STEM Electives\" has a row that is not a course and was not read: \"Take any courses at the 200 level and higher from the following prefixes: AEC, BCH, BEC, BIO, BIT, BSC, CH, DSA, ENT, ES, FW, GN, MA, MB, MEA, NTR, PB, PY, SSC, ST, TOX, ZO\"",
+  "List \"Additional STEM Electives\" has a row that is not a course and was not read: \"Students can use up to 3 hours of Experiential Learning (BSC 492, BSC 493, BSC 494, BSC 497, or BSC 498) toward Additional Stem Electives.\"",
+  "Codes in choice lists not found in the course catalog: BSC 492, BSC 493, BSC 494, BSC 497, BSC 498, PHY 552, PO 466"
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/sciences/biological-sciences/biological-sciences-bs-integrative-physiology-neurobiology-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Integrative Physiology and Neurobiology Concentration",
+ "college": "College of Sciences"
+}

@@ -1,0 +1,820 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration",
+ "university": "ncsu",
+ "name": "Nuclear Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/nuclear/nuclear-engineering-bs-nuclear-fuels-materials-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 123,
+  "max": 123
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CSC 111 Introduction to Computing and Data Science with AI - Python 3",
+     "options": [
+      [
+       "CSC 111"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 111 Introduction to Computing and Data Science with AI - Python 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following:",
+     "options": [
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following: 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 102 Engineering in the 21st Century 2",
+     "options": [
+      [
+       "E 102"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "E 102 Engineering in the 21st Century 2",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 206 Engineering Statics 3",
+     "options": [
+      [
+       "MAE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 206 Engineering Statics 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 201 Introduction to Nuclear Engineering 2",
+     "options": [
+      [
+       "NE 201"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "NE 201 Introduction to Nuclear Engineering 2",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 309 Introduction to Materials for Nuclear Energy 3",
+     "options": [
+      [
+       "NE 309"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 309 Introduction to Materials for Nuclear Energy 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 202 Radiation Sources, Interaction and Detection 4",
+     "options": [
+      [
+       "NE 202"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "NE 202 Radiation Sources, Interaction and Detection 4",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 228 Introduction To Fusion Energy 3",
+     "options": [
+      [
+       "NE 228"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 228 Introduction To Fusion Energy 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 205 Thermodynamics for Nuclear Engineering 3",
+     "options": [
+      [
+       "NE 205"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 205 Thermodynamics for Nuclear Engineering 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 401 Applied Differential Equations II 3",
+     "options": [
+      [
+       "MA 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 401 Applied Differential Equations II 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 301 Fundamentals of Nuclear Engineering 3",
+     "options": [
+      [
+       "NE 301"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 301 Fundamentals of Nuclear Engineering 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 350 Applied Mathematics in Nuclear Engineering 3",
+     "options": [
+      [
+       "NE 350"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 350 Applied Mathematics in Nuclear Engineering 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 409 Nuclear Materials 3",
+     "options": [
+      [
+       "NE 409"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 409 Nuclear Materials 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 360 Continuum Mechanics for Nuclear Engineers 3",
+     "options": [
+      [
+       "NE 360"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 360 Continuum Mechanics for Nuclear Engineers 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 400 Heat Transfer in Nuclear Systems 3",
+     "options": [
+      [
+       "NE 400"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 400 Heat Transfer in Nuclear Systems 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 401 Reactor Analysis and Design 3",
+     "options": [
+      [
+       "NE 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 401 Reactor Analysis and Design 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Fuels and Materials Concentration Electives",
+     "options": [
+      [
+       "NE 412"
+      ],
+      [
+       "NE 431"
+      ],
+      [
+       "NE 433"
+      ],
+      [
+       "NE 460"
+      ],
+      [
+       "NE 486"
+      ],
+      [
+       "NE 410"
+      ],
+      [
+       "NE 550"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Fuels and Materials Concentration Electives 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 402 Fundamentals of Nuclear Thermal-Hydraulics 3",
+     "options": [
+      [
+       "NE 402"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 402 Fundamentals of Nuclear Thermal-Hydraulics 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 404 Radiation Safety and Shielding 3",
+     "options": [
+      [
+       "NE 404"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 404 Radiation Safety and Shielding 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 406 Nuclear Engineering Senior Design Preparation 1",
+     "options": [
+      [
+       "NE 406"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "NE 406 Nuclear Engineering Senior Design Preparation 1",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Fuels and Materials Concentration Electives",
+     "options": [
+      [
+       "NE 412"
+      ],
+      [
+       "NE 431"
+      ],
+      [
+       "NE 433"
+      ],
+      [
+       "NE 460"
+      ],
+      [
+       "NE 486"
+      ],
+      [
+       "NE 410"
+      ],
+      [
+       "NE 550"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Fuels and Materials Concentration Electives 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 407 Nuclear Thermal-Hydraulics Laboratory 2",
+     "options": [
+      [
+       "NE 407"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "NE 407 Nuclear Thermal-Hydraulics Laboratory 2",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 405 Reactor Systems 3",
+     "options": [
+      [
+       "NE 405"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 405 Reactor Systems 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 403 Nuclear Reactor Laboratory 2",
+     "options": [
+      [
+       "NE 403"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "NE 403 Nuclear Reactor Laboratory 2",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "NE 416 Nuclear Materials Design Project 3",
+     "options": [
+      [
+       "NE 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "NE 416 Nuclear Materials Design Project 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Fuels and Materials Concentration Elective",
+     "options": [
+      [
+       "NE 412"
+      ],
+      [
+       "NE 431"
+      ],
+      [
+       "NE 433"
+      ],
+      [
+       "NE 460"
+      ],
+      [
+       "NE 486"
+      ],
+      [
+       "NE 410"
+      ],
+      [
+       "NE 550"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Fuels and Materials Concentration Elective 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s37"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s40"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s42"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s43"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s44"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-nuclear-engineering-bs-nuclear-fuels-materials-concentration-s45"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [
+  "Codes in choice lists not found in the course catalog: NE 486"
+ ],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/nuclear/nuclear-engineering-bs-nuclear-fuels-materials-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Nuclear Fuels and Materials",
+ "college": "College of Engineering"
+}

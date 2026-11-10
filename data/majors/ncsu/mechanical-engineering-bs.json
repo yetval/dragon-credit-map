@@ -1,0 +1,1520 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-mechanical-engineering-bs",
+ "university": "ncsu",
+ "name": "Mechanical Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/mechanical-aerospace/mechanical-engineering-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "plangrid",
+ "totalHours": {
+  "min": 126,
+  "max": 126
+ },
+ "sections": [
+  {
+   "title": "Plan Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 Chemistry - A Molecular Science 3",
+     "options": [
+      [
+       "CH 101"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CH 101 Chemistry - A Molecular Science 3",
+     "id": "ncsu-mechanical-engineering-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 102 General Chemistry Laboratory 1",
+     "options": [
+      [
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "CH 102 General Chemistry Laboratory 1",
+     "id": "ncsu-mechanical-engineering-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-mechanical-engineering-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 115 Introduction to Computing Environments 1",
+     "options": [
+      [
+       "E 115"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 115 Introduction to Computing Environments 1",
+     "id": "ncsu-mechanical-engineering-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 Calculus I 4",
+     "options": [
+      [
+       "MA 141"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 141 Calculus I 4",
+     "id": "ncsu-mechanical-engineering-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Acad Writing Research",
+     "options": [
+      [
+       "ENG 101"
+      ],
+      [
+       "FLE 101"
+      ],
+      [
+       "ENG 202"
+      ]
+     ],
+     "pick": {
+      "hours": 4
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Acad Writing Research 4",
+     "id": "ncsu-mechanical-engineering-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following Economic courses:",
+     "options": [
+      [
+       "ARE 201"
+      ],
+      [
+       "ARE 201A"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "EC 205"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Select one of the following Economic courses: 3",
+     "id": "ncsu-mechanical-engineering-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Computer Programming Elective",
+     "options": [
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "ISE 135"
+      ],
+      [
+       "PY 251"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Computer Programming Elective 3",
+     "id": "ncsu-mechanical-engineering-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 241 Calculus II 4",
+     "options": [
+      [
+       "MA 241"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 241 Calculus II 4",
+     "id": "ncsu-mechanical-engineering-bs-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-mechanical-engineering-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GC 120 Foundations of Graphics 3",
+     "options": [
+      [
+       "GC 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GC 120 Foundations of Graphics 3",
+     "id": "ncsu-mechanical-engineering-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 102 Engineering in the 21st Century 2",
+     "options": [
+      [
+       "E 102"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "E 102 Engineering in the 21st Century 2",
+     "id": "ncsu-mechanical-engineering-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 242 Calculus III 4",
+     "options": [
+      [
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MA 242 Calculus III 4",
+     "id": "ncsu-mechanical-engineering-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 200 Introduction to Mechanical Engineering Design 1",
+     "options": [
+      [
+       "MAE 200"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MAE 200 Introduction to Mechanical Engineering Design 1",
+     "id": "ncsu-mechanical-engineering-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 206 Engineering Statics 3",
+     "options": [
+      [
+       "MAE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 206 Engineering Statics 3",
+     "id": "ncsu-mechanical-engineering-bs-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-mechanical-engineering-bs-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ST 370 or ST 371 Probability and Statistics for Engineers or Introduction to Probability and Distribution Theory 3",
+     "options": [
+      [
+       "ST 370"
+      ],
+      [
+       "ST 371"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ST 370 or ST 371 Probability and Statistics for Engineers or Introduction to Probability and Distribution Theory 3",
+     "id": "ncsu-mechanical-engineering-bs-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-mechanical-engineering-bs-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 201 Thermal-Fluid Sciences 3",
+     "options": [
+      [
+       "MAE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 201 Thermal-Fluid Sciences 3",
+     "id": "ncsu-mechanical-engineering-bs-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 208 Engineering Dynamics 3",
+     "options": [
+      [
+       "MAE 208"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 208 Engineering Dynamics 3",
+     "id": "ncsu-mechanical-engineering-bs-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 214 Solid Mechanics 3",
+     "options": [
+      [
+       "MAE 214"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 214 Solid Mechanics 3",
+     "id": "ncsu-mechanical-engineering-bs-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 305 Mechanical Engineering Laboratory I 1",
+     "options": [
+      [
+       "MAE 305"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MAE 305 Mechanical Engineering Laboratory I 1",
+     "id": "ncsu-mechanical-engineering-bs-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 331 Communication for Engineering and Technology 3",
+     "options": [
+      [
+       "ENG 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 331 Communication for Engineering and Technology 3",
+     "id": "ncsu-mechanical-engineering-bs-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 301 Computational Tools and Methods 1",
+     "options": [
+      [
+       "MAE 301"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MAE 301 Computational Tools and Methods 1",
+     "id": "ncsu-mechanical-engineering-bs-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 302 Engineering Thermodynamics II 3",
+     "options": [
+      [
+       "MAE 302"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 302 Engineering Thermodynamics II 3",
+     "id": "ncsu-mechanical-engineering-bs-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 308 Fluid Mechanics 3",
+     "options": [
+      [
+       "MAE 308"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 308 Fluid Mechanics 3",
+     "id": "ncsu-mechanical-engineering-bs-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 315 Fundamentals of Vibrations 3",
+     "options": [
+      [
+       "MAE 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 315 Fundamentals of Vibrations 3",
+     "id": "ncsu-mechanical-engineering-bs-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 331 Principles of Electrical Engineering 3",
+     "options": [
+      [
+       "ECE 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 331 Principles of Electrical Engineering 3",
+     "id": "ncsu-mechanical-engineering-bs-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 306 Mechanical Engineering Laboratory II 1",
+     "options": [
+      [
+       "MAE 306"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MAE 306 Mechanical Engineering Laboratory II 1",
+     "id": "ncsu-mechanical-engineering-bs-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 310 Heat Transfer Fundamentals 3",
+     "options": [
+      [
+       "MAE 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 310 Heat Transfer Fundamentals 3",
+     "id": "ncsu-mechanical-engineering-bs-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 316 Strength of Mechanical Components 3",
+     "options": [
+      [
+       "MAE 316"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 316 Strength of Mechanical Components 3",
+     "id": "ncsu-mechanical-engineering-bs-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MSE 200 Mechanical Properties of Structural Materials 3",
+     "options": [
+      [
+       "MSE 200"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MSE 200 Mechanical Properties of Structural Materials 3",
+     "id": "ncsu-mechanical-engineering-bs-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Tech Elective",
+     "options": [
+      [
+       "MAE 342"
+      ],
+      [
+       "MAE 398"
+      ],
+      [
+       "MAE 402"
+      ],
+      [
+       "MAE 403"
+      ],
+      [
+       "MAE 406"
+      ],
+      [
+       "MAE 407"
+      ],
+      [
+       "MAE 408"
+      ],
+      [
+       "MAE 410"
+      ],
+      [
+       "MAE 412"
+      ],
+      [
+       "MAE 413"
+      ],
+      [
+       "MAE 420"
+      ],
+      [
+       "MAE 421"
+      ],
+      [
+       "MAE 426"
+      ],
+      [
+       "MAE 430"
+      ],
+      [
+       "MAE 440"
+      ],
+      [
+       "MAE 495"
+      ],
+      [
+       "MAE 496"
+      ],
+      [
+       "MAE 452"
+      ],
+      [
+       "MAE 455"
+      ],
+      [
+       "MAE 456"
+      ],
+      [
+       "MAE 457"
+      ],
+      [
+       "MAE 459"
+      ],
+      [
+       "MAE 458"
+      ],
+      [
+       "MAE 467"
+      ],
+      [
+       "MAE 470"
+      ],
+      [
+       "MAE 472"
+      ],
+      [
+       "MAE 501"
+      ],
+      [
+       "MAE 502"
+      ],
+      [
+       "MAE 504"
+      ],
+      [
+       "MAE 505"
+      ],
+      [
+       "MAE 508"
+      ],
+      [
+       "MAE 511"
+      ],
+      [
+       "MAE 513"
+      ],
+      [
+       "MAE 515"
+      ],
+      [
+       "MAE 517"
+      ],
+      [
+       "MAE 518"
+      ],
+      [
+       "MAE 520"
+      ],
+      [
+       "MAE 521"
+      ],
+      [
+       "MAE 522"
+      ],
+      [
+       "MAE 525"
+      ],
+      [
+       "MAE 526"
+      ],
+      [
+       "MAE 531"
+      ],
+      [
+       "MAE 532"
+      ],
+      [
+       "MAE 533"
+      ],
+      [
+       "MAE 534"
+      ],
+      [
+       "MAE 535"
+      ],
+      [
+       "MAE 536"
+      ],
+      [
+       "MAE 537"
+      ],
+      [
+       "MAE 538"
+      ],
+      [
+       "MAE 539"
+      ],
+      [
+       "MAE 540"
+      ],
+      [
+       "MAE 541"
+      ],
+      [
+       "MAE 543"
+      ],
+      [
+       "MAE 544"
+      ],
+      [
+       "MAE 550"
+      ],
+      [
+       "MAE 551"
+      ],
+      [
+       "MAE 552"
+      ],
+      [
+       "MAE 553"
+      ],
+      [
+       "MAE 554"
+      ],
+      [
+       "MAE 555"
+      ],
+      [
+       "MAE 558"
+      ],
+      [
+       "MAE 560"
+      ],
+      [
+       "MAE 561"
+      ],
+      [
+       "MAE 562"
+      ],
+      [
+       "MAE 570"
+      ],
+      [
+       "MAE 575"
+      ],
+      [
+       "MAE 577"
+      ],
+      [
+       "MAE 589"
+      ],
+      [
+       "NE 419"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Tech Elective 3",
+     "id": "ncsu-mechanical-engineering-bs-s33"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ISE 311 Engineering Economic Analysis 3",
+     "options": [
+      [
+       "ISE 311"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ISE 311 Engineering Economic Analysis 3",
+     "id": "ncsu-mechanical-engineering-bs-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 415 Mechanical Engineering Design I 3",
+     "options": [
+      [
+       "MAE 415"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 415 Mechanical Engineering Design I 3",
+     "id": "ncsu-mechanical-engineering-bs-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 435 Principles of Automatic Control 3",
+     "options": [
+      [
+       "MAE 435"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 435 Principles of Automatic Control 3",
+     "id": "ncsu-mechanical-engineering-bs-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Tech Elective",
+     "options": [
+      [
+       "MAE 342"
+      ],
+      [
+       "MAE 398"
+      ],
+      [
+       "MAE 402"
+      ],
+      [
+       "MAE 403"
+      ],
+      [
+       "MAE 406"
+      ],
+      [
+       "MAE 407"
+      ],
+      [
+       "MAE 408"
+      ],
+      [
+       "MAE 410"
+      ],
+      [
+       "MAE 412"
+      ],
+      [
+       "MAE 413"
+      ],
+      [
+       "MAE 420"
+      ],
+      [
+       "MAE 421"
+      ],
+      [
+       "MAE 426"
+      ],
+      [
+       "MAE 430"
+      ],
+      [
+       "MAE 440"
+      ],
+      [
+       "MAE 495"
+      ],
+      [
+       "MAE 496"
+      ],
+      [
+       "MAE 452"
+      ],
+      [
+       "MAE 455"
+      ],
+      [
+       "MAE 456"
+      ],
+      [
+       "MAE 457"
+      ],
+      [
+       "MAE 459"
+      ],
+      [
+       "MAE 458"
+      ],
+      [
+       "MAE 467"
+      ],
+      [
+       "MAE 470"
+      ],
+      [
+       "MAE 472"
+      ],
+      [
+       "MAE 501"
+      ],
+      [
+       "MAE 502"
+      ],
+      [
+       "MAE 504"
+      ],
+      [
+       "MAE 505"
+      ],
+      [
+       "MAE 508"
+      ],
+      [
+       "MAE 511"
+      ],
+      [
+       "MAE 513"
+      ],
+      [
+       "MAE 515"
+      ],
+      [
+       "MAE 517"
+      ],
+      [
+       "MAE 518"
+      ],
+      [
+       "MAE 520"
+      ],
+      [
+       "MAE 521"
+      ],
+      [
+       "MAE 522"
+      ],
+      [
+       "MAE 525"
+      ],
+      [
+       "MAE 526"
+      ],
+      [
+       "MAE 531"
+      ],
+      [
+       "MAE 532"
+      ],
+      [
+       "MAE 533"
+      ],
+      [
+       "MAE 534"
+      ],
+      [
+       "MAE 535"
+      ],
+      [
+       "MAE 536"
+      ],
+      [
+       "MAE 537"
+      ],
+      [
+       "MAE 538"
+      ],
+      [
+       "MAE 539"
+      ],
+      [
+       "MAE 540"
+      ],
+      [
+       "MAE 541"
+      ],
+      [
+       "MAE 543"
+      ],
+      [
+       "MAE 544"
+      ],
+      [
+       "MAE 550"
+      ],
+      [
+       "MAE 551"
+      ],
+      [
+       "MAE 552"
+      ],
+      [
+       "MAE 553"
+      ],
+      [
+       "MAE 554"
+      ],
+      [
+       "MAE 555"
+      ],
+      [
+       "MAE 558"
+      ],
+      [
+       "MAE 560"
+      ],
+      [
+       "MAE 561"
+      ],
+      [
+       "MAE 562"
+      ],
+      [
+       "MAE 570"
+      ],
+      [
+       "MAE 575"
+      ],
+      [
+       "MAE 577"
+      ],
+      [
+       "MAE 589"
+      ],
+      [
+       "NE 419"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Tech Elective 3",
+     "id": "ncsu-mechanical-engineering-bs-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 405 Controls Lab 1",
+     "options": [
+      [
+       "MAE 405"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "MAE 405 Controls Lab 1",
+     "id": "ncsu-mechanical-engineering-bs-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 416 Mechanical Engineering Design II 3",
+     "options": [
+      [
+       "MAE 416"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 416 Mechanical Engineering Design II 3",
+     "id": "ncsu-mechanical-engineering-bs-s39"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Tech Elective",
+     "options": [
+      [
+       "MAE 342"
+      ],
+      [
+       "MAE 398"
+      ],
+      [
+       "MAE 402"
+      ],
+      [
+       "MAE 403"
+      ],
+      [
+       "MAE 406"
+      ],
+      [
+       "MAE 407"
+      ],
+      [
+       "MAE 408"
+      ],
+      [
+       "MAE 410"
+      ],
+      [
+       "MAE 412"
+      ],
+      [
+       "MAE 413"
+      ],
+      [
+       "MAE 420"
+      ],
+      [
+       "MAE 421"
+      ],
+      [
+       "MAE 426"
+      ],
+      [
+       "MAE 430"
+      ],
+      [
+       "MAE 440"
+      ],
+      [
+       "MAE 495"
+      ],
+      [
+       "MAE 496"
+      ],
+      [
+       "MAE 452"
+      ],
+      [
+       "MAE 455"
+      ],
+      [
+       "MAE 456"
+      ],
+      [
+       "MAE 457"
+      ],
+      [
+       "MAE 459"
+      ],
+      [
+       "MAE 458"
+      ],
+      [
+       "MAE 467"
+      ],
+      [
+       "MAE 470"
+      ],
+      [
+       "MAE 472"
+      ],
+      [
+       "MAE 501"
+      ],
+      [
+       "MAE 502"
+      ],
+      [
+       "MAE 504"
+      ],
+      [
+       "MAE 505"
+      ],
+      [
+       "MAE 508"
+      ],
+      [
+       "MAE 511"
+      ],
+      [
+       "MAE 513"
+      ],
+      [
+       "MAE 515"
+      ],
+      [
+       "MAE 517"
+      ],
+      [
+       "MAE 518"
+      ],
+      [
+       "MAE 520"
+      ],
+      [
+       "MAE 521"
+      ],
+      [
+       "MAE 522"
+      ],
+      [
+       "MAE 525"
+      ],
+      [
+       "MAE 526"
+      ],
+      [
+       "MAE 531"
+      ],
+      [
+       "MAE 532"
+      ],
+      [
+       "MAE 533"
+      ],
+      [
+       "MAE 534"
+      ],
+      [
+       "MAE 535"
+      ],
+      [
+       "MAE 536"
+      ],
+      [
+       "MAE 537"
+      ],
+      [
+       "MAE 538"
+      ],
+      [
+       "MAE 539"
+      ],
+      [
+       "MAE 540"
+      ],
+      [
+       "MAE 541"
+      ],
+      [
+       "MAE 543"
+      ],
+      [
+       "MAE 544"
+      ],
+      [
+       "MAE 550"
+      ],
+      [
+       "MAE 551"
+      ],
+      [
+       "MAE 552"
+      ],
+      [
+       "MAE 553"
+      ],
+      [
+       "MAE 554"
+      ],
+      [
+       "MAE 555"
+      ],
+      [
+       "MAE 558"
+      ],
+      [
+       "MAE 560"
+      ],
+      [
+       "MAE 561"
+      ],
+      [
+       "MAE 562"
+      ],
+      [
+       "MAE 570"
+      ],
+      [
+       "MAE 575"
+      ],
+      [
+       "MAE 577"
+      ],
+      [
+       "MAE 589"
+      ],
+      [
+       "NE 419"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Tech Elective 3",
+     "id": "ncsu-mechanical-engineering-bs-s40"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Ethics Elective",
+     "options": [
+      [
+       "EED 414"
+      ],
+      [
+       "EED 514"
+      ],
+      [
+       "IDS 201"
+      ],
+      [
+       "MS 402"
+      ],
+      [
+       "NS 420"
+      ],
+      [
+       "PHI 214"
+      ],
+      [
+       "PHI 227"
+      ],
+      [
+       "PHI 325"
+      ],
+      [
+       "STS 325"
+      ],
+      [
+       "PHI 375"
+      ],
+      [
+       "STS 302"
+      ],
+      [
+       "STS 304"
+      ]
+     ],
+     "hours": null,
+     "raw": "Ethics Elective",
+     "id": "ncsu-mechanical-engineering-bs-s41",
+     "altGroups": [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      6,
+      7,
+      8,
+      9
+     ]
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Humanities 6",
+     "id": "ncsu-mechanical-engineering-bs-s42"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-mechanical-engineering-bs-s43"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-mechanical-engineering-bs-s44"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-mechanical-engineering-bs-s45"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Interdisciplinary Perspectives 3",
+     "id": "ncsu-mechanical-engineering-bs-s46"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-mechanical-engineering-bs-s47"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-mechanical-engineering-bs-s48"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-mechanical-engineering-bs-s49"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "List \"Ethics Elective\" has no stated amount to take",
+  "Requirements are given as a semester plan, not a requirement list; the degree total is not stated in one place"
+ ],
+ "parseNotes": [
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"ENG 1GEP\"",
+  "List \"Acad Writing Research\" has a row that is not a course and was not read: \"Transfer students with fewer than 4 credits of college composition transfer credit take the following.\"",
+  "List \"Acad Writing Research\" has codes with no catalog link: FLE 101",
+  "List \"Tech Electives\" has a row that is not a course and was not read: \"Available to students who are admitted to an engineering ABM program OR have a minimum 3.5 overall GPA and completed all required 3rd year MAE lecture courses\"",
+  "List \"Tech Electives\" has a row that is not a course and was not read: \"Contact your MAE academic advisor for options\""
+ ],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/mechanical-aerospace/mechanical-engineering-bs/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Engineering"
+}

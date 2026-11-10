@@ -1,0 +1,744 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration",
+ "university": "ncsu",
+ "name": "Engineering",
+ "degree": "BS",
+ "url": "https://catalog.ncsu.edu/undergraduate/engineering/engineering-havelock/engineering-bs-mechanical-engineering-systems-concentration/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 124,
+  "max": 124
+ },
+ "sections": [
+  {
+   "title": "College Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "E 101 Introduction to Engineering & Problem Solving 1",
+     "options": [
+      [
+       "E 101"
+      ]
+     ],
+     "hours": {
+      "min": 1,
+      "max": 1
+     },
+     "raw": "E 101 Introduction to Engineering & Problem Solving 1",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "EC 205 Fundamentals of Economics 3 or EC 201 Principles of Microeconomics or ARE 201 Introduction to Agricultural & Resource Economics",
+     "options": [
+      [
+       "EC 205"
+      ],
+      [
+       "EC 201"
+      ],
+      [
+       "ARE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "EC 205 Fundamentals of Economics 3 or EC 201 Principles of Microeconomics or ARE 201 Introduction to Agricultural & Resource Economics",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s2"
+    }
+   ]
+  },
+  {
+   "title": "Math",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 141 & MA 241 & MA 242 Calculus I and Calculus II and Calculus III 12",
+     "options": [
+      [
+       "MA 141",
+       "MA 241",
+       "MA 242"
+      ]
+     ],
+     "hours": {
+      "min": 12,
+      "max": 12
+     },
+     "raw": "MA 141 & MA 241 & MA 242 Calculus I and Calculus II and Calculus III 12",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 341 Applied Differential Equations I 3",
+     "options": [
+      [
+       "MA 341"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 341 Applied Differential Equations I 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MA 305 Introductory Linear Algebra and Matrices 3",
+     "options": [
+      [
+       "MA 305"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MA 305 Introductory Linear Algebra and Matrices 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s5"
+    }
+   ]
+  },
+  {
+   "title": "Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "options": [
+      [
+       "CH 101",
+       "CH 102"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "CH 101 & CH 102 Chemistry - A Molecular Science and General Chemistry Laboratory 4",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 205 Physics for Engineers and Scientists I 4",
+     "options": [
+      [
+       "PY 205"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 205 Physics for Engineers and Scientists I 4",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 208 Physics for Engineers and Scientists II 4",
+     "options": [
+      [
+       "PY 208"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 208 Physics for Engineers and Scientists II 4",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s8"
+    }
+   ]
+  },
+  {
+   "title": "Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 201 Thermal-Fluid Sciences 3",
+     "options": [
+      [
+       "MAE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 201 Thermal-Fluid Sciences 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 206 Engineering Statics 3",
+     "options": [
+      [
+       "MAE 206"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 206 Engineering Statics 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 208 Engineering Dynamics 3",
+     "options": [
+      [
+       "MAE 208"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 208 Engineering Dynamics 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 214 Solid Mechanics 3",
+     "options": [
+      [
+       "MAE 214"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 214 Solid Mechanics 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 308 Fluid Mechanics 3",
+     "options": [
+      [
+       "MAE 308"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 308 Fluid Mechanics 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 310 Heat Transfer Fundamentals 3",
+     "options": [
+      [
+       "MAE 310"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 310 Heat Transfer Fundamentals 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 315 Fundamentals of Vibrations 3",
+     "options": [
+      [
+       "MAE 315"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 315 Fundamentals of Vibrations 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 316 Strength of Mechanical Components 3",
+     "options": [
+      [
+       "MAE 316"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 316 Strength of Mechanical Components 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 412 Design of Thermal System 3",
+     "options": [
+      [
+       "MAE 412"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 412 Design of Thermal System 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 413 Design of Mechanical Systems 3",
+     "options": [
+      [
+       "MAE 413"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 413 Design of Mechanical Systems 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MAE 435 Principles of Automatic Control 3",
+     "options": [
+      [
+       "MAE 435"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MAE 435 Principles of Automatic Control 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 200 Introduction to Engineering Systems 2",
+     "options": [
+      [
+       "MES 200"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MES 200 Introduction to Engineering Systems 2",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 201 Engineering Systems Lab 1 2",
+     "options": [
+      [
+       "MES 201"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MES 201 Engineering Systems Lab 1 2",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 300 Systems Engineering 3",
+     "options": [
+      [
+       "MES 300"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MES 300 Systems Engineering 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s22"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 301 Engineering Systems Junior Design Lab 2",
+     "options": [
+      [
+       "MES 301"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MES 301 Engineering Systems Junior Design Lab 2",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 302 Mechanical Engineering Systems Lab 1 2",
+     "options": [
+      [
+       "MES 302"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MES 302 Mechanical Engineering Systems Lab 1 2",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s24"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 400 Mechanical Engineering Systems Lab 2 2",
+     "options": [
+      [
+       "MES 400"
+      ]
+     ],
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "MES 400 Mechanical Engineering Systems Lab 2 2",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s25"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 401 MES Capstone Design I 3",
+     "options": [
+      [
+       "MES 401"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MES 401 MES Capstone Design I 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MES 403 MES Capstone Design II 3",
+     "options": [
+      [
+       "MES 403"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MES 403 MES Capstone Design II 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s27"
+    }
+   ]
+  },
+  {
+   "title": "Other Major",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "CSC 111 Introduction to Computing: Python 3 or CSC 113 Introduction to Computing - MATLAB or CSC 116 Introduction to Computing - Java",
+     "options": [
+      [
+       "CSC 111"
+      ],
+      [
+       "CSC 113"
+      ],
+      [
+       "CSC 116"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "CSC 111 Introduction to Computing: Python 3 or CSC 113 Introduction to Computing - MATLAB or CSC 116 Introduction to Computing - Java",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "GC 120 Foundations of Graphics 3",
+     "options": [
+      [
+       "GC 120"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GC 120 Foundations of Graphics 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECE 331 Principles of Electrical Engineering 3",
+     "options": [
+      [
+       "ECE 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ECE 331 Principles of Electrical Engineering 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 331 Communication for Engineering and Technology 3",
+     "options": [
+      [
+       "ENG 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENG 331 Communication for Engineering and Technology 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MSE 201 Structure and Properties of Engineering Materials 3",
+     "options": [
+      [
+       "MSE 201"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MSE 201 Structure and Properties of Engineering Materials 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s32"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "PHI 214 Issues in Business Ethics or PHI 221 Contemporary Moral Issues or PHI 375 Ethics",
+     "options": [
+      [
+       "PHI 214"
+      ],
+      [
+       "PHI 221"
+      ],
+      [
+       "PHI 375"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "PHI 214 Issues in Business Ethics or PHI 221 Contemporary Moral Issues or PHI 375 Ethics",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s33"
+    }
+   ]
+  },
+  {
+   "title": "GEP Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Humanities 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s35"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Social Sciences 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s36"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s37"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s38"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Interdisciplinary Perspectives",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Interdisciplinary Perspectives"
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "GEP Interdisciplinary Perspectives 5",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s39"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s40"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s41"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-engineering-bs-mechanical-engineering-systems-concentration-s42"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": true,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/engineering/engineering-havelock/engineering-bs-mechanical-engineering-systems-concentration/",
+  "fetchedAt": "2026-11-09"
+ },
+ "concentration": "Mechanical Engineering Systems Concentration",
+ "college": "College of Engineering"
+}

@@ -1,0 +1,323 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-mathematics-major-bs",
+ "university": "unc",
+ "name": "Mathematics",
+ "degree": "B.S.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/mathematics-major-bs/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "COMP 110"
+      ],
+      [
+       "COMP 116"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following: 3",
+     "id": "unc-mathematics-major-bs-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "STOR 120 Foundations of Statistics and Data Science 4 or STOR 155 Introduction to Data Models and Inference",
+     "options": [
+      [
+       "STOR 120"
+      ],
+      [
+       "STOR 155"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "STOR 120 Foundations of Statistics and Data Science 4 or STOR 155 Introduction to Data Models and Inference",
+     "id": "unc-mathematics-major-bs-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 347 Linear Algebra for Applications (preferably before the junior year; previously offered as MATH 547) 3 or MATH 577 Linear Algebra",
+     "options": [
+      [
+       "MATH 347"
+      ],
+      [
+       "MATH 577"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 347 Linear Algebra for Applications (preferably before the junior year; previously offered as MATH 547) 3 or MATH 577 Linear Algebra",
+     "id": "unc-mathematics-major-bs-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 381 Discrete Mathematics 3",
+     "options": [
+      [
+       "MATH 381"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 381 Discrete Mathematics 3",
+     "id": "unc-mathematics-major-bs-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 383 First Course in Differential Equations 3",
+     "options": [
+      [
+       "MATH 383"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 383 First Course in Differential Equations 3",
+     "id": "unc-mathematics-major-bs-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 521 Advanced Calculus I 3",
+     "options": [
+      [
+       "MATH 521"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "MATH 521 Advanced Calculus I 3",
+     "id": "unc-mathematics-major-bs-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "MATH 522"
+      ],
+      [
+       "MATH 523"
+      ],
+      [
+       "MATH 528"
+      ],
+      [
+       "MATH 566"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following: 3",
+     "id": "unc-mathematics-major-bs-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following:",
+     "options": [
+      [
+       "MATH 533"
+      ],
+      [
+       "MATH 534"
+      ],
+      [
+       "MATH 578"
+      ],
+      [
+       "MATH 548"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "One of the following: 3",
+     "id": "unc-mathematics-major-bs-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "At least three additional MATH courses numbered above 520, excluding MATH 528L and MATH 529L",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "MATH"
+      ],
+      "minLevel": 521,
+      "except": [
+       "MATH 528L",
+       "MATH 529L"
+      ]
+     },
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "At least three additional MATH courses numbered above 520, excluding MATH 528L and MATH 529L 9",
+     "id": "unc-mathematics-major-bs-s9"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-mathematics-major-bs-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 232 Calculus of Functions of One Variable II 4",
+     "options": [
+      [
+       "MATH 232"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 232 Calculus of Functions of One Variable II 4",
+     "id": "unc-mathematics-major-bs-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "options": [
+      [
+       "MATH 233"
+      ],
+      [
+       "MATH 235"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 233 Calculus of Functions of Several Variables 4 or MATH 235 Mathematics for Data Science",
+     "id": "unc-mathematics-major-bs-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Physics course chosen from the following options:",
+     "options": [
+      [
+       "PHYS 118"
+      ],
+      [
+       "PHYS 114"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "Physics course chosen from the following options: 4",
+     "id": "unc-mathematics-major-bs-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "At least three additional courses in the Division of Natural Sciences and Mathematics",
+     "options": [],
+     "hours": {
+      "min": 9,
+      "max": 9
+     },
+     "raw": "At least three additional courses in the Division of Natural Sciences and Mathematics 9",
+     "id": "unc-mathematics-major-bs-s14"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Remaining General Education requirements and enough free electives to accumulate 120 academic hours",
+     "options": [],
+     "hours": {
+      "min": 61,
+      "max": 61
+     },
+     "raw": "Remaining General Education requirements and enough free electives to accumulate 120 academic hours 61",
+     "id": "unc-mathematics-major-bs-s15"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "The page has another requirement table with its own total (\"Mathematics Major, B.S.–Applied Option\") that is not included"
+ ],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/mathematics-major-bs/",
+  "fetchedAt": "2026-11-09"
+ }
+}

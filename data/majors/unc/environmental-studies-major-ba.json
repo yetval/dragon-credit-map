@@ -1,0 +1,341 @@
+{
+ "schemaVersion": 1,
+ "id": "unc-environmental-studies-major-ba",
+ "university": "unc",
+ "name": "Environmental Studies",
+ "degree": "B.A.",
+ "url": "https://catalog.unc.edu/undergraduate/programs-study/environmental-studies-major-ba/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 120,
+  "max": 120
+ },
+ "sections": [
+  {
+   "title": "Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENEC 201 Introduction to Environment and Society 4",
+     "options": [
+      [
+       "ENEC 201"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENEC 201 Introduction to Environment and Society 4",
+     "id": "unc-environmental-studies-major-ba-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENEC 202I Introduction to the Environmental Sciences 4",
+     "options": [
+      [
+       "ENEC 202I"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENEC 202I Introduction to the Environmental Sciences 4",
+     "id": "unc-environmental-studies-major-ba-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "ENEC 698 Capstone: Analysis and Solution of Environmental Problems 3 or ENEC 694H Honors Project in Environmental Sciences and Studies",
+     "options": [
+      [
+       "ENEC 698"
+      ],
+      [
+       "ENEC 694H"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ENEC 698 Capstone: Analysis and Solution of Environmental Problems 3 or ENEC 694H Honors Project in Environmental Sciences and Studies",
+     "id": "unc-environmental-studies-major-ba-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "One of the following earth system science courses:",
+     "options": [
+      [
+       "BIOL 104"
+      ],
+      [
+       "BIOL 103"
+      ],
+      [
+       "EMES 200"
+      ],
+      [
+       "EMES 201"
+      ],
+      [
+       "EMES 202"
+      ],
+      [
+       "ENEC 324"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 3,
+      "max": 4
+     },
+     "raw": "One of the following earth system science courses: 3-4",
+     "id": "unc-environmental-studies-major-ba-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Two courses from one of the following skills categories:",
+     "options": [],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "Two courses from one of the following skills categories: 6",
+     "id": "unc-environmental-studies-major-ba-s5"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "GIS:",
+     "options": [
+      [
+       "ANTH 419"
+      ],
+      [
+       "ENEC 340"
+      ],
+      [
+       "ENEC 479"
+      ],
+      [
+       "GEOG 370"
+      ],
+      [
+       "GEOG 491"
+      ],
+      [
+       "GEOG 541"
+      ],
+      [
+       "GEOG 591"
+      ],
+      [
+       "GEOG 456"
+      ],
+      [
+       "GEOG 592"
+      ]
+     ],
+     "hours": null,
+     "raw": "GIS:",
+     "id": "unc-environmental-studies-major-ba-s6"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Remote Sensing:",
+     "options": [
+      [
+       "GEOG 370"
+      ],
+      [
+       "GEOG 477"
+      ],
+      [
+       "GEOG 577"
+      ],
+      [
+       "EMES 483"
+      ]
+     ],
+     "hours": null,
+     "raw": "Remote Sensing:",
+     "id": "unc-environmental-studies-major-ba-s7"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "pick-n",
+     "label": "Statistics & Analytics:",
+     "options": [
+      [
+       "STOR 155"
+      ],
+      [
+       "BIOS 600"
+      ],
+      [
+       "ECON 400"
+      ],
+      [
+       "EMES 203"
+      ],
+      [
+       "ENEC 492"
+      ],
+      [
+       "ENEC 562"
+      ],
+      [
+       "ENEC 570"
+      ],
+      [
+       "PLCY 460"
+      ]
+     ],
+     "hours": null,
+     "raw": "Statistics & Analytics:",
+     "id": "unc-environmental-studies-major-ba-s8",
+     "altGroups": [
+      0,
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Five courses chosen from one of the concentrations list below",
+     "options": [],
+     "hours": {
+      "min": 15,
+      "max": 20
+     },
+     "raw": "Five courses chosen from one of the concentrations list below 15-20",
+     "id": "unc-environmental-studies-major-ba-s9"
+    }
+   ]
+  },
+  {
+   "title": "Additional Requirements",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "options": [
+      [
+       "BIOL 101",
+       "BIOL 101L"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "BIOL 101 & 101L Principles of Biology and Introductory Biology Laboratory 4",
+     "id": "unc-environmental-studies-major-ba-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ECON 101 Introduction to Economics 4",
+     "options": [
+      [
+       "ECON 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ECON 101 Introduction to Economics 4",
+     "id": "unc-environmental-studies-major-ba-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "MATH 231 Calculus of Functions of One Variable I 4",
+     "options": [
+      [
+       "MATH 231"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "MATH 231 Calculus of Functions of One Variable I 4",
+     "id": "unc-environmental-studies-major-ba-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "one-of",
+     "label": "Select one of the following options:",
+     "options": [
+      [
+       "PHYS 114",
+       "PHYS 115"
+      ],
+      [
+       "PHYS 118",
+       "PHYS 119"
+      ]
+     ],
+     "pick": {
+      "count": 1
+     },
+     "hours": {
+      "min": 8,
+      "max": 8
+     },
+     "raw": "Select one of the following options: 8",
+     "id": "unc-environmental-studies-major-ba-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Enough General Education and free electives to accumulate at least 120 credit hours.",
+     "options": [],
+     "hours": null,
+     "raw": "Enough General Education and free electives to accumulate at least 120 credit hours. varies",
+     "id": "unc-environmental-studies-major-ba-s14"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "needs-review",
+ "parseIssues": [
+  "Group meaning unclear (take all, one, or some?): \"GIS:\"",
+  "Group meaning unclear (take all, one, or some?): \"Remote Sensing:\"",
+  "Group meaning unclear (take all, one, or some?): \"Statistics & Analytics:\"",
+  "Unreadable hours \"varies\" on row: \"Enough General Education and free electives to accumulate at least 120 credit hours. varies\"",
+  "Row hours add up to 55-61 but the table total says 120",
+  "Row points to a list that could not be linked: \"Five courses chosen from one of the concentrations list below\""
+ ],
+ "parseNotes": [
+  "Group \"Select one of the following options:\" carries a note or open-ended option: \"CHEM 101/101L and CHEM 102/102L\""
+ ],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.unc.edu/undergraduate/programs-study/environmental-studies-major-ba/",
+  "fetchedAt": "2026-11-09"
+ }
+}

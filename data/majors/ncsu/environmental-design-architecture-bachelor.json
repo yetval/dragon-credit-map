@@ -1,0 +1,637 @@
+{
+ "schemaVersion": 1,
+ "id": "ncsu-environmental-design-architecture-bachelor",
+ "university": "ncsu",
+ "name": "Environmental Design in Architecture",
+ "degree": "Bachelor",
+ "url": "https://catalog.ncsu.edu/undergraduate/design/architecture/environmental-design-architecture-bachelor/",
+ "catalogYear": "2026-2027",
+ "isCurrentYear": true,
+ "layout": "courselist",
+ "totalHours": {
+  "min": 126,
+  "max": 126
+ },
+ "sections": [
+  {
+   "title": "Architecture Core Requirements",
+   "core": true,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 162 An Introduction to Architecture 3",
+     "options": [
+      [
+       "ARC 162"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 162 An Introduction to Architecture 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s1"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 211 Natural Systems and Architecture 3",
+     "options": [
+      [
+       "ARC 211"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 211 Natural Systems and Architecture 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s2"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 241 History of World Architecture 3",
+     "options": [
+      [
+       "ARC 241"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 241 History of World Architecture 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s3"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 232 Structures and Materials 3",
+     "options": [
+      [
+       "ARC 232"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 232 Structures and Materials 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s4"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 242 History of Western Architecture 3",
+     "options": [
+      [
+       "ARC 242"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 242 History of Western Architecture 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s5"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 250 Fundamentals of Architectural Visualization 3",
+     "options": [
+      [
+       "ARC 250"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 250 Fundamentals of Architectural Visualization 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s6"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 251 Digital Representation 3",
+     "options": [
+      [
+       "ARC 251"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 251 Digital Representation 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s7"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 331 Architectural Structures I 3",
+     "options": [
+      [
+       "ARC 331"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 331 Architectural Structures I 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s8"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 332 Architectural Structures II 3",
+     "options": [
+      [
+       "ARC 332"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 332 Architectural Structures II 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s9"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 414 Environmental Control Systems 3",
+     "options": [
+      [
+       "ARC 414"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 414 Environmental Control Systems 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s10"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 432 Architectural Construction Systems 3",
+     "options": [
+      [
+       "ARC 432"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 432 Architectural Construction Systems 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s11"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 441 History of Contemporary Architecture 3",
+     "options": [
+      [
+       "ARC 441"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "ARC 441 History of Contemporary Architecture 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s12"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 100 Design Inquiry I: Methods and Processes 3",
+     "options": [
+      [
+       "D 100"
+      ]
+     ],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "D 100 Design Inquiry I: Methods and Processes 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s13"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "Restricted Elective",
+     "options": [],
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Restricted Elective 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s14"
+    }
+   ]
+  },
+  {
+   "title": "Architecture Studio Requirement",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 104 First Year Studio I 6",
+     "options": [
+      [
+       "D 104"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "D 104 First Year Studio I 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s15"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "D 105 First Year Studio II 6",
+     "options": [
+      [
+       "D 105"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "D 105 First Year Studio II 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s16"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 201 Architectural Design: Environment 6",
+     "options": [
+      [
+       "ARC 201"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 201 Architectural Design: Environment 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s17"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 202 Architectural Design: Form 6",
+     "options": [
+      [
+       "ARC 202"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 202 Architectural Design: Form 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s18"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 301 Architectural Design: Tectonics 6",
+     "options": [
+      [
+       "ARC 301"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 301 Architectural Design: Tectonics 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s19"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 302 Architectural Design: Technology 6",
+     "options": [
+      [
+       "ARC 302"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 302 Architectural Design: Technology 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s20"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 401 Architectural Design: Urban 6",
+     "options": [
+      [
+       "ARC 401"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 401 Architectural Design: Urban 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s21"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ARC 402 Architectural Design: Advanced 6",
+     "options": [
+      [
+       "ARC 402"
+      ]
+     ],
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "ARC 402 Architectural Design: Advanced 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s22"
+    }
+   ]
+  },
+  {
+   "title": "Mathematics & Natural Sciences",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "pick-n",
+     "label": "Mathematics Elective",
+     "options": [
+      [
+       "MA 107"
+      ],
+      [
+       "MA 108"
+      ],
+      [
+       "MA 111"
+      ],
+      [
+       "MA 121"
+      ],
+      [
+       "MA 131"
+      ],
+      [
+       "MA 141"
+      ]
+     ],
+     "pick": {
+      "hours": 3
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "Mathematics Elective 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s23"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "PY 211 College Physics I 4",
+     "options": [
+      [
+       "PY 211"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "PY 211 College Physics I 4",
+     "id": "ncsu-environmental-design-architecture-bachelor-s24"
+    }
+   ]
+  },
+  {
+   "title": "International Experience",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "International Experience (verify requirement)",
+     "options": [],
+     "hours": {
+      "min": 0,
+      "max": 0
+     },
+     "raw": "International Experience (verify requirement) 0",
+     "id": "ncsu-environmental-design-architecture-bachelor-s25"
+    }
+   ]
+  },
+  {
+   "title": "General Education Program (GEP) Courses",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "course",
+     "label": "ENG 101 Academic Writing and Research 4",
+     "options": [
+      [
+       "ENG 101"
+      ]
+     ],
+     "hours": {
+      "min": 4,
+      "max": 4
+     },
+     "raw": "ENG 101 Academic Writing and Research 4",
+     "id": "ncsu-environmental-design-architecture-bachelor-s26"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Humanities",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Humanities"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Humanities 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s27"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Social Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Social Sciences"
+     },
+     "hours": {
+      "min": 6,
+      "max": 6
+     },
+     "raw": "GEP Social Sciences 6",
+     "id": "ncsu-environmental-design-architecture-bachelor-s28"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Mathematical Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Mathematical Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Mathematical Sciences 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s29"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Natural Sciences",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Natural Sciences"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Natural Sciences 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s30"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Health and Exercise Studies",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Health and Exercise Studies"
+     },
+     "hours": {
+      "min": 2,
+      "max": 2
+     },
+     "raw": "GEP Health and Exercise Studies 2",
+     "id": "ncsu-environmental-design-architecture-bachelor-s31"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "GEP Elective",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Elective"
+     },
+     "hours": {
+      "min": 3,
+      "max": 3
+     },
+     "raw": "GEP Elective 3",
+     "id": "ncsu-environmental-design-architecture-bachelor-s32"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Global Knowledge (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Global Knowledge"
+     },
+     "hours": null,
+     "raw": "GEP Global Knowledge (verify requirement)",
+     "id": "ncsu-environmental-design-architecture-bachelor-s33"
+    },
+    {
+     "hoursEstimated": true,
+     "kind": "elective",
+     "label": "GEP Foundations of American Democracy (verify requirement)",
+     "options": [],
+     "accepts": {
+      "subjects": [],
+      "genEd": "GEP Foundations of American Democracy"
+     },
+     "hours": null,
+     "raw": "GEP Foundations of American Democracy (verify requirement)",
+     "id": "ncsu-environmental-design-architecture-bachelor-s34"
+    },
+    {
+     "hoursEstimated": false,
+     "kind": "text",
+     "label": "World Language Proficiency (verify requirement)",
+     "options": [],
+     "hours": null,
+     "raw": "World Language Proficiency (verify requirement)",
+     "id": "ncsu-environmental-design-architecture-bachelor-s35"
+    }
+   ]
+  },
+  {
+   "title": "Free Electives",
+   "core": false,
+   "slots": [
+    {
+     "hoursEstimated": false,
+     "kind": "elective",
+     "label": "Free Electives (12 Hr S/U Lmt)",
+     "options": [],
+     "accepts": {
+      "subjects": [
+       "*"
+      ]
+     },
+     "hours": {
+      "min": 5,
+      "max": 5
+     },
+     "raw": "Free Electives (12 Hr S/U Lmt) 5",
+     "id": "ncsu-environmental-design-architecture-bachelor-s36"
+    }
+   ]
+  }
+ ],
+ "parseStatus": "verified",
+ "parseIssues": [],
+ "parseNotes": [],
+ "entersViaCoda": false,
+ "professionalTrack": false,
+ "source": {
+  "url": "https://catalog.ncsu.edu/undergraduate/design/architecture/environmental-design-architecture-bachelor/",
+  "fetchedAt": "2026-11-09"
+ },
+ "college": "College of Design"
+}
