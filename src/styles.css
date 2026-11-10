@@ -641,10 +641,6 @@ textarea:focus-visible {
   font-size: 0.85rem;
 }
 
-.course.is-on .course-name b {
-  color: var(--green);
-}
-
 .toggles,
 .scores {
   display: flex;
